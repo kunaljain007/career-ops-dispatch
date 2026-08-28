@@ -1,0 +1,32 @@
+﻿name: Daily 4:00 AM IST Email Dispatch
+
+on:
+  schedule:
+    - cron: '30 22 * * *'  # 22:30 UTC = 4:00 AM IST daily
+  workflow_dispatch:       # Allows manual click from GitHub Actions UI
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Execute 80/SMTP Dispatch
+        run: |
+          python dispatch_80_ci.py || true
+
+      - name: Commit and push sent logs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore(logs): update sent emails [skip ci]"
+          git push || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
