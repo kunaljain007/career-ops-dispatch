@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 import json, smtplib, time, os, sys, random, re
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -6,12 +6,16 @@ from datetime import datetime
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-BASE        = r"C:\Users\My\.gemini\antigravity\scratch"
-SMTP_FILE   = os.path.join(BASE, r"career-ops\data\smtp_pool.json")
-QUEUE_FILE  = os.path.join(BASE, r"career-ops\data\all_unsent_emails.json")
-SCHED_FILE  = os.path.join(BASE, r"heatbolt-mailer\scheduled_for_tomorrow.json")
-LOGS_DIR    = os.path.join(BASE, r"heatbolt-mailer\logs")
-_DATE_TAG   = datetime.now().strftime("%b%d").lower()   # e.g. "aug26"
+# Running directory relative paths (Works on GitHub Actions Linux VM AND Windows seamlessly)
+BASE_DIR    = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR    = os.path.join(BASE_DIR, "data")
+LOGS_DIR    = os.path.join(DATA_DIR, "logs")
+
+SMTP_FILE   = os.path.join(DATA_DIR, "smtp_pool.json")
+QUEUE_FILE  = os.path.join(DATA_DIR, "all_unsent_emails.json")
+MASTER_SENT = os.path.join(LOGS_DIR, "master_all_sent.json")
+
+_DATE_TAG   = datetime.now().strftime("%b%d").lower()
 LOG_FILE    = os.path.join(LOGS_DIR, f"dispatch_{_DATE_TAG}_sent.json")
 FAIL_FILE   = os.path.join(LOGS_DIR, f"dispatch_{_DATE_TAG}_failed.json")
 
@@ -208,63 +212,38 @@ RAW_PRIORITY = [
     "ng.subramaniam@tatacommunications.com"
 ]
 
-# Load CUMULATIVE sent history (across ALL days) to prevent re-sends
-MASTER_SENT = os.path.join(LOGS_DIR, "master_all_sent.json")
 sent_history = set()
-
-# Load master cumulative history
 if os.path.exists(MASTER_SENT):
     try:
         with open(MASTER_SENT, "r", encoding="utf-8") as f:
             for item in json.load(f):
-                if isinstance(item, str):
-                    sent_history.add(item.strip().lower())
+                if isinstance(item, str): sent_history.add(item.strip().lower())
     except:
         pass
 
-# Also load today's daily log (in case of mid-day restart)
 if os.path.exists(LOG_FILE):
     try:
         with open(LOG_FILE, "r", encoding="utf-8") as f:
-            prev_sent = json.load(f)
-            for item in prev_sent:
+            for item in json.load(f):
                 if isinstance(item, dict) and "to" in item:
                     sent_history.add(item["to"].strip().lower())
     except:
         pass
 
-print(f"Master sent history    : {len(sent_history)} emails already sent", flush=True)
+print(f"Master sent history: {len(sent_history)} already sent")
 
-# Load SMTP accounts
 with open(SMTP_FILE, "r", encoding="utf-8") as f:
     smtp_pool = json.load(f)
 
-# Load Scheduled contacts
-sched_emails = []
-if os.path.exists(SCHED_FILE):
-    try:
-        with open(SCHED_FILE, "r", encoding="utf-8") as f:
-            sched = json.load(f)
-            for item in sched:
-                if isinstance(item, list) and len(item) >= 5:
-                    e = item[4].strip().lower()
-                    if "@" in e: sched_emails.append(e)
-                elif isinstance(item, str) and "@" in item:
-                    sched_emails.append(item.strip().lower())
-    except Exception as ex:
-        print(f"Sched read error: {ex}", flush=True)
-
-# Load master queue
 queue_emails = []
 if os.path.exists(QUEUE_FILE):
     try:
         with open(QUEUE_FILE, "r", encoding="utf-8") as f:
-            q = json.load(f)
-            for item in q:
+            for item in json.load(f):
                 if isinstance(item, str) and "@" in item:
                     queue_emails.append(item.strip().lower())
-    except Exception as ex:
-        print(f"Queue read error: {ex}", flush=True)
+    except:
+        pass
 
 all_pending = []
 seen = set(sent_history)
@@ -280,12 +259,6 @@ for e in RAW_PRIORITY:
         seen.add(e_clean)
         all_pending.append(e_clean)
 
-for e in sched_emails:
-    e_clean = e.strip().lower()
-    if "@" in e_clean and e_clean not in seen and not is_blacklisted(e_clean):
-        seen.add(e_clean)
-        all_pending.append(e_clean)
-
 for e in queue_emails:
     e_clean = e.strip().lower()
     if "@" in e_clean and e_clean not in seen and not is_blacklisted(e_clean):
@@ -296,21 +269,11 @@ total_target_cap = MAX_PER_SMTP * len(smtp_pool)
 today_batch = all_pending[:total_target_cap]
 remaining_queue = all_pending[total_target_cap:]
 
-print("=" * 65, flush=True)
-print(f"HEATBOLT CAMPAIGN DISPATCH RUNNER - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", flush=True)
-print(f"Active SMTP accounts   : {len(smtp_pool)}", flush=True)
-print(f"Quota per SMTP         : {MAX_PER_SMTP}", flush=True)
-print(f"Max capacity today     : {total_target_cap} emails", flush=True)
-print(f"Total pending ready    : {len(all_pending)} emails", flush=True)
-print(f"Queued for today       : {len(today_batch)} emails", flush=True)
-print(f"Remaining for future   : {len(remaining_queue)} emails", flush=True)
-print("=" * 65, flush=True)
+print(f"Active SMTPs: {len(smtp_pool)} | Target: {len(today_batch)} | Remaining: {len(remaining_queue)}")
 
-# Save remaining right now so master queue is always up to date
 with open(QUEUE_FILE, "w", encoding="utf-8") as f:
     json.dump(remaining_queue, f, indent=2)
 
-sys.path.insert(0, os.path.join(BASE, "heatbolt-mailer"))
 from send_heatbolt_emails import build_html_body, build_plain_body, SUBJECT
 
 REPLY_TO = "founder.heatbolt@gmail.com"
@@ -349,17 +312,14 @@ failed_records = []
 smtp_usage = [0] * len(smtp_pool)
 current_smtp_idx = 0
 
-print("Starting email dispatch...", flush=True)
-
 for idx, target_email in enumerate(today_batch, 1):
-    # Find next available SMTP
     tries = 0
     while smtp_usage[current_smtp_idx] >= MAX_PER_SMTP and tries < len(smtp_pool):
         current_smtp_idx = (current_smtp_idx + 1) % len(smtp_pool)
         tries += 1
     
     if tries >= len(smtp_pool):
-        print("All SMTP accounts have reached the 80-email daily cap!", flush=True)
+        print("All SMTP accounts reached daily cap!")
         leftovers = today_batch[idx-1:] + remaining_queue
         with open(QUEUE_FILE, "w", encoding="utf-8") as f:
             json.dump(leftovers, f, indent=2)
@@ -372,19 +332,13 @@ for idx, target_email in enumerate(today_batch, 1):
     try:
         send_one(user, pwd, target_email)
         smtp_usage[current_smtp_idx] += 1
-        rec = {
-            "to": target_email,
-            "from": user,
-            "timestamp": datetime.now().isoformat(),
-            "status": "SENT"
-        }
+        rec = {"to": target_email, "from": user, "timestamp": datetime.now().isoformat(), "status": "SENT"}
         sent_records.append(rec)
         print(f"[{idx:4d}/{len(today_batch)}] SENT -> {target_email:<40} (via {user.split('@')[0]} | {smtp_usage[current_smtp_idx]}/{MAX_PER_SMTP})", flush=True)
         
         with open(LOG_FILE, "w", encoding="utf-8") as f:
             json.dump(sent_records, f, indent=2)
         
-        # Update cumulative master sent history
         master_list = []
         if os.path.exists(MASTER_SENT):
             try:
@@ -406,15 +360,4 @@ for idx, target_email in enumerate(today_batch, 1):
     delay = random.uniform(8, 12)
     time.sleep(delay)
 
-print("=" * 65, flush=True)
-print(f"RUN COMPLETE at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", flush=True)
-print(f"Total Sent Successfully : {len(sent_records)}", flush=True)
-print(f"Total Failed            : {len(failed_records)}", flush=True)
-print("SMTP Account Breakdown:", flush=True)
-for i, acc in enumerate(smtp_pool):
-    print(f"  {acc['user']:<38}: {smtp_usage[i]:3d}/{MAX_PER_SMTP}", flush=True)
-print("=" * 65, flush=True)
-
-print("Daily email quota of 80/SMTP complete! Shutting down PC safely in 60 seconds...", flush=True)
-os.system('shutdown /s /t 60 /c "Daily Heatbolt email quota of 80/SMTP completed successfully. Shutting down."')
-
+print(f"Job finished. Successfully sent: {len(sent_records)}, Failed: {len(failed_records)}")
