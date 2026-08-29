@@ -112,8 +112,6 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
 
 <p>Dear {first_name},</p>
 
-<p style="color: #b8860b; font-weight: bold;">🪢 Wishing you and your loved ones a very Happy Rakshabandhan! May this festival of sacred bonds bring joy, protection, and togetherness to your family. 🪢</p>
-
 <p>I hope this message finds you in good health and high spirits.</p>
 
 <p>Today, I am writing to you not merely as the Founder of Heatbolt, but as an entrepreneur whose journey has been shaped by a deeply personal purpose.</p>
@@ -257,8 +255,6 @@ def build_plain_body(first_name: str, full_name: str, org: str, division: str, c
 
     return f"""\
 Dear {first_name},
-
-Wishing you and your loved ones a very Happy Rakshabandhan! May this festival of sacred bonds bring joy, protection, and togetherness to your family.
 
 I hope this message finds you in good health and high spirits.
 
