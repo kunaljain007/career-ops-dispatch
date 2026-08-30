@@ -283,17 +283,21 @@ li {{ margin-bottom: 6px; font-size: 15px; color: #2d3748; }}
     return text_content, html_content
 
 def send_email(to_addr, smtp_port):
+    import email.utils
     msg = EmailMessage()
     msg['Subject'] = EMAIL_SUBJECT
-    msg['From'] = FROM_ADDR
+    msg['From'] = f"Dr. Kumarpal Porwal <{FROM_ADDR}>"
+    msg['Reply-To'] = "founder.heatbolt@gmail.com"
     msg['To'] = to_addr
+    msg['Date'] = email.utils.formatdate(localtime=True)
+    msg['Message-ID'] = email.utils.make_msgid(domain="gmail.com")
     
     text_part, html_part = build_email_content(to_addr)
     msg.set_content(text_part)
     msg.add_alternative(html_part, subtype='html')
     
     context = ssl.create_default_context()
-    with smtplib.SMTP(SMTP_HOST, smtp_port, timeout=15) as server:
+    with smtplib.SMTP(SMTP_HOST, smtp_port, timeout=20) as server:
         server.ehlo()
         server.starttls(context=context)
         server.ehlo()

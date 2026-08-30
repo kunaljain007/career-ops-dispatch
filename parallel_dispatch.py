@@ -5,10 +5,23 @@ import json, smtplib, ssl, time, threading, sys, os
 from email.message import EmailMessage
 from datetime import datetime
 
+import email.utils
+import random
+
 QUEUE_FILE = os.path.join(os.path.dirname(__file__), 'data', 'all_unsent_emails.json')
 BATCH_PER_ACCOUNT = 80
-DELAY = 0.5
+DELAY = 1.0  # 1.0s safe delay to prevent rate-limit bounces
 LOCK = threading.Lock()
+
+def is_valid_email(email):
+    if not email or '@' not in email:
+        return False
+    local, domain = email.rsplit('@', 1)
+    if '.' not in domain or len(domain.split('.')[-1]) < 2:
+        return False
+    if 'xxxx' in email.lower() or 'xxxxx' in email.lower() or '*' in email:
+        return False
+    return True
 
 SMTP_ACCOUNTS = [
     {"user": "techxp.kunaljain@gmail.com",          "pass": "vghy qddq govv ffij"},
@@ -286,15 +299,18 @@ def save_queue(q):
 def send_one(user, pw, to_addr):
     msg = EmailMessage()
     msg['Subject'] = EMAIL_SUBJECT
-    msg['From']    = user
+    msg['From']    = f"Dr. Kumarpal Porwal <{user}>"
+    msg['Reply-To'] = "founder.heatbolt@gmail.com"
     msg['To']      = to_addr
+    msg['Date']    = email.utils.formatdate(localtime=True)
+    msg['Message-ID'] = email.utils.make_msgid(domain="gmail.com")
     
     text_part, html_part = build_email_content(to_addr)
     msg.set_content(text_part)
     msg.add_alternative(html_part, subtype='html')
     
     ctx = ssl.create_default_context()
-    with smtplib.SMTP("smtp.gmail.com", 587, timeout=15) as srv:
+    with smtplib.SMTP("smtp.gmail.com", 587, timeout=20) as srv:
         srv.ehlo(); srv.starttls(context=ctx); srv.ehlo()
         srv.login(user, pw)
         srv.send_message(msg)
@@ -305,6 +321,9 @@ def worker(account, batch):
     sent = 0; failed_addrs = []
     print(f"[START] {user} -> {len(batch)} emails")
     for addr in batch:
+        if not is_valid_email(addr):
+            print(f"  [SKIP INVALID] {user} -> {addr}")
+            continue
         try:
             send_one(user, pw, addr)
             sent += 1
@@ -312,7 +331,7 @@ def worker(account, batch):
         except Exception as e:
             failed_addrs.append(addr)
             print(f"  [FAIL] {user} -> {addr}: {e}", file=sys.stderr)
-        time.sleep(DELAY)
+        time.sleep(random.uniform(0.9, 1.4))
     with LOCK:
         results[user] = {"sent": sent, "failed_addrs": failed_addrs}
     print(f"[DONE] {user}: {sent} sent, {len(failed_addrs)} failed")
