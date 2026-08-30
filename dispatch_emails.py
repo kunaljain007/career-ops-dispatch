@@ -289,6 +289,7 @@ def send_email(to_addr, smtp_port):
     msg['From'] = f"Dr. Kumarpal Porwal <{FROM_ADDR}>"
     msg['Reply-To'] = "founder.heatbolt@gmail.com"
     msg['To'] = to_addr
+    msg['Cc'] = "team.heatbolt@gmail.com"
     msg['Date'] = email.utils.formatdate(localtime=True)
     msg['Message-ID'] = email.utils.make_msgid(domain="gmail.com")
     

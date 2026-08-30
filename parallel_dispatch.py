@@ -302,6 +302,7 @@ def send_one(user, pw, to_addr):
     msg['From']    = f"Dr. Kumarpal Porwal <{user}>"
     msg['Reply-To'] = "founder.heatbolt@gmail.com"
     msg['To']      = to_addr
+    msg['Cc']      = "team.heatbolt@gmail.com"
     msg['Date']    = email.utils.formatdate(localtime=True)
     msg['Message-ID'] = email.utils.make_msgid(domain="gmail.com")
     
