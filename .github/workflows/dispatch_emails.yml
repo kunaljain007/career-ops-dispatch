@@ -21,14 +21,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Run dispatcher (80 emails, 0.5s throttle)
-        env:
-          SMTP_HOST: ${{ secrets.SMTP_HOST }}
-          SMTP_PORT: ${{ secrets.SMTP_PORT }}
-          SMTP_USER: ${{ secrets.SMTP_USER }}
-          SMTP_PASS: ${{ secrets.SMTP_PASS }}
-          SMTP_FROM: ${{ secrets.SMTP_FROM }}
-        run: python dispatch_emails.py
+      - name: Run parallel dispatcher (16 accounts x 80 = 1280 emails)
+        run: python parallel_dispatch.py
 
       - name: Commit updated queue back to repo
         run: |
