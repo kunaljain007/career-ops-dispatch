@@ -6,6 +6,9 @@ on:
     - cron: "30 3 * * *"
   workflow_dispatch: # Allows manual trigger from GitHub Actions UI
 
+permissions:
+  contents: write
+
 jobs:
   dispatch:
     runs-on: ubuntu-latest
@@ -14,7 +17,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -28,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f data/all_unsent_emails.json
+          git add -f data/all_unsent_emails.json || true
           git diff --cached --quiet || git commit -m "chore: update queue after daily dispatch [skip ci]"
-          git push origin HEAD
+          git push origin HEAD || true
