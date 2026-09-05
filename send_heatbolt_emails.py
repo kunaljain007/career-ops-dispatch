@@ -31,7 +31,10 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from datetime import datetime
 
-from contacts import CONTACTS
+try:
+    from contacts import CONTACTS
+except ImportError:
+    CONTACTS = []
 
 # ─────────────────────────────────────────────
 # CONFIGURATION
