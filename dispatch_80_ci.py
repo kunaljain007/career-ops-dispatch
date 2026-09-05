@@ -18,6 +18,7 @@ MASTER_SENT = os.path.join(LOGS_DIR, "master_all_sent.json")
 _DATE_TAG   = datetime.now().strftime("%b%d").lower()
 LOG_FILE    = os.path.join(LOGS_DIR, f"dispatch_{_DATE_TAG}_sent.json")
 FAIL_FILE   = os.path.join(LOGS_DIR, f"dispatch_{_DATE_TAG}_failed.json")
+FOLLOWUP_TRACKER = os.path.join(DATA_DIR, "followup_tracker.json")
 
 os.makedirs(LOGS_DIR, exist_ok=True)
 
@@ -277,11 +278,48 @@ for e in queue_emails:
         seen.add(e_clean)
         all_pending.append(e_clean)
 
-total_target_cap = MAX_PER_SMTP * len(smtp_pool)
-today_batch = all_pending[:total_target_cap]
-remaining_queue = all_pending[total_target_cap:]
+# Load Followup Tracker
+followup_tracker = {}
+if os.path.exists(FOLLOWUP_TRACKER):
+    try:
+        with open(FOLLOWUP_TRACKER, "r", encoding="utf-8") as f:
+            followup_tracker = json.load(f)
+    except Exception as ex:
+        print(f"Followup tracker read error: {ex}", flush=True)
 
-print(f"Active SMTPs: {len(smtp_pool)} | Target: {len(today_batch)} | Remaining: {len(remaining_queue)}")
+# Identify due follow-ups (Initial pitch sent >= 4 days ago, sequence < 2)
+due_followups = []
+now_dt = datetime.now()
+for email_addr, f_info in list(followup_tracker.items()):
+    if is_blacklisted(email_addr):
+        continue
+    try:
+        last_dt = datetime.fromisoformat(f_info.get("last_sent", "2000-01-01T00:00:00"))
+        seq = f_info.get("seq", 1)
+        days_passed = (now_dt - last_dt).total_seconds() / 86400.0
+        if seq == 1 and days_passed >= 4.0:
+            due_followups.append((email_addr, 2))
+        elif seq == 2 and days_passed >= 7.0:
+            due_followups.append((email_addr, 3))
+    except Exception:
+        pass
+
+print(f"Due follow-ups ready: {len(due_followups)}", flush=True)
+
+total_target_cap = MAX_PER_SMTP * len(smtp_pool)
+
+# Reserve up to 20% of daily capacity for due follow-ups, fill the rest with fresh leads
+max_followups_today = min(len(due_followups), int(total_target_cap * 0.20))
+today_followup_batch = due_followups[:max_followups_today]
+
+fresh_target_cap = total_target_cap - len(today_followup_batch)
+today_fresh_batch = all_pending[:fresh_target_cap]
+remaining_queue = all_pending[fresh_target_cap:]
+
+today_batch = [("fresh", e, 1) for e in today_fresh_batch] + [("followup", e, s) for (e, s) in today_followup_batch]
+random.shuffle(today_batch)
+
+print(f"Active SMTPs: {len(smtp_pool)} | Target: {len(today_batch)} (Fresh: {len(today_fresh_batch)}, Follow-ups: {len(today_followup_batch)}) | Remaining Queue: {len(remaining_queue)}")
 
 with open(QUEUE_FILE, "w", encoding="utf-8") as f:
     json.dump(remaining_queue, f, indent=2)
@@ -291,9 +329,57 @@ from send_heatbolt_emails import build_html_body, build_plain_body, SUBJECT
 REPLY_TO = "founder.heatbolt@gmail.com"
 CC       = "team.heatbolt@gmail.com"
 
-def send_one(smtp_user, smtp_pass, to_addr):
+def build_followup_body(name_clean, seq):
+    if seq == 2:
+        subj = f"Re: {SUBJECT}"
+        plain = (
+            f"Dear {name_clean},\n\n"
+            f"I wanted to follow up briefly on my previous note regarding Heatbolt's patented zero-electricity thermal activation technology.\n\n"
+            f"Since my last email, our defense-validated thermal infrastructure has continued expanding into civilian, logistics, and industrial sectors where electricity-free, instant heating is mission critical.\n\n"
+            f"Given your leadership in strategic investments and institutional growth, I wanted to ensure our executive overview didn't get buried in your inbox.\n\n"
+            f"Would you be open to a brief 10-minute introductory conversation next week?\n\n"
+            f"Best regards,\n"
+            f"Dr. Kumarpal Porwal\n"
+            f"Founder & MD, Heatbolt\n"
+            f"PhD in Green Hydrogen (IISc Bangalore)\n"
+        )
+        html = (
+            f"<div style=\"font-family:'Segoe UI',Arial,sans-serif;line-height:1.7;color:#222;max-width:680px;\">"
+            f"<p>Dear <b>{name_clean}</b>,</p>"
+            f"<p>I wanted to follow up briefly on my previous note regarding <b>Heatbolt's</b> patented zero-electricity thermal activation technology.</p>"
+            f"<p>Since my last email, our defense-validated thermal infrastructure (rigorously tested at Siachen Glacier under -60°C conditions) has continued expanding into commercial and industrial sectors where electricity-free, instant heating is mission critical.</p>"
+            f"<p>Given your leadership in strategic investments and institutional asset allocation, I wanted to make sure our brief introduction didn't get lost in the shuffle.</p>"
+            f"<p>Would you be open to a brief 10-minute introductory conversation next week to see how Heatbolt fits your strategic vision?</p>"
+            f"<p style=\"margin-top:25px;\">Warm regards,<br>"
+            f"<b>Dr. Kumarpal Porwal</b><br>"
+            f"<span style=\"color:#555;\">Founder & MD, Heatbolt</span><br>"
+            f"<span style=\"color:#777;font-size:12px;\">PhD in Green Hydrogen, IISc Bangalore | Recipient of Indian Defence Validations</span></p>"
+            f"</div>"
+        )
+    else:
+        subj = f"Checking in / Heatbolt Strategic Infrastructure Update"
+        plain = (
+            f"Dear {name_clean},\n\n"
+            f"I'm following up one last time to share a brief update. We are currently finalizing our institutional technical roadmap and expanding pilot deployments.\n\n"
+            f"If off-grid, electricity-free thermal resilience aligns with your current investment thesis, I would be delighted to share our updated technical data room.\n\n"
+            f"Best regards,\n"
+            f"Dr. Kumarpal Porwal\n"
+            f"Founder & MD, Heatbolt\n"
+        )
+        html = (
+            f"<div style=\"font-family:'Segoe UI',Arial,sans-serif;line-height:1.7;color:#222;max-width:680px;\">"
+            f"<p>Dear <b>{name_clean}</b>,</p>"
+            f"<p>I'm following up one last time to share a brief update. We are currently finalizing our institutional technical roadmap and expanding commercial pilot deployments.</p>"
+            f"<p>If off-grid, electricity-free thermal resilience aligns with your current investment thesis or strategic initiatives, I would be delighted to share our updated technical data room and field validation data.</p>"
+            f"<p style=\"margin-top:25px;\">Best regards,<br>"
+            f"<b>Dr. Kumarpal Porwal</b><br>"
+            f"<span style=\"color:#555;\">Founder & MD, Heatbolt</span></p>"
+            f"</div>"
+        )
+    return subj, plain, html
+
+def send_one(smtp_user, smtp_pass, to_addr, item_type="fresh", seq=1):
     msg = MIMEMultipart("alternative")
-    msg["Subject"]    = SUBJECT
     msg["From"]       = smtp_user
     msg["To"]         = to_addr
     msg["CC"]         = CC
@@ -302,9 +388,15 @@ def send_one(smtp_user, smtp_pass, to_addr):
     msg["Importance"] = "High"
     
     name_clean = to_addr.split("@")[0].replace(".", " ").replace("_", " ").replace("-", " ").title()
-    plain = build_plain_body(name_clean, name_clean, "Your Organization", "Executive Leadership", "global_pe")
-    html  = build_html_body(name_clean, name_clean, "Your Organization", "Executive Leadership", "global_pe")
-    
+
+    if item_type == "followup":
+        sub, plain, html = build_followup_body(name_clean, seq)
+    else:
+        sub = SUBJECT
+        plain = build_plain_body(name_clean, name_clean, "Your Organization", "Executive Leadership", "global_pe")
+        html  = build_html_body(name_clean, name_clean, "Your Organization", "Executive Leadership", "global_pe")
+
+    msg["Subject"] = sub
     msg.attach(MIMEText(plain, "plain"))
     msg.attach(MIMEText(html, "html"))
     
@@ -324,7 +416,7 @@ failed_records = []
 smtp_usage = [0] * len(smtp_pool)
 current_smtp_idx = 0
 
-for idx, target_email in enumerate(today_batch, 1):
+for idx, (item_type, target_email, seq) in enumerate(today_batch, 1):
     tries = 0
     while smtp_usage[current_smtp_idx] >= MAX_PER_SMTP and tries < len(smtp_pool):
         current_smtp_idx = (current_smtp_idx + 1) % len(smtp_pool)
@@ -332,7 +424,8 @@ for idx, target_email in enumerate(today_batch, 1):
     
     if tries >= len(smtp_pool):
         print("All SMTP accounts reached daily cap!")
-        leftovers = today_batch[idx-1:] + remaining_queue
+        leftover_fresh = [e for (t, e, s) in today_batch[idx-1:] if t == "fresh"]
+        leftovers = leftover_fresh + remaining_queue
         with open(QUEUE_FILE, "w", encoding="utf-8") as f:
             json.dump(leftovers, f, indent=2)
         break
@@ -342,28 +435,46 @@ for idx, target_email in enumerate(today_batch, 1):
     pwd  = acc["pass"]
     
     try:
-        send_one(user, pwd, target_email)
+        send_one(user, pwd, target_email, item_type=item_type, seq=seq)
         smtp_usage[current_smtp_idx] += 1
-        rec = {"to": target_email, "from": user, "timestamp": datetime.now().isoformat(), "status": "SENT"}
+        rec = {
+            "to": target_email,
+            "from": user,
+            "type": item_type,
+            "seq": seq,
+            "timestamp": datetime.now().isoformat(),
+            "status": "SENT"
+        }
         sent_records.append(rec)
-        print(f"[{idx:4d}/{len(today_batch)}] SENT -> {target_email:<40} (via {user.split('@')[0]} | {smtp_usage[current_smtp_idx]}/{MAX_PER_SMTP})", flush=True)
+        print(f"[{idx:4d}/{len(today_batch)}] SENT ({item_type.upper()} seq:{seq}) -> {target_email:<40} (via {user.split('@')[0]} | {smtp_usage[current_smtp_idx]}/{MAX_PER_SMTP})", flush=True)
         
         with open(LOG_FILE, "w", encoding="utf-8") as f:
             json.dump(sent_records, f, indent=2)
         
-        master_list = []
-        if os.path.exists(MASTER_SENT):
-            try:
-                with open(MASTER_SENT, "r", encoding="utf-8") as f:
-                    master_list = json.load(f)
-            except:
-                master_list = []
-        master_list.append(target_email)
-        with open(MASTER_SENT, "w", encoding="utf-8") as f:
-            json.dump(master_list, f)
+        # Update followup tracker
+        followup_tracker[target_email] = {
+            "last_sent": datetime.now().isoformat(),
+            "seq": seq,
+            "status": "sent"
+        }
+        with open(FOLLOWUP_TRACKER, "w", encoding="utf-8") as f:
+            json.dump(followup_tracker, f, indent=2)
+
+        # Update cumulative master sent history (only for fresh sends)
+        if item_type == "fresh":
+            master_list = []
+            if os.path.exists(MASTER_SENT):
+                try:
+                    with open(MASTER_SENT, "r", encoding="utf-8") as f:
+                        master_list = json.load(f)
+                except:
+                    master_list = []
+            master_list.append({"to": target_email, "sent_at": datetime.now().isoformat(), "sender": user})
+            with open(MASTER_SENT, "w", encoding="utf-8") as f:
+                json.dump(master_list, f)
             
     except Exception as ex:
-        print(f"[{idx:4d}/{len(today_batch)}] FAIL -> {target_email} | Error: {ex}", flush=True)
+        print(f"[{idx:4d}/{len(today_batch)}] FAIL ({item_type}) -> {target_email} | Error: {ex}", flush=True)
         failed_records.append({"to": target_email, "from": user, "error": str(ex), "timestamp": datetime.now().isoformat()})
         with open(FAIL_FILE, "w", encoding="utf-8") as f:
             json.dump(failed_records, f, indent=2)
