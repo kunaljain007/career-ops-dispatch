@@ -1,0 +1,4252 @@
+{
+  "john.megrue@apax.com": {
+    "timestamp": "2026-07-01T05:52:22.141Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-19T08:32:19.541Z",
+    "originalSubject": "Imported historical tracker record"
+  },
+  "john@apax.com": {
+    "timestamp": "2026-07-01T05:52:46.113Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-19T08:32:19.541Z",
+    "originalSubject": "Imported historical tracker record"
+  },
+  "sergey.mikhaylov@agribusiness.com": {
+    "timestamp": "2026-07-01T05:55:26.818Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:57:17.291Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eugene.mikhaylov@agribusiness.com": {
+    "timestamp": "2026-07-01T05:55:46.192Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:57:20.111Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shintaro.yamada@mobileapps.com": {
+    "timestamp": "2026-07-01T05:56:05.381Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:57:57.417Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "carlanton.kunz@plumbing.com": {
+    "timestamp": "2026-07-01T05:56:23.578Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:29.666Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bart.malderen@diapers.com": {
+    "timestamp": "2026-07-01T05:56:41.657Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:57:50.187Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cai.hongbin@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T05:56:59.965Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:57:28.804Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hans.langer@3dprinting.com": {
+    "timestamp": "2026-07-01T05:57:18.140Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:17.634Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhong.peifeng@semiconductor.com": {
+    "timestamp": "2026-07-01T05:57:36.153Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:57:39.990Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "william.fung@sourcing.com": {
+    "timestamp": "2026-07-01T05:57:54.772Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:57:47.606Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cai.mingtong@electroniccomponents.com": {
+    "timestamp": "2026-07-01T05:58:12.267Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:02.435Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhang.xuewu@snacks.com": {
+    "timestamp": "2026-07-01T05:58:33.922Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:40.449Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "yu.dechao@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T05:58:53.003Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:22.450Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chang.kuocheng@transportation.com": {
+    "timestamp": "2026-07-01T05:59:10.932Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:06.286Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chen.baozhen@internetservices.com": {
+    "timestamp": "2026-07-01T05:59:29.354Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:17.533Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "yu.jinkun@transportationequipment.com": {
+    "timestamp": "2026-07-01T05:59:48.208Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:25.351Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andrii.verevskyi@agriculture.com": {
+    "timestamp": "2026-07-01T06:00:07.345Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:08.558Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sachin.agarwal@meta.com": {
+    "timestamp": "2026-07-01T06:00:32.660Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:35.833Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@costanoa.vc": {
+    "timestamp": "2026-07-01T06:00:52.279Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:31.768Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "qian.jinghong@electricscooters.com": {
+    "timestamp": "2026-07-01T06:01:11.971Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:51.499Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rajinder.gupta@x.com": {
+    "timestamp": "2026-07-01T06:01:30.740Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:58.874Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "takaya.awata@restaurants.com": {
+    "timestamp": "2026-07-01T06:01:49.797Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:05.027Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "diamantis.diamantides@shipping.com": {
+    "timestamp": "2026-07-01T06:02:09.233Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:05.417Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lu.zhongfang@education.com": {
+    "timestamp": "2026-07-01T06:02:28.220Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:58:58.051Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rajesh.sharma@finance.com": {
+    "timestamp": "2026-07-01T06:02:47.708Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:15.841Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wei.lidong@software.com": {
+    "timestamp": "2026-07-01T06:03:06.235Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:11.683Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhu.zhaojiang@smartphones.com": {
+    "timestamp": "2026-07-01T06:03:24.697Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:22.004Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "petr.bely@pharmacy.com": {
+    "timestamp": "2026-07-01T06:03:43.651Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:12.550Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zachary.stern@liquor.com": {
+    "timestamp": "2026-07-01T06:04:04.834Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:15.657Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andrea.valle@shoes.com": {
+    "timestamp": "2026-07-01T06:04:25.280Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:55.941Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "luigi.cremonini@meatprocessing.com": {
+    "timestamp": "2026-07-01T06:04:44.362Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:56.599Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shin.changjae@insurance.com": {
+    "timestamp": "2026-07-01T06:05:04.094Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:39.905Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "victor.fung@sourcing.com": {
+    "timestamp": "2026-07-01T06:05:22.717Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:57.568Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tsai.chengchiu@finance.com": {
+    "timestamp": "2026-07-01T06:05:41.651Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:09.142Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "maria.frias@media.com": {
+    "timestamp": "2026-07-01T06:06:04.029Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:59.251Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bhaskara.bollineni@healthcare.com": {
+    "timestamp": "2026-07-01T06:06:26.485Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:40.838Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@cottonwood.vc": {
+    "timestamp": "2026-07-01T06:06:44.815Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T11:59:59.266Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "chen.xueli@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T06:07:05.545Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:17.618Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "orion.hindawi@software.com": {
+    "timestamp": "2026-07-01T06:07:28.242Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:24.772Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shang.xiaobo@manufacturing.com": {
+    "timestamp": "2026-07-01T06:07:48.973Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:34.481Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lee.sujin@hospitality.com": {
+    "timestamp": "2026-07-01T06:08:08.484Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:03.424Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tsuyoshi.matsushita@fitnessproducts.com": {
+    "timestamp": "2026-07-01T06:08:27.922Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:00.181Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "naresh.trehan@hospitals.com": {
+    "timestamp": "2026-07-01T06:08:46.987Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:38.566Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.jinhua@meta.com": {
+    "timestamp": "2026-07-01T06:09:07.041Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:43.415Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "gyorgy.gattyan@adultentertainment.com": {
+    "timestamp": "2026-07-01T06:09:28.796Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:00:56.766Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "manoj.punjabi@movies.com": {
+    "timestamp": "2026-07-01T06:09:48.275Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:17.982Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "laszlo.szijj@construction.com": {
+    "timestamp": "2026-07-01T06:10:08.070Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:16.982Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chang.jing@technology.com": {
+    "timestamp": "2026-07-01T06:10:26.861Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:26.505Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "harry.klagsbrun@financialservices.com": {
+    "timestamp": "2026-07-01T06:10:45.078Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:07.993Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stanley.tang@food.com": {
+    "timestamp": "2026-07-01T06:11:02.853Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:16.913Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "giannis.alafouzos@shipping.com": {
+    "timestamp": "2026-07-01T06:11:21.150Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:35.845Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "kevin.plank@underarmour.com": {
+    "timestamp": "2026-07-01T06:11:40.103Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:58.407Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jeffrey.soffer@realestate.com": {
+    "timestamp": "2026-07-01T06:11:59.970Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:42.567Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ir@crcm.com": {
+    "timestamp": "2026-07-01T06:12:18.938Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:31.258Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "simone.cunha@medicaldevices.com": {
+    "timestamp": "2026-07-01T06:12:37.534Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:57.638Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "beyonc.knowlescarter@music.com": {
+    "timestamp": "2026-07-01T06:12:58.169Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:01:57.767Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhang.fei@paper.com": {
+    "timestamp": "2026-07-01T06:13:16.969Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:13.304Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cho.hyunbeom@tiremanufacturing.com": {
+    "timestamp": "2026-07-01T06:13:35.082Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:05.300Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lee.hwakyung@confectionery.com": {
+    "timestamp": "2026-07-01T06:13:54.313Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:02.400Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "delfin.carballo@banking.com": {
+    "timestamp": "2026-07-01T06:14:13.190Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:22.351Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dick.portillo@real.com": {
+    "last_sent": "2026-09-05T21:38:29.952286",
+    "seq": 2,
+    "status": "sent"
+  },
+  "xu.guozhong@gm.com": {
+    "timestamp": "2026-07-01T06:14:50.021Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:33.524Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "paul.taubman@investmentbanking.com": {
+    "timestamp": "2026-07-01T06:15:09.286Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:32.717Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "colette.kress@nvidia.com": {
+    "timestamp": "2026-07-01T06:15:27.368Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:42.838Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ric.elias@media.com": {
+    "timestamp": "2026-07-01T06:15:45.765Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:43.421Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhang.hongwei@oilbanking.com": {
+    "timestamp": "2026-07-01T06:16:06.764Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:49.083Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "huang.min@machinery.com": {
+    "timestamp": "2026-07-01T06:16:25.790Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:59.751Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "invest@creativeventures.vc": {
+    "timestamp": "2026-07-01T06:16:45.025Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:39.918Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "herald.chen@marketing.com": {
+    "timestamp": "2026-07-01T06:17:06.141Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:02:52.023Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "aydin.dogan@media.com": {
+    "timestamp": "2026-07-01T06:17:25.680Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:17.122Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bhavish.aggarwal@ridehailingapp.com": {
+    "timestamp": "2026-07-01T06:17:44.517Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:56.806Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "leone.benetton@fashion.com": {
+    "timestamp": "2026-07-01T06:18:05.182Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:14.767Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "larry.silverstein@realestate.com": {
+    "timestamp": "2026-07-01T06:18:24.333Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:21.256Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shashank.kumar@fintech.com": {
+    "timestamp": "2026-07-01T06:18:43.232Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:32.117Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "harshil.mathur@fintech.com": {
+    "timestamp": "2026-07-01T06:19:02.081Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:24.406Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ninian.lourdenadin@property.com": {
+    "timestamp": "2026-07-01T06:19:23.261Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:40.941Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rihanna@musiccosmetics.com": {
+    "timestamp": "2026-07-01T06:19:42.766Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:40.414Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "clemens.fischer@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T06:20:04.284Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:05.551Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "don.ahern@equipmentrental.com": {
+    "timestamp": "2026-07-01T06:20:23.069Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:59.292Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eddy.sariaatmadja@mediatech.com": {
+    "timestamp": "2026-07-01T06:20:41.957Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:59.827Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "kristina.hollweg@plumbing.com": {
+    "timestamp": "2026-07-01T06:21:00.914Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:00.689Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bill.cummings@commercial.com": {
+    "timestamp": "2026-07-01T06:21:20.479Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:03:55.158Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chen.huxiong@stationery.com": {
+    "timestamp": "2026-07-01T06:21:41.380Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:15.629Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zheng.xiaodong@manufacturing.com": {
+    "timestamp": "2026-07-01T06:22:01.482Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:05.942Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ksteidle@creosyndicate.org": {
+    "timestamp": "2026-07-01T06:22:20.464Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:07.083Z",
+    "originalSubject": "Grant/Programme Inquiry: Heatbolt \u2014 Patented Zero-Emission Heating Technology"
+  },
+  "huang.qiaoling@amusementparks.com": {
+    "timestamp": "2026-07-01T06:22:38.999Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:46.734Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "murat.vargi@telecom.com": {
+    "timestamp": "2026-07-01T06:23:00.031Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:10.972Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "yuri.shefler@alcohol.com": {
+    "timestamp": "2026-07-01T06:23:19.909Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:25.011Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "benoit.dageville@software.com": {
+    "timestamp": "2026-07-01T06:23:38.815Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:34.268Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jared.kushner@real.com": {
+    "timestamp": "2026-07-01T06:23:57.258Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:47.556Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhang.feng@automotivecomponents.com": {
+    "timestamp": "2026-07-01T06:24:17.351Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:42.818Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chen.ailian@wheelproduction.com": {
+    "timestamp": "2026-07-01T06:24:36.505Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:04:54.235Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "brooke.seawell@nvidia.com": {
+    "timestamp": "2026-07-01T06:24:55.944Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:35.607Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cc.paarthipan@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T06:25:15.287Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:20.867Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mats.paulsson@construction.com": {
+    "timestamp": "2026-07-01T06:25:35.029Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:12.317Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "omani.carson@wealthplanning.com": {
+    "timestamp": "2026-07-01T06:25:54.686Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:40.779Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "li.li@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T06:26:14.031Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:56.133Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "susan.holland@hearingaids.com": {
+    "timestamp": "2026-07-01T06:26:33.095Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:47.217Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "vladimir.melnikov@fastfashion.com": {
+    "timestamp": "2026-07-01T06:26:53.499Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:43.651Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ivan.streshinsky@meta.com": {
+    "timestamp": "2026-07-01T06:27:13.773Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:35.111Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "waldemar.munich@railwayconstruction.com": {
+    "timestamp": "2026-07-01T06:27:31.453Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:56.610Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zuo.jing@precision.com": {
+    "timestamp": "2026-07-01T06:27:50.019Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:07.817Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "radhe.agarwal@consumergoods.com": {
+    "timestamp": "2026-07-01T06:28:08.635Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:11.850Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zuo.yuyu@precision.com": {
+    "timestamp": "2026-07-01T06:28:27.989Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:04.319Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "user@domain.com": {
+    "timestamp": "2026-07-01T06:28:45.599Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:05:53.743Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "xu.shijun@manufacturing.com": {
+    "timestamp": "2026-07-01T06:29:05.557Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:27.766Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zach.mcleroy@fastfood.com": {
+    "timestamp": "2026-07-01T06:29:24.690Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:48.200Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "marc.samwer@techinvestments.com": {
+    "timestamp": "2026-07-01T06:29:43.283Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:35.443Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "muhammed.khan@power.com": {
+    "timestamp": "2026-07-01T06:30:02.114Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:21.901Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "fu.kwan@real.com": {
+    "timestamp": "2026-07-01T06:30:22.681Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:27.002Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wu.yonghua@apparel.com": {
+    "timestamp": "2026-07-01T06:30:42.598Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:23.668Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ashok.kajaria@tiles.com": {
+    "timestamp": "2026-07-01T06:31:01.465Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:45.653Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lv.yongxiang@magneticswitches.com": {
+    "timestamp": "2026-07-01T06:31:20.462Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:44.618Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "axel.stawski@realestate.com": {
+    "timestamp": "2026-07-01T06:31:39.627Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:06:54.105Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "joseph.baratta@privateequity.com": {
+    "timestamp": "2026-07-01T06:31:58.141Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:14.375Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sergio.fogel@fintech.com": {
+    "timestamp": "2026-07-01T06:32:16.611Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:10.736Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "david.hindawi@software.com": {
+    "timestamp": "2026-07-01T06:32:35.824Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:22.761Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dr.dre@musicheadphones.com": {
+    "timestamp": "2026-07-01T06:32:54.599Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:29.793Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "richard.kurtz@realestate.com": {
+    "timestamp": "2026-07-01T06:33:13.568Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:24.829Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shayne.coplan@polymarket.com": {
+    "timestamp": "2026-07-01T06:33:32.248Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:31.572Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.johnson@black.com": {
+    "timestamp": "2026-07-01T06:33:51.440Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:53.142Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stephen.ketchum@investments.com": {
+    "timestamp": "2026-07-01T06:34:10.177Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:58.019Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "contactus@cultiviansbx.com": {
+    "timestamp": "2026-07-01T06:34:30.929Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:38.387Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "trae.stephens@defensetechnology.com": {
+    "timestamp": "2026-07-01T06:34:50.600Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:04.056Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "thor.bjorgolfsson@investments.com": {
+    "timestamp": "2026-07-01T06:35:09.336Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:07:52.792Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bang.sihyuk@entertainment.com": {
+    "timestamp": "2026-07-01T06:35:28.212Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:45.955Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dylan.field@software.com": {
+    "timestamp": "2026-07-01T06:35:47.043Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:11.585Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.zelong@chemicals.com": {
+    "timestamp": "2026-07-01T06:36:06.846Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:05.261Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stephen.fredette@paymentssoftware.com": {
+    "timestamp": "2026-07-01T06:36:27.729Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:19.086Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "luc.tack@x.com": {
+    "timestamp": "2026-07-01T06:36:47.907Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:33.143Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zuo.zongshen@motorcycle.com": {
+    "timestamp": "2026-07-01T06:37:07.140Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:42.008Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bob.muglia@software.com": {
+    "timestamp": "2026-07-01T06:37:25.464Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:34.091Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.xiancheng@meta.com": {
+    "timestamp": "2026-07-01T06:37:47.097Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:08:48.752Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michael.chae@privateequity.com": {
+    "timestamp": "2026-07-01T06:38:06.493Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:44.319Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.yaohai@lighting.com": {
+    "timestamp": "2026-07-01T06:38:27.108Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:51.307Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "yan.junxu@manufacturing.com": {
+    "timestamp": "2026-07-01T06:38:46.692Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:27.736Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "kanye.west@musicsneakers.com": {
+    "timestamp": "2026-07-01T06:39:05.962Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:33.155Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "elizabeth.holmes@bloodtesting.com": {
+    "timestamp": "2026-07-01T06:39:24.627Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:49.026Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rene.benko@real.com": {
+    "timestamp": "2026-07-01T06:39:48.003Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:45.809Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "gary.wang@x.com": {
+    "timestamp": "2026-07-01T06:40:07.181Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:27.059Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shintaro.tsuji@hellokitty.com": {
+    "timestamp": "2026-07-01T06:40:27.304Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:51.502Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@waltonenterprises.com": {
+    "timestamp": "2026-07-01T06:40:47.015Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:17.920Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@rothschildandco.com": {
+    "timestamp": "2026-07-01T06:41:07.413Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:13.078Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@thepritzkerorganization.com": {
+    "timestamp": "2026-07-01T06:41:26.464Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:55.689Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "calthoff@cuspcapital.com": {
+    "timestamp": "2026-07-01T06:41:45.114Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:09:42.795Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "sam.bankmanfried@x.com": {
+    "timestamp": "2026-07-01T06:42:04.078Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:20.155Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@rockco.com": {
+    "timestamp": "2026-07-01T06:42:23.154Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:20.440Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "investors@ril.com": {
+    "timestamp": "2026-07-01T06:42:42.970Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:53.062Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tata@tata.com": {
+    "timestamp": "2026-07-01T06:43:01.908Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:10.052Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "investor.relations@adityabirla.com": {
+    "timestamp": "2026-07-01T06:43:21.254Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:33.028Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@hindujagroup.com": {
+    "timestamp": "2026-07-01T06:43:41.078Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:10:30.094Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ri@americamovil.com": {
+    "timestamp": "2026-07-01T06:44:00.357Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:01.836Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@kingdom.com.sa": {
+    "timestamp": "2026-07-01T06:44:20.233Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:11.319Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@redchillies.com": {
+    "timestamp": "2026-07-01T06:44:39.562Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:24.001Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "contact@srbaentertainment.com": {
+    "timestamp": "2026-07-01T06:44:59.405Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:37.351Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@oppenheimer.co.za": {
+    "timestamp": "2026-07-01T06:45:18.881Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:10.352Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@bertelsmann.com": {
+    "timestamp": "2026-07-01T06:45:38.346Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:21.109Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@eternalsunshineproductions.com": {
+    "timestamp": "2026-07-01T06:45:58.213Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:07.303Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@kaenterprises.in": {
+    "timestamp": "2026-07-01T06:46:17.815Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:54.385Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@cycle-group.com": {
+    "timestamp": "2026-07-01T06:46:39.005Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:08.642Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "info@purplepebble.com": {
+    "timestamp": "2026-07-01T06:46:58.418Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:39.109Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@hrxbrand.com": {
+    "timestamp": "2026-07-01T06:47:17.861Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:35.791Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@grazinggoatpictures.com": {
+    "timestamp": "2026-07-01T06:47:36.667Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:11:53.701Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "business@cornersportsindia.com": {
+    "timestamp": "2026-07-01T06:47:57.160Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:31.751Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ranveer@cornerstone.in": {
+    "timestamp": "2026-07-01T06:48:16.261Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:11.727Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@palmonas.com": {
+    "timestamp": "2026-07-01T06:48:35.485Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:35.768Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@arksbrand.com": {
+    "timestamp": "2026-07-01T06:48:54.821Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:27.107Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "press@kaybeauty.com": {
+    "timestamp": "2026-07-01T06:49:13.553Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:32.086Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "contact@sonusood.org": {
+    "timestamp": "2026-07-01T06:49:32.609Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:26.040Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@quenchbotanics.in": {
+    "timestamp": "2026-07-01T06:49:51.493Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:40.339Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@cleanslatefilmz.com": {
+    "timestamp": "2026-07-01T06:50:09.541Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:20.284Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "business@samantharuthprabhu.com": {
+    "timestamp": "2026-07-01T06:50:28.438Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:01.684Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "contact@bastianbombay.com": {
+    "timestamp": "2026-07-01T06:50:47.028Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:55.437Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@beinghumanlothing.com": {
+    "timestamp": "2026-07-01T06:51:05.409Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:26.117Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@manahotels.in": {
+    "timestamp": "2026-07-01T06:51:24.651Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:49.662Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@dagventures.com": {
+    "timestamp": "2026-07-01T06:51:44.043Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:12:48.371Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "info@divayoga.in": {
+    "timestamp": "2026-07-01T06:52:02.607Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:35.668Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@houseofmasaba.com": {
+    "timestamp": "2026-07-01T06:52:27.505Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:10.634Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "contact@dhonientertainment.com": {
+    "timestamp": "2026-07-01T06:52:46.771Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:51.886Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mithaliraj.official@gmail.com": {
+    "timestamp": "2026-07-01T06:53:06.925Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:34.807Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@sachintendulkar.com": {
+    "timestamp": "2026-07-01T06:53:27.733Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:46.572Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hello@youwecann.com": {
+    "timestamp": "2026-07-01T06:53:47.001Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:48.967Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@drivefitt.com": {
+    "timestamp": "2026-07-01T06:54:07.604Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:48.302Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "contact@rohit45.com": {
+    "timestamp": "2026-07-01T06:54:26.400Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:13:56.917Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@pmgsports.com": {
+    "timestamp": "2026-07-01T06:54:45.291Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:09.156Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rinkusingh12@gmail.com": {
+    "timestamp": "2026-07-01T06:55:05.308Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:02.538Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ben@stokesentertainment.com": {
+    "timestamp": "2026-07-01T06:55:24.973Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:24.577Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "glennjmaxwell@gmail.com": {
+    "timestamp": "2026-07-01T06:55:45.164Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:48.585Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@soundvc.com": {
+    "timestamp": "2026-07-01T06:56:04.534Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:45.111Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "support@tradefantasygame.com": {
+    "timestamp": "2026-07-01T06:56:23.751Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:27.312Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@queensbridgevc.com": {
+    "timestamp": "2026-07-01T06:56:42.482Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:35.464Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@marcyventurespartners.com": {
+    "timestamp": "2026-07-01T06:57:02.266Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:44.004Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ira@dbl.vc": {
+    "timestamp": "2026-07-01T06:57:22.828Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:12.609Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "info@thirtyfiveventures.com": {
+    "timestamp": "2026-07-01T06:57:42.979Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:01.151Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@casaverdecapital.com": {
+    "timestamp": "2026-07-01T06:58:02.212Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:09.044Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hello@serenaventures.com": {
+    "timestamp": "2026-07-01T06:58:22.215Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:04.521Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@maximumeffort.com": {
+    "timestamp": "2026-07-01T06:58:41.987Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:02.369Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@30secondstomars.com": {
+    "timestamp": "2026-07-01T06:59:01.334Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:14:47.086Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@thespringhillcompany.com": {
+    "timestamp": "2026-07-01T06:59:26.176Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:16.103Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@liquid2ventures.com": {
+    "timestamp": "2026-07-01T06:59:46.202Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:32.738Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@kinshipventures.com": {
+    "timestamp": "2026-07-01T07:00:06.030Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:34.945Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@sc30inc.com": {
+    "timestamp": "2026-07-01T07:00:24.754Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:14.355Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@footprintcoalition.com": {
+    "timestamp": "2026-07-01T07:00:44.092Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:16.685Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "press@honest.com": {
+    "timestamp": "2026-07-01T07:01:04.068Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:53.553Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dctc@dcthomson.co.uk": {
+    "timestamp": "2026-07-01T07:01:22.923Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:23.522Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "info@mantis.vc": {
+    "timestamp": "2026-07-01T07:01:42.492Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:15:50.107Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "larry.page@google.com": {
+    "timestamp": "2026-07-01T07:02:03.586Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:18.102Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sergey.brin@google.com": {
+    "timestamp": "2026-07-01T07:02:23.647Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:18.595Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jeff.bezos@amazon.com": {
+    "timestamp": "2026-07-01T07:02:42.099Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:27.475Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mark.zuckerberg@facebook.com": {
+    "timestamp": "2026-07-01T07:03:01.817Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:34.479Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "elon.musk@tesla.com": {
+    "timestamp": "2026-07-01T07:03:21.227Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:18.172Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "larry.ellison@oracle.com": {
+    "timestamp": "2026-07-01T07:03:40.181Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:37.042Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michael.dell@dell.com": {
+    "timestamp": "2026-07-01T07:04:00.056Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:59.820Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jhuang@nvidia.com": {
+    "timestamp": "2026-07-01T07:04:18.207Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:27.726Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bernard.arnault@lvmh.com": {
+    "timestamp": "2026-07-01T07:04:37.674Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:43.298Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jim.walton@walmart.com": {
+    "timestamp": "2026-07-01T07:05:14.837Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:59.175Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "amancio.ortega@zara.com": {
+    "timestamp": "2026-07-01T07:05:36.975Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:13.260Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rob.walton@walmart.com": {
+    "timestamp": "2026-07-01T07:05:54.377Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:16.423Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "steve.ballmer@microsoft.com": {
+    "timestamp": "2026-07-01T07:06:13.981Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:57.036Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "warren.buffett@berkshirehathaway.com": {
+    "timestamp": "2026-07-01T07:06:32.571Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:21.602Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "canadaalbert.lin@dcarbonvc.com": {
+    "timestamp": "2026-07-01T07:07:12.334Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:16:41.658Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "alice.walton@walmart.com": {
+    "timestamp": "2026-07-01T07:07:33.117Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:23.686Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bill.gates@microsoft.com": {
+    "timestamp": "2026-07-01T07:07:54.112Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:33.252Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mukesh.ambani@ril.com": {
+    "timestamp": "2026-07-01T07:08:37.142Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:38.650Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "francoise.meyers@loreal.com": {
+    "timestamp": "2026-07-01T07:08:56.998Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:41.695Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cz@binance.com": {
+    "timestamp": "2026-07-01T07:09:16.124Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:44.609Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michael.bloomberg@bloomberg.com": {
+    "timestamp": "2026-07-01T07:09:35.920Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:17:50.622Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "carlos.helu@telecom.com": {
+    "timestamp": "2026-07-01T07:09:54.701Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:20.161Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "thomas.peterffy@ibkr.com": {
+    "timestamp": "2026-07-01T07:10:13.959Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:01.085Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "julia.koch@koch.com": {
+    "timestamp": "2026-07-01T07:10:33.354Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:12.876Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "masayoshi.son@softbank.co.jp": {
+    "timestamp": "2026-07-01T07:10:52.900Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:39.853Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "gautam.adani@adani.com": {
+    "timestamp": "2026-07-01T07:11:13.071Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:18.487Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhang.yiming@bytedance.com": {
+    "timestamp": "2026-07-01T07:11:31.787Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:35.894Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jeff.yass@sig.com": {
+    "timestamp": "2026-07-01T07:11:50.346Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:42.036Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dieter.schwarz@lidl.de": {
+    "timestamp": "2026-07-01T07:12:08.913Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:56.154Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robin.zeng@catl.com": {
+    "timestamp": "2026-07-01T07:12:26.625Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:41.888Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "charles.koch@koch.com": {
+    "timestamp": "2026-07-01T07:12:45.082Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:58.511Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "subscriptions@pei.group": {
+    "timestamp": "2026-07-01T07:13:03.648Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:15.856Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "ma.huateng@tencent.com": {
+    "timestamp": "2026-07-01T07:13:23.317Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:21.770Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tadashi.yanai@uniqlo.com": {
+    "timestamp": "2026-07-01T07:13:42.372Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:29.402Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "giovanni.ferrero@ferrero.com": {
+    "timestamp": "2026-07-01T07:14:01.791Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:18:54.869Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ken.griffin@citadel.com": {
+    "timestamp": "2026-07-01T07:14:25.347Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:20.144Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lukas.walton@walmart.com": {
+    "timestamp": "2026-07-01T07:14:44.988Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:15.756Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "li.kashing@ckh.com.hk": {
+    "timestamp": "2026-07-01T07:15:03.832Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:31.535Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jacqueline.mars@candy.com": {
+    "timestamp": "2026-07-01T07:15:23.469Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:39.225Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rafaela.apontediamant@shipping.com": {
+    "timestamp": "2026-07-01T07:15:41.897Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:43.418Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "john.mars@candy.com": {
+    "timestamp": "2026-07-01T07:16:00.700Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:43.151Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mark.mateschitz@redbull.com": {
+    "timestamp": "2026-07-01T07:16:19.266Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:31.685Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "gianluigi.aponte@shipping.com": {
+    "timestamp": "2026-07-01T07:16:37.613Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:59.051Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "klausmichael.kuehne@shipping.com": {
+    "timestamp": "2026-07-01T07:16:56.046Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:00.052Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andrea.pignataro@financialsoftware.com": {
+    "timestamp": "2026-07-01T07:17:14.844Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:08.987Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stephen.schwarzman@investments.com": {
+    "timestamp": "2026-07-01T07:17:33.586Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:01.232Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hello@debutcapital.com": {
+    "timestamp": "2026-07-01T07:17:52.766Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:19:34.245Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "alain.wertheimer@chanel.com": {
+    "timestamp": "2026-07-01T07:18:12.841Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:41.989Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "abigail.johnson@fidelity.com": {
+    "timestamp": "2026-07-01T07:18:31.774Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:51.903Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "gerard.wertheimer@chanel.com": {
+    "timestamp": "2026-07-01T07:18:50.153Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:42.068Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "thomas.jr@hospitals.com": {
+    "timestamp": "2026-07-01T07:19:09.220Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:14.753Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "savitri.jindal@steel.com": {
+    "timestamp": "2026-07-01T07:19:28.138Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:27.421Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "alexey.mordashov@steelinvestments.com": {
+    "timestamp": "2026-07-01T07:19:47.935Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:19.052Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eduardo.saverin@facebook.com": {
+    "timestamp": "2026-07-01T07:20:07.232Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:36.661Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eric.schmidt@google.com": {
+    "timestamp": "2026-07-01T07:20:27.223Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:20:52.618Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andreas.bechtolsheim@google.com": {
+    "timestamp": "2026-07-01T07:20:46.302Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:08.003Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eyal.ofer@real.com": {
+    "timestamp": "2026-07-01T07:21:06.064Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:16.304Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "idan.ofer@shipping.com": {
+    "timestamp": "2026-07-01T07:21:24.559Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:22.757Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "miriam.adelson@casinos.com": {
+    "timestamp": "2026-07-01T07:21:43.487Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:37.918Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "colin.huang@ecommerce.com": {
+    "timestamp": "2026-07-01T07:22:02.485Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:49.887Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zheng.shuliang@aluminumproducts.com": {
+    "timestamp": "2026-07-01T07:22:21.098Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:53.202Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hello@defy.vc": {
+    "timestamp": "2026-07-01T07:22:40.618Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:03.876Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "he.xiangjian@homeappliances.com": {
+    "timestamp": "2026-07-01T07:22:59.540Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:28.189Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mackenzie.scott@amazon.com": {
+    "timestamp": "2026-07-01T07:23:18.453Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:47.807Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lyndal.greth@oilgas.com": {
+    "timestamp": "2026-07-01T07:23:39.381Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:21:48.056Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "len.blavatnik@musicchemicals.com": {
+    "timestamp": "2026-07-01T07:24:01.519Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:28.320Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michal.strnad@defensecontracting.com": {
+    "timestamp": "2026-07-01T07:24:21.164Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:39.860Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "melinda.gates@microsoft.com": {
+    "timestamp": "2026-07-01T07:24:40.398Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:03.606Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.pera@wirelessnetworking.com": {
+    "timestamp": "2026-07-01T07:25:06.918Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:09.019Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "vladimir.potanin@meta.com": {
+    "timestamp": "2026-07-01T07:25:27.627Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:00.907Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "elaine.marshall@koch.com": {
+    "timestamp": "2026-07-01T07:25:45.523Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:10.937Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "aliko.dangote@cementsugar.com": {
+    "timestamp": "2026-07-01T07:26:06.014Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:09.038Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "peter.thiel@facebook.com": {
+    "timestamp": "2026-07-01T07:26:25.065Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:23.406Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "vagit.alekperov@oil.com": {
+    "timestamp": "2026-07-01T07:26:43.912Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:10.870Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rick.cohen@warehouseautomation.com": {
+    "timestamp": "2026-07-01T07:27:02.833Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:05.288Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "investor@demea-si.com": {
+    "timestamp": "2026-07-01T07:27:22.788Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:22:19.135Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "lakshmi.mittal@steel.com": {
+    "timestamp": "2026-07-01T07:27:41.157Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:05.988Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "susanne.klatten@bmw.com": {
+    "timestamp": "2026-07-01T07:27:59.923Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:10.968Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "leonid.mikhelson@gaschemicals.com": {
+    "timestamp": "2026-07-01T07:28:19.674Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:00.051Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stefan.quandt@bmw.com": {
+    "timestamp": "2026-07-01T07:28:38.698Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:11.270Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "reinhold.wuerth@fasteners.com": {
+    "timestamp": "2026-07-01T07:28:58.771Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:29.968Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shiv.nadar@softwareservices.com": {
+    "timestamp": "2026-07-01T07:29:17.323Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:35.905Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jack.ma@ecommerce.com": {
+    "timestamp": "2026-07-01T07:29:36.349Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:11.634Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "vicky.safra@banking.com": {
+    "timestamp": "2026-07-01T07:29:58.160Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:23:58.253Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "emmanuel.besnier@cheese.com": {
+    "timestamp": "2026-07-01T07:30:20.732Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:18.268Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cyrus.poonawalla@vaccines.com": {
+    "timestamp": "2026-07-01T07:30:45.390Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:10.756Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "franois.pinault@x.com": {
+    "timestamp": "2026-07-01T07:31:07.190Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:15.152Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "phil.knight@nike.com": {
+    "timestamp": "2026-07-01T07:31:31.082Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:20.851Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "israel.englander@millenniummgmt.com": {
+    "timestamp": "2026-07-01T07:31:52.566Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:21.128Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jay.lee@samsung.com": {
+    "timestamp": "2026-07-01T07:32:12.272Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:15.089Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "vinod.adani@infrastructurecommodities.com": {
+    "timestamp": "2026-07-01T07:32:31.012Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:29.777Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lauren.ipsum@gmail.com": {
+    "timestamp": "2026-07-01T07:32:52.790Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:49.717Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "gina.rinehart@hancockprospecting.com.au": {
+    "timestamp": "2026-07-01T07:33:17.490Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:09.003Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "suleiman.kerimov@gs.com": {
+    "timestamp": "2026-07-01T07:33:40.734Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:16.039Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lei.jun@smartphonesautomobiles.com": {
+    "timestamp": "2026-07-01T07:34:03.888Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:24:39.193Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "vladimir.lisin@steeltransport.com": {
+    "timestamp": "2026-07-01T07:34:26.253Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:44.536Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "christy.walton@walmart.com": {
+    "timestamp": "2026-07-01T07:34:51.386Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:15.853Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "daniel.gilbert@rocketmortgage.com": {
+    "timestamp": "2026-07-01T07:35:10.798Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:14.958Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dang.yanbao@coal.com": {
+    "timestamp": "2026-07-01T07:35:33.956Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:11.849Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ernest.garcia@usedcars.com": {
+    "timestamp": "2026-07-01T07:36:01.278Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:28.569Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dilip.shanghvi@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T07:36:25.855Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:24.097Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "prajogo.pangestu@roche.com": {
+    "timestamp": "2026-07-01T07:36:49.551Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:13.528Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@cmont.com": {
+    "timestamp": "2026-07-01T07:37:11.874Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:21.286Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "rupert.murdoch@newspapers.com": {
+    "timestamp": "2026-07-01T07:37:33.861Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:38.387Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "gennady.timchenko@oilgas.com": {
+    "timestamp": "2026-07-01T07:37:53.463Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:25:29.657Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.chuanfu@batteriesautomobiles.com": {
+    "timestamp": "2026-07-01T07:38:13.749Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:26.233Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "harry.triguboff@realestate.com": {
+    "timestamp": "2026-07-01T07:38:39.982Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:37.734Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "david.tepper@appaloosa.com": {
+    "timestamp": "2026-07-01T07:39:03.779Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:10.037Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "john.tu@computerhardware.com": {
+    "timestamp": "2026-07-01T07:39:27.879Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:40.588Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "steve.cohen@point72.com": {
+    "timestamp": "2026-07-01T07:39:51.715Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:42.709Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.weixiu@machinery.com": {
+    "timestamp": "2026-07-01T07:40:13.416Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:27.266Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "david.sun@computerhardware.com": {
+    "timestamp": "2026-07-01T07:40:32.415Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:08.832Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "diane.hendricks@buildingsupplies.com": {
+    "timestamp": "2026-07-01T07:40:53.168Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:33.853Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "john.doerr@venturecapital.com": {
+    "timestamp": "2026-07-01T07:41:12.357Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:38.078Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stefan.persson@hm.com": {
+    "timestamp": "2026-07-01T07:41:31.770Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:26.019Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stanley.kroenke@sports.com": {
+    "timestamp": "2026-07-01T07:41:51.333Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:13.086Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hi@devlabs.vc": {
+    "timestamp": "2026-07-01T07:42:11.725Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:23.102Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "john.fredriksen@shipping.com": {
+    "timestamp": "2026-07-01T07:42:32.088Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:29.807Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "alwaleed.alsaud@investments.com": {
+    "timestamp": "2026-07-01T07:42:52.397Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:26:59.175Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "todd.graves@fastfood.com": {
+    "timestamp": "2026-07-01T07:43:11.150Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:03.313Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eric.li@automobiles.com": {
+    "timestamp": "2026-07-01T07:43:29.924Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:44.663Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhong.huijuan@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T07:43:49.898Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:40.146Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chen.jianhua@chemicals.com": {
+    "timestamp": "2026-07-01T07:44:09.800Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:55.837Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "nancy.laurie@walmart.com": {
+    "timestamp": "2026-07-01T07:44:27.722Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:53.419Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@cascadeinvestment.com": {
+    "timestamp": "2026-07-01T07:44:45.582Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:24.567Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andrey.melnichenko@fertilizerscoal.com": {
+    "timestamp": "2026-07-01T07:45:05.620Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:06.612Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@ballmergroup.org": {
+    "timestamp": "2026-07-01T07:45:24.039Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:27:33.635Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@woodbridge.com": {
+    "timestamp": "2026-07-01T07:45:43.020Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:12.024Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "talk@digitalundivided.com": {
+    "timestamp": "2026-07-01T07:46:02.818Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:18.509Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "andrew.forrest@fmgl.com.au": {
+    "timestamp": "2026-07-01T07:46:21.867Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:28.744Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@dubaiholding.com": {
+    "timestamp": "2026-07-01T07:46:40.797Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:29:05.786Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@dfomgt.com": {
+    "timestamp": "2026-07-01T07:46:58.239Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:21.889Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@pontegadea.com": {
+    "timestamp": "2026-07-01T07:47:17.481Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:22.241Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "renata.kellnerova@financetelecommunications.com": {
+    "timestamp": "2026-07-01T07:47:35.306Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:36.691Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "kwong.siuhing@realestate.com": {
+    "timestamp": "2026-07-01T07:47:53.980Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:48.445Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jerry.jones@dallascowboys.com": {
+    "timestamp": "2026-07-01T07:48:13.623Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:29:13.021Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "qin.yinglin@pigbreeding.com": {
+    "timestamp": "2026-07-01T07:48:31.695Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:29:03.760Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@msdcapital.com": {
+    "timestamp": "2026-07-01T07:48:50.206Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:56.886Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@brainworks.vc": {
+    "timestamp": "2026-07-01T07:49:09.886Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:29:16.913Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@seaya.vc": {
+    "timestamp": "2026-07-01T07:49:29.447Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:28:56.169Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@radical.vc": {
+    "timestamp": "2026-07-01T07:49:48.912Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:29:43.086Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "philip.anschutz@energy.com": {
+    "timestamp": "2026-07-01T07:50:08.999Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:21.326Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "torstein.hagen@cruises.com": {
+    "timestamp": "2026-07-01T07:50:30.795Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:29:27.723Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@divinc.org": {
+    "timestamp": "2026-07-01T07:50:50.499Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:34.139Z",
+    "originalSubject": "Application Interest: Heatbolt \u2014 Zero-Electricity Thermal Innovation (Climate Tech)"
+  },
+  "info@airstreet.com": {
+    "timestamp": "2026-07-01T07:51:32.300Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:16.240Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "takemitsu.takizaki@sensors.com": {
+    "timestamp": "2026-07-01T07:51:51.599Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:06.005Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "donald.bren@realestate.com": {
+    "timestamp": "2026-07-01T07:52:11.369Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:17.989Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@sierra.com": {
+    "timestamp": "2026-07-01T07:52:30.483Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:38.112Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@gradient.com": {
+    "timestamp": "2026-07-01T07:52:54.421Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:16.553Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "beate.heister@supermarkets.com": {
+    "timestamp": "2026-07-01T07:53:13.603Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:11.950Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@leaders.vc": {
+    "timestamp": "2026-07-01T07:53:33.416Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:43.404Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@sentiero.vc": {
+    "timestamp": "2026-07-01T07:53:52.796Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:37.740Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "brett.adcock@robots.com": {
+    "timestamp": "2026-07-01T07:54:12.682Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:37.820Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "karl.jr@supermarkets.com": {
+    "timestamp": "2026-07-01T07:54:32.450Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:03.171Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "form_20-2_21-3_request@dnx.vc": {
+    "timestamp": "2026-07-01T07:54:53.523Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:30:05.978Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "nik.storonsky@fintech.com": {
+    "timestamp": "2026-07-01T07:55:35.655Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:24.620Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jorge.lemann@beer.com": {
+    "timestamp": "2026-07-01T07:56:00.719Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:09.786Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@khoslaventures.com": {
+    "timestamp": "2026-07-01T07:56:23.512Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:05.562Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@ivp.com": {
+    "timestamp": "2026-07-01T07:56:43.885Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:26.728Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@bvp.com": {
+    "timestamp": "2026-07-01T07:57:02.814Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:47.710Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "james.ratcliffe@chemicals.com": {
+    "timestamp": "2026-07-01T07:57:20.982Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:38.126Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@sequoiacap.com": {
+    "timestamp": "2026-07-01T07:57:41.953Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:41.125Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@tcv.com": {
+    "timestamp": "2026-07-01T07:58:02.247Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:43.751Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ludwig.merckle@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T07:58:21.411Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:04.968Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@greylock.com": {
+    "timestamp": "2026-07-01T07:58:40.840Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:51.836Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@tigerglobal.com": {
+    "timestamp": "2026-07-01T07:59:00.491Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:44.019Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eric.smidt@hardwarestores.com": {
+    "timestamp": "2026-07-01T07:59:19.597Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:16.886Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@gv.com": {
+    "timestamp": "2026-07-01T07:59:38.587Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:49.839Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "edwin.chen@intel.com": {
+    "timestamp": "2026-07-01T07:59:58.064Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:51.834Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "theo.jr@aldi.com": {
+    "timestamp": "2026-07-01T08:00:16.965Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:40.228Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mosheisaac@gmail.com": {
+    "timestamp": "2026-07-01T08:00:37.699Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:33.689Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "info@idgcapital.com": {
+    "timestamp": "2026-07-01T08:00:57.780Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:45.786Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "radhakishan.damani@retailinvestments.com": {
+    "timestamp": "2026-07-01T08:01:17.628Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:47.361Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@a16z.com": {
+    "timestamp": "2026-07-01T08:01:37.585Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:33:04.802Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "john.collison@paymentsoftware.com": {
+    "timestamp": "2026-07-01T08:01:56.546Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:43.987Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@sky9capital.com": {
+    "timestamp": "2026-07-01T08:02:15.597Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:33:09.625Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "patrick.collison@paymentsoftware.com": {
+    "timestamp": "2026-07-01T08:02:35.851Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:33:05.662Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@kleinerperkins.com": {
+    "timestamp": "2026-07-01T08:02:54.292Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:33:34.590Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "low.kwong@coal.com": {
+    "timestamp": "2026-07-01T08:03:14.374Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:32:49.758Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "john.jr@home.com": {
+    "timestamp": "2026-07-01T08:03:33.623Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:01.419Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "georg.schaeffler@autoparts.com": {
+    "timestamp": "2026-07-01T08:03:52.547Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:05.511Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "r.hartono@bankingtobacco.com": {
+    "timestamp": "2026-07-01T08:04:12.924Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:06.703Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jan.koum@sap.com": {
+    "timestamp": "2026-07-01T08:04:33.845Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:33:59.252Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stephen.ross@realestate.com": {
+    "timestamp": "2026-07-01T08:04:53.397Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:33:46.026Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "charles.ergen@satellitetv.com": {
+    "timestamp": "2026-07-01T08:05:12.242Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:05.603Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mikhail.fridman@oil.com": {
+    "timestamp": "2026-07-01T08:05:34.838Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:24.690Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "adam.foroughi@advertisingtechnology.com": {
+    "timestamp": "2026-07-01T08:06:01.290Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:28.329Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "george.kaiser@oil.com": {
+    "timestamp": "2026-07-01T08:06:19.828Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:17.568Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "information@dragoneer.com": {
+    "timestamp": "2026-07-01T08:06:55.619Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:14.913Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "brad.jacobs@logistics.com": {
+    "timestamp": "2026-07-01T08:07:15.356Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:40.018Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "liu.debing@airbnb.com": {
+    "timestamp": "2026-07-01T08:07:34.114Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:32.346Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.wei@packagedelivery.com": {
+    "timestamp": "2026-07-01T08:07:54.708Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:03.894Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "peter.mallouk@wealthplanning.com": {
+    "timestamp": "2026-07-01T08:08:13.697Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:55.222Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "harold.hamm@oilgas.com": {
+    "timestamp": "2026-07-01T08:08:33.072Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:02.210Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sarath.ratanavadi@energy.com": {
+    "timestamp": "2026-07-01T08:08:53.656Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:09.095Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "edward.johnson@fidelity.com": {
+    "timestamp": "2026-07-01T08:09:34.156Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:34:38.602Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "yuan.fugen@meta.com": {
+    "timestamp": "2026-07-01T08:09:56.631Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:22.336Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jack.dangermond@mappingsoftware.com": {
+    "timestamp": "2026-07-01T08:10:22.465Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:13.468Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.duggan@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T08:10:46.291Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:16.340Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "friedhelm.loh@manufacturing.com": {
+    "timestamp": "2026-07-01T08:11:07.917Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:39.969Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "donald.newhouse@media.com": {
+    "timestamp": "2026-07-01T08:11:26.258Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:52.402Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "enrique.jr@ports.com": {
+    "timestamp": "2026-07-01T08:11:45.625Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:39.046Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ray.dalio@bridgewater.com": {
+    "timestamp": "2026-07-01T08:12:05.113Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:00.004Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "charlene.carvalhoheineken@heineken.com": {
+    "timestamp": "2026-07-01T08:12:27.576Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:29.307Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pitch@draperdragon.comcompanyhomeabout": {
+    "timestamp": "2026-07-01T08:12:45.937Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:35:37.209Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "jaime.bacal@banking.com": {
+    "timestamp": "2026-07-01T08:13:06.071Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:16.037Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "johann.rupert@x.com": {
+    "timestamp": "2026-07-01T08:13:29.333Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:19.670Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hussain.sajwani@realestate.com": {
+    "timestamp": "2026-07-01T08:13:54.808Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:29.256Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "barry.lam@electronics.com": {
+    "timestamp": "2026-07-01T08:14:23.596Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:12.941Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "xavier.niel@internettelecom.com": {
+    "timestamp": "2026-07-01T08:14:47.324Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:18.152Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "james.dyson@vacuums.com": {
+    "timestamp": "2026-07-01T08:15:06.931Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:10.668Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zou.zhinong@telecomequipment.com": {
+    "timestamp": "2026-07-01T08:15:31.584Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:43.937Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ann.kroenke@walmart.com": {
+    "timestamp": "2026-07-01T08:15:54.776Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:11.935Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.laisheng@electronicscomponents.com": {
+    "timestamp": "2026-07-01T08:16:17.723Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:18.377Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ralph.lauren@apparel.com": {
+    "timestamp": "2026-07-01T08:16:42.029Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:10.601Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "shahid.khan@sports.com": {
+    "timestamp": "2026-07-01T08:17:04.405Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:17.302Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@drkfoundation.orgboston": {
+    "timestamp": "2026-07-01T08:17:24.545Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:36:52.891Z",
+    "originalSubject": "Grant/Programme Inquiry: Heatbolt \u2014 Patented Zero-Emission Heating Technology"
+  },
+  "wang.laichun@electronicscomponents.com": {
+    "timestamp": "2026-07-01T08:17:42.931Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:04.101Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "alisher.usmanov@steel.com": {
+    "timestamp": "2026-07-01T08:18:01.073Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:21.790Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "terry.gou@electronics.com": {
+    "timestamp": "2026-07-01T08:18:20.661Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:18.276Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "joseph.lau@realestate.com": {
+    "timestamp": "2026-07-01T08:18:39.015Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:33.196Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "peter.woo@realestate.com": {
+    "timestamp": "2026-07-01T08:18:57.378Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:10.985Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "laurene.jobs@apple.com": {
+    "timestamp": "2026-07-01T08:19:16.830Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:26.821Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "david.velez@fintech.com": {
+    "timestamp": "2026-07-01T08:19:35.815Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:43.568Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.kuok@palm.com": {
+    "timestamp": "2026-07-01T08:19:55.043Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:10.235Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ivan.glasenberg@glencore.com": {
+    "timestamp": "2026-07-01T08:20:14.730Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:50.786Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "elizabeth.johnson@fidelity.com": {
+    "timestamp": "2026-07-01T08:20:34.247Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:06.357Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.kraft@manufacturing.com": {
+    "timestamp": "2026-07-01T08:20:51.689Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:21.824Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.liping@hydraulicmachinery.com": {
+    "timestamp": "2026-07-01T08:21:11.763Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:23.921Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "abdulsamad.rabiu@cementsugar.com": {
+    "timestamp": "2026-07-01T08:21:30.497Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:32.901Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@drawdownfund.com": {
+    "timestamp": "2026-07-01T08:21:48.140Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:37:53.455Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "bruce.cheng@electronics.com": {
+    "timestamp": "2026-07-01T08:22:06.307Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:34.329Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "alexander.karp@softwarefirm.com": {
+    "timestamp": "2026-07-01T08:22:24.997Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:49.340Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "george.roberts@privateequity.com": {
+    "timestamp": "2026-07-01T08:22:42.903Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:27.193Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sunil.mittal@telecom.com": {
+    "timestamp": "2026-07-01T08:23:01.744Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:18.288Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "james.goodnight@software.com": {
+    "timestamp": "2026-07-01T08:23:23.402Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:12.640Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "li.shuirong@roche.com": {
+    "timestamp": "2026-07-01T08:23:41.339Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:33.598Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "david.reuben@investments.com": {
+    "timestamp": "2026-07-01T08:24:01.337Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:38:50.052Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hamdi.ulukaya@greekyogurt.com": {
+    "timestamp": "2026-07-01T08:24:23.736Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:19.106Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andre.esteves@banking.com": {
+    "timestamp": "2026-07-01T08:24:41.871Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:15.394Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "simon.reuben@real.com": {
+    "timestamp": "2026-07-01T08:25:00.344Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:35.618Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhou.qunfei@smartphonescreens.com": {
+    "timestamp": "2026-07-01T08:25:18.936Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:25.122Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "trudy.white@chickfila.com": {
+    "timestamp": "2026-07-01T08:25:38.886Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:29.210Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ken.fisher@moneymanagement.com": {
+    "timestamp": "2026-07-01T08:25:57.232Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:32.268Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@e8angels.com": {
+    "timestamp": "2026-07-01T08:26:16.624Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:39:23.606Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "vinod.khosla@sun.com": {
+    "timestamp": "2026-07-01T08:26:35.086Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:06.909Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "leon.black@privateequity.com": {
+    "timestamp": "2026-07-01T08:26:54.071Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:14.610Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dan.cathy@chickfila.com": {
+    "timestamp": "2026-07-01T08:27:12.668Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:35.715Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "bubba.cathy@chickfila.com": {
+    "timestamp": "2026-07-01T08:27:30.689Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:18.777Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "j.reyes@fooddistribution.com": {
+    "timestamp": "2026-07-01T08:27:48.748Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:26.386Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jude.reyes@fooddistribution.com": {
+    "timestamp": "2026-07-01T08:28:06.797Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:39.364Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "joseph.tsai@ecommerce.com": {
+    "timestamp": "2026-07-01T08:28:25.575Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:48.254Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "orlando.bravo@privateequity.com": {
+    "timestamp": "2026-07-01T08:28:44.607Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:07.263Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "henry.kravis@privateequity.com": {
+    "timestamp": "2026-07-01T08:29:04.229Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:32.478Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@generalcatalyst.com": {
+    "timestamp": "2026-07-01T11:24:02.612Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:31:32.296Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "example@mysite.com": {
+    "timestamp": "2026-07-01T11:24:21.244Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:45.427Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "cao.renxian@photovoltaicequipment.com": {
+    "timestamp": "2026-07-01T11:24:38.880Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:55.355Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wang.ning@toys.com": {
+    "timestamp": "2026-07-01T11:25:18.929Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:40:53.707Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhu.yi@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T11:25:40.710Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:20.146Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "uday.kotak@banking.com": {
+    "timestamp": "2026-07-01T11:26:00.279Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:50.636Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "charles.schwab@schwab.com": {
+    "timestamp": "2026-07-01T11:26:23.807Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:03.535Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sandra.mera@zara.com": {
+    "timestamp": "2026-07-01T11:26:43.385Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:06.814Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "richard.kinder@pipelines.com": {
+    "timestamp": "2026-07-01T11:27:00.304Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:28.418Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sun.piaoyang@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T11:27:19.368Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:52.513Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chris.larsen@ripple.com": {
+    "timestamp": "2026-07-01T11:27:39.468Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:49.022Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hasso.plattner@software.com": {
+    "timestamp": "2026-07-01T11:28:06.627Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:41:34.831Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "david.steward@itprovider.com": {
+    "timestamp": "2026-07-01T11:28:25.777Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:22.562Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michael.sabel@oilgas.com": {
+    "timestamp": "2026-07-01T11:28:45.803Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:20.327Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.pender@oilgas.com": {
+    "timestamp": "2026-07-01T11:29:05.432Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:10.443Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andrew.beal@banks.com": {
+    "timestamp": "2026-07-01T11:29:29.475Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:00.081Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pierre.omidyar@paypal.com": {
+    "timestamp": "2026-07-01T11:30:38.020Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:13.385Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ravi.jaipuria@soft.com": {
+    "timestamp": "2026-07-01T11:31:01.314Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:16.197Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "francine.finck@investments.com": {
+    "timestamp": "2026-07-01T11:31:22.603Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:33.897Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@electra.earth": {
+    "timestamp": "2026-07-01T11:31:41.941Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:20.186Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "kushal.singh@realestate.com": {
+    "timestamp": "2026-07-01T11:32:01.819Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:54.071Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jim.pattison@jimmypattison.com": {
+    "timestamp": "2026-07-01T11:32:20.297Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:29.507Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "alexander.gerko@trading.com": {
+    "timestamp": "2026-07-01T11:32:42.766Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:12.587Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "viatcheslav.kantor@fertilizer.com": {
+    "timestamp": "2026-07-01T11:33:07.920Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:08.236Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhang.hejun@electronics.com": {
+    "timestamp": "2026-07-01T11:33:56.539Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:42:57.393Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andreas.struengmann@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T11:34:18.963Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:36.733Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "thomas.struengmann@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T11:34:38.343Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:42.888Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "finn.rausing@packaging.com": {
+    "timestamp": "2026-07-01T11:34:58.060Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:35.027Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ernesto.bertarelli@biotechinvestments.com": {
+    "timestamp": "2026-07-01T11:35:40.189Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:35.937Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jorn.rausing@packaging.com": {
+    "timestamp": "2026-07-01T11:36:06.130Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:58.510Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hello@earthshot.vc": {
+    "timestamp": "2026-07-01T11:36:29.138Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:34.455Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "kirsten.rausing@packaging.com": {
+    "timestamp": "2026-07-01T11:36:48.879Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:52.334Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mark.stevens@venturecapital.com": {
+    "timestamp": "2026-07-01T11:37:15.544Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:23.723Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "charlie.mills@medicalsupplies.com": {
+    "timestamp": "2026-07-01T11:37:35.820Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:31.689Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chen.tao@hardware.com": {
+    "timestamp": "2026-07-01T11:37:58.371Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:58.371Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dan.friedkin@toyota.com": {
+    "timestamp": "2026-07-01T11:38:21.826Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:49.305Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "liang.wenfeng@ai.com": {
+    "timestamp": "2026-07-01T11:38:45.827Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:43:57.138Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "riley.bechtel@engineeringconstruction.com": {
+    "timestamp": "2026-07-01T11:39:06.735Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:44:18.285Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhou.chaonan@manufacturing.com": {
+    "timestamp": "2026-07-01T11:39:26.867Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:22.960Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "marijke.mars@candy.com": {
+    "timestamp": "2026-07-01T11:39:49.359Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:44:54.124Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pamela.mars@candy.com": {
+    "timestamp": "2026-07-01T11:40:17.086Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:10.163Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "valerie.mars@candy.com": {
+    "timestamp": "2026-07-01T11:40:42.179Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:44:42.775Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@echorivercap.com": {
+    "timestamp": "2026-07-01T11:41:07.532Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:11.824Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "gong.hongjia@videosurveillance.com": {
+    "timestamp": "2026-07-01T11:41:29.635Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:36.276Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "juan.escotet@banking.com": {
+    "timestamp": "2026-07-01T11:41:49.220Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:25.741Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "charoen.sirivadhanabhakdi@beverage.com": {
+    "timestamp": "2026-07-01T11:42:09.758Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:04.019Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "victoria.mars@candy.com": {
+    "timestamp": "2026-07-01T11:42:29.218Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:04.189Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tilman.fertitta@entertainment.com": {
+    "timestamp": "2026-07-01T11:43:19.657Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:44:51.339Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "qi.shi@financialinformation.com": {
+    "timestamp": "2026-07-01T11:43:41.628Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:44:51.946Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "john.malone@cabletelevision.com": {
+    "timestamp": "2026-07-01T11:44:20.133Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:42.572Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rafael.pino@construction.com": {
+    "timestamp": "2026-07-01T11:44:38.220Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:40.962Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "charles.butt@supermarkets.com": {
+    "timestamp": "2026-07-01T11:44:59.112Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:55.273Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "carrie.perrodo@oil.com": {
+    "timestamp": "2026-07-01T11:45:18.472Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:46:34.443Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sherry.brydson@thomsonreuters.com": {
+    "timestamp": "2026-07-01T11:45:39.683Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:51.074Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "martin.lorentzon@spotify.com": {
+    "timestamp": "2026-07-01T11:45:59.476Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:45:48.543Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wei.jianjun@automobiles.com": {
+    "timestamp": "2026-07-01T11:46:17.944Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:25.360Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "gabe.newell@videogames.com": {
+    "timestamp": "2026-07-01T11:46:36.724Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:46:15.585Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "douglas.leone@venturecapital.com": {
+    "timestamp": "2026-07-01T11:46:55.183Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:08.361Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michael.federmann@defensehotels.com": {
+    "timestamp": "2026-07-01T11:47:15.063Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:46:39.061Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lin.muqin@beverages.com": {
+    "timestamp": "2026-07-01T11:47:36.161Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:42.845Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mikhail.prokhorov@investments.com": {
+    "timestamp": "2026-07-01T11:47:56.094Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:10.028Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "johann.graf@gambling.com": {
+    "timestamp": "2026-07-01T11:48:15.008Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:01.004Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tobi.lutke@ecommerce.com": {
+    "timestamp": "2026-07-01T11:48:33.760Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:46:46.256Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "admin@eclipse.capital": {
+    "timestamp": "2026-07-01T11:49:01.327Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:10.057Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "vikram.lal@motorcycles.com": {
+    "timestamp": "2026-07-01T11:49:18.869Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:12.282Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "nadia.thiele@investments.com": {
+    "timestamp": "2026-07-01T11:49:36.616Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:46:40.243Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ramzi.musallam@privateequity.com": {
+    "timestamp": "2026-07-01T11:49:57.027Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:46:51.305Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "carl.cook@medicaldevices.com": {
+    "timestamp": "2026-07-01T11:50:16.968Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:56.367Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jeffery.hildebrand@oilgas.com": {
+    "timestamp": "2026-07-01T11:50:34.861Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:52.956Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "andrei.guryev@fertilizers.com": {
+    "timestamp": "2026-07-01T11:50:53.279Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:37.433Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sulaiman.habib@hospital.com": {
+    "timestamp": "2026-07-01T11:51:14.577Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:00.628Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "antony.ressler@finance.com": {
+    "timestamp": "2026-07-01T11:51:34.141Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:58.578Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "german.khan@oil.com": {
+    "timestamp": "2026-07-01T11:51:53.366Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:08.168Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "josh.harris@privateequity.com": {
+    "timestamp": "2026-07-01T11:52:12.222Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:20.632Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "thomas.schmidheiny@cement.com": {
+    "timestamp": "2026-07-01T11:52:32.327Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:43.946Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "arthur.blank@homedepot.com": {
+    "timestamp": "2026-07-01T11:52:52.393Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:33.282Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "nicky.oppenheimer@diamonds.com": {
+    "timestamp": "2026-07-01T11:53:12.269Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:31.331Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@fondsecofuel.ca": {
+    "timestamp": "2026-07-01T11:53:31.227Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:33.376Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "anthony.pratt@manufacturing.com": {
+    "timestamp": "2026-07-01T11:53:50.326Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:56.691Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "vincent.bollor@investments.com": {
+    "timestamp": "2026-07-01T11:54:10.177Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:47:55.027Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "randa.williams@pipelines.com": {
+    "timestamp": "2026-07-01T11:54:28.795Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:29.052Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dannine.avara@pipelines.com": {
+    "timestamp": "2026-07-01T11:54:48.276Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:25.036Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "magdalena.martulloblocher@chemicals.com": {
+    "timestamp": "2026-07-01T11:55:08.370Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:31.019Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "milane.frantz@pipelines.com": {
+    "timestamp": "2026-07-01T11:55:27.833Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:30.229Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "fernando.salles@bankingminerals.com": {
+    "timestamp": "2026-07-01T11:55:48.759Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:54.397Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pierre.chen@electronics.com": {
+    "timestamp": "2026-07-01T11:56:09.208Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:11.500Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "leonid.fedun@oil.com": {
+    "timestamp": "2026-07-01T11:56:31.531Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:31.044Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jimmy.haslam@gas.com": {
+    "timestamp": "2026-07-01T11:56:51.759Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:30.850Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "theo.mueller@dairy.com": {
+    "timestamp": "2026-07-01T11:57:11.285Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:12.239Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dustin.moskovitz@facebook.com": {
+    "timestamp": "2026-07-01T11:57:29.520Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:48:48.952Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lin.bin@smartphones.com": {
+    "timestamp": "2026-07-01T11:57:48.007Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:54.789Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "karel.komarek@oil.com": {
+    "timestamp": "2026-07-01T11:58:06.305Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:09.398Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "luis.sarmiento@banking.com": {
+    "timestamp": "2026-07-01T11:58:25.787Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:13.787Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "contact@eecventures.com": {
+    "timestamp": "2026-07-01T11:58:46.779Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:10.455Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "david.cheriton@google.com": {
+    "timestamp": "2026-07-01T11:59:06.166Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:55.340Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "carl.bennet@investments.com": {
+    "timestamp": "2026-07-01T11:59:24.260Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:48.163Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "scott.duncan@pipelines.com": {
+    "timestamp": "2026-07-01T11:59:44.132Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:49.944Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "blair.parryokeden@mediaautomotive.com": {
+    "timestamp": "2026-07-01T12:00:02.605Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:14.029Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "daniel.kretinsky@energyinvestments.com": {
+    "timestamp": "2026-07-01T12:00:22.019Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:52.993Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jim.kennedy@mediaautomotive.com": {
+    "timestamp": "2026-07-01T12:00:40.943Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:49:57.677Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tom.gores@privateequity.com": {
+    "timestamp": "2026-07-01T12:01:00.324Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:57.991Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "li.xiting@medicaldevices.com": {
+    "timestamp": "2026-07-01T12:01:19.058Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:43.251Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michael.kim@privateequity.com": {
+    "timestamp": "2026-07-01T12:01:39.318Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:51:06.362Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "harry.stine@agriculture.com": {
+    "timestamp": "2026-07-01T12:01:58.387Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:45.130Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lee.boojin@samsung.com": {
+    "timestamp": "2026-07-01T12:02:17.397Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:51:19.139Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "daniel.ek@spotify.com": {
+    "timestamp": "2026-07-01T12:02:39.310Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:51.492Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.smith@privateequity.com": {
+    "timestamp": "2026-07-01T12:02:58.109Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:50:54.890Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "brian.chesky@airbnb.com": {
+    "timestamp": "2026-07-01T12:03:16.670Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:51:18.053Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@ehukaiinvestments.com": {
+    "timestamp": "2026-07-01T12:03:37.161Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:51:42.393Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "yi.zheng@software.com": {
+    "timestamp": "2026-07-01T12:03:56.844Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:29.833Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "micky.arison@carnivalcruises.com": {
+    "timestamp": "2026-07-01T12:04:17.494Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:51:39.287Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "iskander.makhmudov@meta.com": {
+    "timestamp": "2026-07-01T12:04:36.493Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:51:42.689Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "fredrik.lundberg@real.com": {
+    "timestamp": "2026-07-01T12:04:56.104Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:43.904Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "murali.divi@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T12:05:17.304Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:51.662Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "graeme.hart@packaging.com": {
+    "timestamp": "2026-07-01T12:05:36.522Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:26.708Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "juan.roig@supermarkets.com": {
+    "timestamp": "2026-07-01T12:05:57.350Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:31.465Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pang.kang@soysauce.com": {
+    "timestamp": "2026-07-01T12:06:16.204Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:01.386Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pauline.keinath@cargill.com": {
+    "timestamp": "2026-07-01T12:06:35.095Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:41.376Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pedro.salles@bankingminerals.com": {
+    "timestamp": "2026-07-01T12:07:05.458Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:25.078Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "georg.stumpf@real.com": {
+    "timestamp": "2026-07-01T12:07:23.995Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:03.413Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "nathan.blecharczyk@airbnb.com": {
+    "timestamp": "2026-07-01T12:07:43.370Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:49.376Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zeng.fangqin@smartphonecomponents.com": {
+    "timestamp": "2026-07-01T12:08:02.334Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:52:43.708Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "anthony.bamford@constructionequipment.com": {
+    "timestamp": "2026-07-01T12:08:21.564Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:00.776Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "brian.armstrong@coinbase.com": {
+    "timestamp": "2026-07-01T12:08:40.357Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:21.711Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "investor@elaia.comfor": {
+    "timestamp": "2026-07-01T12:09:00.390Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:19.366Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "law.po@realestate.com": {
+    "timestamp": "2026-07-01T12:09:19.210Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:04.273Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rajeev@visionfund.com": {
+    "timestamp": "2026-07-01T12:09:39.158Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:15.650Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "patrick.soonshiong@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T12:09:57.296Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:21.353Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "roman.abramovich@steelinvestments.com": {
+    "timestamp": "2026-07-01T12:10:15.516Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:12.384Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sandeep.bakshi@prosus.com": {
+    "timestamp": "2026-07-01T12:10:34.199Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:44.844Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "viktor.vekselberg@meta.com": {
+    "timestamp": "2026-07-01T12:10:56.407Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:54.286Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ashutosh.sharma@prosus.com": {
+    "timestamp": "2026-07-01T12:11:14.522Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:39.376Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "n.cator@verlinvest.com": {
+    "timestamp": "2026-07-01T12:11:31.665Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:53:40.069Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "nassef.sawiris@constructioninvestments.com": {
+    "timestamp": "2026-07-01T12:11:51.186Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:13.118Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "joe@8vc.com": {
+    "timestamp": "2026-07-01T12:12:10.691Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:53.974Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "viktor.rashnikov@steel.com": {
+    "timestamp": "2026-07-01T12:12:31.451Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:13.215Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ventures@prosus.com": {
+    "timestamp": "2026-07-01T12:12:50.718Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:11.215Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lee.seohyun@samsung.com": {
+    "timestamp": "2026-07-01T12:13:10.243Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:58.780Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@visionfund.com": {
+    "timestamp": "2026-07-01T12:13:30.451Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:54.900Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ir@tigerglobal.com": {
+    "timestamp": "2026-07-01T12:13:50.347Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:49.036Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info-bru@verlinvest.com": {
+    "timestamp": "2026-07-01T12:14:09.131Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:55:27.731Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "zhang.xuexin@aluminum.com": {
+    "timestamp": "2026-07-01T12:14:28.837Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:51.824Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@zx-ventures.com": {
+    "timestamp": "2026-07-01T12:14:47.634Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:55:22.463Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@elevarequity.com": {
+    "timestamp": "2026-07-01T12:15:12.219Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:55:39.461Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "terrence.pegula@naturalgas.com": {
+    "timestamp": "2026-07-01T12:15:32.324Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:55:34.793Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@tinshedventures.com": {
+    "timestamp": "2026-07-01T12:15:54.528Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:44.063Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "ken.langone@investments.com": {
+    "timestamp": "2026-07-01T12:16:13.679Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:54:47.558Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pathahead@rei.com": {
+    "timestamp": "2026-07-01T12:16:32.725Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:00.037Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "david.geffen@movies.com": {
+    "timestamp": "2026-07-01T12:16:50.990Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:08.133Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "media@8vc.com": {
+    "timestamp": "2026-07-01T12:17:09.107Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:01.603Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "todd.boehly@finance.com": {
+    "timestamp": "2026-07-01T12:17:29.603Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:55:40.640Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "john.morris@sporting.com": {
+    "timestamp": "2026-07-01T12:17:48.643Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:55:49.150Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pitch@fontinalis.com": {
+    "timestamp": "2026-07-01T12:18:10.872Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:03.383Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@iqt.org": {
+    "timestamp": "2026-07-01T12:18:30.417Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:50.968Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "kboyle@a16z.com": {
+    "timestamp": "2026-07-01T12:18:48.005Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:31.087Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "liang.wengen@constructionequipment.com": {
+    "timestamp": "2026-07-01T12:19:08.145Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:33.660Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "william.ackman@pershingsquare.com": {
+    "timestamp": "2026-07-01T12:19:27.313Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:21.604Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jeanmichel.besnier@cheese.com": {
+    "timestamp": "2026-07-01T12:19:46.425Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:57:19.031Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "wu.jianshu@autoparts.com": {
+    "timestamp": "2026-07-01T12:20:06.883Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:57:46.731Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hello@elevate.vc": {
+    "timestamp": "2026-07-01T12:20:27.055Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:57:10.313Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "elisabeth.deluca@subway.com": {
+    "timestamp": "2026-07-01T12:20:54.903Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:02.550Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "marie.beauvalot@cheese.com": {
+    "timestamp": "2026-07-01T12:21:13.186Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:57:32.659Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "maria.aramburuzabala@beerinvestments.com": {
+    "timestamp": "2026-07-01T12:21:32.055Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:56:45.544Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "eric.wittouck@investments.com": {
+    "timestamp": "2026-07-01T12:21:51.895Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:57:31.810Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "chen.dongsheng@insurance.com": {
+    "timestamp": "2026-07-01T12:22:10.629Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:14.640Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jeff.greene@real.com": {
+    "timestamp": "2026-07-01T12:22:30.449Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:57:30.184Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rajan.mittal@telecom.com": {
+    "timestamp": "2026-07-01T12:22:51.825Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:57:38.117Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pavel.tykac@coalmines.com": {
+    "timestamp": "2026-07-01T12:23:10.864Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:06.605Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "you.xiaoping@polyurethanes.com": {
+    "timestamp": "2026-07-01T12:23:29.643Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:05.091Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "rakesh.mittal@telecom.com": {
+    "timestamp": "2026-07-01T12:23:48.068Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:05.664Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "digame@redeia.com": {
+    "timestamp": "2026-07-01T12:24:06.104Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:42.912Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "wang.yusuo@natural.com": {
+    "timestamp": "2026-07-01T12:24:24.109Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:05.056Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jean.salata@finance.com": {
+    "timestamp": "2026-07-01T12:24:42.870Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:02.124Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "neil.bluhm@realestate.com": {
+    "timestamp": "2026-07-01T12:25:01.010Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:29.702Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "hong.rahee@samsung.com": {
+    "timestamp": "2026-07-01T12:25:19.026Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:11.548Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "frank.lowy@investments.com": {
+    "timestamp": "2026-07-01T12:25:38.875Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:40.340Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lynsi.snyder@innoutburger.com": {
+    "timestamp": "2026-07-01T12:25:59.325Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:26.545Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "robert.rowling@hotelsinvestments.com": {
+    "timestamp": "2026-07-01T12:26:17.849Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:13.144Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "dirk.rossmann@drugstores.com": {
+    "timestamp": "2026-07-01T12:26:37.307Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:45.445Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "yuri.milner@techinvestments.com": {
+    "timestamp": "2026-07-01T12:26:57.878Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:26.243Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sri.lohia@roche.com": {
+    "timestamp": "2026-07-01T12:27:15.858Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:58:51.228Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "yitzhak.tshuva@realestate.com": {
+    "timestamp": "2026-07-01T12:27:36.047Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:05.689Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cai.huabo@electronics.com": {
+    "timestamp": "2026-07-01T12:27:54.618Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:42.805Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "leo.koguan@itprovider.com": {
+    "timestamp": "2026-07-01T12:28:17.704Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:56.528Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "tamara.gustavson@selfstorage.com": {
+    "timestamp": "2026-07-01T12:28:39.137Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:24.286Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "lin.li@investments.com": {
+    "timestamp": "2026-07-01T12:28:58.386Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:00.915Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "alexandra.schoerghuber@realestate.com": {
+    "timestamp": "2026-07-01T12:29:16.736Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:15.880Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "denise.coates@onlinegambling.com": {
+    "timestamp": "2026-07-01T12:29:36.143Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:48.444Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "patrick.drahi@telecom.com": {
+    "timestamp": "2026-07-01T12:29:55.073Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:53.757Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "kjell.rokke@shippingseafood.com": {
+    "timestamp": "2026-07-01T12:30:14.910Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:41.053Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "azim.premji@softwareservices.com": {
+    "timestamp": "2026-07-01T12:30:34.734Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:44.513Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "3942connect@ember-infra.com": {
+    "timestamp": "2026-07-01T12:30:53.184Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T12:59:52.322Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "denise.york@san.com": {
+    "timestamp": "2026-07-01T12:31:12.576Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:42.511Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "michael.dorrell@investing.com": {
+    "timestamp": "2026-07-01T12:31:31.869Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:56.981Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "otto.sugiri@datacenters.com": {
+    "timestamp": "2026-07-01T12:31:51.565Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:50.931Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "leonard.stern@realestate.com": {
+    "timestamp": "2026-07-01T12:32:11.097Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:03.607Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "stephen.bisciotti@staffing.com": {
+    "timestamp": "2026-07-01T12:32:30.584Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:00:48.382Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "mat.ishbia@mortgagelender.com": {
+    "timestamp": "2026-07-01T12:32:51.321Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:04.103Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "alexei.kuzmichev@oil.com": {
+    "timestamp": "2026-07-01T12:33:31.483Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:02:05.829Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "massimiliana.aleotti@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T12:33:50.587Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:04.457Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "seo.jungjin@biotech.com": {
+    "timestamp": "2026-07-01T12:34:08.805Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:22.838Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "jonathan.gray@investments.com": {
+    "timestamp": "2026-07-01T12:34:28.249Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:02:01.094Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "info@emerald.vc": {
+    "timestamp": "2026-07-01T12:34:47.846Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:30.468Z",
+    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+  },
+  "joe.gebbia@airbnb.com": {
+    "timestamp": "2026-07-01T12:35:06.515Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:55.098Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "sofie.kristiansen@lego.com": {
+    "timestamp": "2026-07-01T12:35:25.328Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:49.063Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "agnete.thinggaard@lego.com": {
+    "timestamp": "2026-07-01T12:35:45.665Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:38.809Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "thomas.kristiansen@lego.com": {
+    "timestamp": "2026-07-01T12:36:04.582Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:40.005Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "pankaj.patel@pharmaceuticals.com": {
+    "timestamp": "2026-07-01T12:36:22.487Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:01:58.415Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "don.hankey@autoloans.com": {
+    "timestamp": "2026-07-01T12:36:41.210Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:02:19.951Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "cho.jungho@finance.com": {
+    "timestamp": "2026-07-01T12:37:00.600Z",
+    "seq": 1,
+    "originalTimestamp": "2026-05-15T13:02:10.938Z",
+    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+  },
+  "k.krithivasan@tcs.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "puneet.chhatwal@ihcltata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tv.narendran@tatasteel.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tvnarendran@tatasteel.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aathreya@tejasnetworks.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "p.venkatesalu@trent-tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sunil.dsouza@tataconsumer.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "praveer.sinha@tatapower.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "manoj.raghavan@tataelxsi.co.in": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pradeepbakshi@voltas.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "girish.wagh@tatamotors.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ckvenkat@titan.co.in": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rmukundan@tatachemicals.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "as.lakshminarayanan@tatacommunications.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "warren.harris@tatatechnologies.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wharris@tatatechnologies.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pjnath@nelco.in": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "adalal@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gyanendra.shukla@rallis.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pranjan@orientalhotels.co.in": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "uksingh@trf.co.in": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pghosh@acglgoa.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "harish.manwani@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hmanwani@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anita.george@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ageorge@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "venu.srinivasan@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vs@tvsmotor.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "siddharth.sharma@tatatrusts.org": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ssharma@tatatrusts.org": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vijay.singh@tatatrusts.org": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "darius.khambata@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "darius@khambattachambers.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mehli.mistry@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mmistry@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jimmy.tata@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jtata@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "leah.tata@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "leah.tata@trent-tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maya.tata@tata.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maya.tata@tatadigital.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ajoyendra.mukherjee@tatatechnologies.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amukherjee@tatatechnologies.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ng.subramaniam@tatacommunications.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ngs@tcs.com": {
+    "last_sent": "2026-08-30T10:00:00",
+    "seq": 1,
+    "status": "sent"
+  }
+}
