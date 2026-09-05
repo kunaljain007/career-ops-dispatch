@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 import json, smtplib, time, os, sys, random, re
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -24,6 +24,13 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 MAX_PER_SMTP = 80
 
 RAW_PRIORITY = [
+    "wgriffiths@lexingtonpartners.com", "dominique.senequier@ardian.com",
+    "phealy@hf.com", "ddeb@franciscopartners.com", "brian.guthrie@trs.texas.gov",
+    "atucker@sib.wa.gov", "thomas.lee@nystrs.org", "clichnock@calstrs.com",
+    "doug.ostrover@blueowl.com", "hmarks@oaktreecapital.com",
+    "christina.tan@hengxin.com.sg", "egon.durban@silverlake.com",
+    "rsmith@vistaequitypartners.com", "lzhang@hillhousecap.com",
+    "kurt.bjorklund@permira.com", "stuart.mcalpine@cinven.com",
     "rhastings@netflix.org", "eline@moveenergy.vc", "Aaron.Appelhanz@ADM.com",
     "rajeevranjan.kushwaha@gov.in", "Ginger.McKinney@ADM.com",
     "elevate-ktech@ka.gov.in", "hackathon.nihr@gov.in",
@@ -217,7 +224,12 @@ if os.path.exists(MASTER_SENT):
     try:
         with open(MASTER_SENT, "r", encoding="utf-8") as f:
             for item in json.load(f):
-                if isinstance(item, str): sent_history.add(item.strip().lower())
+                if isinstance(item, str):
+                    sent_history.add(item.strip().lower())
+                elif isinstance(item, dict):
+                    e = (item.get("to") or item.get("email") or "").strip().lower()
+                    if e:
+                        sent_history.add(e)
     except:
         pass
 
