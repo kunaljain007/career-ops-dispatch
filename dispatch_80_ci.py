@@ -25,6 +25,7 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 MAX_PER_SMTP = 80
 
 RAW_PRIORITY = [
+    "rnt@rntassociates.com",
     "info@alokozay.com",
     "contact@cevital.com",
     "geral@refriango.com",
