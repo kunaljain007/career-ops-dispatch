@@ -25,6 +25,10 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 MAX_PER_SMTP = 80
 
 RAW_PRIORITY = [
+    "csc@pidilite.com",
+    "ranjana@bhaat.in",
+    "renu@q49.in",
+    "info@q49.in",
     "sunil.dsouza@tataconsumer.com", "investor.relations@tataconsumer.com",
     "sudarshan.maiya@maiyas.in", "info@maiyas.in",
     "sanjay.sharma@mtrfoods.com", "feedback@mtrfoods.com",
