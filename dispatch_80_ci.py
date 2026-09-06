@@ -25,6 +25,16 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 MAX_PER_SMTP = 80
 
 RAW_PRIORITY = [
+    "shareholder.services@unilever.com",
+    "ir@nestle.com",
+    "shareholderservices@coca-cola.com",
+    "pepsicoinvestorrelations@pepsico.com",
+    "ir@kraftheinz.com",
+    "ir@mdlz.com",
+    "investor_relations@colpal.com",
+    "kc.investorrelations@kcc.com",
+    "ir@reckitt.com",
+    "investor.relations@danone.com",
     "consumercenter@cpf.co.th",
     "ir@masterkong.com.cn",
     "membership@landolakes.com",
