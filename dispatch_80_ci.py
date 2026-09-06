@@ -25,6 +25,57 @@ os.makedirs(LOGS_DIR, exist_ok=True)
 MAX_PER_SMTP = 80
 
 RAW_PRIORITY = [
+    "sunil.dsouza@tataconsumer.com", "investor.relations@tataconsumer.com",
+    "sudarshan.maiya@maiyas.in", "info@maiyas.in",
+    "sanjay.sharma@mtrfoods.com", "feedback@mtrfoods.com",
+    "deepak.agarwal@bikaji.com", "investor.relations@bikaji.com",
+    "ss.aggarwal@bikanervala.com", "info@bikanervala.com",
+    "jayenmehta@amul.coop", "gcmmf@amul.coop",
+    "oliver.mirza@oetker.in", "service@oetker.in",
+    "ahsan.chowdhury@prangroup.com", "crd@prangroup.com",
+    "saugata.gupta@marico.com", "investor@marico.com",
+    "anand.khurana@genmills.com", "genmills.india@genmills.com",
+    "suresh.narayanan@nestle.com", "consumer.services@nestle.com",
+    "bimal@adf-foods.com", "info@adf-foods.com",
+    "milan.patel@isconbalajifoods.com", "info@isconbalajifoods.com",
+    "sagar@wowmomo.com", "info@wowmomo.co.in",
+    "musthafa@idfreshfood.com", "info@idfreshfood.com", "evelyn@idfreshfood.com",
+    "sameer.khetarpal@jublfood.com", "investor@jublfood.com",
+    "bharat@yufoodlabs.com", "contact@yufoodlabs.com",
+    "kartik@thetastecompany.com", "info@thetastecompany.com",
+    "meghana@slurrpfarm.com", "wholesome@slurrpfarm.com",
+    "nakul@mommymadeit.in", "care@mommymadeit.in",
+    "viraj@veeba.in", "hello@veeba.in", "info@veeba.in",
+    "abhay@licious.in", "talktous@licious.in",
+    "gaurav.sharma@tastybite.com", "info@tastybite.com",
+    "prasannakumar.b@venkys.com", "info@venkys.com",
+    "jaydeep.barman@rebelfoods.com", "crm@rebelfoods.com",
+    "lisa@prasuma.com", "contact@prasuma.com",
+    "sahil.gilani@gitsfood.com", "gits@gitsfood.com",
+    "sairaj@wakaofoods.com", "franchise@wakaoworld.com",
+    "arun@nutriquofoods.com", "info@nutriquofoods.com",
+    "ravi@currygram.in", "contact@currygram.in",
+    "vibhuti@pisharodyfoods.com", "info@pisharodyfoods.com",
+    "vasanth@expressfeast.com", "care@expressfeast.com",
+    "ajay.gupta@capitalfoods.co.in", "customercare@capitalfoods.co.in",
+    "manish.bandlish@motherdairy.com", "consumer.care@motherdairy.com",
+    "dipak.sanghavi@nilons.com", "info@nilons.com",
+    "sanjay.desai@mothersrecipe.com", "customercare@mothersrecipe.com",
+    "parag.desai@waghbakritea.com", "feedback@waghbakritea.com",
+    "anurag@bhaat.in", "connect@bhaat.in",
+    "iqbal.fazlani@fazlanifoods.com", "info@fazlanifoods.com",
+    "mithun.appaiah@sumeru.net", "info@sumeru.net",
+    "rajesh@handibazar.com", "info@handibazar.com",
+    "mohit.malhotra@dabur.com", "corpcomm@dabur.com",
+    "balkrishna@patanjaliayurved.org", "feedback@patanjaliayurved.org",
+    "kedar@chitalebandhu.in", "info@chitalebandhu.in",
+    "ck.ranganathan@cavinkare.com", "corporate@cavinkare.com",
+    "chandu.virani@balajiwafers.com", "info@balajiwafers.com",
+    "nitin.patel@sakarfoods.com", "info@sakarfoods.com",
+    "anjan.chowdhury@squaregroup.com", "sfbl@squaregroup.com",
+    "shamim.uddin@akij.net", "info.afbl@akij.net",
+    "syed.alamgir@aci-bd.com", "info@aci-bd.com",
+    "mubarak.ali@olympicbd.com", "info@olympicbd.com",
     "wgriffiths@lexingtonpartners.com", "dominique.senequier@ardian.com",
     "phealy@hf.com", "ddeb@franciscopartners.com", "brian.guthrie@trs.texas.gov",
     "atucker@sib.wa.gov", "thomas.lee@nystrs.org", "clichnock@calstrs.com",
@@ -260,7 +311,12 @@ if os.path.exists(QUEUE_FILE):
 
 all_pending = []
 seen = set(sent_history)
-BLACKLIST_DOMAINS = ["godrejagrotech", "godrejagrovet", "godrejagro", "3one4capital", "3one4caoital"]
+BLACKLIST_DOMAINS = [
+    "godrej", "godrejinds", "godrejagrotech", "godrejagrovet", "godrejagro",
+    "itc.in", "itcportal",
+    "barilla", "barilla.com",
+    "3one4capital", "3one4caoital"
+]
 
 def is_blacklisted(email):
     email_lower = email.lower()
