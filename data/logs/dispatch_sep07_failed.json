@@ -1,0 +1,1490 @@
+[
+  {
+    "to": "harneet.luther@tatainternational.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93982db6a95sm696259285a.9 - gsmtp')",
+    "timestamp": "2026-09-07T01:15:10.270723"
+  },
+  {
+    "to": "ri@marfrig.com.br",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040693abbsm79933126d6.37 - gsmtp')",
+    "timestamp": "2026-09-07T01:15:54.020884"
+  },
+  {
+    "to": "katsuki.atsushi@asahigroup-holdings.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406af144sm79713496d6.40 - gsmtp')",
+    "timestamp": "2026-09-07T01:17:25.619160"
+  },
+  {
+    "to": "noelwallace@colpal.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53053ef5af3sm75984381cf.0 - gsmtp')",
+    "timestamp": "2026-09-07T01:18:16.198616"
+  },
+  {
+    "to": "m.hsu@kcc.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104059559dsm79745356d6.1 - gsmtp')",
+    "timestamp": "2026-09-07T01:19:00.908164"
+  },
+  {
+    "to": "parag.desai@waghbakritea.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305402a8d3sm76138661cf.2 - gsmtp')",
+    "timestamp": "2026-09-07T01:20:38.442822"
+  },
+  {
+    "to": "katherine@a16z.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910405966f0sm80021716d6.6 - gsmtp')",
+    "timestamp": "2026-09-07T01:21:23.429820"
+  },
+  {
+    "to": "matt_smith@cargill.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530898a20e3sm4126521cf.25 - gsmtp')",
+    "timestamp": "2026-09-07T01:22:06.690877"
+  },
+  {
+    "to": "vw@beiersdorf.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9399cf10c7dsm341314185a.15 - gsmtp')",
+    "timestamp": "2026-09-07T01:23:29.761178"
+  },
+  {
+    "to": "dilan.balakumar@kanoo.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b0493142sm30768385a.13 - gsmtp')",
+    "timestamp": "2026-09-07T01:24:10.335200"
+  },
+  {
+    "to": "dellison@skydance.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406496e5sm79344136d6.11 - gsmtp')",
+    "timestamp": "2026-09-07T01:24:55.340235"
+  },
+  {
+    "to": "investorrelations@srestaorganic.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054226b8bsm77132031cf.30 - gsmtp')",
+    "timestamp": "2026-09-07T01:26:22.333778"
+  },
+  {
+    "to": "vwarnery@beiersdorf.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9399cf10c7dsm341854085a.15 - gsmtp')",
+    "timestamp": "2026-09-07T01:27:06.737048"
+  },
+  {
+    "to": "knobel.carsten@henkel.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406625d9sm78542316d6.20 - gsmtp')",
+    "timestamp": "2026-09-07T01:27:50.498691"
+  },
+  {
+    "to": "mohd_saad@masaood.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413de31sm75820521cf.13 - gsmtp')",
+    "timestamp": "2026-09-07T01:29:16.401055"
+  },
+  {
+    "to": "tflorence@nea.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406b3965sm79477826d6.46 - gsmtp')",
+    "timestamp": "2026-09-07T01:30:02.558819"
+  },
+  {
+    "to": "investorrelations@hain.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93988e9f80dsm634224285a.24 - gsmtp')",
+    "timestamp": "2026-09-07T01:30:45.189544"
+  },
+  {
+    "to": "oliver.mirza@oetker.in",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fafbc53sm768093585a.10 - gsmtp')",
+    "timestamp": "2026-09-07T01:32:13.379909"
+  },
+  {
+    "to": "ernest.garcia@usedcars.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397f9f151esm763220385a.6 - gsmtp')",
+    "timestamp": "2026-09-07T01:32:56.435646"
+  },
+  {
+    "to": "vd@weforum.org",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5308a706823sm3105141cf.24 - gsmtp')",
+    "timestamp": "2026-09-07T01:33:37.710238"
+  },
+  {
+    "to": "ir@conagra.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104fc73ea5sm30422416d6.39 - gsmtp')",
+    "timestamp": "2026-09-07T01:35:08.777234"
+  },
+  {
+    "to": "michael.sanches@airswift.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939a3b906b8sm234807285a.38 - gsmtp')",
+    "timestamp": "2026-09-07T01:35:55.725095"
+  },
+  {
+    "to": "ir@mdlz.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664474sm81601616d6.21 - gsmtp')",
+    "timestamp": "2026-09-07T01:36:41.543905"
+  },
+  {
+    "to": "matthew@churchdwight.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fafbc53sm768962485a.10 - gsmtp')",
+    "timestamp": "2026-09-07T01:38:10.195219"
+  },
+  {
+    "to": "k.licht@reckitt.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fafc3a7sm762696485a.14 - gsmtp')",
+    "timestamp": "2026-09-07T01:38:54.031445"
+  },
+  {
+    "to": "ffernandez@unilever.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910490a3a58sm49569536d6.44 - gsmtp')",
+    "timestamp": "2026-09-07T01:39:36.756580"
+  },
+  {
+    "to": "ardi.setiadharma@prasetia.co.id",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53080ce82aesm17642501cf.31 - gsmtp')",
+    "timestamp": "2026-09-07T01:41:07.138908"
+  },
+  {
+    "to": "james.dyson@vacuums.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9399429b97esm470447985a.29 - gsmtp')",
+    "timestamp": "2026-09-07T01:41:51.665693"
+  },
+  {
+    "to": "mbuck@thehersheycompany.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541992e4sm75417331cf.21 - gsmtp')",
+    "timestamp": "2026-09-07T01:42:31.307823"
+  },
+  {
+    "to": "rui_mendon\u00e7a@marfrig.com.br",
+    "from": "superreachconsultant@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 19: ordinal not in range(128)",
+    "timestamp": "2026-09-07T01:43:52.437526"
+  },
+  {
+    "to": "ck@henkel.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910405966f0sm80360436d6.6 - gsmtp')",
+    "timestamp": "2026-09-07T01:44:04.946495"
+  },
+  {
+    "to": "kresna.bagus@soroscap.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413ce9dsm75605201cf.11 - gsmtp')",
+    "timestamp": "2026-09-07T01:44:46.035106"
+  },
+  {
+    "to": "smucker.mark@jmsmucker.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040646d59sm79414546d6.8 - gsmtp')",
+    "timestamp": "2026-09-07T01:45:31.296114"
+  },
+  {
+    "to": "antoine@danone.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040693f75sm79891996d6.35 - gsmtp')",
+    "timestamp": "2026-09-07T01:46:59.577589"
+  },
+  {
+    "to": "miguel@brf-global.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541eab6csm79554541cf.26 - gsmtp')",
+    "timestamp": "2026-09-07T01:47:42.760386"
+  },
+  {
+    "to": "atsushi@asahigroup-holdings.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fba2c3esm764476085a.36 - gsmtp')",
+    "timestamp": "2026-09-07T01:48:22.086293"
+  },
+  {
+    "to": "harold.hamm@oilgas.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406b3965sm79774746d6.46 - gsmtp')",
+    "timestamp": "2026-09-07T01:50:01.045068"
+  },
+  {
+    "to": "jawad_abufarha@al-majid.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5308a706a62sm3420011cf.1 - gsmtp')",
+    "timestamp": "2026-09-07T01:50:47.738779"
+  },
+  {
+    "to": "saputo.lino@saputo.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb93ea5sm770947585a.34 - gsmtp')",
+    "timestamp": "2026-09-07T01:51:30.590094"
+  },
+  {
+    "to": "neeraj@paperboatfoods.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054116c5fsm75416441cf.10 - gsmtp')",
+    "timestamp": "2026-09-07T01:53:02.567970"
+  },
+  {
+    "to": "info@fazlanifoods.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fafc3a7sm764997085a.14 - gsmtp')",
+    "timestamp": "2026-09-07T01:53:49.020411"
+  },
+  {
+    "to": "sean_connolly@conagrabrands.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530868ceb68sm10955551cf.29 - gsmtp')",
+    "timestamp": "2026-09-07T01:54:31.556844"
+  },
+  {
+    "to": "klicht@reckitt.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413d803sm75455551cf.15 - gsmtp')",
+    "timestamp": "2026-09-07T01:56:03.836420"
+  },
+  {
+    "to": "mark.clouse@campbells.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054116933sm76001811cf.7 - gsmtp')",
+    "timestamp": "2026-09-07T01:56:45.360372"
+  },
+  {
+    "to": "j.luciano@adm.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406940f3sm80303206d6.38 - gsmtp')",
+    "timestamp": "2026-09-07T01:57:27.319819"
+  },
+  {
+    "to": "michaela.grafenstein@aquila-capital.de",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93988e9f80dsm638516685a.24 - gsmtp')",
+    "timestamp": "2026-09-07T01:58:56.007806"
+  },
+  {
+    "to": "luciano.juan@adm.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbe00f9sm774724485a.45 - gsmtp')",
+    "timestamp": "2026-09-07T01:59:38.562676"
+  },
+  {
+    "to": "nick_hampton@tateandlyle.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbcc54dsm769533585a.42 - gsmtp')",
+    "timestamp": "2026-09-07T02:00:26.254839"
+  },
+  {
+    "to": "stephen.schwarzman@investments.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664be1sm80165946d6.18 - gsmtp')",
+    "timestamp": "2026-09-07T02:02:06.711214"
+  },
+  {
+    "to": "shirisha.myadam@bambinoagro.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbaaa33sm767505785a.39 - gsmtp')",
+    "timestamp": "2026-09-07T02:02:51.416369"
+  },
+  {
+    "to": "snakamura@ajinomoto.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406b4d46sm80343796d6.45 - gsmtp')",
+    "timestamp": "2026-09-07T02:03:39.432938"
+  },
+  {
+    "to": "corporate.communications@nufarm.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413de31sm76364561cf.13 - gsmtp')",
+    "timestamp": "2026-09-07T02:05:13.940088"
+  },
+  {
+    "to": "ashish.mittal@waterfieldadvisors.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541ba2d2sm77819681cf.22 - gsmtp')",
+    "timestamp": "2026-09-07T02:06:03.617887"
+  },
+  {
+    "to": "tchansiri@thaiunion.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040647592sm80653266d6.13 - gsmtp')",
+    "timestamp": "2026-09-07T02:06:48.567059"
+  },
+  {
+    "to": "ir@wilmar.com.sg",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b099c25asm32955185a.11 - gsmtp')",
+    "timestamp": "2026-09-07T02:08:17.285923"
+  },
+  {
+    "to": "abdulsamad.rabiu@cementsugar.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939ac8870a5sm102497785a.12 - gsmtp')",
+    "timestamp": "2026-09-07T02:09:04.381469"
+  },
+  {
+    "to": "foley.brendan@mccormick.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5308a706a62sm3715471cf.1 - gsmtp')",
+    "timestamp": "2026-09-07T02:09:50.386628"
+  },
+  {
+    "to": "lori.zeman@jiffy.ai",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104064a2f8sm80302146d6.12 - gsmtp')",
+    "timestamp": "2026-09-07T02:11:16.253481"
+  },
+  {
+    "to": "ken.fisher@moneymanagement.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93982db6a95sm704873385a.9 - gsmtp')",
+    "timestamp": "2026-09-07T02:11:58.700146"
+  },
+  {
+    "to": "james.quincey@coca-cola.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb678b8sm789449285a.30 - gsmtp')",
+    "timestamp": "2026-09-07T02:12:43.958771"
+  },
+  {
+    "to": "scahillane@kellanova.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406b3965sm80160006d6.46 - gsmtp')",
+    "timestamp": "2026-09-07T02:14:16.633248"
+  },
+  {
+    "to": "wang.laichun@electronicscomponents.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91041fa4d65sm74636476d6.15 - gsmtp')",
+    "timestamp": "2026-09-07T02:15:01.566791"
+  },
+  {
+    "to": "info@ezeeats.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910405966f0sm80868026d6.6 - gsmtp')",
+    "timestamp": "2026-09-07T02:15:47.260633"
+  },
+  {
+    "to": "info@woodbridge.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406481b4sm80642716d6.17 - gsmtp')",
+    "timestamp": "2026-09-07T02:17:13.756340"
+  },
+  {
+    "to": "schuncke.jeanmatthew@symrise.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054226b8bsm77944171cf.30 - gsmtp')",
+    "timestamp": "2026-09-07T02:17:53.998837"
+  },
+  {
+    "to": "info@veerfoods.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939ad19dc90sm95153485a.41 - gsmtp')",
+    "timestamp": "2026-09-07T02:18:37.245553"
+  },
+  {
+    "to": "hello@oriosvp.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9105823090bsm13460506d6.27 - gsmtp')",
+    "timestamp": "2026-09-07T02:20:07.531808"
+  },
+  {
+    "to": "jeff.rowe@syngentagroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb36195sm776331785a.21 - gsmtp')",
+    "timestamp": "2026-09-07T02:20:50.321168"
+  },
+  {
+    "to": "nakul@mommymadeit.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406c6544sm79988306d6.49 - gsmtp')",
+    "timestamp": "2026-09-07T02:21:31.903786"
+  },
+  {
+    "to": "colin.huang@ecommerce.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb566a8sm784479385a.25 - gsmtp')",
+    "timestamp": "2026-09-07T02:22:59.513412"
+  },
+  {
+    "to": "mark.smucker@jmsmucker.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb93ea5sm776065385a.34 - gsmtp')",
+    "timestamp": "2026-09-07T02:23:42.358059"
+  },
+  {
+    "to": "atflltd@atfoods.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbe00f9sm778656885a.45 - gsmtp')",
+    "timestamp": "2026-09-07T02:24:24.657266"
+  },
+  {
+    "to": "f\u00e1bio.barbosa@natura.net",
+    "from": "techhp.kunaljain@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-07T02:25:17.854553"
+  },
+  {
+    "to": "diane.hendricks@buildingsupplies.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040646d59sm80051406d6.8 - gsmtp')",
+    "timestamp": "2026-09-07T02:25:48.946031"
+  },
+  {
+    "to": "rupert.murdoch@newspapers.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413de31sm76704531cf.13 - gsmtp')",
+    "timestamp": "2026-09-07T02:26:35.105373"
+  },
+  {
+    "to": "mccain.india@mccain.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91043b54cd6sm69623076d6.34 - gsmtp')",
+    "timestamp": "2026-09-07T02:27:18.048253"
+  },
+  {
+    "to": "susan.holland@hearingaids.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93982db6a95sm707551485a.9 - gsmtp')",
+    "timestamp": "2026-09-07T02:28:48.532829"
+  },
+  {
+    "to": "gilberto@jbs.com.br",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104064a2f8sm80596796d6.12 - gsmtp')",
+    "timestamp": "2026-09-07T02:29:32.120278"
+  },
+  {
+    "to": "g.hattersley@molsoncoors.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040595f81sm81130606d6.2 - gsmtp')",
+    "timestamp": "2026-09-07T02:30:15.830121"
+  },
+  {
+    "to": "kartik@thetastecompany.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53087363c46sm10309511cf.18 - gsmtp')",
+    "timestamp": "2026-09-07T02:31:49.899082"
+  },
+  {
+    "to": "investor@carlsberg.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91058416847sm13454406d6.4 - gsmtp')",
+    "timestamp": "2026-09-07T02:32:33.172547"
+  },
+  {
+    "to": "jasveer@eximiusvc.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406bbb79sm80798016d6.47 - gsmtp')",
+    "timestamp": "2026-09-07T02:33:16.899106"
+  },
+  {
+    "to": "holly@doordash.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53088a9043asm6807471cf.27 - gsmtp')",
+    "timestamp": "2026-09-07T02:34:51.420720"
+  },
+  {
+    "to": "rmendon\u00e7a@marfrig.com.br",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530898a20e3sm5285481cf.25 - gsmtp')",
+    "timestamp": "2026-09-07T02:35:40.314390"
+  },
+  {
+    "to": "wei.lidong@software.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541eab6csm80346471cf.26 - gsmtp')",
+    "timestamp": "2026-09-07T02:36:25.836515"
+  },
+  {
+    "to": "lino_saputo@saputo.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413de31sm76890771cf.13 - gsmtp')",
+    "timestamp": "2026-09-07T02:37:56.428189"
+  },
+  {
+    "to": "sanjay.sharma@mtrfoods.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541992e4sm76294011cf.21 - gsmtp')",
+    "timestamp": "2026-09-07T02:38:42.530185"
+  },
+  {
+    "to": "tc@thaiunion.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91058416847sm13561766d6.4 - gsmtp')",
+    "timestamp": "2026-09-07T02:39:25.692154"
+  },
+  {
+    "to": "beth.ford@landolakesinc.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb93ea5sm778749185a.34 - gsmtp')",
+    "timestamp": "2026-09-07T02:40:57.533870"
+  },
+  {
+    "to": "bhavik.c@bvcventures.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939878ae4a2sm672493685a.16 - gsmtp')",
+    "timestamp": "2026-09-07T02:41:41.630187"
+  },
+  {
+    "to": "sn@ajinomoto.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53088a9043asm6921961cf.27 - gsmtp')",
+    "timestamp": "2026-09-07T02:42:25.287382"
+  },
+  {
+    "to": "rodney@emersoncollective.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040673ce0sm82778816d6.25 - gsmtp')",
+    "timestamp": "2026-09-07T02:43:55.723593"
+  },
+  {
+    "to": "torstein.hagen@cruises.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb678b8sm794555885a.30 - gsmtp')",
+    "timestamp": "2026-09-07T02:44:41.284687"
+  },
+  {
+    "to": "contact.sabc@castel-afrique.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fba2c3esm773462185a.36 - gsmtp')",
+    "timestamp": "2026-09-07T02:45:26.460211"
+  },
+  {
+    "to": "sanjay@artha.ventures",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054116c5fsm76261271cf.10 - gsmtp')",
+    "timestamp": "2026-09-07T02:46:50.489728"
+  },
+  {
+    "to": "ankit@venturecatalysts.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413d803sm76262551cf.15 - gsmtp')",
+    "timestamp": "2026-09-07T02:47:34.810289"
+  },
+  {
+    "to": "prasannakumar.b@venkys.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5308a706a62sm4348261cf.1 - gsmtp')",
+    "timestamp": "2026-09-07T02:48:15.534475"
+  },
+  {
+    "to": "george.roberts@privateequity.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406481b4sm81154696d6.17 - gsmtp')",
+    "timestamp": "2026-09-07T02:49:47.245836"
+  },
+  {
+    "to": "fisk_johnson@scj.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413ce9dsm76639241cf.11 - gsmtp')",
+    "timestamp": "2026-09-07T02:50:31.970752"
+  },
+  {
+    "to": "draafat@alghanim.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406bf8c3sm81200406d6.48 - gsmtp')",
+    "timestamp": "2026-09-07T02:51:16.240773"
+  },
+  {
+    "to": "darryl@endpovertymaketrillions.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91048476220sm52840236d6.31 - gsmtp')",
+    "timestamp": "2026-09-07T02:52:40.809751"
+  },
+  {
+    "to": "info@airstreet.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910464bf898sm61937546d6.7 - gsmtp')",
+    "timestamp": "2026-09-07T02:53:28.403873"
+  },
+  {
+    "to": "john.tu@computerhardware.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305414a36bsm76342751cf.16 - gsmtp')",
+    "timestamp": "2026-09-07T02:54:09.840393"
+  },
+  {
+    "to": "f.sandri@pilgrims.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530898a20e3sm5597021cf.25 - gsmtp')",
+    "timestamp": "2026-09-07T02:55:40.904420"
+  },
+  {
+    "to": "harry.klagsbrun@financialservices.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb90d6csm779689585a.33 - gsmtp')",
+    "timestamp": "2026-09-07T02:56:26.772895"
+  },
+  {
+    "to": "info@dfomgt.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305414a36bsm76389891cf.16 - gsmtp')",
+    "timestamp": "2026-09-07T02:57:13.111806"
+  },
+  {
+    "to": "poulweihrauch@mars.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939878ae4a2sm675118685a.16 - gsmtp')",
+    "timestamp": "2026-09-07T02:58:42.116155"
+  },
+  {
+    "to": "stefan.persson@hm.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939a637fe97sm205479985a.47 - gsmtp')",
+    "timestamp": "2026-09-07T02:59:26.730082"
+  },
+  {
+    "to": "jstone@baroncapitalgroup.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb2fd82sm778137985a.17 - gsmtp')",
+    "timestamp": "2026-09-07T03:00:13.827432"
+  },
+  {
+    "to": "consumer.services@nestle.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbe31c6sm786456585a.46 - gsmtp')",
+    "timestamp": "2026-09-07T03:01:42.723750"
+  },
+  {
+    "to": "ir@thaiunion.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb6e95csm773520585a.31 - gsmtp')",
+    "timestamp": "2026-09-07T03:02:28.353143"
+  },
+  {
+    "to": "durga.h.prasad@kotak.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb6e95csm773629285a.31 - gsmtp')",
+    "timestamp": "2026-09-07T03:03:08.213541"
+  },
+  {
+    "to": "gina.rinehart@hancockprospecting.com.au",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb380f8sm782842685a.23 - gsmtp')",
+    "timestamp": "2026-09-07T03:04:37.520543"
+  },
+  {
+    "to": "vaaman@motherson.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbe00f9sm785044785a.45 - gsmtp')",
+    "timestamp": "2026-09-07T03:05:19.711098"
+  },
+  {
+    "to": "kamakshi@ankurcapital.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93985cffb3dsm693376285a.18 - gsmtp')",
+    "timestamp": "2026-09-07T03:06:07.491238"
+  },
+  {
+    "to": "p.kivits@sealedair.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939865a424dsm680190785a.27 - gsmtp')",
+    "timestamp": "2026-09-07T03:07:38.529422"
+  },
+  {
+    "to": "dk@tyson.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406afe48sm81054406d6.43 - gsmtp')",
+    "timestamp": "2026-09-07T03:08:22.007527"
+  },
+  {
+    "to": "andrewmahfood@wisynco.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397f9f151esm778251185a.6 - gsmtp')",
+    "timestamp": "2026-09-07T03:09:04.693907"
+  },
+  {
+    "to": "info@maiyas.in",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664474sm83105316d6.21 - gsmtp')",
+    "timestamp": "2026-09-07T03:10:32.267593"
+  },
+  {
+    "to": "clichnock@calstrs.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040679e13sm81456976d6.26 - gsmtp')",
+    "timestamp": "2026-09-07T03:11:16.278255"
+  },
+  {
+    "to": "divtesh@alteriacapital.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fba21d6sm771347485a.37 - gsmtp')",
+    "timestamp": "2026-09-07T03:11:59.234388"
+  },
+  {
+    "to": "corporate.communications@univarsolutions.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305402a8d3sm77901281cf.2 - gsmtp')",
+    "timestamp": "2026-09-07T03:13:36.139841"
+  },
+  {
+    "to": "pk@sealedair.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305402a908sm77363821cf.4 - gsmtp')",
+    "timestamp": "2026-09-07T03:14:21.175455"
+  },
+  {
+    "to": "ranjana@bhaat.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104067b033sm81571656d6.30 - gsmtp')",
+    "timestamp": "2026-09-07T03:15:05.840768"
+  },
+  {
+    "to": "talk@digitalundivided.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104049d30asm82150826d6.0 - gsmtp')",
+    "timestamp": "2026-09-07T03:16:36.224471"
+  },
+  {
+    "to": "abramsrivera.carlos@kraftheinz.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530868ceb68sm12250941cf.29 - gsmtp')",
+    "timestamp": "2026-09-07T03:17:19.589588"
+  },
+  {
+    "to": "nh@tateandlyle.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5308a706a62sm4820801cf.1 - gsmtp')",
+    "timestamp": "2026-09-07T03:18:04.253617"
+  },
+  {
+    "to": "r.mendon\u00e7a@marfrig.com.br",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 17: ordinal not in range(128)",
+    "timestamp": "2026-09-07T03:18:37.052902"
+  },
+  {
+    "to": "snee.james@hormel.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040595c57sm82602226d6.5 - gsmtp')",
+    "timestamp": "2026-09-07T03:19:35.537186"
+  },
+  {
+    "to": "f\u00e1bio@natura.net",
+    "from": "jainakshita876@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-07T03:19:47.003571"
+  },
+  {
+    "to": "paul.bodnar@bezosearthfund.org",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406b3965sm81206096d6.46 - gsmtp')",
+    "timestamp": "2026-09-07T03:20:18.701150"
+  },
+  {
+    "to": "mendon\u00e7a.rui@marfrig.com.br",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 15: ordinal not in range(128)",
+    "timestamp": "2026-09-07T03:20:40.437032"
+  },
+  {
+    "to": "viraj@veeba.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939878ae4a2sm678705585a.16 - gsmtp')",
+    "timestamp": "2026-09-07T03:21:00.521911"
+  },
+  {
+    "to": "mackenzie.scott@amazon.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb678b8sm800495485a.30 - gsmtp')",
+    "timestamp": "2026-09-07T03:22:29.494720"
+  },
+  {
+    "to": "jason@10xvp.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040694c35sm81556026d6.36 - gsmtp')",
+    "timestamp": "2026-09-07T03:23:12.714183"
+  },
+  {
+    "to": "gtec-support@stripe.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939af600829sm60371185a.2 - gsmtp')",
+    "timestamp": "2026-09-07T03:23:56.724863"
+  },
+  {
+    "to": "david.tepper@appaloosa.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104fc73ea5sm32184166d6.39 - gsmtp')",
+    "timestamp": "2026-09-07T03:25:31.415158"
+  },
+  {
+    "to": "vicky.safra@banking.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b0493142sm49749385a.13 - gsmtp')",
+    "timestamp": "2026-09-07T03:26:15.053828"
+  },
+  {
+    "to": "rick.cohen@warehouseautomation.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91053b4992csm23334386d6.22 - gsmtp')",
+    "timestamp": "2026-09-07T03:26:54.304103"
+  },
+  {
+    "to": "bford@landolakesinc.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406b4d46sm81692756d6.45 - gsmtp')",
+    "timestamp": "2026-09-07T03:28:22.698366"
+  },
+  {
+    "to": "dp@mdlz.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910405966f0sm82031426d6.6 - gsmtp')",
+    "timestamp": "2026-09-07T03:29:07.522694"
+  },
+  {
+    "to": "sagar@wowmomo.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040693abbsm82041976d6.37 - gsmtp')",
+    "timestamp": "2026-09-07T03:29:52.253459"
+  },
+  {
+    "to": "investor.relations@molsoncoors.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664677sm81882266d6.23 - gsmtp')",
+    "timestamp": "2026-09-07T03:31:26.966062"
+  },
+  {
+    "to": "sudarshan.maiya@maiyas.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104066f6b9sm81973156d6.24 - gsmtp')",
+    "timestamp": "2026-09-07T03:32:11.890439"
+  },
+  {
+    "to": "b.ford@landolakesinc.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb678b8sm802211885a.30 - gsmtp')",
+    "timestamp": "2026-09-07T03:32:58.524298"
+  },
+  {
+    "to": "gilberto_tomazoni@jbs.com.br",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb380f8sm787666485a.23 - gsmtp')",
+    "timestamp": "2026-09-07T03:34:30.886734"
+  },
+  {
+    "to": "dan.cathy@chickfila.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbe31c6sm791810585a.46 - gsmtp')",
+    "timestamp": "2026-09-07T03:35:20.110697"
+  },
+  {
+    "to": "david.sun@computerhardware.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406bf8c3sm81907256d6.48 - gsmtp')",
+    "timestamp": "2026-09-07T03:36:04.895712"
+  },
+  {
+    "to": "fmcir@fmc.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040694543sm81693066d6.33 - gsmtp')",
+    "timestamp": "2026-09-07T03:37:39.111741"
+  },
+  {
+    "to": "finance@nexusvp.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541c94ddsm78827621cf.23 - gsmtp')",
+    "timestamp": "2026-09-07T03:38:24.851065"
+  },
+  {
+    "to": "pboondoungprasert@cpfworldwide.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91048476220sm53555126d6.31 - gsmtp')",
+    "timestamp": "2026-09-07T03:39:08.032511"
+  },
+  {
+    "to": "user@domain.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939878ae4a2sm681739985a.16 - gsmtp')",
+    "timestamp": "2026-09-07T03:40:35.186356"
+  },
+  {
+    "to": "f\u00e1bio_barbosa@natura.net",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-07T03:40:57.525038"
+  },
+  {
+    "to": "d.king@tyson.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbcc54dsm785293685a.42 - gsmtp')",
+    "timestamp": "2026-09-07T03:41:17.173890"
+  },
+  {
+    "to": "arjun@verlinvest.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91041fa4d65sm76019246d6.15 - gsmtp')",
+    "timestamp": "2026-09-07T03:42:02.144299"
+  },
+  {
+    "to": "corp.sec@venkys.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939aff54ae0sm58711585a.8 - gsmtp')",
+    "timestamp": "2026-09-07T03:43:36.821032"
+  },
+  {
+    "to": "leon.black@privateequity.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406481b4sm82000826d6.17 - gsmtp')",
+    "timestamp": "2026-09-07T03:44:25.547423"
+  },
+  {
+    "to": "krislicht@reckitt.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fafc3a7sm782454285a.14 - gsmtp')",
+    "timestamp": "2026-09-07T03:45:10.348547"
+  },
+  {
+    "to": "bubba.cathy@chickfila.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406625d9sm80703446d6.20 - gsmtp')",
+    "timestamp": "2026-09-07T03:46:43.262706"
+  },
+  {
+    "to": "ankit.agarwal@veeba.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040663a87sm83781226d6.19 - gsmtp')",
+    "timestamp": "2026-09-07T03:47:24.166147"
+  },
+  {
+    "to": "info@adf-foods.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040646d64sm82578746d6.14 - gsmtp')",
+    "timestamp": "2026-09-07T03:48:04.229913"
+  },
+  {
+    "to": "suresh.narayanan@nestle.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305418950fsm77054281cf.20 - gsmtp')",
+    "timestamp": "2026-09-07T03:49:31.711389"
+  },
+  {
+    "to": "fabiosandri@pilgrims.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541c94ddsm79011301cf.23 - gsmtp')",
+    "timestamp": "2026-09-07T03:50:18.285789"
+  },
+  {
+    "to": "rizwan@aldanube.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104067b125sm82334576d6.29 - gsmtp')",
+    "timestamp": "2026-09-07T03:51:07.239462"
+  },
+  {
+    "to": "info@bikanervala.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5308a706a62sm5373641cf.1 - gsmtp')",
+    "timestamp": "2026-09-07T03:52:38.097690"
+  },
+  {
+    "to": "barbosa.f\u00e1bio@natura.net",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb303b8sm815863485a.20 - gsmtp')",
+    "timestamp": "2026-09-07T03:53:24.172200"
+  },
+  {
+    "to": "renata.kellnerova@financetelecommunications.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406484ddsm82547296d6.16 - gsmtp')",
+    "timestamp": "2026-09-07T03:54:07.850492"
+  },
+  {
+    "to": "hello@debutcapital.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939af600829sm65208785a.2 - gsmtp')",
+    "timestamp": "2026-09-07T03:55:39.500850"
+  },
+  {
+    "to": "sfbl@squaregroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b0aa9a29sm47094985a.7 - gsmtp')",
+    "timestamp": "2026-09-07T03:56:23.417252"
+  },
+  {
+    "to": "customercare@parle.biz",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939878ae4a2sm684186485a.16 - gsmtp')",
+    "timestamp": "2026-09-07T03:57:03.602076"
+  },
+  {
+    "to": "john.doerr@venturecapital.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664677sm82294646d6.23 - gsmtp')",
+    "timestamp": "2026-09-07T03:58:28.994525"
+  },
+  {
+    "to": "carstenknobel@henkel.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054116933sm77918841cf.7 - gsmtp')",
+    "timestamp": "2026-09-07T03:59:17.050338"
+  },
+  {
+    "to": "savitri.jindal@steel.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664474sm83874446d6.21 - gsmtp')",
+    "timestamp": "2026-09-07T04:00:00.037478"
+  },
+  {
+    "to": "musthafa@idfreshfood.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91048476220sm53891976d6.31 - gsmtp')",
+    "timestamp": "2026-09-07T04:01:34.056203"
+  },
+  {
+    "to": "mp@jefferies.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104064a2f8sm82040716d6.12 - gsmtp')",
+    "timestamp": "2026-09-07T04:02:17.997707"
+  },
+  {
+    "to": "m.johnson@herbalife.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93988e9f80dsm657839585a.24 - gsmtp')",
+    "timestamp": "2026-09-07T04:03:00.886071"
+  },
+  {
+    "to": "gh@bunge.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305402a7b7sm78093401cf.3 - gsmtp')",
+    "timestamp": "2026-09-07T04:04:32.988111"
+  },
+  {
+    "to": "ruimendon\u00e7a@marfrig.com.br",
+    "from": "techxp.kunaljain@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 18: ordinal not in range(128)",
+    "timestamp": "2026-09-07T04:05:05.830273"
+  },
+  {
+    "to": "markclouse@campbells.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406871b6sm84041716d6.32 - gsmtp')",
+    "timestamp": "2026-09-07T04:05:17.862880"
+  },
+  {
+    "to": "vincent_warnery@beiersdorf.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b39dc1d4sm5952485a.47 - gsmtp')",
+    "timestamp": "2026-09-07T04:06:04.706224"
+  },
+  {
+    "to": "devashish.lodha@premjiinvest.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91058416847sm14938466d6.4 - gsmtp')",
+    "timestamp": "2026-09-07T04:07:36.036244"
+  },
+  {
+    "to": "info@kanoogroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054116c54sm78485131cf.5 - gsmtp')",
+    "timestamp": "2026-09-07T04:08:23.485416"
+  },
+  {
+    "to": "wolfgang@lonza.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054116c54sm78497441cf.5 - gsmtp')",
+    "timestamp": "2026-09-07T04:09:05.805220"
+  },
+  {
+    "to": "info.afbl@akij.net",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939878ae4a2sm686422585a.16 - gsmtp')",
+    "timestamp": "2026-09-07T04:10:33.736395"
+  },
+  {
+    "to": "info@khoslaventures.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406af144sm82426556d6.40 - gsmtp')",
+    "timestamp": "2026-09-07T04:11:19.571338"
+  },
+  {
+    "to": "podravka@podravka.hr",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb9bac1sm790204285a.35 - gsmtp')",
+    "timestamp": "2026-09-07T04:12:04.192652"
+  },
+  {
+    "to": "f.barbosa@natura.net",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-9104067b099sm82668716d6.28 - gsmtp')",
+    "timestamp": "2026-09-07T04:13:30.240679"
+  },
+  {
+    "to": "gavinhattersley@molsoncoors.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040647715sm82151916d6.10 - gsmtp')",
+    "timestamp": "2026-09-07T04:14:09.431915"
+  },
+  {
+    "to": "aarup-andersen.jacob@carlsberggroup.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305402a7b7sm78262951cf.3 - gsmtp')",
+    "timestamp": "2026-09-07T04:14:51.148506"
+  },
+  {
+    "to": "newlands.william@cbrands.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305402a908sm78338961cf.4 - gsmtp')",
+    "timestamp": "2026-09-07T04:16:26.328148"
+  },
+  {
+    "to": "vladimir.lisin@steeltransport.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305418950fsm77484861cf.20 - gsmtp')",
+    "timestamp": "2026-09-07T04:17:08.890119"
+  },
+  {
+    "to": "brendan@mccormick.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939af600829sm68774085a.2 - gsmtp')",
+    "timestamp": "2026-09-07T04:17:50.379820"
+  },
+  {
+    "to": "jabri@mbpetroleum.co.om",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5308a706a62sm5797851cf.1 - gsmtp')",
+    "timestamp": "2026-09-07T04:19:21.928343"
+  },
+  {
+    "to": "wienand.wolfgang@lonza.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054180b8fsm77460071cf.17 - gsmtp')",
+    "timestamp": "2026-09-07T04:20:06.690199"
+  },
+  {
+    "to": "j.snee@hormel.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91058416847sm15141076d6.4 - gsmtp')",
+    "timestamp": "2026-09-07T04:20:48.549170"
+  },
+  {
+    "to": "info@sentiero.vc",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406481b4sm82578776d6.17 - gsmtp')",
+    "timestamp": "2026-09-07T04:22:21.916640"
+  },
+  {
+    "to": "meghan@breakthroughenergy.org",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b0493142sm58501985a.13 - gsmtp')",
+    "timestamp": "2026-09-07T04:23:09.709847"
+  },
+  {
+    "to": "ir@symrise.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b39dc1d4sm8768085a.47 - gsmtp')",
+    "timestamp": "2026-09-07T04:23:54.153875"
+  },
+  {
+    "to": "rui.mendon\u00e7a@marfrig.com.br",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397f9f151esm790157385a.6 - gsmtp')",
+    "timestamp": "2026-09-07T04:25:29.623718"
+  },
+  {
+    "to": "melinda.gates@microsoft.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939ac8870a5sm124128385a.12 - gsmtp')",
+    "timestamp": "2026-09-07T04:26:11.177220"
+  },
+  {
+    "to": "steve@emersoncollective.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040647592sm82861086d6.13 - gsmtp')",
+    "timestamp": "2026-09-07T04:26:56.708551"
+  },
+  {
+    "to": "jack.dangermond@mappingsoftware.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413de31sm78602351cf.13 - gsmtp')",
+    "timestamp": "2026-09-07T04:28:25.965423"
+  },
+  {
+    "to": "meghana@slurrpfarm.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406871b6sm84413816d6.32 - gsmtp')",
+    "timestamp": "2026-09-07T04:29:10.201054"
+  },
+  {
+    "to": "sunil.mittal@telecom.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406bbb79sm82618226d6.47 - gsmtp')",
+    "timestamp": "2026-09-07T04:29:51.450826"
+  },
+  {
+    "to": "jl@adm.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbb70f1sm808308585a.40 - gsmtp')",
+    "timestamp": "2026-09-07T04:31:26.736752"
+  },
+  {
+    "to": "wd@hain.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305402a908sm78575431cf.4 - gsmtp')",
+    "timestamp": "2026-09-07T04:32:07.128210"
+  },
+  {
+    "to": "joe@8vc.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413de31sm78674281cf.13 - gsmtp')",
+    "timestamp": "2026-09-07T04:32:54.295095"
+  },
+  {
+    "to": "prajogo.pangestu@roche.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93988e9f80dsm662868485a.24 - gsmtp')",
+    "timestamp": "2026-09-07T04:34:25.027933"
+  },
+  {
+    "to": "takeshi.niinami@suntory.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb33619sm794331185a.22 - gsmtp')",
+    "timestamp": "2026-09-07T04:35:04.891167"
+  },
+  {
+    "to": "g.heckman@bunge.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054180b0asm78186241cf.19 - gsmtp')",
+    "timestamp": "2026-09-07T04:35:47.594382"
+  },
+  {
+    "to": "thiraphong.chansiri@thaiunion.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040673ce0sm84570056d6.25 - gsmtp')",
+    "timestamp": "2026-09-07T04:37:19.585970"
+  },
+  {
+    "to": "ann.kroenke@walmart.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397f9f4b3csm791603385a.5 - gsmtp')",
+    "timestamp": "2026-09-07T04:38:03.123302"
+  },
+  {
+    "to": "marriott.macy@straydogcapital.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406afe48sm82452646d6.43 - gsmtp')",
+    "timestamp": "2026-09-07T04:38:41.648018"
+  },
+  {
+    "to": "info@isconbalajifoods.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb2fd82sm793778985a.17 - gsmtp')",
+    "timestamp": "2026-09-07T04:40:17.168011"
+  },
+  {
+    "to": "stevecahillane@kellanova.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9399429b97esm498779985a.29 - gsmtp')",
+    "timestamp": "2026-09-07T04:41:04.661168"
+  },
+  {
+    "to": "wang.chuanfu@batteriesautomobiles.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054117eb4sm79112061cf.8 - gsmtp')",
+    "timestamp": "2026-09-07T04:41:45.220758"
+  },
+  {
+    "to": "bf@mccormick.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054117eb4sm79133881cf.8 - gsmtp')",
+    "timestamp": "2026-09-07T04:43:14.515574"
+  },
+  {
+    "to": "shig@ajinomoto.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbb70f1sm810229285a.40 - gsmtp')",
+    "timestamp": "2026-09-07T04:44:02.423254"
+  },
+  {
+    "to": "schumacher.hein@unilever.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541436b1sm78819731cf.12 - gsmtp')",
+    "timestamp": "2026-09-07T04:44:45.504905"
+  },
+  {
+    "to": "quincey.james@coca-cola.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbaaa33sm792962985a.39 - gsmtp')",
+    "timestamp": "2026-09-07T04:46:16.901389"
+  },
+  {
+    "to": "info.bralirwa@heineken.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b39dc1d4sm12352885a.47 - gsmtp')",
+    "timestamp": "2026-09-07T04:47:03.136457"
+  },
+  {
+    "to": "jaydeep.barman@rebelfoods.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fbe31c6sm802951085a.46 - gsmtp')",
+    "timestamp": "2026-09-07T04:47:49.887661"
+  },
+  {
+    "to": "fsandri@pilgrims.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-93988e9f80dsm665121385a.24 - gsmtp')",
+    "timestamp": "2026-09-07T04:49:24.486913"
+  },
+  {
+    "to": "alexei.levene@gmail.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fba2c3esm792717585a.36 - gsmtp')",
+    "timestamp": "2026-09-07T04:50:09.382147"
+  },
+  {
+    "to": "am@wisynco.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406481b4sm83023846d6.17 - gsmtp')",
+    "timestamp": "2026-09-07T04:50:51.441259"
+  },
+  {
+    "to": "f\u00e1biobarbosa@natura.net",
+    "from": "teambrandvibes@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-07T04:52:01.862117"
+  },
+  {
+    "to": "rohini.paniker1@adityabirlacapital.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939aff54ae0sm69402985a.8 - gsmtp')",
+    "timestamp": "2026-09-07T04:52:23.810761"
+  },
+  {
+    "to": "deepak.agarwal@bikaji.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305413d7f8sm77952191cf.14 - gsmtp')",
+    "timestamp": "2026-09-07T04:53:09.047145"
+  },
+  {
+    "to": "i.sivaprasad@meity.gov.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9398c498610sm622877885a.43 - gsmtp')",
+    "timestamp": "2026-09-07T04:53:52.789446"
+  },
+  {
+    "to": "khong@wilmar-international.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054180b0asm78493291cf.19 - gsmtp')",
+    "timestamp": "2026-09-07T04:55:30.975605"
+  },
+  {
+    "to": "contactus@cultiviansbx.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb59c72sm792934385a.26 - gsmtp')",
+    "timestamp": "2026-09-07T04:56:18.002405"
+  },
+  {
+    "to": "leah.tata@tajhotels.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-530541992e4sm78437101cf.21 - gsmtp')",
+    "timestamp": "2026-09-07T04:57:02.240277"
+  },
+  {
+    "to": "investor.relations@bikaji.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664677sm83233496d6.23 - gsmtp')",
+    "timestamp": "2026-09-07T04:58:30.892180"
+  },
+  {
+    "to": "pkivits@sealedair.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040595f81sm83446276d6.2 - gsmtp')",
+    "timestamp": "2026-09-07T04:59:14.022069"
+  },
+  {
+    "to": "beate.heister@supermarkets.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9399429b97esm501687185a.29 - gsmtp')",
+    "timestamp": "2026-09-07T04:59:59.449086"
+  },
+  {
+    "to": "bc@polarispartners.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040647715sm82883026d6.10 - gsmtp')",
+    "timestamp": "2026-09-07T05:01:22.900189"
+  },
+  {
+    "to": "juanluciano@adm.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397f9f151esm795902585a.6 - gsmtp')",
+    "timestamp": "2026-09-07T05:02:06.293447"
+  },
+  {
+    "to": "info@dagventures.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040693abbsm83491746d6.37 - gsmtp')",
+    "timestamp": "2026-09-07T05:02:47.344180"
+  },
+  {
+    "to": "bipin.hadhwani@gopalfoods.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664677sm83327856d6.23 - gsmtp')",
+    "timestamp": "2026-09-07T05:04:25.745202"
+  },
+  {
+    "to": "s.cahillane@kellanova.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53054116c5fsm78407901cf.10 - gsmtp')",
+    "timestamp": "2026-09-07T05:05:13.397067"
+  },
+  {
+    "to": "investor_relations@colpal.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406bbb79sm83193516d6.47 - gsmtp')",
+    "timestamp": "2026-09-07T05:05:57.377874"
+  },
+  {
+    "to": "li.li@pharmaceuticals.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-939b39dc1d4sm15560285a.47 - gsmtp')",
+    "timestamp": "2026-09-07T05:07:24.882546"
+  },
+  {
+    "to": "robert.pera@wirelessnetworking.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-910406475f5sm82077476d6.9 - gsmtp')",
+    "timestamp": "2026-09-07T05:08:09.656788"
+  },
+  {
+    "to": "procurement@vlcspices.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-53088a9043asm9212451cf.27 - gsmtp')",
+    "timestamp": "2026-09-07T05:08:56.428620"
+  },
+  {
+    "to": "wang.wei@packagedelivery.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired af79cd13be357-9397fb678b8sm817280385a.30 - gsmtp')",
+    "timestamp": "2026-09-07T05:10:17.565529"
+  },
+  {
+    "to": "bharat@yufoodlabs.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired d75a77b69052e-5305414a36bsm78478061cf.16 - gsmtp')",
+    "timestamp": "2026-09-07T05:11:06.205294"
+  },
+  {
+    "to": "osamu.mogi@kikkoman.co.jp",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040679e13sm83335176d6.26 - gsmtp')",
+    "timestamp": "2026-09-07T05:11:46.341383"
+  },
+  {
+    "to": "ls@saputo.com",
+    "from": "hydronext6@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 6a1803df08f44-91040664be1sm83160386d6.18 - gsmtp')",
+    "timestamp": "2026-09-07T05:13:11.331164"
+  }
+]
