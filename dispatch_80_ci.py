@@ -26,6 +26,12 @@ MAX_PER_SMTP = 80
 
 RAW_PRIORITY = [
     "rnt@rntassociates.com",
+    "chairman@sebi.gov.in",
+    "kamlesh.varshney@sebi.gov.in",
+    "kvrmurty@sebi.gov.in",
+    "boardcell@sebi.gov.in",
+    "secy-dea@nic.in",
+    "dgscm@rbi.org.in",
     "ashutosh.singh@bseindia.com",
     "ashutoshds@rediffmail.com",
     "sundararamanram@gmail.com",
