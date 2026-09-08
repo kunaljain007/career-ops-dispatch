@@ -130,10 +130,9 @@
     "status": "sent"
   },
   "wei.lidong@software.com": {
-    "timestamp": "2026-07-01T06:03:06.235Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T11:59:11.683Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:10:49.467041",
+    "seq": 2,
+    "status": "sent"
   },
   "zhu.zhaojiang@smartphones.com": {
     "last_sent": "2026-09-06T01:50:17.277602",
@@ -487,16 +486,14 @@
     "status": "sent"
   },
   "li.li@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T06:26:14.031Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:05:56.133Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:24:17.210142",
+    "seq": 2,
+    "status": "sent"
   },
   "susan.holland@hearingaids.com": {
-    "timestamp": "2026-07-01T06:26:33.095Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:05:47.217Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:11:38.936664",
+    "seq": 2,
+    "status": "sent"
   },
   "vladimir.melnikov@fastfashion.com": {
     "last_sent": "2026-09-06T04:44:55.404786",
@@ -529,10 +526,9 @@
     "status": "sent"
   },
   "user@domain.com": {
-    "timestamp": "2026-07-01T06:28:45.599Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:05:53.743Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T04:51:15.317346",
+    "seq": 2,
+    "status": "sent"
   },
   "xu.shijun@manufacturing.com": {
     "last_sent": "2026-09-06T05:20:11.593850",
@@ -620,10 +616,9 @@
     "status": "sent"
   },
   "contactus@cultiviansbx.com": {
-    "timestamp": "2026-07-01T06:34:30.929Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:07:38.387Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T04:58:33.320269",
+    "seq": 2,
+    "status": "sent"
   },
   "trae.stephens@defensetechnology.com": {
     "last_sent": "2026-09-06T01:52:28.719935",
@@ -886,10 +881,9 @@
     "status": "sent"
   },
   "info@dagventures.com": {
-    "timestamp": "2026-07-01T06:51:44.043Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:12:48.371Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T03:23:48.848138",
+    "seq": 2,
+    "status": "sent"
   },
   "info@divayoga.in": {
     "last_sent": "2026-09-06T02:05:04.744254",
@@ -1267,10 +1261,9 @@
     "status": "sent"
   },
   "stephen.schwarzman@investments.com": {
-    "timestamp": "2026-07-01T07:17:33.586Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:20:01.232Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:01:26.796322",
+    "seq": 2,
+    "status": "sent"
   },
   "hello@debutcapital.com": {
     "timestamp": "2026-07-01T07:17:52.766Z",
@@ -1299,10 +1292,9 @@
     "status": "sent"
   },
   "savitri.jindal@steel.com": {
-    "timestamp": "2026-07-01T07:19:28.138Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:20:27.421Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:34:46.779433",
+    "seq": 2,
+    "status": "sent"
   },
   "alexey.mordashov@steelinvestments.com": {
     "last_sent": "2026-09-07T02:05:38.957860",
@@ -1340,10 +1332,9 @@
     "status": "sent"
   },
   "colin.huang@ecommerce.com": {
-    "timestamp": "2026-07-01T07:22:02.485Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:21:49.887Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:43:36.353000",
+    "seq": 2,
+    "status": "sent"
   },
   "zheng.shuliang@aluminumproducts.com": {
     "last_sent": "2026-09-07T04:56:42.242816",
@@ -1361,10 +1352,9 @@
     "status": "sent"
   },
   "mackenzie.scott@amazon.com": {
-    "timestamp": "2026-07-01T07:23:18.453Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:22:47.807Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:46:18.928821",
+    "seq": 2,
+    "status": "sent"
   },
   "lyndal.greth@oilgas.com": {
     "last_sent": "2026-09-07T04:57:24.303446",
@@ -1382,16 +1372,14 @@
     "status": "sent"
   },
   "melinda.gates@microsoft.com": {
-    "timestamp": "2026-07-01T07:24:40.398Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:22:03.606Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:38:16.726503",
+    "seq": 2,
+    "status": "sent"
   },
   "robert.pera@wirelessnetworking.com": {
-    "timestamp": "2026-07-01T07:25:06.918Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:23:09.019Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:22:12.879387",
+    "seq": 2,
+    "status": "sent"
   },
   "vladimir.potanin@meta.com": {
     "last_sent": "2026-09-07T02:31:27.864147",
@@ -1419,10 +1407,9 @@
     "status": "sent"
   },
   "rick.cohen@warehouseautomation.com": {
-    "timestamp": "2026-07-01T07:27:02.833Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:23:05.288Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:30:27.460087",
+    "seq": 2,
+    "status": "sent"
   },
   "investor@demea-si.com": {
     "last_sent": "2026-09-07T04:38:32.531936",
@@ -1465,10 +1452,9 @@
     "status": "sent"
   },
   "vicky.safra@banking.com": {
-    "timestamp": "2026-07-01T07:29:58.160Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:23:58.253Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:24:34.971815",
+    "seq": 2,
+    "status": "sent"
   },
   "emmanuel.besnier@cheese.com": {
     "last_sent": "2026-09-07T01:53:26.918681",
@@ -1527,10 +1513,9 @@
     "status": "sent"
   },
   "vladimir.lisin@steeltransport.com": {
-    "timestamp": "2026-07-01T07:34:26.253Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:44.536Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:06:17.770912",
+    "seq": 2,
+    "status": "sent"
   },
   "christy.walton@walmart.com": {
     "last_sent": "2026-09-07T02:31:01.606158",
@@ -1548,10 +1533,9 @@
     "status": "sent"
   },
   "ernest.garcia@usedcars.com": {
-    "timestamp": "2026-07-01T07:36:01.278Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:25:28.569Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:29:30.815623",
+    "seq": 2,
+    "status": "sent"
   },
   "dilip.shanghvi@pharmaceuticals.com": {
     "last_sent": "2026-09-07T04:07:15.133006",
@@ -1559,10 +1543,9 @@
     "status": "sent"
   },
   "prajogo.pangestu@roche.com": {
-    "timestamp": "2026-07-01T07:36:49.551Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:25:13.528Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:33:52.520011",
+    "seq": 2,
+    "status": "sent"
   },
   "info@cmont.com": {
     "last_sent": "2026-09-07T02:58:30.728762",
@@ -1570,10 +1553,9 @@
     "status": "sent"
   },
   "rupert.murdoch@newspapers.com": {
-    "timestamp": "2026-07-01T07:37:33.861Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:25:38.387Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:18:19.968017",
+    "seq": 2,
+    "status": "sent"
   },
   "gennady.timchenko@oilgas.com": {
     "last_sent": "2026-09-07T03:47:33.753151",
@@ -1581,10 +1563,9 @@
     "status": "sent"
   },
   "wang.chuanfu@batteriesautomobiles.com": {
-    "timestamp": "2026-07-01T07:38:13.749Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:26.233Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:21:25.605678",
+    "seq": 2,
+    "status": "sent"
   },
   "harry.triguboff@realestate.com": {
     "last_sent": "2026-09-07T01:26:12.616674",
@@ -1592,16 +1573,14 @@
     "status": "sent"
   },
   "david.tepper@appaloosa.com": {
-    "timestamp": "2026-07-01T07:39:03.779Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:10.037Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:19:17.918348",
+    "seq": 2,
+    "status": "sent"
   },
   "john.tu@computerhardware.com": {
-    "timestamp": "2026-07-01T07:39:27.879Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:40.588Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:35:40.466004",
+    "seq": 2,
+    "status": "sent"
   },
   "steve.cohen@point72.com": {
     "last_sent": "2026-09-07T01:43:06.206987",
@@ -1614,28 +1593,24 @@
     "status": "sent"
   },
   "david.sun@computerhardware.com": {
-    "timestamp": "2026-07-01T07:40:32.415Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:08.832Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:14:50.817694",
+    "seq": 2,
+    "status": "sent"
   },
   "diane.hendricks@buildingsupplies.com": {
-    "timestamp": "2026-07-01T07:40:53.168Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:33.853Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:36:40.079146",
+    "seq": 2,
+    "status": "sent"
   },
   "john.doerr@venturecapital.com": {
-    "timestamp": "2026-07-01T07:41:12.357Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:38.078Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:43:36.773508",
+    "seq": 2,
+    "status": "sent"
   },
   "stefan.persson@hm.com": {
-    "timestamp": "2026-07-01T07:41:31.770Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:26:26.019Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:55:40.067363",
+    "seq": 2,
+    "status": "sent"
   },
   "stanley.kroenke@sports.com": {
     "last_sent": "2026-09-07T01:31:29.212721",
@@ -1698,10 +1673,9 @@
     "status": "sent"
   },
   "info@woodbridge.com": {
-    "timestamp": "2026-07-01T07:45:43.020Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:28:12.024Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:59:39.513041",
+    "seq": 2,
+    "status": "sent"
   },
   "talk@digitalundivided.com": {
     "timestamp": "2026-07-01T07:46:02.818Z",
@@ -1720,10 +1694,9 @@
     "status": "sent"
   },
   "info@dfomgt.com": {
-    "timestamp": "2026-07-01T07:46:58.239Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:28:21.889Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:52:25.455827",
+    "seq": 2,
+    "status": "sent"
   },
   "info@pontegadea.com": {
     "last_sent": "2026-09-07T02:39:36.393072",
@@ -1731,10 +1704,9 @@
     "status": "sent"
   },
   "renata.kellnerova@financetelecommunications.com": {
-    "timestamp": "2026-07-01T07:47:35.306Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:28:36.691Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:47:36.589447",
+    "seq": 2,
+    "status": "sent"
   },
   "kwong.siuhing@realestate.com": {
     "last_sent": "2026-09-07T01:46:16.362756",
@@ -1777,10 +1749,9 @@
     "status": "sent"
   },
   "torstein.hagen@cruises.com": {
-    "timestamp": "2026-07-01T07:50:30.795Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:29:27.723Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:35:37.732267",
+    "seq": 2,
+    "status": "sent"
   },
   "info@divinc.org": {
     "last_sent": "2026-09-07T01:32:34.519370",
@@ -1788,10 +1759,9 @@
     "status": "sent"
   },
   "info@airstreet.com": {
-    "timestamp": "2026-07-01T07:51:32.300Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:30:16.240Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:44:12.215917",
+    "seq": 2,
+    "status": "sent"
   },
   "takemitsu.takizaki@sensors.com": {
     "last_sent": "2026-09-07T04:16:37.259779",
@@ -1814,10 +1784,9 @@
     "status": "sent"
   },
   "beate.heister@supermarkets.com": {
-    "timestamp": "2026-07-01T07:53:13.603Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:30:11.950Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:18:47.114268",
+    "seq": 2,
+    "status": "sent"
   },
   "info@leaders.vc": {
     "last_sent": "2026-09-07T02:27:08.686723",
@@ -1856,10 +1825,9 @@
     "status": "sent"
   },
   "info@khoslaventures.com": {
-    "timestamp": "2026-07-01T07:56:23.512Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:31:05.562Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:22:02.567383",
+    "seq": 2,
+    "status": "sent"
   },
   "info@ivp.com": {
     "last_sent": "2026-09-07T03:53:45.400396",
@@ -2027,10 +1995,9 @@
     "status": "sent"
   },
   "wang.wei@packagedelivery.com": {
-    "timestamp": "2026-07-01T08:07:54.708Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:36:03.894Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:35:12.201992",
+    "seq": 2,
+    "status": "sent"
   },
   "peter.mallouk@wealthplanning.com": {
     "last_sent": "2026-09-07T04:39:30.531139",
@@ -2038,10 +2005,9 @@
     "status": "sent"
   },
   "harold.hamm@oilgas.com": {
-    "timestamp": "2026-07-01T08:08:33.072Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:35:02.210Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:03:44.821160",
+    "seq": 2,
+    "status": "sent"
   },
   "sarath.ratanavadi@energy.com": {
     "last_sent": "2026-09-07T03:59:26.891247",
@@ -2059,10 +2025,9 @@
     "status": "sent"
   },
   "jack.dangermond@mappingsoftware.com": {
-    "timestamp": "2026-07-01T08:10:22.465Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:35:13.468Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:49:25.319776",
+    "seq": 2,
+    "status": "sent"
   },
   "robert.duggan@pharmaceuticals.com": {
     "last_sent": "2026-09-07T02:46:11.769160",
@@ -2125,10 +2090,9 @@
     "status": "sent"
   },
   "james.dyson@vacuums.com": {
-    "timestamp": "2026-07-01T08:15:06.931Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:37:10.668Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:45:17.004147",
+    "seq": 2,
+    "status": "sent"
   },
   "zou.zhinong@telecomequipment.com": {
     "last_sent": "2026-09-07T03:47:42.892886",
@@ -2136,10 +2100,9 @@
     "status": "sent"
   },
   "ann.kroenke@walmart.com": {
-    "timestamp": "2026-07-01T08:15:54.776Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:36:11.935Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:09:39.271805",
+    "seq": 2,
+    "status": "sent"
   },
   "wang.laisheng@electronicscomponents.com": {
     "last_sent": "2026-09-07T04:34:56.239797",
@@ -2162,10 +2125,9 @@
     "status": "sent"
   },
   "wang.laichun@electronicscomponents.com": {
-    "timestamp": "2026-07-01T08:17:42.931Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:37:04.101Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:33:58.390358",
+    "seq": 2,
+    "status": "sent"
   },
   "alisher.usmanov@steel.com": {
     "last_sent": "2026-09-07T04:42:07.631702",
@@ -2223,10 +2185,9 @@
     "status": "sent"
   },
   "abdulsamad.rabiu@cementsugar.com": {
-    "timestamp": "2026-07-01T08:21:30.497Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:38:32.901Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:47:49.720615",
+    "seq": 2,
+    "status": "sent"
   },
   "info@drawdownfund.com": {
     "last_sent": "2026-09-07T03:24:33.888247",
@@ -2244,16 +2205,14 @@
     "status": "sent"
   },
   "george.roberts@privateequity.com": {
-    "timestamp": "2026-07-01T08:22:42.903Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:38:27.193Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:21:06.631601",
+    "seq": 2,
+    "status": "sent"
   },
   "sunil.mittal@telecom.com": {
-    "timestamp": "2026-07-01T08:23:01.744Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:39:18.288Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:48:01.221965",
+    "seq": 2,
+    "status": "sent"
   },
   "james.goodnight@software.com": {
     "last_sent": "2026-09-07T04:28:37.838302",
@@ -2296,10 +2255,9 @@
     "status": "sent"
   },
   "ken.fisher@moneymanagement.com": {
-    "timestamp": "2026-07-01T08:25:57.232Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:39:32.268Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:46:32.847668",
+    "seq": 2,
+    "status": "sent"
   },
   "info@e8angels.com": {
     "last_sent": "2026-09-07T02:03:49.268050",
@@ -2312,22 +2270,19 @@
     "status": "sent"
   },
   "leon.black@privateequity.com": {
-    "timestamp": "2026-07-01T08:26:54.071Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:40:14.610Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:16:25.501916",
+    "seq": 2,
+    "status": "sent"
   },
   "dan.cathy@chickfila.com": {
-    "timestamp": "2026-07-01T08:27:12.668Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:40:35.715Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:23:31.404286",
+    "seq": 2,
+    "status": "sent"
   },
   "bubba.cathy@chickfila.com": {
-    "timestamp": "2026-07-01T08:27:30.689Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:40:18.777Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:58:42.250976",
+    "seq": 2,
+    "status": "sent"
   },
   "j.reyes@fooddistribution.com": {
     "last_sent": "2026-09-07T03:38:57.137705",
@@ -2355,88 +2310,74 @@
     "status": "sent"
   },
   "info@generalcatalyst.com": {
-    "timestamp": "2026-07-01T11:24:02.612Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:31:32.296Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:58:21.742866",
+    "seq": 2,
+    "status": "sent"
   },
   "example@mysite.com": {
-    "timestamp": "2026-07-01T11:24:21.244Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:40:45.427Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T05:05:41.289276",
+    "seq": 2,
+    "status": "sent"
   },
   "cao.renxian@photovoltaicequipment.com": {
-    "timestamp": "2026-07-01T11:24:38.880Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:40:55.355Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:53:35.017811",
+    "seq": 2,
+    "status": "sent"
   },
   "wang.ning@toys.com": {
-    "timestamp": "2026-07-01T11:25:18.929Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:40:53.707Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:49:52.220400",
+    "seq": 2,
+    "status": "sent"
   },
   "zhu.yi@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T11:25:40.710Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:20.146Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:33:21.096105",
+    "seq": 2,
+    "status": "sent"
   },
   "uday.kotak@banking.com": {
-    "timestamp": "2026-07-01T11:26:00.279Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:50.636Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:51:14.517539",
+    "seq": 2,
+    "status": "sent"
   },
   "charles.schwab@schwab.com": {
-    "timestamp": "2026-07-01T11:26:23.807Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:03.535Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:54:55.327437",
+    "seq": 2,
+    "status": "sent"
   },
   "sandra.mera@zara.com": {
-    "timestamp": "2026-07-01T11:26:43.385Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:06.814Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:40:32.538092",
+    "seq": 2,
+    "status": "sent"
   },
   "richard.kinder@pipelines.com": {
-    "timestamp": "2026-07-01T11:27:00.304Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:28.418Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:19:42.517859",
+    "seq": 2,
+    "status": "sent"
   },
   "sun.piaoyang@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T11:27:19.368Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:52.513Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:53:28.830017",
+    "seq": 2,
+    "status": "sent"
   },
   "chris.larsen@ripple.com": {
-    "timestamp": "2026-07-01T11:27:39.468Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:49.022Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:14:01.978228",
+    "seq": 2,
+    "status": "sent"
   },
   "hasso.plattner@software.com": {
-    "timestamp": "2026-07-01T11:28:06.627Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:41:34.831Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:40:33.295443",
+    "seq": 2,
+    "status": "sent"
   },
   "david.steward@itprovider.com": {
-    "timestamp": "2026-07-01T11:28:25.777Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:22.562Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:14:13.790770",
+    "seq": 2,
+    "status": "sent"
   },
   "michael.sabel@oilgas.com": {
-    "timestamp": "2026-07-01T11:28:45.803Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:20.327Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:17:36.481131",
+    "seq": 2,
+    "status": "sent"
   },
   "robert.pender@oilgas.com": {
     "timestamp": "2026-07-01T11:29:05.432Z",
@@ -2445,52 +2386,44 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "andrew.beal@banks.com": {
-    "timestamp": "2026-07-01T11:29:29.475Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:00.081Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:07:03.071937",
+    "seq": 2,
+    "status": "sent"
   },
   "pierre.omidyar@paypal.com": {
-    "timestamp": "2026-07-01T11:30:38.020Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:13.385Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:50:44.234787",
+    "seq": 2,
+    "status": "sent"
   },
   "ravi.jaipuria@soft.com": {
-    "timestamp": "2026-07-01T11:31:01.314Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:16.197Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:17:25.906838",
+    "seq": 2,
+    "status": "sent"
   },
   "francine.finck@investments.com": {
-    "timestamp": "2026-07-01T11:31:22.603Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:33.897Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:49:23.557696",
+    "seq": 2,
+    "status": "sent"
   },
   "info@electra.earth": {
-    "timestamp": "2026-07-01T11:31:41.941Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:20.186Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T03:34:45.749371",
+    "seq": 2,
+    "status": "sent"
   },
   "kushal.singh@realestate.com": {
-    "timestamp": "2026-07-01T11:32:01.819Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:54.071Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:54:24.768617",
+    "seq": 2,
+    "status": "sent"
   },
   "jim.pattison@jimmypattison.com": {
-    "timestamp": "2026-07-01T11:32:20.297Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:29.507Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:26:50.794733",
+    "seq": 2,
+    "status": "sent"
   },
   "alexander.gerko@trading.com": {
-    "timestamp": "2026-07-01T11:32:42.766Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:12.587Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:40:56.118024",
+    "seq": 2,
+    "status": "sent"
   },
   "viatcheslav.kantor@fertilizer.com": {
     "timestamp": "2026-07-01T11:33:07.920Z",
@@ -2499,28 +2432,24 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "zhang.hejun@electronics.com": {
-    "timestamp": "2026-07-01T11:33:56.539Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:57.393Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:13:07.551010",
+    "seq": 2,
+    "status": "sent"
   },
   "andreas.struengmann@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T11:34:18.963Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:36.733Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:20:16.534788",
+    "seq": 2,
+    "status": "sent"
   },
   "thomas.struengmann@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T11:34:38.343Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:42.888Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:50:28.459708",
+    "seq": 2,
+    "status": "sent"
   },
   "finn.rausing@packaging.com": {
-    "timestamp": "2026-07-01T11:34:58.060Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:35.027Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:00:19.988671",
+    "seq": 2,
+    "status": "sent"
   },
   "ernesto.bertarelli@biotechinvestments.com": {
     "timestamp": "2026-07-01T11:35:40.189Z",
@@ -2529,10 +2458,9 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "jorn.rausing@packaging.com": {
-    "timestamp": "2026-07-01T11:36:06.130Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:58.510Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:57:30.523937",
+    "seq": 2,
+    "status": "sent"
   },
   "hello@earthshot.vc": {
     "timestamp": "2026-07-01T11:36:29.138Z",
@@ -2541,16 +2469,14 @@
     "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
   },
   "kirsten.rausing@packaging.com": {
-    "timestamp": "2026-07-01T11:36:48.879Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:52.334Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:27:25.823166",
+    "seq": 2,
+    "status": "sent"
   },
   "mark.stevens@venturecapital.com": {
-    "timestamp": "2026-07-01T11:37:15.544Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:23.723Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:31:15.144641",
+    "seq": 2,
+    "status": "sent"
   },
   "charlie.mills@medicalsupplies.com": {
     "timestamp": "2026-07-01T11:37:35.820Z",
@@ -2559,22 +2485,19 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "chen.tao@hardware.com": {
-    "timestamp": "2026-07-01T11:37:58.371Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:58.371Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:39:35.860821",
+    "seq": 2,
+    "status": "sent"
   },
   "dan.friedkin@toyota.com": {
-    "timestamp": "2026-07-01T11:38:21.826Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:49.305Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:44:07.589941",
+    "seq": 2,
+    "status": "sent"
   },
   "liang.wenfeng@ai.com": {
-    "timestamp": "2026-07-01T11:38:45.827Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:43:57.138Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:37:38.082023",
+    "seq": 2,
+    "status": "sent"
   },
   "riley.bechtel@engineeringconstruction.com": {
     "timestamp": "2026-07-01T11:39:06.735Z",
@@ -2583,22 +2506,19 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "zhou.chaonan@manufacturing.com": {
-    "timestamp": "2026-07-01T11:39:26.867Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:22.960Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:50:09.441478",
+    "seq": 2,
+    "status": "sent"
   },
   "marijke.mars@candy.com": {
-    "timestamp": "2026-07-01T11:39:49.359Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:44:54.124Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:05:25.474968",
+    "seq": 2,
+    "status": "sent"
   },
   "pamela.mars@candy.com": {
-    "timestamp": "2026-07-01T11:40:17.086Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:10.163Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:51:50.936344",
+    "seq": 2,
+    "status": "sent"
   },
   "valerie.mars@candy.com": {
     "timestamp": "2026-07-01T11:40:42.179Z",
@@ -2613,40 +2533,34 @@
     "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
   },
   "gong.hongjia@videosurveillance.com": {
-    "timestamp": "2026-07-01T11:41:29.635Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:36.276Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:12:46.055451",
+    "seq": 2,
+    "status": "sent"
   },
   "juan.escotet@banking.com": {
-    "timestamp": "2026-07-01T11:41:49.220Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:25.741Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:27:47.387955",
+    "seq": 2,
+    "status": "sent"
   },
   "charoen.sirivadhanabhakdi@beverage.com": {
-    "timestamp": "2026-07-01T11:42:09.758Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:04.019Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:10:38.016390",
+    "seq": 2,
+    "status": "sent"
   },
   "victoria.mars@candy.com": {
-    "timestamp": "2026-07-01T11:42:29.218Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:04.189Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:06:57.798588",
+    "seq": 2,
+    "status": "sent"
   },
   "tilman.fertitta@entertainment.com": {
-    "timestamp": "2026-07-01T11:43:19.657Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:44:51.339Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:51:32.513269",
+    "seq": 2,
+    "status": "sent"
   },
   "qi.shi@financialinformation.com": {
-    "timestamp": "2026-07-01T11:43:41.628Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:44:51.946Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:39:25.561204",
+    "seq": 2,
+    "status": "sent"
   },
   "john.malone@cabletelevision.com": {
     "timestamp": "2026-07-01T11:44:20.133Z",
@@ -2655,28 +2569,24 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "rafael.pino@construction.com": {
-    "timestamp": "2026-07-01T11:44:38.220Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:40.962Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:42:40.323785",
+    "seq": 2,
+    "status": "sent"
   },
   "charles.butt@supermarkets.com": {
-    "timestamp": "2026-07-01T11:44:59.112Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:55.273Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:28:26.290237",
+    "seq": 2,
+    "status": "sent"
   },
   "carrie.perrodo@oil.com": {
-    "timestamp": "2026-07-01T11:45:18.472Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:46:34.443Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:23:58.402602",
+    "seq": 2,
+    "status": "sent"
   },
   "sherry.brydson@thomsonreuters.com": {
-    "timestamp": "2026-07-01T11:45:39.683Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:45:51.074Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:24:21.544674",
+    "seq": 2,
+    "status": "sent"
   },
   "martin.lorentzon@spotify.com": {
     "timestamp": "2026-07-01T11:45:59.476Z",
@@ -2685,10 +2595,9 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "wei.jianjun@automobiles.com": {
-    "timestamp": "2026-07-01T11:46:17.944Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:25.360Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:52:15.634336",
+    "seq": 2,
+    "status": "sent"
   },
   "gabe.newell@videogames.com": {
     "timestamp": "2026-07-01T11:46:36.724Z",
@@ -2697,34 +2606,29 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "douglas.leone@venturecapital.com": {
-    "timestamp": "2026-07-01T11:46:55.183Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:08.361Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:46:33.525863",
+    "seq": 2,
+    "status": "sent"
   },
   "michael.federmann@defensehotels.com": {
-    "timestamp": "2026-07-01T11:47:15.063Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:46:39.061Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:08:47.844125",
+    "seq": 2,
+    "status": "sent"
   },
   "lin.muqin@beverages.com": {
-    "timestamp": "2026-07-01T11:47:36.161Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:42.845Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:32:49.324274",
+    "seq": 2,
+    "status": "sent"
   },
   "mikhail.prokhorov@investments.com": {
-    "timestamp": "2026-07-01T11:47:56.094Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:10.028Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:38:38.916582",
+    "seq": 2,
+    "status": "sent"
   },
   "johann.graf@gambling.com": {
-    "timestamp": "2026-07-01T11:48:15.008Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:01.004Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:01:15.080998",
+    "seq": 2,
+    "status": "sent"
   },
   "tobi.lutke@ecommerce.com": {
     "timestamp": "2026-07-01T11:48:33.760Z",
@@ -2733,46 +2637,39 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "admin@eclipse.capital": {
-    "timestamp": "2026-07-01T11:49:01.327Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:10.057Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T03:41:07.643228",
+    "seq": 2,
+    "status": "sent"
   },
   "vikram.lal@motorcycles.com": {
-    "timestamp": "2026-07-01T11:49:18.869Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:12.282Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:51:07.295300",
+    "seq": 2,
+    "status": "sent"
   },
   "nadia.thiele@investments.com": {
-    "timestamp": "2026-07-01T11:49:36.616Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:46:40.243Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:11:20.406775",
+    "seq": 2,
+    "status": "sent"
   },
   "ramzi.musallam@privateequity.com": {
-    "timestamp": "2026-07-01T11:49:57.027Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:46:51.305Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:50:27.779104",
+    "seq": 2,
+    "status": "sent"
   },
   "carl.cook@medicaldevices.com": {
-    "timestamp": "2026-07-01T11:50:16.968Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:56.367Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:30:37.816498",
+    "seq": 2,
+    "status": "sent"
   },
   "jeffery.hildebrand@oilgas.com": {
-    "timestamp": "2026-07-01T11:50:34.861Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:52.956Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:10:36.966164",
+    "seq": 2,
+    "status": "sent"
   },
   "andrei.guryev@fertilizers.com": {
-    "timestamp": "2026-07-01T11:50:53.279Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:48:37.433Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:38:26.772425",
+    "seq": 2,
+    "status": "sent"
   },
   "sulaiman.habib@hospital.com": {
     "timestamp": "2026-07-01T11:51:14.577Z",
@@ -2793,10 +2690,9 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "josh.harris@privateequity.com": {
-    "timestamp": "2026-07-01T11:52:12.222Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:48:20.632Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:17:25.905797",
+    "seq": 2,
+    "status": "sent"
   },
   "thomas.schmidheiny@cement.com": {
     "timestamp": "2026-07-01T11:52:32.327Z",
@@ -2811,64 +2707,54 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "nicky.oppenheimer@diamonds.com": {
-    "timestamp": "2026-07-01T11:53:12.269Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:48:31.331Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:11:38.094064",
+    "seq": 2,
+    "status": "sent"
   },
   "info@fondsecofuel.ca": {
-    "timestamp": "2026-07-01T11:53:31.227Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:48:33.376Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T04:40:27.049267",
+    "seq": 2,
+    "status": "sent"
   },
   "anthony.pratt@manufacturing.com": {
-    "timestamp": "2026-07-01T11:53:50.326Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:56.691Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:17:22.392974",
+    "seq": 2,
+    "status": "sent"
   },
   "vincent.bollor@investments.com": {
-    "timestamp": "2026-07-01T11:54:10.177Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:55.027Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:01:27.045826",
+    "seq": 2,
+    "status": "sent"
   },
   "randa.williams@pipelines.com": {
-    "timestamp": "2026-07-01T11:54:28.795Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:48:29.052Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:30:00.275743",
+    "seq": 2,
+    "status": "sent"
   },
   "dannine.avara@pipelines.com": {
-    "timestamp": "2026-07-01T11:54:48.276Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:49:25.036Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:23:22.388969",
+    "seq": 2,
+    "status": "sent"
   },
   "magdalena.martulloblocher@chemicals.com": {
-    "timestamp": "2026-07-01T11:55:08.370Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:49:31.019Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:02:44.266435",
+    "seq": 2,
+    "status": "sent"
   },
   "milane.frantz@pipelines.com": {
-    "timestamp": "2026-07-01T11:55:27.833Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:49:30.229Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:26:01.783503",
+    "seq": 2,
+    "status": "sent"
   },
   "fernando.salles@bankingminerals.com": {
-    "timestamp": "2026-07-01T11:55:48.759Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:48:54.397Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:02:12.656836",
+    "seq": 2,
+    "status": "sent"
   },
   "pierre.chen@electronics.com": {
-    "timestamp": "2026-07-01T11:56:09.208Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:49:11.500Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:35:54.077333",
+    "seq": 2,
+    "status": "sent"
   },
   "leonid.fedun@oil.com": {
     "timestamp": "2026-07-01T11:56:31.531Z",
@@ -2883,22 +2769,19 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "theo.mueller@dairy.com": {
-    "timestamp": "2026-07-01T11:57:11.285Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:12.239Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:26:02.076397",
+    "seq": 2,
+    "status": "sent"
   },
   "dustin.moskovitz@facebook.com": {
-    "timestamp": "2026-07-01T11:57:29.520Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:48:48.952Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:43:03.582082",
+    "seq": 2,
+    "status": "sent"
   },
   "lin.bin@smartphones.com": {
-    "timestamp": "2026-07-01T11:57:48.007Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:49:54.789Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:00:21.947552",
+    "seq": 2,
+    "status": "sent"
   },
   "karel.komarek@oil.com": {
     "timestamp": "2026-07-01T11:58:06.305Z",
@@ -2907,46 +2790,39 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "luis.sarmiento@banking.com": {
-    "timestamp": "2026-07-01T11:58:25.787Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:13.787Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:06:35.311365",
+    "seq": 2,
+    "status": "sent"
   },
   "contact@eecventures.com": {
-    "timestamp": "2026-07-01T11:58:46.779Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:10.455Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T04:21:39.690251",
+    "seq": 2,
+    "status": "sent"
   },
   "david.cheriton@google.com": {
-    "timestamp": "2026-07-01T11:59:06.166Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:55.340Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:05:54.060270",
+    "seq": 2,
+    "status": "sent"
   },
   "carl.bennet@investments.com": {
-    "timestamp": "2026-07-01T11:59:24.260Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:48.163Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:34:20.349091",
+    "seq": 2,
+    "status": "sent"
   },
   "scott.duncan@pipelines.com": {
-    "timestamp": "2026-07-01T11:59:44.132Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:49.944Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:00:42.337050",
+    "seq": 2,
+    "status": "sent"
   },
   "blair.parryokeden@mediaautomotive.com": {
-    "timestamp": "2026-07-01T12:00:02.605Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:14.029Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:32:42.380493",
+    "seq": 2,
+    "status": "sent"
   },
   "daniel.kretinsky@energyinvestments.com": {
-    "timestamp": "2026-07-01T12:00:22.019Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:52.993Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:56:18.311337",
+    "seq": 2,
+    "status": "sent"
   },
   "jim.kennedy@mediaautomotive.com": {
     "timestamp": "2026-07-01T12:00:40.943Z",
@@ -2955,100 +2831,84 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "tom.gores@privateequity.com": {
-    "timestamp": "2026-07-01T12:01:00.324Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:57.991Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:04:06.603486",
+    "seq": 2,
+    "status": "sent"
   },
   "li.xiting@medicaldevices.com": {
-    "timestamp": "2026-07-01T12:01:19.058Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:43.251Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:34:59.428739",
+    "seq": 2,
+    "status": "sent"
   },
   "michael.kim@privateequity.com": {
-    "timestamp": "2026-07-01T12:01:39.318Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:51:06.362Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:52:01.527581",
+    "seq": 2,
+    "status": "sent"
   },
   "harry.stine@agriculture.com": {
-    "timestamp": "2026-07-01T12:01:58.387Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:45.130Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:26:32.845415",
+    "seq": 2,
+    "status": "sent"
   },
   "lee.boojin@samsung.com": {
-    "timestamp": "2026-07-01T12:02:17.397Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:51:19.139Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:59:29.122194",
+    "seq": 2,
+    "status": "sent"
   },
   "daniel.ek@spotify.com": {
-    "timestamp": "2026-07-01T12:02:39.310Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:51.492Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:34:52.163309",
+    "seq": 2,
+    "status": "sent"
   },
   "robert.smith@privateequity.com": {
-    "timestamp": "2026-07-01T12:02:58.109Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:50:54.890Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:56:44.959390",
+    "seq": 2,
+    "status": "sent"
   },
   "brian.chesky@airbnb.com": {
-    "timestamp": "2026-07-01T12:03:16.670Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:51:18.053Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:14:26.661064",
+    "seq": 2,
+    "status": "sent"
   },
   "info@ehukaiinvestments.com": {
-    "timestamp": "2026-07-01T12:03:37.161Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:51:42.393Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T04:07:07.883834",
+    "seq": 2,
+    "status": "sent"
   },
   "yi.zheng@software.com": {
-    "timestamp": "2026-07-01T12:03:56.844Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:29.833Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:51:02.456004",
+    "seq": 2,
+    "status": "sent"
   },
   "micky.arison@carnivalcruises.com": {
-    "timestamp": "2026-07-01T12:04:17.494Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:51:39.287Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:12:01.872198",
+    "seq": 2,
+    "status": "sent"
   },
   "iskander.makhmudov@meta.com": {
-    "timestamp": "2026-07-01T12:04:36.493Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:51:42.689Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:24:21.387553",
+    "seq": 2,
+    "status": "sent"
   },
   "fredrik.lundberg@real.com": {
-    "timestamp": "2026-07-01T12:04:56.104Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:43.904Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:56:02.800078",
+    "seq": 2,
+    "status": "sent"
   },
   "murali.divi@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T12:05:17.304Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:51.662Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:13:56.261379",
+    "seq": 2,
+    "status": "sent"
   },
   "graeme.hart@packaging.com": {
-    "timestamp": "2026-07-01T12:05:36.522Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:26.708Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:28:03.757089",
+    "seq": 2,
+    "status": "sent"
   },
   "juan.roig@supermarkets.com": {
-    "timestamp": "2026-07-01T12:05:57.350Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:31.465Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:51:39.863632",
+    "seq": 2,
+    "status": "sent"
   },
   "pang.kang@soysauce.com": {
     "timestamp": "2026-07-01T12:06:16.204Z",
@@ -3057,46 +2917,39 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "pauline.keinath@cargill.com": {
-    "timestamp": "2026-07-01T12:06:35.095Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:41.376Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:32:04.322117",
+    "seq": 2,
+    "status": "sent"
   },
   "pedro.salles@bankingminerals.com": {
-    "timestamp": "2026-07-01T12:07:05.458Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:25.078Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:08:05.788598",
+    "seq": 2,
+    "status": "sent"
   },
   "georg.stumpf@real.com": {
-    "timestamp": "2026-07-01T12:07:23.995Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:03.413Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:41:20.055244",
+    "seq": 2,
+    "status": "sent"
   },
   "nathan.blecharczyk@airbnb.com": {
-    "timestamp": "2026-07-01T12:07:43.370Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:49.376Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:47:23.679003",
+    "seq": 2,
+    "status": "sent"
   },
   "zeng.fangqin@smartphonecomponents.com": {
-    "timestamp": "2026-07-01T12:08:02.334Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:52:43.708Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:58:02.011180",
+    "seq": 2,
+    "status": "sent"
   },
   "anthony.bamford@constructionequipment.com": {
-    "timestamp": "2026-07-01T12:08:21.564Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:00.776Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:31:24.937364",
+    "seq": 2,
+    "status": "sent"
   },
   "brian.armstrong@coinbase.com": {
-    "timestamp": "2026-07-01T12:08:40.357Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:21.711Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:21:15.539844",
+    "seq": 2,
+    "status": "sent"
   },
   "investor@elaia.comfor": {
     "timestamp": "2026-07-01T12:09:00.390Z",
@@ -3105,64 +2958,54 @@
     "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
   },
   "law.po@realestate.com": {
-    "timestamp": "2026-07-01T12:09:19.210Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:04.273Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:29:24.232160",
+    "seq": 2,
+    "status": "sent"
   },
   "rajeev@visionfund.com": {
-    "timestamp": "2026-07-01T12:09:39.158Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:15.650Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:35:23.794998",
+    "seq": 2,
+    "status": "sent"
   },
   "patrick.soonshiong@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T12:09:57.296Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:21.353Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:01:52.961321",
+    "seq": 2,
+    "status": "sent"
   },
   "roman.abramovich@steelinvestments.com": {
-    "timestamp": "2026-07-01T12:10:15.516Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:12.384Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:08:38.394935",
+    "seq": 2,
+    "status": "sent"
   },
   "sandeep.bakshi@prosus.com": {
-    "timestamp": "2026-07-01T12:10:34.199Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:44.844Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:00:52.968359",
+    "seq": 2,
+    "status": "sent"
   },
   "viktor.vekselberg@meta.com": {
-    "timestamp": "2026-07-01T12:10:56.407Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:54.286Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:31:03.440202",
+    "seq": 2,
+    "status": "sent"
   },
   "ashutosh.sharma@prosus.com": {
-    "timestamp": "2026-07-01T12:11:14.522Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:39.376Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:25:18.596313",
+    "seq": 2,
+    "status": "sent"
   },
   "n.cator@verlinvest.com": {
-    "timestamp": "2026-07-01T12:11:31.665Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:53:40.069Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:30:49.718883",
+    "seq": 2,
+    "status": "sent"
   },
   "nassef.sawiris@constructioninvestments.com": {
-    "timestamp": "2026-07-01T12:11:51.186Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:13.118Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:48:02.470925",
+    "seq": 2,
+    "status": "sent"
   },
   "joe@8vc.com": {
-    "timestamp": "2026-07-01T12:12:10.691Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:53.974Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:25:21.414588",
+    "seq": 2,
+    "status": "sent"
   },
   "viktor.rashnikov@steel.com": {
     "timestamp": "2026-07-01T12:12:31.451Z",
@@ -3171,46 +3014,39 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "ventures@prosus.com": {
-    "timestamp": "2026-07-01T12:12:50.718Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:11.215Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:28:57.900417",
+    "seq": 2,
+    "status": "sent"
   },
   "lee.seohyun@samsung.com": {
-    "timestamp": "2026-07-01T12:13:10.243Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:58.780Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:17:00.538951",
+    "seq": 2,
+    "status": "sent"
   },
   "info@visionfund.com": {
-    "timestamp": "2026-07-01T12:13:30.451Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:54.900Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:31:13.615860",
+    "seq": 2,
+    "status": "sent"
   },
   "ir@tigerglobal.com": {
-    "timestamp": "2026-07-01T12:13:50.347Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:49.036Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:02:39.962370",
+    "seq": 2,
+    "status": "sent"
   },
   "info-bru@verlinvest.com": {
-    "timestamp": "2026-07-01T12:14:09.131Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:55:27.731Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:53:40.172327",
+    "seq": 2,
+    "status": "sent"
   },
   "zhang.xuexin@aluminum.com": {
-    "timestamp": "2026-07-01T12:14:28.837Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:51.824Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:51:45.553584",
+    "seq": 2,
+    "status": "sent"
   },
   "info@zx-ventures.com": {
-    "timestamp": "2026-07-01T12:14:47.634Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:55:22.463Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:19:08.749746",
+    "seq": 2,
+    "status": "sent"
   },
   "info@elevarequity.com": {
     "timestamp": "2026-07-01T12:15:12.219Z",
@@ -3219,58 +3055,49 @@
     "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
   },
   "terrence.pegula@naturalgas.com": {
-    "timestamp": "2026-07-01T12:15:32.324Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:55:34.793Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:41:39.021130",
+    "seq": 2,
+    "status": "sent"
   },
   "info@tinshedventures.com": {
-    "timestamp": "2026-07-01T12:15:54.528Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:44.063Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:38:51.442114",
+    "seq": 2,
+    "status": "sent"
   },
   "ken.langone@investments.com": {
-    "timestamp": "2026-07-01T12:16:13.679Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:54:47.558Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:10:02.840020",
+    "seq": 2,
+    "status": "sent"
   },
   "pathahead@rei.com": {
-    "timestamp": "2026-07-01T12:16:32.725Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:00.037Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:21:16.466006",
+    "seq": 2,
+    "status": "sent"
   },
   "david.geffen@movies.com": {
-    "timestamp": "2026-07-01T12:16:50.990Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:08.133Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:39:35.569412",
+    "seq": 2,
+    "status": "sent"
   },
   "media@8vc.com": {
-    "timestamp": "2026-07-01T12:17:09.107Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:01.603Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:24:54.306097",
+    "seq": 2,
+    "status": "sent"
   },
   "todd.boehly@finance.com": {
-    "timestamp": "2026-07-01T12:17:29.603Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:55:40.640Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:42:03.174530",
+    "seq": 2,
+    "status": "sent"
   },
   "john.morris@sporting.com": {
-    "timestamp": "2026-07-01T12:17:48.643Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:55:49.150Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:24:43.986354",
+    "seq": 2,
+    "status": "sent"
   },
   "pitch@fontinalis.com": {
-    "timestamp": "2026-07-01T12:18:10.872Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:03.383Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:37:25.881946",
+    "seq": 2,
+    "status": "sent"
   },
   "info@iqt.org": {
     "timestamp": "2026-07-01T12:18:30.417Z",
@@ -3279,94 +3106,79 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "kboyle@a16z.com": {
-    "timestamp": "2026-07-01T12:18:48.005Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:31.087Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:07:38.430967",
+    "seq": 2,
+    "status": "sent"
   },
   "liang.wengen@constructionequipment.com": {
-    "timestamp": "2026-07-01T12:19:08.145Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:33.660Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:02:18.801050",
+    "seq": 2,
+    "status": "sent"
   },
   "william.ackman@pershingsquare.com": {
-    "timestamp": "2026-07-01T12:19:27.313Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:21.604Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:07:15.016370",
+    "seq": 2,
+    "status": "sent"
   },
   "jeanmichel.besnier@cheese.com": {
-    "timestamp": "2026-07-01T12:19:46.425Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:57:19.031Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:22:48.376707",
+    "seq": 2,
+    "status": "sent"
   },
   "wu.jianshu@autoparts.com": {
-    "timestamp": "2026-07-01T12:20:06.883Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:57:46.731Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:59:14.107951",
+    "seq": 2,
+    "status": "sent"
   },
   "hello@elevate.vc": {
-    "timestamp": "2026-07-01T12:20:27.055Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:57:10.313Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T02:56:37.462872",
+    "seq": 2,
+    "status": "sent"
   },
   "elisabeth.deluca@subway.com": {
-    "timestamp": "2026-07-01T12:20:54.903Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:58:02.550Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:57:32.301545",
+    "seq": 2,
+    "status": "sent"
   },
   "marie.beauvalot@cheese.com": {
-    "timestamp": "2026-07-01T12:21:13.186Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:57:32.659Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:24:07.943868",
+    "seq": 2,
+    "status": "sent"
   },
   "maria.aramburuzabala@beerinvestments.com": {
-    "timestamp": "2026-07-01T12:21:32.055Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:56:45.544Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:57:53.607662",
+    "seq": 2,
+    "status": "sent"
   },
   "eric.wittouck@investments.com": {
-    "timestamp": "2026-07-01T12:21:51.895Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:57:31.810Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:21:56.686813",
+    "seq": 2,
+    "status": "sent"
   },
   "chen.dongsheng@insurance.com": {
-    "timestamp": "2026-07-01T12:22:10.629Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:58:14.640Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:40:31.794898",
+    "seq": 2,
+    "status": "sent"
   },
   "jeff.greene@real.com": {
-    "timestamp": "2026-07-01T12:22:30.449Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:57:30.184Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:33:16.173142",
+    "seq": 2,
+    "status": "sent"
   },
   "rajan.mittal@telecom.com": {
-    "timestamp": "2026-07-01T12:22:51.825Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:57:38.117Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:22:59.727508",
+    "seq": 2,
+    "status": "sent"
   },
   "pavel.tykac@coalmines.com": {
-    "timestamp": "2026-07-01T12:23:10.864Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:58:06.605Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:24:33.226261",
+    "seq": 2,
+    "status": "sent"
   },
   "you.xiaoping@polyurethanes.com": {
-    "timestamp": "2026-07-01T12:23:29.643Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:58:05.091Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:26:50.135591",
+    "seq": 2,
+    "status": "sent"
   },
   "rakesh.mittal@telecom.com": {
     "timestamp": "2026-07-01T12:23:48.068Z",
@@ -3375,22 +3187,19 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "digame@redeia.com": {
-    "timestamp": "2026-07-01T12:24:06.104Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:42.912Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T01:47:06.684438",
+    "seq": 2,
+    "status": "sent"
   },
   "wang.yusuo@natural.com": {
-    "timestamp": "2026-07-01T12:24:24.109Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:05.056Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:11:01.230167",
+    "seq": 2,
+    "status": "sent"
   },
   "jean.salata@finance.com": {
-    "timestamp": "2026-07-01T12:24:42.870Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:58:02.124Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:30:34.491213",
+    "seq": 2,
+    "status": "sent"
   },
   "neil.bluhm@realestate.com": {
     "timestamp": "2026-07-01T12:25:01.010Z",
@@ -3405,34 +3214,29 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "frank.lowy@investments.com": {
-    "timestamp": "2026-07-01T12:25:38.875Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:58:40.340Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:20:52.513028",
+    "seq": 2,
+    "status": "sent"
   },
   "lynsi.snyder@innoutburger.com": {
-    "timestamp": "2026-07-01T12:25:59.325Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:26.545Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:30:54.050820",
+    "seq": 2,
+    "status": "sent"
   },
   "robert.rowling@hotelsinvestments.com": {
-    "timestamp": "2026-07-01T12:26:17.849Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:13.144Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:53:56.350823",
+    "seq": 2,
+    "status": "sent"
   },
   "dirk.rossmann@drugstores.com": {
-    "timestamp": "2026-07-01T12:26:37.307Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:45.445Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:30:57.108324",
+    "seq": 2,
+    "status": "sent"
   },
   "yuri.milner@techinvestments.com": {
-    "timestamp": "2026-07-01T12:26:57.878Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:26.243Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:22:50.368354",
+    "seq": 2,
+    "status": "sent"
   },
   "sri.lohia@roche.com": {
     "timestamp": "2026-07-01T12:27:15.858Z",
@@ -3441,16 +3245,14 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "yitzhak.tshuva@realestate.com": {
-    "timestamp": "2026-07-01T12:27:36.047Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:05.689Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:16:40.937115",
+    "seq": 2,
+    "status": "sent"
   },
   "cai.huabo@electronics.com": {
-    "timestamp": "2026-07-01T12:27:54.618Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:00:42.805Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:59:49.056825",
+    "seq": 2,
+    "status": "sent"
   },
   "leo.koguan@itprovider.com": {
     "timestamp": "2026-07-01T12:28:17.704Z",
@@ -3459,22 +3261,19 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "tamara.gustavson@selfstorage.com": {
-    "timestamp": "2026-07-01T12:28:39.137Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:24.286Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:10:06.573908",
+    "seq": 2,
+    "status": "sent"
   },
   "lin.li@investments.com": {
-    "timestamp": "2026-07-01T12:28:58.386Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:00.915Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:30:52.201377",
+    "seq": 2,
+    "status": "sent"
   },
   "alexandra.schoerghuber@realestate.com": {
-    "timestamp": "2026-07-01T12:29:16.736Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:00:15.880Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:22:36.703125",
+    "seq": 2,
+    "status": "sent"
   },
   "denise.coates@onlinegambling.com": {
     "timestamp": "2026-07-01T12:29:36.143Z",
@@ -3483,34 +3282,29 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "patrick.drahi@telecom.com": {
-    "timestamp": "2026-07-01T12:29:55.073Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:00:53.757Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:20:52.591578",
+    "seq": 2,
+    "status": "sent"
   },
   "kjell.rokke@shippingseafood.com": {
-    "timestamp": "2026-07-01T12:30:14.910Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:00:41.053Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:38:39.826243",
+    "seq": 2,
+    "status": "sent"
   },
   "azim.premji@softwareservices.com": {
-    "timestamp": "2026-07-01T12:30:34.734Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:44.513Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:51:23.925793",
+    "seq": 2,
+    "status": "sent"
   },
   "3942connect@ember-infra.com": {
-    "timestamp": "2026-07-01T12:30:53.184Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:59:52.322Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T04:50:32.412726",
+    "seq": 2,
+    "status": "sent"
   },
   "denise.york@san.com": {
-    "timestamp": "2026-07-01T12:31:12.576Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:00:42.511Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:23:43.535274",
+    "seq": 2,
+    "status": "sent"
   },
   "michael.dorrell@investing.com": {
     "timestamp": "2026-07-01T12:31:31.869Z",
@@ -3519,28 +3313,24 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "otto.sugiri@datacenters.com": {
-    "timestamp": "2026-07-01T12:31:51.565Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:00:50.931Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:38:05.833356",
+    "seq": 2,
+    "status": "sent"
   },
   "leonard.stern@realestate.com": {
-    "timestamp": "2026-07-01T12:32:11.097Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:03.607Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T05:18:48.829602",
+    "seq": 2,
+    "status": "sent"
   },
   "stephen.bisciotti@staffing.com": {
-    "timestamp": "2026-07-01T12:32:30.584Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:00:48.382Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T04:59:06.729921",
+    "seq": 2,
+    "status": "sent"
   },
   "mat.ishbia@mortgagelender.com": {
-    "timestamp": "2026-07-01T12:32:51.321Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:04.103Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:36:31.278250",
+    "seq": 2,
+    "status": "sent"
   },
   "alexei.kuzmichev@oil.com": {
     "timestamp": "2026-07-01T12:33:31.483Z",
@@ -3549,28 +3339,24 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "massimiliana.aleotti@pharmaceuticals.com": {
-    "timestamp": "2026-07-01T12:33:50.587Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:04.457Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:00:22.445768",
+    "seq": 2,
+    "status": "sent"
   },
   "seo.jungjin@biotech.com": {
-    "timestamp": "2026-07-01T12:34:08.805Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:22.838Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T02:08:55.368124",
+    "seq": 2,
+    "status": "sent"
   },
   "jonathan.gray@investments.com": {
-    "timestamp": "2026-07-01T12:34:28.249Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:02:01.094Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T01:26:22.338318",
+    "seq": 2,
+    "status": "sent"
   },
   "info@emerald.vc": {
-    "timestamp": "2026-07-01T12:34:47.846Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:30.468Z",
-    "originalSubject": "Strategic Climate Investment: Heatbolt \u2014 100\u00b0C Heat Without Electricity (Defence Validated)"
+    "last_sent": "2026-09-08T04:41:38.815753",
+    "seq": 2,
+    "status": "sent"
   },
   "joe.gebbia@airbnb.com": {
     "timestamp": "2026-07-01T12:35:06.515Z",
@@ -3579,16 +3365,14 @@
     "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
   },
   "sofie.kristiansen@lego.com": {
-    "timestamp": "2026-07-01T12:35:25.328Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:49.063Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:10:42.975309",
+    "seq": 2,
+    "status": "sent"
   },
   "agnete.thinggaard@lego.com": {
-    "timestamp": "2026-07-01T12:35:45.665Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T13:01:38.809Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-08T03:10:18.769838",
+    "seq": 2,
+    "status": "sent"
   },
   "thomas.kristiansen@lego.com": {
     "timestamp": "2026-07-01T12:36:04.582Z",
@@ -11826,6 +11610,4476 @@
   },
   "jack@craftventures.com": {
     "last_sent": "2026-09-07T05:13:33.649675",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brase.john@conagra.com": {
+    "last_sent": "2026-09-08T01:20:32.375949",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gl@huaho.com": {
+    "last_sent": "2026-09-08T01:20:54.019287",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kirktanner@thehersheycompany.com": {
+    "last_sent": "2026-09-08T01:21:04.496577",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mratini@insitorpartners.com": {
+    "last_sent": "2026-09-08T01:21:14.848166",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zeena@avaanacapital.com": {
+    "last_sent": "2026-09-08T01:21:40.198382",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dmozersky@energypeacepartners.com": {
+    "last_sent": "2026-09-08T01:21:50.140853",
+    "seq": 1,
+    "status": "sent"
+  },
+  "emma-uche.ethel@heineken.com": {
+    "last_sent": "2026-09-08T01:22:03.748176",
+    "seq": 1,
+    "status": "sent"
+  },
+  "saugatag@marico.com": {
+    "last_sent": "2026-09-08T01:22:16.938833",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vijayalakshmi@nadathur.com": {
+    "last_sent": "2026-09-08T01:22:27.470069",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@preludeventures.com": {
+    "last_sent": "2026-09-08T01:22:41.440291",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ktanner@thehersheycompany.com": {
+    "last_sent": "2026-09-08T01:22:54.615211",
+    "seq": 1,
+    "status": "sent"
+  },
+  "r.alhumaidi@ycb.com.ye": {
+    "last_sent": "2026-09-08T01:23:33.567449",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brad@emersoncollective.com": {
+    "last_sent": "2026-09-08T01:23:45.538695",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shayan@beximco.com": {
+    "last_sent": "2026-09-08T01:24:29.206945",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deepak.gupta@srf.com": {
+    "last_sent": "2026-09-08T01:24:40.045586",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m.johnson@herbalife.com": {
+    "last_sent": "2026-09-08T01:25:05.776082",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eb@novonesis.com": {
+    "last_sent": "2026-09-08T01:25:31.673232",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.kovacevic@bhtelecom.ba": {
+    "last_sent": "2026-09-08T01:25:42.081287",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vani@kalaari.com": {
+    "last_sent": "2026-09-08T01:25:52.527218",
+    "seq": 1,
+    "status": "sent"
+  },
+  "williamcoleman@preludeventures.com": {
+    "last_sent": "2026-09-08T01:26:46.109365",
+    "seq": 1,
+    "status": "sent"
+  },
+  "luger@energyimpactpartners.com": {
+    "last_sent": "2026-09-08T01:27:07.028902",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s.uzan@azersun.com": {
+    "last_sent": "2026-09-08T01:27:16.522452",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nilsselte@orkla.no": {
+    "last_sent": "2026-09-08T01:27:37.985320",
+    "seq": 1,
+    "status": "sent"
+  },
+  "martina_dalic@podravka.hr": {
+    "last_sent": "2026-09-08T01:27:50.359167",
+    "seq": 1,
+    "status": "sent"
+  },
+  "j.brase@conagra.com": {
+    "last_sent": "2026-09-08T01:28:03.420859",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.wadi@rbc.com.bn": {
+    "last_sent": "2026-09-08T01:28:15.065332",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shayan_rahman@beximco.com": {
+    "last_sent": "2026-09-08T01:28:24.699830",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kirk.tanner@thehersheycompany.com": {
+    "last_sent": "2026-09-08T01:28:35.537437",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chowdhury.ahsan@prangroup.com": {
+    "last_sent": "2026-09-08T01:28:46.192255",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ricochristensen@nufarm.com": {
+    "last_sent": "2026-09-08T01:29:20.988843",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lance.uribie@gapacific.com": {
+    "last_sent": "2026-09-08T01:29:40.364065",
+    "seq": 1,
+    "status": "sent"
+  },
+  "viraj@veeba.in": {
+    "last_sent": "2026-09-08T01:30:05.156622",
+    "seq": 1,
+    "status": "sent"
+  },
+  "az@longjourney.vc": {
+    "last_sent": "2026-09-08T01:30:15.714704",
+    "seq": 1,
+    "status": "sent"
+  },
+  "communication@alantra.com": {
+    "last_sent": "2026-09-08T01:31:35.874830",
+    "seq": 1,
+    "status": "sent"
+  },
+  "meriem.cherkaoui@acppartners.com": {
+    "last_sent": "2026-09-08T01:31:47.491577",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@maiyas.in": {
+    "last_sent": "2026-09-08T01:32:00.738737",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bruce.flatt@brookfield.com": {
+    "last_sent": "2026-09-08T01:32:23.252426",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sergey.nedbailov@santabremor.com": {
+    "last_sent": "2026-09-08T01:32:33.850846",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dp@mdlz.com": {
+    "last_sent": "2026-09-08T01:32:44.923995",
+    "seq": 1,
+    "status": "sent"
+  },
+  "milenadragijska@lidl.bg": {
+    "last_sent": "2026-09-08T01:33:09.586400",
+    "seq": 1,
+    "status": "sent"
+  },
+  "elt@bch.co": {
+    "last_sent": "2026-09-08T01:33:33.014352",
+    "seq": 1,
+    "status": "sent"
+  },
+  "juanluciano@adm.com": {
+    "last_sent": "2026-09-08T01:33:45.644355",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pb@groupesifca.com": {
+    "last_sent": "2026-09-08T01:34:10.398724",
+    "seq": 1,
+    "status": "sent"
+  },
+  "p.billon@groupesifca.com": {
+    "last_sent": "2026-09-08T01:34:22.614610",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lipscomb@energyimpactpartners.com": {
+    "last_sent": "2026-09-08T01:34:34.408851",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ester.baiget@novonesis.com": {
+    "last_sent": "2026-09-08T01:34:59.975469",
+    "seq": 1,
+    "status": "sent"
+  },
+  "suzan@azersun.com": {
+    "last_sent": "2026-09-08T01:35:32.870994",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sveintore.holsether@yara.com": {
+    "last_sent": "2026-09-08T01:35:43.780405",
+    "seq": 1,
+    "status": "sent"
+  },
+  "k.licht@reckitt.com": {
+    "last_sent": "2026-09-08T01:36:18.789273",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.bralirwa@heineken.com": {
+    "last_sent": "2026-09-08T01:36:46.053174",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alokozay.jalil@alokozay.com": {
+    "last_sent": "2026-09-08T01:36:56.529359",
+    "seq": 1,
+    "status": "sent"
+  },
+  "snee.james@hormel.com": {
+    "last_sent": "2026-09-08T01:37:06.812223",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m.partner@goldengate.vc": {
+    "last_sent": "2026-09-08T01:37:17.343048",
+    "seq": 1,
+    "status": "sent"
+  },
+  "peterb@alghanim.com": {
+    "last_sent": "2026-09-08T01:37:30.986583",
+    "seq": 1,
+    "status": "sent"
+  },
+  "g.heckman@bunge.com": {
+    "last_sent": "2026-09-08T01:37:42.485845",
+    "seq": 1,
+    "status": "sent"
+  },
+  "briana@buyverde.com": {
+    "last_sent": "2026-09-08T01:37:54.609880",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bala.munusamy@kanoo.com": {
+    "last_sent": "2026-09-08T01:38:15.231891",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sunil_dsouza@tataconsumer.com": {
+    "last_sent": "2026-09-08T01:38:36.758883",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marco.buscema@willeague.com": {
+    "last_sent": "2026-09-08T01:38:48.628820",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dj@univarsolutions.com": {
+    "last_sent": "2026-09-08T01:39:00.658127",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dilhan@temasek.com.sg": {
+    "last_sent": "2026-09-08T01:39:20.534765",
+    "seq": 1,
+    "status": "sent"
+  },
+  "steven_oakland@treehousefoods.com": {
+    "last_sent": "2026-09-08T01:39:32.992009",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sukhvinder@marwah.in": {
+    "last_sent": "2026-09-08T01:39:43.919543",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeff.rowe@syngentagroup.com": {
+    "last_sent": "2026-09-08T01:39:53.588996",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sky@craftventures.com": {
+    "last_sent": "2026-09-08T01:40:06.162128",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fkrasniqi@kujtesa.com": {
+    "last_sent": "2026-09-08T01:40:19.067100",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bill@abc.xyz": {
+    "last_sent": "2026-09-08T01:40:43.809028",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bruce.bodine@mosaicco.com": {
+    "last_sent": "2026-09-08T01:41:07.703698",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christian.holste@aquila-capital.de": {
+    "last_sent": "2026-09-08T01:41:16.910434",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@straydogcapital.com": {
+    "last_sent": "2026-09-08T01:41:40.656229",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amit.malvi@invideo.io": {
+    "last_sent": "2026-09-08T01:41:51.368297",
+    "seq": 1,
+    "status": "sent"
+  },
+  "urminfoodsales@urmingroup.com": {
+    "last_sent": "2026-09-08T01:42:03.024772",
+    "seq": 1,
+    "status": "sent"
+  },
+  "xiaotang.lu@tdk-ventures.com": {
+    "last_sent": "2026-09-08T01:42:28.145831",
+    "seq": 1,
+    "status": "sent"
+  },
+  "antoine@danone.com": {
+    "last_sent": "2026-09-08T01:42:39.274323",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hans@energyimpactpartners.com": {
+    "last_sent": "2026-09-08T01:42:56.507482",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jxu@kleinerperkins.com": {
+    "last_sent": "2026-09-08T01:43:07.312923",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sandhyasubramanyam@gmail.com": {
+    "last_sent": "2026-09-08T01:43:19.256330",
+    "seq": 1,
+    "status": "sent"
+  },
+  "samarth@anicutcapital.com": {
+    "last_sent": "2026-09-08T01:43:32.329494",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christian@guggenheimpartners.com": {
+    "last_sent": "2026-09-08T01:43:44.637900",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicholasr..procaccini@137ventures.com": {
+    "last_sent": "2026-09-08T01:43:57.129966",
+    "seq": 1,
+    "status": "sent"
+  },
+  "i.ghazanfar@ghazanfargroup.com": {
+    "last_sent": "2026-09-08T01:44:20.488470",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michaelbowen@bowen.bz": {
+    "last_sent": "2026-09-08T01:44:33.066415",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mehdi-sqalli@spotangels.com": {
+    "last_sent": "2026-09-08T01:44:55.124390",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lau.gimkok@huaho.com": {
+    "last_sent": "2026-09-08T01:45:08.634775",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tony.arnold@alshaya.com": {
+    "last_sent": "2026-09-08T01:45:37.051071",
+    "seq": 1,
+    "status": "sent"
+  },
+  "guillermo@quantstamp.com": {
+    "last_sent": "2026-09-08T01:45:47.279852",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alison@hain.com": {
+    "last_sent": "2026-09-08T01:45:57.430987",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cjacky@kkfund.co": {
+    "last_sent": "2026-09-08T01:46:08.812379",
+    "seq": 1,
+    "status": "sent"
+  },
+  "designercakes@chokola.in": {
+    "last_sent": "2026-09-08T01:46:21.574913",
+    "seq": 1,
+    "status": "sent"
+  },
+  "meiraj_hussain@masaood.com": {
+    "last_sent": "2026-09-08T01:46:43.196265",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mbowen@bowen.bz": {
+    "last_sent": "2026-09-08T01:46:55.656416",
+    "seq": 1,
+    "status": "sent"
+  },
+  "b.newlands@cbrands.com": {
+    "last_sent": "2026-09-08T01:47:19.814132",
+    "seq": 1,
+    "status": "sent"
+  },
+  "steve.smykal@invesco.com": {
+    "last_sent": "2026-09-08T01:47:32.517009",
+    "seq": 1,
+    "status": "sent"
+  },
+  "poqus@qure.ai": {
+    "last_sent": "2026-09-08T01:47:58.321506",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rehet.bhatia@1crowd.co": {
+    "last_sent": "2026-09-08T01:48:10.450715",
+    "seq": 1,
+    "status": "sent"
+  },
+  "walidn@alnowais.com": {
+    "last_sent": "2026-09-08T01:48:24.352970",
+    "seq": 1,
+    "status": "sent"
+  },
+  "i.archibald@c-ventures.nl": {
+    "last_sent": "2026-09-08T01:48:44.110143",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rico@nufarm.com": {
+    "last_sent": "2026-09-08T01:48:55.122826",
+    "seq": 1,
+    "status": "sent"
+  },
+  "renato@bmmigroup.com": {
+    "last_sent": "2026-09-08T01:49:06.443044",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mark.clouse@campbells.com": {
+    "last_sent": "2026-09-08T01:49:18.696902",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karen.vardanian@grandcandy.am": {
+    "last_sent": "2026-09-08T01:49:30.821920",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alessandro.nervegna@ferrero.com": {
+    "last_sent": "2026-09-08T01:49:42.387720",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fabiosandri@pilgrims.com": {
+    "last_sent": "2026-09-08T01:50:05.585179",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gilligan@blackstone.com": {
+    "last_sent": "2026-09-08T01:50:16.684247",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zainab.naby@prosus.com": {
+    "last_sent": "2026-09-08T01:50:40.336762",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rj@bmmigroup.com": {
+    "last_sent": "2026-09-08T01:51:12.367068",
+    "seq": 1,
+    "status": "sent"
+  },
+  "muka.edlira@balfin.al": {
+    "last_sent": "2026-09-08T01:51:44.683172",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ethel@heineken.com": {
+    "last_sent": "2026-09-08T01:51:56.450589",
+    "seq": 1,
+    "status": "sent"
+  },
+  "webmaster@alsayergroup.com": {
+    "last_sent": "2026-09-08T01:52:09.305049",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anthony.ali@goddardenterprises.com": {
+    "last_sent": "2026-09-08T01:52:20.058207",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dv@mdlz.com": {
+    "last_sent": "2026-09-08T01:52:30.980830",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cinot@alfardan.com.qa": {
+    "last_sent": "2026-09-08T01:52:41.322019",
+    "seq": 1,
+    "status": "sent"
+  },
+  "takeshi.niinami@suntory.com": {
+    "last_sent": "2026-09-08T01:52:53.914952",
+    "seq": 1,
+    "status": "sent"
+  },
+  "khaled.sheqwara@abuissa.com": {
+    "last_sent": "2026-09-08T01:53:07.265804",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investments@cisco.com": {
+    "last_sent": "2026-09-08T01:53:16.994571",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jalokozay@alokozay.com": {
+    "last_sent": "2026-09-08T01:54:03.040297",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@dcvc.com": {
+    "last_sent": "2026-09-08T01:54:13.492081",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eric.toone@breakthroughenergy.org": {
+    "last_sent": "2026-09-08T01:54:24.195790",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gs-sustainable-investing@gs.com": {
+    "last_sent": "2026-09-08T01:54:46.186305",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kv@grandcandy.am": {
+    "last_sent": "2026-09-08T01:54:58.540254",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alejandrorodriguez@grupobimbo.com": {
+    "last_sent": "2026-09-08T01:55:12.248494",
+    "seq": 1,
+    "status": "sent"
+  },
+  "savas.uzan@azersun.com": {
+    "last_sent": "2026-09-08T01:55:22.185223",
+    "seq": 1,
+    "status": "sent"
+  },
+  "j.luciano@adm.com": {
+    "last_sent": "2026-09-08T01:55:34.882609",
+    "seq": 1,
+    "status": "sent"
+  },
+  "inquiries@mubadala.ae": {
+    "last_sent": "2026-09-08T01:55:46.849149",
+    "seq": 1,
+    "status": "sent"
+  },
+  "emuka@balfin.al": {
+    "last_sent": "2026-09-08T01:56:00.927722",
+    "seq": 1,
+    "status": "sent"
+  },
+  "srahman@beximco.com": {
+    "last_sent": "2026-09-08T01:56:11.015916",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ravi@cenextconsulting.com": {
+    "last_sent": "2026-09-08T01:56:22.429431",
+    "seq": 1,
+    "status": "sent"
+  },
+  "invest@adq.ae": {
+    "last_sent": "2026-09-08T01:56:32.915213",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chris.peter@bluehorizon.com": {
+    "last_sent": "2026-09-08T01:57:08.027380",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bford@landolakesinc.com": {
+    "last_sent": "2026-09-08T01:57:20.140443",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sagar@wowmomo.com": {
+    "last_sent": "2026-09-08T01:57:54.090560",
+    "seq": 1,
+    "status": "sent"
+  },
+  "scott.nuttall@kkr.com": {
+    "last_sent": "2026-09-08T01:58:06.487104",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kevin.rodrigues@bp.com": {
+    "last_sent": "2026-09-08T01:58:35.170934",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ian@c-ventures.nl": {
+    "last_sent": "2026-09-08T01:58:48.167480",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ester_baiget@novonesis.com": {
+    "last_sent": "2026-09-08T01:59:00.546361",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tatiana@draper.vc": {
+    "last_sent": "2026-09-08T01:59:10.777338",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m.hsu@kcc.com": {
+    "last_sent": "2026-09-08T01:59:21.831235",
+    "seq": 1,
+    "status": "sent"
+  },
+  "renato_juric@bmmigroup.com": {
+    "last_sent": "2026-09-08T01:59:31.724445",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brendan@mccormick.com": {
+    "last_sent": "2026-09-08T01:59:43.926949",
+    "seq": 1,
+    "status": "sent"
+  },
+  "renato.juric@bmmigroup.com": {
+    "last_sent": "2026-09-08T01:59:54.822383",
+    "seq": 1,
+    "status": "sent"
+  },
+  "newlands.bill@cbrands.com": {
+    "last_sent": "2026-09-08T02:00:32.445814",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prashant.bangur@shreecement.com": {
+    "last_sent": "2026-09-08T02:00:44.592890",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jflach@accel.com": {
+    "last_sent": "2026-09-08T02:01:04.492410",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ns@orkla.no": {
+    "last_sent": "2026-09-08T02:01:39.906636",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hellman@energyimpactpartners.com": {
+    "last_sent": "2026-09-08T02:02:05.629084",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brittany@nyxc.io": {
+    "last_sent": "2026-09-08T02:02:31.346197",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hr@alghurair.com": {
+    "last_sent": "2026-09-08T02:02:44.032285",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sean_connolly@conagrabrands.com": {
+    "last_sent": "2026-09-08T02:02:55.439471",
+    "seq": 1,
+    "status": "sent"
+  },
+  "achowdhury@prangroup.com": {
+    "last_sent": "2026-09-08T02:03:07.317295",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anupam.nair@gmail.com": {
+    "last_sent": "2026-09-08T02:03:29.231012",
+    "seq": 1,
+    "status": "sent"
+  },
+  "isha.anand@rmz.com": {
+    "last_sent": "2026-09-08T02:03:42.527179",
+    "seq": 1,
+    "status": "sent"
+  },
+  "snakamura@ajinomoto.com": {
+    "last_sent": "2026-09-08T02:03:56.356559",
+    "seq": 1,
+    "status": "sent"
+  },
+  "foxpenner@energyimpactpartners.com": {
+    "last_sent": "2026-09-08T02:04:18.981058",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cjoubaud@cambonpartners.com": {
+    "last_sent": "2026-09-08T02:04:30.667766",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joydeep.guha@tatainternational.com": {
+    "last_sent": "2026-09-08T02:04:41.385989",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ali.anthony@goddardenterprises.com": {
+    "last_sent": "2026-09-08T02:04:52.192127",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicolas_catoggio@postholdings.com": {
+    "last_sent": "2026-09-08T02:05:06.042355",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rahman.shayan@beximco.com": {
+    "last_sent": "2026-09-08T02:05:16.932813",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cd@thebhlgroup.com": {
+    "last_sent": "2026-09-08T02:05:30.790734",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karen@grandcandy.am": {
+    "last_sent": "2026-09-08T02:05:40.483217",
+    "seq": 1,
+    "status": "sent"
+  },
+  "milena_dragijska@lidl.bg": {
+    "last_sent": "2026-09-08T02:05:51.314399",
+    "seq": 1,
+    "status": "sent"
+  },
+  "savasuzan@azersun.com": {
+    "last_sent": "2026-09-08T02:06:02.731799",
+    "seq": 1,
+    "status": "sent"
+  },
+  "g.lau@huaho.com": {
+    "last_sent": "2026-09-08T02:06:13.144700",
+    "seq": 1,
+    "status": "sent"
+  },
+  "j.snee@hormel.com": {
+    "last_sent": "2026-09-08T02:06:37.752060",
+    "seq": 1,
+    "status": "sent"
+  },
+  "asianbonds_feedback@adb.org": {
+    "last_sent": "2026-09-08T02:06:51.004772",
+    "seq": 1,
+    "status": "sent"
+  },
+  "clichnock@calstrs.com": {
+    "last_sent": "2026-09-08T02:07:26.706986",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mahesh.khanolkar@avendus.com": {
+    "last_sent": "2026-09-08T02:07:51.477135",
+    "seq": 1,
+    "status": "sent"
+  },
+  "schumacher.hein@unilever.com": {
+    "last_sent": "2026-09-08T02:08:03.040676",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jparisot@symrise.com": {
+    "last_sent": "2026-09-08T02:08:16.111780",
+    "seq": 1,
+    "status": "sent"
+  },
+  "constantinou.marios@charalambideschristis.com.cy": {
+    "last_sent": "2026-09-08T02:08:31.279955",
+    "seq": 1,
+    "status": "sent"
+  },
+  "postmaster@bukhamseen.com": {
+    "last_sent": "2026-09-08T02:08:42.249070",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investor_relations@colpal.com": {
+    "last_sent": "2026-09-08T02:09:07.718492",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tanay.chourasia@avendus.com": {
+    "last_sent": "2026-09-08T02:09:19.291427",
+    "seq": 1,
+    "status": "sent"
+  },
+  "miguel@brf-global.com": {
+    "last_sent": "2026-09-08T02:09:29.006854",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ankur.jain@biltrewards.com": {
+    "last_sent": "2026-09-08T02:09:52.480813",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ar@grupobimbo.com": {
+    "last_sent": "2026-09-08T02:10:15.776733",
+    "seq": 1,
+    "status": "sent"
+  },
+  "parag.desai@waghbakritea.com": {
+    "last_sent": "2026-09-08T02:10:51.231222",
+    "seq": 1,
+    "status": "sent"
+  },
+  "debracrew@diageo.com": {
+    "last_sent": "2026-09-08T02:11:06.408111",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christine@usv.com": {
+    "last_sent": "2026-09-08T02:11:16.113199",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bb@mosaicco.com": {
+    "last_sent": "2026-09-08T02:11:27.877096",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bthill@jefferies.com": {
+    "last_sent": "2026-09-08T02:11:52.308670",
+    "seq": 1,
+    "status": "sent"
+  },
+  "giles@kginvest.net": {
+    "last_sent": "2026-09-08T02:12:03.706238",
+    "seq": 1,
+    "status": "sent"
+  },
+  "corp.sec@venkys.com": {
+    "last_sent": "2026-09-08T02:12:16.167324",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ronnie@upgrad.com": {
+    "last_sent": "2026-09-08T02:12:29.441020",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rabie@ycb.com.ye": {
+    "last_sent": "2026-09-08T02:12:42.266811",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aragrigoryan@brandy.am": {
+    "last_sent": "2026-09-08T02:13:04.638388",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ri@marfrig.com.br": {
+    "last_sent": "2026-09-08T02:13:14.155608",
+    "seq": 1,
+    "status": "sent"
+  },
+  "poulweihrauch@mars.com": {
+    "last_sent": "2026-09-08T02:13:46.898759",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jinho.kim@advpartners.com": {
+    "last_sent": "2026-09-08T02:14:06.652284",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ryan@ziggcap.com": {
+    "last_sent": "2026-09-08T02:14:16.505329",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bbodine@mosaicco.com": {
+    "last_sent": "2026-09-08T02:14:40.421058",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deependra@sungroup-india.com": {
+    "last_sent": "2026-09-08T02:14:54.028022",
+    "seq": 1,
+    "status": "sent"
+  },
+  "musthafa@idfreshfood.com": {
+    "last_sent": "2026-09-08T02:15:04.412570",
+    "seq": 1,
+    "status": "sent"
+  },
+  "f.barbosa@natura.net": {
+    "last_sent": "2026-09-08T02:15:16.335174",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jason@guggenheimpartners.com": {
+    "last_sent": "2026-09-08T02:15:27.139041",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gilberto_tomazoni@jbs.com.br": {
+    "last_sent": "2026-09-08T02:15:39.335381",
+    "seq": 1,
+    "status": "sent"
+  },
+  "so@treehousefoods.com": {
+    "last_sent": "2026-09-08T02:16:06.517371",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aa@goddardenterprises.com": {
+    "last_sent": "2026-09-08T02:16:19.044101",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wangchuk@tashigroup.bt": {
+    "last_sent": "2026-09-08T02:16:32.572733",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vitaly.vovk@belarus-tractors.by": {
+    "last_sent": "2026-09-08T02:16:55.750456",
+    "seq": 1,
+    "status": "sent"
+  },
+  "schaudhry@cargill.co.in": {
+    "last_sent": "2026-09-08T02:17:07.018983",
+    "seq": 1,
+    "status": "sent"
+  },
+  "edusseux@b-t.energy": {
+    "last_sent": "2026-09-08T02:17:32.505480",
+    "seq": 1,
+    "status": "sent"
+  },
+  "projlead@hotmail.com": {
+    "last_sent": "2026-09-08T02:17:43.541181",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investorrelations@srestaorganic.com": {
+    "last_sent": "2026-09-08T02:17:55.090921",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yiu@capricornllc.com": {
+    "last_sent": "2026-09-08T02:18:08.452017",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fmcir@fmc.com": {
+    "last_sent": "2026-09-08T02:18:20.369291",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@fazlanifoods.com": {
+    "last_sent": "2026-09-08T02:18:33.541093",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vitalyvovk@belarus-tractors.by": {
+    "last_sent": "2026-09-08T02:18:59.102722",
+    "seq": 1,
+    "status": "sent"
+  },
+  "achang@capricornllc.com": {
+    "last_sent": "2026-09-08T02:19:21.286352",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ion@capricornllc.com": {
+    "last_sent": "2026-09-08T02:19:31.012983",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abdirashid_duale@dahabshiil.com": {
+    "last_sent": "2026-09-08T02:20:04.698043",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeff_schomburger@tysonfoods.com": {
+    "last_sent": "2026-09-08T02:20:17.286771",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christian@givaudan.com": {
+    "last_sent": "2026-09-08T02:20:30.950082",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investor.relations@molsoncoors.com": {
+    "last_sent": "2026-09-08T02:20:41.337420",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rhenny.wulan@prasetia.co.id": {
+    "last_sent": "2026-09-08T02:20:55.009138",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jl@adm.com": {
+    "last_sent": "2026-09-08T02:21:19.593213",
+    "seq": 1,
+    "status": "sent"
+  },
+  "consumer.services@nestle.com": {
+    "last_sent": "2026-09-08T02:21:32.710752",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jenna.att@moorefamilyofficegroup.com": {
+    "last_sent": "2026-09-08T02:21:44.901545",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abhilash@invideo.io": {
+    "last_sent": "2026-09-08T02:22:07.153925",
+    "seq": 1,
+    "status": "sent"
+  },
+  "techxp.kunaljain@gmail.com": {
+    "last_sent": "2026-09-08T02:22:27.390880",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carlos_diaz@thebhlgroup.com": {
+    "last_sent": "2026-09-08T02:22:39.998283",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ebl.dpcompliance@edelweissfin.com": {
+    "last_sent": "2026-09-08T02:22:50.877750",
+    "seq": 1,
+    "status": "sent"
+  },
+  "newlands.william@cbrands.com": {
+    "last_sent": "2026-09-08T02:23:14.838186",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fisk_johnson@scj.com": {
+    "last_sent": "2026-09-08T02:23:26.952185",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sn@santabremor.com": {
+    "last_sent": "2026-09-08T02:23:38.115624",
+    "seq": 1,
+    "status": "sent"
+  },
+  "j.parisot@symrise.com": {
+    "last_sent": "2026-09-08T02:23:51.228568",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lcollins@weioffice.com": {
+    "last_sent": "2026-09-08T02:24:01.542731",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dirk.vandeput@mdlz.com": {
+    "last_sent": "2026-09-08T02:24:12.826350",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christian.stammkoetter@givaudan.com": {
+    "last_sent": "2026-09-08T02:24:22.722230",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaclyn.hogan@mathco.com": {
+    "last_sent": "2026-09-08T02:24:34.859477",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ir@conagra.com": {
+    "last_sent": "2026-09-08T02:24:47.902731",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ethel_emma-uche@heineken.com": {
+    "last_sent": "2026-09-08T02:25:00.920120",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ra@ycb.com.ye": {
+    "last_sent": "2026-09-08T02:25:10.762155",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nakul@mommymadeit.in": {
+    "last_sent": "2026-09-08T02:25:32.899417",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dan@lererhippeau.com": {
+    "last_sent": "2026-09-08T02:25:43.012417",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ivan@kaufland.bg": {
+    "last_sent": "2026-09-08T02:25:56.924542",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fsandri@pilgrims.com": {
+    "last_sent": "2026-09-08T02:26:18.403926",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s.oakland@treehousefoods.com": {
+    "last_sent": "2026-09-08T02:26:30.336374",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abaring@tcifund.com": {
+    "last_sent": "2026-09-08T02:26:42.456288",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wangchuk.dorji@tashigroup.bt": {
+    "last_sent": "2026-09-08T02:26:54.806721",
+    "seq": 1,
+    "status": "sent"
+  },
+  "edlira@balfin.al": {
+    "last_sent": "2026-09-08T02:27:08.281786",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.foley@blackstone.com": {
+    "last_sent": "2026-09-08T02:27:18.477555",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sergeynedbailov@santabremor.com": {
+    "last_sent": "2026-09-08T02:27:31.414985",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shreya@singhi.com": {
+    "last_sent": "2026-09-08T02:27:42.039204",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joan@gennexcorp.com": {
+    "last_sent": "2026-09-08T02:27:52.453069",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pk@sealedair.com": {
+    "last_sent": "2026-09-08T02:28:03.104224",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ag@brandy.am": {
+    "last_sent": "2026-09-08T02:28:15.238103",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shivam@upsparks.vc": {
+    "last_sent": "2026-09-08T02:28:40.008099",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ssulaiman@dsgcp.com": {
+    "last_sent": "2026-09-08T02:28:52.936997",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael.partnow@jiffy.ai": {
+    "last_sent": "2026-09-08T02:29:03.471277",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mb@bowen.bz": {
+    "last_sent": "2026-09-08T02:29:24.225053",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carlos_abrams-rivera@kraftheinz.com": {
+    "last_sent": "2026-09-08T02:29:37.387887",
+    "seq": 1,
+    "status": "sent"
+  },
+  "clay@lowercarboncapital.com": {
+    "last_sent": "2026-09-08T02:29:48.955391",
+    "seq": 1,
+    "status": "sent"
+  },
+  "duale.abdirashid@dahabshiil.com": {
+    "last_sent": "2026-09-08T02:30:00.449458",
+    "seq": 1,
+    "status": "sent"
+  },
+  "diogo@refriango.com": {
+    "last_sent": "2026-09-08T02:30:10.688132",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mirzaul@alsulaimangroup.com": {
+    "last_sent": "2026-09-08T02:30:20.897433",
+    "seq": 1,
+    "status": "sent"
+  },
+  "robert.soros@soroscap.com": {
+    "last_sent": "2026-09-08T02:30:46.197820",
+    "seq": 1,
+    "status": "sent"
+  },
+  "md@lidl.bg": {
+    "last_sent": "2026-09-08T02:31:08.875708",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.iiflmf@indiainfoline.com": {
+    "last_sent": "2026-09-08T02:31:18.350805",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bf@mccormick.com": {
+    "last_sent": "2026-09-08T02:31:40.199676",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nikhil@eximiusvc.com": {
+    "last_sent": "2026-09-08T02:31:51.563082",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rise@tpg.com": {
+    "last_sent": "2026-09-08T02:32:26.589498",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sgoel@eightfold.ai": {
+    "last_sent": "2026-09-08T02:32:37.563598",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wdorji@tashigroup.bt": {
+    "last_sent": "2026-09-08T02:33:01.423609",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gadotevi@adq.ae": {
+    "last_sent": "2026-09-08T02:33:12.957176",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rfergusonfamily@msn.com": {
+    "last_sent": "2026-09-08T02:33:25.681931",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.ali@goddardenterprises.com": {
+    "last_sent": "2026-09-08T02:33:36.499948",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ismail@ghazanfargroup.com": {
+    "last_sent": "2026-09-08T02:33:47.706122",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sveintoreholsether@yara.com": {
+    "last_sent": "2026-09-08T02:33:58.158809",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fc@grupolala.com": {
+    "last_sent": "2026-09-08T02:34:10.068929",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pbillon@groupesifca.com": {
+    "last_sent": "2026-09-08T02:34:23.132473",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pierre.billon@groupesifca.com": {
+    "last_sent": "2026-09-08T02:34:46.847226",
+    "seq": 1,
+    "status": "sent"
+  },
+  "billon.pierre@groupesifca.com": {
+    "last_sent": "2026-09-08T02:34:58.929572",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.rodenbaugh@dfamilk.com": {
+    "last_sent": "2026-09-08T02:35:10.190217",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jonathan.wong@cloudkitchens.com": {
+    "last_sent": "2026-09-08T02:35:30.904629",
+    "seq": 1,
+    "status": "sent"
+  },
+  "plariviere@eurazeo.com": {
+    "last_sent": "2026-09-08T02:35:52.924180",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stammkoetter.christian@givaudan.com": {
+    "last_sent": "2026-09-08T02:36:05.303665",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@nelhydrogen.com": {
+    "last_sent": "2026-09-08T02:36:17.932413",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dan.simkowitz@morganstanley.com": {
+    "last_sent": "2026-09-08T02:36:29.980212",
+    "seq": 1,
+    "status": "sent"
+  },
+  "matt@instagram.com": {
+    "last_sent": "2026-09-08T02:36:50.810228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dvandeput@mdlz.com": {
+    "last_sent": "2026-09-08T02:37:03.864912",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aduale@dahabshiil.com": {
+    "last_sent": "2026-09-08T02:37:17.324541",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nikom_uangpairoj@cargill.com": {
+    "last_sent": "2026-09-08T02:37:28.115095",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dhruv.shah@qure.ai": {
+    "last_sent": "2026-09-08T02:37:51.154272",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael@bowen.bz": {
+    "last_sent": "2026-09-08T02:38:04.240209",
+    "seq": 1,
+    "status": "sent"
+  },
+  "franciscocamacho@grupolala.com": {
+    "last_sent": "2026-09-08T02:38:15.948727",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaydeep.barman@rebelfoods.com": {
+    "last_sent": "2026-09-08T02:38:50.924482",
+    "seq": 1,
+    "status": "sent"
+  },
+  "annurwadi@rbc.com.bn": {
+    "last_sent": "2026-09-08T02:39:03.191169",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rashmi@redchillies.com": {
+    "last_sent": "2026-09-08T02:39:13.302231",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ighazanfar@ghazanfargroup.com": {
+    "last_sent": "2026-09-08T02:39:24.829625",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shirisha.myadam@bambinoagro.com": {
+    "last_sent": "2026-09-08T02:39:47.544268",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anervegna@ferrero.com": {
+    "last_sent": "2026-09-08T02:40:00.110133",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pstoffel@valorep.com": {
+    "last_sent": "2026-09-08T02:40:10.383267",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abhishek.agarwal@dextercapital.in": {
+    "last_sent": "2026-09-08T02:40:21.655188",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tanya@emersoncollective.com": {
+    "last_sent": "2026-09-08T02:40:57.039713",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gilberto@jbs.com.br": {
+    "last_sent": "2026-09-08T02:41:07.653465",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aw@rbc.com.bn": {
+    "last_sent": "2026-09-08T02:41:17.713419",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shayanrahman@beximco.com": {
+    "last_sent": "2026-09-08T02:41:49.661110",
+    "seq": 1,
+    "status": "sent"
+  },
+  "connor.teskey@brookfield.com": {
+    "last_sent": "2026-09-08T02:42:14.754423",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chevrontechventures@chevron.com": {
+    "last_sent": "2026-09-08T02:42:28.049408",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeffschomburger@tysonfoods.com": {
+    "last_sent": "2026-09-08T02:42:50.406627",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vitaly@belarus-tractors.by": {
+    "last_sent": "2026-09-08T02:43:12.838922",
+    "seq": 1,
+    "status": "sent"
+  },
+  "beth.ford@landolakesinc.com": {
+    "last_sent": "2026-09-08T02:43:24.661867",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jane@baksh.sg": {
+    "last_sent": "2026-09-08T02:43:58.518971",
+    "seq": 1,
+    "status": "sent"
+  },
+  "parisot.jean-yves@symrise.com": {
+    "last_sent": "2026-09-08T02:44:10.422624",
+    "seq": 1,
+    "status": "sent"
+  },
+  "noah@kleinerperkins.com": {
+    "last_sent": "2026-09-08T02:44:20.233772",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hank.paulson@tpg.com": {
+    "last_sent": "2026-09-08T02:44:43.408343",
+    "seq": 1,
+    "status": "sent"
+  },
+  "akash@invideo.io": {
+    "last_sent": "2026-09-08T02:44:53.782905",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maan.alasaad@al-majid.com": {
+    "last_sent": "2026-09-08T02:45:06.939385",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marios_constantinou@charalambideschristis.com.cy": {
+    "last_sent": "2026-09-08T02:45:27.606473",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ir@mdlz.com": {
+    "last_sent": "2026-09-08T02:45:40.962958",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nginor@jefferies.com": {
+    "last_sent": "2026-09-08T02:45:54.600585",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jess@137ventures.com": {
+    "last_sent": "2026-09-08T02:46:06.609990",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rico.christensen@nufarm.com": {
+    "last_sent": "2026-09-08T02:46:19.526959",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ck@henkel.com": {
+    "last_sent": "2026-09-08T02:46:32.302843",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dalic.martina@podravka.hr": {
+    "last_sent": "2026-09-08T02:46:45.516162",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicoleta@theprivateinvestmentgroup.c": {
+    "last_sent": "2026-09-08T02:47:07.031144",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mbuck@thehersheycompany.com": {
+    "last_sent": "2026-09-08T02:47:17.437040",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@mubadalacapital.ae": {
+    "last_sent": "2026-09-08T02:47:27.914359",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pierre_billon@groupesifca.com": {
+    "last_sent": "2026-09-08T02:48:14.022626",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sfbl@squaregroup.com": {
+    "last_sent": "2026-09-08T02:48:24.533256",
+    "seq": 1,
+    "status": "sent"
+  },
+  "muenchen@nucleuspartners.de": {
+    "last_sent": "2026-09-08T02:48:37.109314",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeff@tysonfoods.com": {
+    "last_sent": "2026-09-08T02:48:48.409910",
+    "seq": 1,
+    "status": "sent"
+  },
+  "asif.rahman@juffali.com": {
+    "last_sent": "2026-09-08T02:49:01.479663",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jzinner@iccr.org": {
+    "last_sent": "2026-09-08T02:49:12.352021",
+    "seq": 1,
+    "status": "sent"
+  },
+  "francisco_camacho@grupolala.com": {
+    "last_sent": "2026-09-08T02:49:36.840250",
+    "seq": 1,
+    "status": "sent"
+  },
+  "neeraj@paperboatfoods.com": {
+    "last_sent": "2026-09-08T02:49:49.163731",
+    "seq": 1,
+    "status": "sent"
+  },
+  "charles_daly@woodbridgegroup.com": {
+    "last_sent": "2026-09-08T02:50:16.048213",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mccain.india@mccain.com": {
+    "last_sent": "2026-09-08T02:50:39.856076",
+    "seq": 1,
+    "status": "sent"
+  },
+  "neelam@sekhsaria.com": {
+    "last_sent": "2026-09-08T02:51:04.013493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ethelemma-uche@heineken.com": {
+    "last_sent": "2026-09-08T02:51:26.581289",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.afbl@akij.net": {
+    "last_sent": "2026-09-08T02:52:04.345084",
+    "seq": 1,
+    "status": "sent"
+  },
+  "invest@rigelcapital.com": {
+    "last_sent": "2026-09-08T02:52:37.394886",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jane_lee@cargill.com": {
+    "last_sent": "2026-09-08T02:52:49.817447",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wangchukdorji@tashigroup.bt": {
+    "last_sent": "2026-09-08T02:53:02.031775",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alejandro.rodriguez@grupobimbo.com": {
+    "last_sent": "2026-09-08T02:53:27.472207",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sanjay.sharma@mtrfoods.com": {
+    "last_sent": "2026-09-08T02:53:39.289198",
+    "seq": 1,
+    "status": "sent"
+  },
+  "meghana@slurrpfarm.com": {
+    "last_sent": "2026-09-08T02:53:49.833508",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chirag.gupta@8xventures.co": {
+    "last_sent": "2026-09-08T02:54:10.488394",
+    "seq": 1,
+    "status": "sent"
+  },
+  "webmaster@suhailbahwangroup.com": {
+    "last_sent": "2026-09-08T02:54:22.179509",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rksudhanshu@meity.gov.in": {
+    "last_sent": "2026-09-08T02:54:32.085965",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aanastasia@adventinternational.com": {
+    "last_sent": "2026-09-08T02:54:43.499263",
+    "seq": 1,
+    "status": "sent"
+  },
+  "r.juric@bmmigroup.com": {
+    "last_sent": "2026-09-08T02:54:55.166844",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vishnu@marsshot.vc": {
+    "last_sent": "2026-09-08T02:55:06.332281",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pierre@groupesifca.com": {
+    "last_sent": "2026-09-08T02:55:16.338740",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jalil.alokozay@alokozay.com": {
+    "last_sent": "2026-09-08T02:55:30.208292",
+    "seq": 1,
+    "status": "sent"
+  },
+  "malte.barth@bitkraft.vc": {
+    "last_sent": "2026-09-08T02:55:40.241097",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rita.martell@moorecap.com": {
+    "last_sent": "2026-09-08T02:55:51.631380",
+    "seq": 1,
+    "status": "sent"
+  },
+  "guruprasada.herle@rmz.com": {
+    "last_sent": "2026-09-08T02:56:24.150902",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ftorti@nea.com": {
+    "last_sent": "2026-09-08T02:56:48.511451",
+    "seq": 1,
+    "status": "sent"
+  },
+  "laurencefink@concentric.net": {
+    "last_sent": "2026-09-08T02:57:13.171098",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bruce@mosaicco.com": {
+    "last_sent": "2026-09-08T02:57:24.320585",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wd@tashigroup.bt": {
+    "last_sent": "2026-09-08T02:57:36.444282",
+    "seq": 1,
+    "status": "sent"
+  },
+  "steven.oakland@treehousefoods.com": {
+    "last_sent": "2026-09-08T02:57:46.684403",
+    "seq": 1,
+    "status": "sent"
+  },
+  "k9ashish@oriosvp.com": {
+    "last_sent": "2026-09-08T02:57:57.084001",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christensen.rico@nufarm.com": {
+    "last_sent": "2026-09-08T02:58:10.498565",
+    "seq": 1,
+    "status": "sent"
+  },
+  "edliramuka@balfin.al": {
+    "last_sent": "2026-09-08T02:58:20.209328",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sergey_nedbailov@santabremor.com": {
+    "last_sent": "2026-09-08T02:58:31.226263",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alex.jv@atherenergy.com": {
+    "last_sent": "2026-09-08T02:58:44.199625",
+    "seq": 1,
+    "status": "sent"
+  },
+  "somar.ajalyaqin@ihcuae.com": {
+    "last_sent": "2026-09-08T02:58:57.768890",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ritu.verma@ankurcapital.com": {
+    "last_sent": "2026-09-08T02:59:07.292921",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kirk_tanner@thehersheycompany.com": {
+    "last_sent": "2026-09-08T03:00:12.529540",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael.miebach@mastercard.com": {
+    "last_sent": "2026-09-08T03:00:32.628220",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nh@tateandlyle.com": {
+    "last_sent": "2026-09-08T03:00:51.875482",
+    "seq": 1,
+    "status": "sent"
+  },
+  "smucker.mark@jmsmucker.com": {
+    "last_sent": "2026-09-08T03:01:02.243750",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cstammkoetter@givaudan.com": {
+    "last_sent": "2026-09-08T03:01:15.828919",
+    "seq": 1,
+    "status": "sent"
+  },
+  "martina@podravka.hr": {
+    "last_sent": "2026-09-08T03:01:29.197168",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ebaiget@novonesis.com": {
+    "last_sent": "2026-09-08T03:01:41.936900",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deepak.agarwal@bikaji.com": {
+    "last_sent": "2026-09-08T03:01:53.531869",
+    "seq": 1,
+    "status": "sent"
+  },
+  "harmesh.rohit@alpha-grep.com": {
+    "last_sent": "2026-09-08T03:02:06.450745",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karen_vardanian@grandcandy.am": {
+    "last_sent": "2026-09-08T03:02:27.470421",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sales@sparkcapital.in": {
+    "last_sent": "2026-09-08T03:02:51.354858",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohit.arora@blackstone.com": {
+    "last_sent": "2026-09-08T03:03:11.526967",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rabiealhumaidi@ycb.com.ye": {
+    "last_sent": "2026-09-08T03:03:21.855117",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.chowdhury@prangroup.com": {
+    "last_sent": "2026-09-08T03:03:34.545352",
+    "seq": 1,
+    "status": "sent"
+  },
+  "charles.porch@instagram.com": {
+    "last_sent": "2026-09-08T03:03:56.930928",
+    "seq": 1,
+    "status": "sent"
+  },
+  "suresh.narayanan@nestle.com": {
+    "last_sent": "2026-09-08T03:04:19.705000",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carlos.diaz@thebhlgroup.com": {
+    "last_sent": "2026-09-08T03:04:32.960642",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ankit.agarwal@veeba.in": {
+    "last_sent": "2026-09-08T03:04:44.183277",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.jukes@univarsolutions.com": {
+    "last_sent": "2026-09-08T03:04:56.012560",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sounita@kaporcapital.com": {
+    "last_sent": "2026-09-08T03:05:08.172034",
+    "seq": 1,
+    "status": "sent"
+  },
+  "james.quincey@coca-cola.com": {
+    "last_sent": "2026-09-08T03:05:30.340708",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sharath.vasishta@atherenergy.com": {
+    "last_sent": "2026-09-08T03:05:43.766390",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carstenknobel@henkel.com": {
+    "last_sent": "2026-09-08T03:06:30.030660",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashish@sarvam.ai": {
+    "last_sent": "2026-09-08T03:06:40.140714",
+    "seq": 1,
+    "status": "sent"
+  },
+  "directors@abc.xyz": {
+    "last_sent": "2026-09-08T03:06:51.951558",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mariano.moreno@alantra.com": {
+    "last_sent": "2026-09-08T03:07:02.026391",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.vandeput@mdlz.com": {
+    "last_sent": "2026-09-08T03:07:28.427923",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dennis.rodenbaugh@dfamilk.com": {
+    "last_sent": "2026-09-08T03:07:41.740896",
+    "seq": 1,
+    "status": "sent"
+  },
+  "edlira.muka@balfin.al": {
+    "last_sent": "2026-09-08T03:07:53.341193",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajni.raina@meity.gov.in": {
+    "last_sent": "2026-09-08T03:08:03.386527",
+    "seq": 1,
+    "status": "sent"
+  },
+  "njahmad@adb.org": {
+    "last_sent": "2026-09-08T03:08:15.375146",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wd@hain.com": {
+    "last_sent": "2026-09-08T03:08:58.863095",
+    "seq": 1,
+    "status": "sent"
+  },
+  "markclouse@campbells.com": {
+    "last_sent": "2026-09-08T03:09:19.773189",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dcrew@diageo.com": {
+    "last_sent": "2026-09-08T03:09:31.737491",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fcamacho@grupolala.com": {
+    "last_sent": "2026-09-08T03:09:42.469698",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sh@yara.com": {
+    "last_sent": "2026-09-08T03:09:54.876995",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john.waldron@gs.com": {
+    "last_sent": "2026-09-08T03:10:05.331459",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ivanchernev@kaufland.bg": {
+    "last_sent": "2026-09-08T03:10:31.432404",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jean-yves.parisot@symrise.com": {
+    "last_sent": "2026-09-08T03:10:56.172079",
+    "seq": 1,
+    "status": "sent"
+  },
+  "am@wisynco.com": {
+    "last_sent": "2026-09-08T03:11:06.976323",
+    "seq": 1,
+    "status": "sent"
+  },
+  "martina.dalic@podravka.hr": {
+    "last_sent": "2026-09-08T03:11:17.467324",
+    "seq": 1,
+    "status": "sent"
+  },
+  "riccardo.pagano@outlierventures.io": {
+    "last_sent": "2026-09-08T03:11:43.382493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "juric.renato@bmmigroup.com": {
+    "last_sent": "2026-09-08T03:11:57.399450",
+    "seq": 1,
+    "status": "sent"
+  },
+  "navas@groupmeeran.com": {
+    "last_sent": "2026-09-08T03:12:07.223576",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marlof.tjaden@rothschildandco.com": {
+    "last_sent": "2026-09-08T03:12:28.691729",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nils_selte@orkla.no": {
+    "last_sent": "2026-09-08T03:12:40.784723",
+    "seq": 1,
+    "status": "sent"
+  },
+  "davidjukes@univarsolutions.com": {
+    "last_sent": "2026-09-08T03:12:50.096491",
+    "seq": 1,
+    "status": "sent"
+  },
+  "martinadalic@podravka.hr": {
+    "last_sent": "2026-09-08T03:13:04.631796",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.crew@diageo.com": {
+    "last_sent": "2026-09-08T03:13:15.718527",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nj@maple-advisors.com": {
+    "last_sent": "2026-09-08T03:13:26.241507",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sharma6.vijay@paytm.com": {
+    "last_sent": "2026-09-08T03:13:38.381779",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rsnellenbarger@hl.com": {
+    "last_sent": "2026-09-08T03:13:51.386062",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vipul@nextbharat.ventures": {
+    "last_sent": "2026-09-08T03:14:26.130607",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sustainableinvesting@gs.com": {
+    "last_sent": "2026-09-08T03:14:47.943511",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brucebodine@mosaicco.com": {
+    "last_sent": "2026-09-08T03:15:02.780249",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raghav.behani@waterfieldadvisors.com": {
+    "last_sent": "2026-09-08T03:15:14.646706",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jake.rooney@torchpartners.com": {
+    "last_sent": "2026-09-08T03:15:36.258800",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marwan_mtu@masaood.com": {
+    "last_sent": "2026-09-08T03:15:47.532805",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.caldas@refriango.com": {
+    "last_sent": "2026-09-08T03:15:59.891787",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dcaldas@refriango.com": {
+    "last_sent": "2026-09-08T03:16:12.503412",
+    "seq": 1,
+    "status": "sent"
+  },
+  "md@catamaran.in": {
+    "last_sent": "2026-09-08T03:16:25.923930",
+    "seq": 1,
+    "status": "sent"
+  },
+  "macleodd@c-ventures.nl": {
+    "last_sent": "2026-09-08T03:16:39.290926",
+    "seq": 1,
+    "status": "sent"
+  },
+  "akovacevic@bhtelecom.ba": {
+    "last_sent": "2026-09-08T03:16:51.244553",
+    "seq": 1,
+    "status": "sent"
+  },
+  "c.diaz@thebhlgroup.com": {
+    "last_sent": "2026-09-08T03:17:03.455082",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jukes.david@univarsolutions.com": {
+    "last_sent": "2026-09-08T03:17:13.797907",
+    "seq": 1,
+    "status": "sent"
+  },
+  "billnewlands@cbrands.com": {
+    "last_sent": "2026-09-08T03:17:38.096714",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investorrelations@hain.com": {
+    "last_sent": "2026-09-08T03:18:02.674876",
+    "seq": 1,
+    "status": "sent"
+  },
+  "catheriner@breyercapital.com": {
+    "last_sent": "2026-09-08T03:18:16.187007",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anthony_ali@goddardenterprises.com": {
+    "last_sent": "2026-09-08T03:18:29.142468",
+    "seq": 1,
+    "status": "sent"
+  },
+  "steven@treehousefoods.com": {
+    "last_sent": "2026-09-08T03:18:51.990197",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dlicea@iberdrola.com": {
+    "last_sent": "2026-09-08T03:19:03.365486",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s.rahman@beximco.com": {
+    "last_sent": "2026-09-08T03:19:13.501774",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dk@tyson.com": {
+    "last_sent": "2026-09-08T03:19:24.118449",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ichernev@kaufland.bg": {
+    "last_sent": "2026-09-08T03:19:37.042439",
+    "seq": 1,
+    "status": "sent"
+  },
+  "khong@wilmar-international.com": {
+    "last_sent": "2026-09-08T03:19:50.814328",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fernando@qedinvestors.com": {
+    "last_sent": "2026-09-08T03:20:03.949196",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aali@goddardenterprises.com": {
+    "last_sent": "2026-09-08T03:20:29.907301",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.duale@dahabshiil.com": {
+    "last_sent": "2026-09-08T03:20:41.879326",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.lewis@hain.com": {
+    "last_sent": "2026-09-08T03:20:52.297620",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zerin@indigoedge.com": {
+    "last_sent": "2026-09-08T03:21:25.292096",
+    "seq": 1,
+    "status": "sent"
+  },
+  "miles@qedinvestors.com": {
+    "last_sent": "2026-09-08T03:21:38.724463",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kevin@indogencapital.com": {
+    "last_sent": "2026-09-08T03:22:01.099206",
+    "seq": 1,
+    "status": "sent"
+  },
+  "francis.wong@guggenheimpartners.com": {
+    "last_sent": "2026-09-08T03:22:11.745373",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zshroff@filtercapital.com": {
+    "last_sent": "2026-09-08T03:22:24.094506",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ir@symrise.com": {
+    "last_sent": "2026-09-08T03:23:03.772285",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ismail.ghazanfar@ghazanfargroup.com": {
+    "last_sent": "2026-09-08T03:23:14.788124",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joy.sioufi@gpbullhound.com": {
+    "last_sent": "2026-09-08T03:23:25.517303",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jbvreddy@nic.in": {
+    "last_sent": "2026-09-08T03:23:37.484218",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vishal.katariya@ankurcapital.com": {
+    "last_sent": "2026-09-08T03:23:58.818060",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@capricornllc.com": {
+    "last_sent": "2026-09-08T03:24:46.076692",
+    "seq": 1,
+    "status": "sent"
+  },
+  "procurement@vlcspices.com": {
+    "last_sent": "2026-09-08T03:25:10.921690",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pradyun@cocreate.ventures": {
+    "last_sent": "2026-09-08T03:25:31.236955",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eva.olbers@premjiinvest.com": {
+    "last_sent": "2026-09-08T03:25:42.175040",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eemma-uche@heineken.com": {
+    "last_sent": "2026-09-08T03:25:52.305818",
+    "seq": 1,
+    "status": "sent"
+  },
+  "adam@bvp.com": {
+    "last_sent": "2026-09-08T03:26:04.432814",
+    "seq": 1,
+    "status": "sent"
+  },
+  "powers@act.is": {
+    "last_sent": "2026-09-08T03:26:17.051954",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rahul.munjal@herofutureenergies.com": {
+    "last_sent": "2026-09-08T03:26:31.023220",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mariosconstantinou@charalambideschristis.com.cy": {
+    "last_sent": "2026-09-08T03:26:40.853653",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aal@moccae.gov.ae": {
+    "last_sent": "2026-09-08T03:27:02.426461",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gimkok.lau@huaho.com": {
+    "last_sent": "2026-09-08T03:27:24.351895",
+    "seq": 1,
+    "status": "sent"
+  },
+  "saurabh.khubchandani@unaprime.com": {
+    "last_sent": "2026-09-08T03:27:37.082746",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eyecare@visionfoundationofindia.in": {
+    "last_sent": "2026-09-08T03:28:13.440668",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christianstammkoetter@givaudan.com": {
+    "last_sent": "2026-09-08T03:28:41.228217",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anjana.sasidharan@lcatterton.com": {
+    "last_sent": "2026-09-08T03:28:51.386416",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zack@dcvc.com": {
+    "last_sent": "2026-09-08T03:29:02.619959",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kvardanian@grandcandy.am": {
+    "last_sent": "2026-09-08T03:29:14.541385",
+    "seq": 1,
+    "status": "sent"
+  },
+  "minguela@weforum.org": {
+    "last_sent": "2026-09-08T03:29:36.260742",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jalil@alokozay.com": {
+    "last_sent": "2026-09-08T03:29:47.189721",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pkivits@sealedair.com": {
+    "last_sent": "2026-09-08T03:30:10.069393",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ismail_ghazanfar@ghazanfargroup.com": {
+    "last_sent": "2026-09-08T03:30:31.902101",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lrobertson@souterinvestments.com": {
+    "last_sent": "2026-09-08T03:30:42.612698",
+    "seq": 1,
+    "status": "sent"
+  },
+  "atsushi@asahigroup-holdings.com": {
+    "last_sent": "2026-09-08T03:31:25.872823",
+    "seq": 1,
+    "status": "sent"
+  },
+  "darren_zhou@sunergyworks.com": {
+    "last_sent": "2026-09-08T03:31:37.074775",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lewis.alison@hain.com": {
+    "last_sent": "2026-09-08T03:31:50.363534",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ee@heineken.com": {
+    "last_sent": "2026-09-08T03:32:01.619986",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wolfgang@lonza.com": {
+    "last_sent": "2026-09-08T03:32:15.795696",
+    "seq": 1,
+    "status": "sent"
+  },
+  "schomburger.jeff@tysonfoods.com": {
+    "last_sent": "2026-09-08T03:32:28.328051",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bodine.bruce@mosaicco.com": {
+    "last_sent": "2026-09-08T03:32:53.878123",
+    "seq": 1,
+    "status": "sent"
+  },
+  "talal-el@bch.co": {
+    "last_sent": "2026-09-08T03:33:04.259835",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vk@khoslaventures.com": {
+    "last_sent": "2026-09-08T03:33:34.526478",
+    "seq": 1,
+    "status": "sent"
+  },
+  "soakland@treehousefoods.com": {
+    "last_sent": "2026-09-08T03:33:45.586372",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ted.pick@morganstanley.com": {
+    "last_sent": "2026-09-08T03:33:58.686714",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amel@bhtelecom.ba": {
+    "last_sent": "2026-09-08T03:34:30.885607",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nils@fatprojects.com": {
+    "last_sent": "2026-09-08T03:35:10.370723",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alison.lewis@hain.com": {
+    "last_sent": "2026-09-08T03:35:22.606702",
+    "seq": 1,
+    "status": "sent"
+  },
+  "e.emma-uche@heineken.com": {
+    "last_sent": "2026-09-08T03:35:36.873501",
+    "seq": 1,
+    "status": "sent"
+  },
+  "startups@growx.vc": {
+    "last_sent": "2026-09-08T03:35:50.717082",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m.dragijska@lidl.bg": {
+    "last_sent": "2026-09-08T03:36:03.720628",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stevecahillane@kellanova.com": {
+    "last_sent": "2026-09-08T03:36:15.244703",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wienand.wolfgang@lonza.com": {
+    "last_sent": "2026-09-08T03:36:26.920717",
+    "seq": 1,
+    "status": "sent"
+  },
+  "priya.nair@unilever.com": {
+    "last_sent": "2026-09-08T03:36:50.066904",
+    "seq": 1,
+    "status": "sent"
+  },
+  "noble.vincent@pixis.ai": {
+    "last_sent": "2026-09-08T03:37:03.471018",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dennis@dfamilk.com": {
+    "last_sent": "2026-09-08T03:37:14.175618",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@breyercapital.com": {
+    "last_sent": "2026-09-08T03:37:34.447462",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.rodriguez@grupobimbo.com": {
+    "last_sent": "2026-09-08T03:37:44.357955",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jobs@nexusvp.com": {
+    "last_sent": "2026-09-08T03:37:53.786439",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gimkok@huaho.com": {
+    "last_sent": "2026-09-08T03:38:04.838805",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vaibhav.tiwari@equiruswealth.com": {
+    "last_sent": "2026-09-08T03:38:27.016896",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gupta.gaurav@meity.gov.in": {
+    "last_sent": "2026-09-08T03:38:49.917132",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jalil_alokozay@alokozay.com": {
+    "last_sent": "2026-09-08T03:39:01.170327",
+    "seq": 1,
+    "status": "sent"
+  },
+  "katsuki.atsushi@asahigroup-holdings.com": {
+    "last_sent": "2026-09-08T03:39:15.198840",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@ezeeats.com": {
+    "last_sent": "2026-09-08T03:39:24.877983",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eden@outlierventures.io": {
+    "last_sent": "2026-09-08T03:39:48.145763",
+    "seq": 1,
+    "status": "sent"
+  },
+  "akshay.kini@premjiinvest.com": {
+    "last_sent": "2026-09-08T03:39:59.347076",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rita.lei@torchpartners.com": {
+    "last_sent": "2026-09-08T03:40:10.541501",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christian_stammkoetter@givaudan.com": {
+    "last_sent": "2026-09-08T03:40:44.213976",
+    "seq": 1,
+    "status": "sent"
+  },
+  "klicht@reckitt.com": {
+    "last_sent": "2026-09-08T03:40:53.511004",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bocklaura@qedinvestors.com": {
+    "last_sent": "2026-09-08T03:41:32.288225",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ahsan_chowdhury@prangroup.com": {
+    "last_sent": "2026-09-08T03:41:46.139297",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nick_hampton@tateandlyle.com": {
+    "last_sent": "2026-09-08T03:41:58.180123",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abdirashidduale@dahabshiil.com": {
+    "last_sent": "2026-09-08T03:42:11.270316",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vt@a91partners.com": {
+    "last_sent": "2026-09-08T03:42:24.605374",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shadfield@alantra.com": {
+    "last_sent": "2026-09-08T03:42:34.078847",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gimkoklau@huaho.com": {
+    "last_sent": "2026-09-08T03:42:56.755988",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rachel@endeavorco.com": {
+    "last_sent": "2026-09-08T03:43:07.371910",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kvs.manian@kotak.com": {
+    "last_sent": "2026-09-08T03:43:21.219199",
+    "seq": 1,
+    "status": "sent"
+  },
+  "smefund@sidbiventure.co.in": {
+    "last_sent": "2026-09-08T03:43:48.425106",
+    "seq": 1,
+    "status": "sent"
+  },
+  "djukes@univarsolutions.com": {
+    "last_sent": "2026-09-08T03:44:01.238241",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maricel@gennexcorp.com": {
+    "last_sent": "2026-09-08T03:44:13.219372",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sven@khoslaventures.com": {
+    "last_sent": "2026-09-08T03:44:23.849883",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nikhil@vedacorp.com": {
+    "last_sent": "2026-09-08T03:44:35.541187",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nedbailov.sergey@santabremor.com": {
+    "last_sent": "2026-09-08T03:44:48.056041",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vv@belarus-tractors.by": {
+    "last_sent": "2026-09-08T03:44:58.944544",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chanyip.pang@vertexventures.com": {
+    "last_sent": "2026-09-08T03:45:09.551193",
+    "seq": 1,
+    "status": "sent"
+  },
+  "billy@draper.vc": {
+    "last_sent": "2026-09-08T03:45:20.848593",
+    "seq": 1,
+    "status": "sent"
+  },
+  "an@ferrero.com": {
+    "last_sent": "2026-09-08T03:45:31.085168",
+    "seq": 1,
+    "status": "sent"
+  },
+  "peter@emersoncollective.com": {
+    "last_sent": "2026-09-08T03:45:43.419750",
+    "seq": 1,
+    "status": "sent"
+  },
+  "snedbailov@santabremor.com": {
+    "last_sent": "2026-09-08T03:46:06.290330",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gerard.falcone@blueridgecapital.com": {
+    "last_sent": "2026-09-08T03:46:29.125673",
+    "seq": 1,
+    "status": "sent"
+  },
+  "contact@centrecourtcapital.com": {
+    "last_sent": "2026-09-08T03:46:51.815500",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gh@bunge.com": {
+    "last_sent": "2026-09-08T03:47:01.199958",
+    "seq": 1,
+    "status": "sent"
+  },
+  "debra@diageo.com": {
+    "last_sent": "2026-09-08T03:47:12.942892",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ac@prangroup.com": {
+    "last_sent": "2026-09-08T03:47:49.045616",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abdirashid@dahabshiil.com": {
+    "last_sent": "2026-09-08T03:48:13.540716",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gig@macquarie.com": {
+    "last_sent": "2026-09-08T03:48:24.445278",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mark.smucker@jmsmucker.com": {
+    "last_sent": "2026-09-08T03:48:36.131161",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chad.langley@torchpartners.com": {
+    "last_sent": "2026-09-08T03:48:48.761606",
+    "seq": 1,
+    "status": "sent"
+  },
+  "next47@siemens.com": {
+    "last_sent": "2026-09-08T03:49:12.354967",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rabie_alhumaidi@ycb.com.ye": {
+    "last_sent": "2026-09-08T03:49:38.914342",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sangram.patil@nazara.com": {
+    "last_sent": "2026-09-08T03:50:01.311273",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ivan.chernev@kaufland.bg": {
+    "last_sent": "2026-09-08T03:50:11.387686",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jschomburger@tysonfoods.com": {
+    "last_sent": "2026-09-08T03:50:21.118824",
+    "seq": 1,
+    "status": "sent"
+  },
+  "osamu.mogi@kikkoman.co.jp": {
+    "last_sent": "2026-09-08T03:50:32.436303",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vserve@voltas.com": {
+    "last_sent": "2026-09-08T03:50:54.028005",
+    "seq": 1,
+    "status": "sent"
+  },
+  "e.baiget@novonesis.com": {
+    "last_sent": "2026-09-08T03:51:19.932933",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gavinhattersley@molsoncoors.com": {
+    "last_sent": "2026-09-08T03:51:56.166845",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lcdas@socialalpha.org": {
+    "last_sent": "2026-09-08T03:52:17.514270",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jhumphries@cvc.com": {
+    "last_sent": "2026-09-08T03:52:30.241321",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alison_lewis@hain.com": {
+    "last_sent": "2026-09-08T03:52:41.122914",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@isconbalajifoods.com": {
+    "last_sent": "2026-09-08T03:53:01.374917",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ffernandez@unilever.com": {
+    "last_sent": "2026-09-08T03:53:12.460454",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohit.burman@burmanfamilyholdings.com": {
+    "last_sent": "2026-09-08T03:53:23.565430",
+    "seq": 1,
+    "status": "sent"
+  },
+  "v.vovk@belarus-tractors.by": {
+    "last_sent": "2026-09-08T03:53:46.154972",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bikramjeetkapany@bharat.fund": {
+    "last_sent": "2026-09-08T03:54:06.172156",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael.bowen@bowen.bz": {
+    "last_sent": "2026-09-08T03:54:20.071342",
+    "seq": 1,
+    "status": "sent"
+  },
+  "guillaume.falguiere@peugeot-invest.com": {
+    "last_sent": "2026-09-08T03:54:30.567046",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sabrinahan@sunergyworks.com": {
+    "last_sent": "2026-09-08T03:54:42.472770",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prataap.ipo@sparkcapital.in": {
+    "last_sent": "2026-09-08T03:55:19.304609",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaksonkolkata@jakson.com": {
+    "last_sent": "2026-09-08T03:55:32.297101",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mittal@resurgentindia.com": {
+    "last_sent": "2026-09-08T03:55:41.994023",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bnewlands@cbrands.com": {
+    "last_sent": "2026-09-08T03:56:06.275739",
+    "seq": 1,
+    "status": "sent"
+  },
+  "annur.wadi@rbc.com.bn": {
+    "last_sent": "2026-09-08T03:56:19.199767",
+    "seq": 1,
+    "status": "sent"
+  },
+  "oliver.mirza@oetker.in": {
+    "last_sent": "2026-09-08T03:56:29.529135",
+    "seq": 1,
+    "status": "sent"
+  },
+  "diogo_caldas@refriango.com": {
+    "last_sent": "2026-09-08T03:56:41.332879",
+    "seq": 1,
+    "status": "sent"
+  },
+  "selte.nils@orkla.no": {
+    "last_sent": "2026-09-08T03:56:54.413482",
+    "seq": 1,
+    "status": "sent"
+  },
+  "c.abrams-rivera@kraftheinz.com": {
+    "last_sent": "2026-09-08T03:57:07.555952",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sean_powell@cargill.com": {
+    "last_sent": "2026-09-08T03:57:20.545457",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nnayar@filtercapital.com": {
+    "last_sent": "2026-09-08T03:57:35.693540",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jp@symrise.com": {
+    "last_sent": "2026-09-08T03:57:48.658891",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christian@stripe.com": {
+    "last_sent": "2026-09-08T03:58:12.454053",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bn@cbrands.com": {
+    "last_sent": "2026-09-08T03:58:31.966234",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nselte@orkla.no": {
+    "last_sent": "2026-09-08T03:58:53.345368",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ksimonsen@capricornllc.com": {
+    "last_sent": "2026-09-08T03:59:25.500861",
+    "seq": 1,
+    "status": "sent"
+  },
+  "murali@inflexor.vc": {
+    "last_sent": "2026-09-08T03:59:35.322162",
+    "seq": 1,
+    "status": "sent"
+  },
+  "baiget.ester@novonesis.com": {
+    "last_sent": "2026-09-08T03:59:48.266810",
+    "seq": 1,
+    "status": "sent"
+  },
+  "htaneja@generalcatalyst.com": {
+    "last_sent": "2026-09-08T03:59:58.166107",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tchansiri@thaiunion.com": {
+    "last_sent": "2026-09-08T04:00:07.857479",
+    "seq": 1,
+    "status": "sent"
+  },
+  "saputo.lino@saputo.com": {
+    "last_sent": "2026-09-08T04:00:19.886889",
+    "seq": 1,
+    "status": "sent"
+  },
+  "paras.malhotra@letsventure.com": {
+    "last_sent": "2026-09-08T04:00:32.020205",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mishika.saraf@kaizenvest.com": {
+    "last_sent": "2026-09-08T04:00:50.966465",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prasannakumar.b@venkys.com": {
+    "last_sent": "2026-09-08T04:01:03.762585",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lynn-mytelka@c-ventures.nl": {
+    "last_sent": "2026-09-08T04:01:39.535896",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ahsanchowdhury@prangroup.com": {
+    "last_sent": "2026-09-08T04:01:49.965150",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kartik@thetastecompany.com": {
+    "last_sent": "2026-09-08T04:02:23.681332",
+    "seq": 1,
+    "status": "sent"
+  },
+  "catoggio.nicolas@postholdings.com": {
+    "last_sent": "2026-09-08T04:02:34.183048",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anurag.sharma@pixis.ai": {
+    "last_sent": "2026-09-08T04:02:55.113494",
+    "seq": 1,
+    "status": "sent"
+  },
+  "june.liow@tranglo.com": {
+    "last_sent": "2026-09-08T04:03:07.158222",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raunak@eximiusvc.com": {
+    "last_sent": "2026-09-08T04:03:17.563945",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.nervegna@ferrero.com": {
+    "last_sent": "2026-09-08T04:03:30.100680",
+    "seq": 1,
+    "status": "sent"
+  },
+  "knobel.carsten@henkel.com": {
+    "last_sent": "2026-09-08T04:03:40.160175",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dpillay@temasek.com.sg": {
+    "last_sent": "2026-09-08T04:03:50.924719",
+    "seq": 1,
+    "status": "sent"
+  },
+  "b.ford@landolakesinc.com": {
+    "last_sent": "2026-09-08T04:04:02.663897",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dorji.wangchuk@tashigroup.bt": {
+    "last_sent": "2026-09-08T04:04:27.659725",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cliffordlee@dbs.com": {
+    "last_sent": "2026-09-08T04:04:39.862911",
+    "seq": 1,
+    "status": "sent"
+  },
+  "annur_wadi@rbc.com.bn": {
+    "last_sent": "2026-09-08T04:04:50.420621",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alessandronervegna@ferrero.com": {
+    "last_sent": "2026-09-08T04:05:12.928534",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s.holsether@yara.com": {
+    "last_sent": "2026-09-08T04:05:37.753348",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jess@cloudkitchens.com": {
+    "last_sent": "2026-09-08T04:05:49.140747",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rodney@emersoncollective.com": {
+    "last_sent": "2026-09-08T04:05:59.471823",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carlos@thebhlgroup.com": {
+    "last_sent": "2026-09-08T04:06:10.564942",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sveintore@yara.com": {
+    "last_sent": "2026-09-08T04:06:24.478131",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bhavik.chinai@bvcventures.com": {
+    "last_sent": "2026-09-08T04:06:46.499924",
+    "seq": 1,
+    "status": "sent"
+  },
+  "robertb@annapurna.com": {
+    "last_sent": "2026-09-08T04:06:57.726420",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kovacevic.amel@bhtelecom.ba": {
+    "last_sent": "2026-09-08T04:07:31.152536",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raphael.cohen@neuron7.ai": {
+    "last_sent": "2026-09-08T04:07:41.362502",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john_brase@conagra.com": {
+    "last_sent": "2026-09-08T04:07:52.004541",
+    "seq": 1,
+    "status": "sent"
+  },
+  "melissa.dcosta@kotak.com": {
+    "last_sent": "2026-09-08T04:08:14.960151",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@ril.com": {
+    "last_sent": "2026-09-08T04:08:26.182432",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajnish@iangroup.vc": {
+    "last_sent": "2026-09-08T04:08:37.924310",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arodriguez@grupobimbo.com": {
+    "last_sent": "2026-09-08T04:08:52.588377",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alessandro@ferrero.com": {
+    "last_sent": "2026-09-08T04:09:04.294222",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohab.elmandouh@abuissa.com": {
+    "last_sent": "2026-09-08T04:09:14.563009",
+    "seq": 1,
+    "status": "sent"
+  },
+  "diogocaldas@refriango.com": {
+    "last_sent": "2026-09-08T04:09:26.451313",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maher@angellist.com": {
+    "last_sent": "2026-09-08T04:09:39.009949",
+    "seq": 1,
+    "status": "sent"
+  },
+  "adestruhaut@cambonpartners.com": {
+    "last_sent": "2026-09-08T04:09:50.876153",
+    "seq": 1,
+    "status": "sent"
+  },
+  "adcvet@moccae.gov.ae": {
+    "last_sent": "2026-09-08T04:10:02.199551",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sumeir@sevenseasllp.com": {
+    "last_sent": "2026-09-08T04:10:12.896183",
+    "seq": 1,
+    "status": "sent"
+  },
+  "renjith.kumar@suhailbahwangroup.com": {
+    "last_sent": "2026-09-08T04:11:31.255607",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sholsether@yara.com": {
+    "last_sent": "2026-09-08T04:11:43.230666",
+    "seq": 1,
+    "status": "sent"
+  },
+  "b.bodine@mosaicco.com": {
+    "last_sent": "2026-09-08T04:11:56.140329",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vuuhu02@yahoo.com": {
+    "last_sent": "2026-09-08T04:12:08.778229",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john.brase@conagra.com": {
+    "last_sent": "2026-09-08T04:12:20.782223",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bg@ruttenberggordon.com": {
+    "last_sent": "2026-09-08T04:12:32.969376",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ad@dahabshiil.com": {
+    "last_sent": "2026-09-08T04:12:45.297692",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jasdeep@alteriacapital.com": {
+    "last_sent": "2026-09-08T04:12:57.987862",
+    "seq": 1,
+    "status": "sent"
+  },
+  "agrigoryan@brandy.am": {
+    "last_sent": "2026-09-08T04:13:20.383226",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rakesh.verma@pixis.ai": {
+    "last_sent": "2026-09-08T04:13:50.491414",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohamedr@alsayergroup.com": {
+    "last_sent": "2026-09-08T04:14:01.423582",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohinder-bansal@blacksoil.co.in": {
+    "last_sent": "2026-09-08T04:14:22.604550",
+    "seq": 1,
+    "status": "sent"
+  },
+  "su@azersun.com": {
+    "last_sent": "2026-09-08T04:14:32.508943",
+    "seq": 1,
+    "status": "sent"
+  },
+  "njaber@almullagroup.com": {
+    "last_sent": "2026-09-08T04:14:42.710916",
+    "seq": 1,
+    "status": "sent"
+  },
+  "elyse@craftventures.com": {
+    "last_sent": "2026-09-08T04:14:56.064693",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fazal@merisis.in": {
+    "last_sent": "2026-09-08T04:15:07.550155",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@emersoncollective.com": {
+    "last_sent": "2026-09-08T04:15:19.642878",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bruce_bodine@mosaicco.com": {
+    "last_sent": "2026-09-08T04:15:32.029902",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ig@ghazanfargroup.com": {
+    "last_sent": "2026-09-08T04:15:44.899054",
+    "seq": 1,
+    "status": "sent"
+  },
+  "savas_uzan@azersun.com": {
+    "last_sent": "2026-09-08T04:15:57.689182",
+    "seq": 1,
+    "status": "sent"
+  },
+  "edlira_muka@balfin.al": {
+    "last_sent": "2026-09-08T04:16:08.864038",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ikovacs@abc.xyz": {
+    "last_sent": "2026-09-08T04:16:20.968709",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kimberlymshin@gmail.com": {
+    "last_sent": "2026-09-08T04:16:52.151773",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kbaylor@kkfund.co": {
+    "last_sent": "2026-09-08T04:17:05.182030",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dragijska.milena@lidl.bg": {
+    "last_sent": "2026-09-08T04:17:46.475232",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@blacksoil.co.in": {
+    "last_sent": "2026-09-08T04:17:57.767060",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vitaly_vovk@belarus-tractors.by": {
+    "last_sent": "2026-09-08T04:18:08.102434",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pedro.santos@gestifute.com": {
+    "last_sent": "2026-09-08T04:18:32.758727",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amel_kovacevic@bhtelecom.ba": {
+    "last_sent": "2026-09-08T04:18:46.007139",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ahsan@prangroup.com": {
+    "last_sent": "2026-09-08T04:18:57.231548",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wangchuk_dorji@tashigroup.bt": {
+    "last_sent": "2026-09-08T04:19:38.768856",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vincent_warnery@beiersdorf.com": {
+    "last_sent": "2026-09-08T04:19:50.301688",
+    "seq": 1,
+    "status": "sent"
+  },
+  "thomas@bluehorizon.com": {
+    "last_sent": "2026-09-08T04:20:03.108724",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@adq.ae": {
+    "last_sent": "2026-09-08T04:20:27.926762",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vvovk@belarus-tractors.by": {
+    "last_sent": "2026-09-08T04:20:40.039232",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sriram@nadathur.com": {
+    "last_sent": "2026-09-08T04:21:05.330261",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wlauder@estee.com": {
+    "last_sent": "2026-09-08T04:21:26.872181",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sn@ajinomoto.com": {
+    "last_sent": "2026-09-08T04:21:50.133469",
+    "seq": 1,
+    "status": "sent"
+  },
+  "drodenbaugh@dfamilk.com": {
+    "last_sent": "2026-09-08T04:22:25.565905",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gopal@oriosvp.com": {
+    "last_sent": "2026-09-08T04:23:11.087596",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ceo@qmdhub.co.in": {
+    "last_sent": "2026-09-08T04:23:34.203946",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@catamaran.in": {
+    "last_sent": "2026-09-08T04:23:46.267228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dchakraborty@skoll.org": {
+    "last_sent": "2026-09-08T04:24:08.187726",
+    "seq": 1,
+    "status": "sent"
+  },
+  "esterbaiget@novonesis.com": {
+    "last_sent": "2026-09-08T04:24:54.828322",
+    "seq": 1,
+    "status": "sent"
+  },
+  "foley.brendan@mccormick.com": {
+    "last_sent": "2026-09-08T04:25:04.413658",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@adf-foods.com": {
+    "last_sent": "2026-09-08T04:25:16.526412",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sladha@somersetinduscap.com": {
+    "last_sent": "2026-09-08T04:25:28.178131",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael_bowen@bowen.bz": {
+    "last_sent": "2026-09-08T04:25:49.426424",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mayur.shah@aequitasindia.in": {
+    "last_sent": "2026-09-08T04:26:03.230871",
+    "seq": 1,
+    "status": "sent"
+  },
+  "manish.tiwary@nestle.com": {
+    "last_sent": "2026-09-08T04:26:15.887069",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sameer.tungare@tatainternational.com": {
+    "last_sent": "2026-09-08T04:26:38.968408",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amelkovacevic@bhtelecom.ba": {
+    "last_sent": "2026-09-08T04:26:49.907228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wadi.annur@rbc.com.bn": {
+    "last_sent": "2026-09-08T04:27:01.779405",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investments@temasek.com.sg": {
+    "last_sent": "2026-09-08T04:27:14.079436",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eketterer@skoll.org": {
+    "last_sent": "2026-09-08T04:27:24.459686",
+    "seq": 1,
+    "status": "sent"
+  },
+  "johnbrase@conagra.com": {
+    "last_sent": "2026-09-08T04:27:37.685215",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abrams-rivera.carlos@kraftheinz.com": {
+    "last_sent": "2026-09-08T04:27:50.367882",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jyoti.saun@trmg.in": {
+    "last_sent": "2026-09-08T04:28:16.817312",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ag@advantedge.vc": {
+    "last_sent": "2026-09-08T04:28:28.996170",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pbhatia@advpartners.com": {
+    "last_sent": "2026-09-08T04:28:41.536326",
+    "seq": 1,
+    "status": "sent"
+  },
+  "adhish@sidbiventure.co.in": {
+    "last_sent": "2026-09-08T04:29:05.415722",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sameer.mehta@imaginemarketingindia.com": {
+    "last_sent": "2026-09-08T04:29:16.109228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dilhan_pillay@temasek.com.sg": {
+    "last_sent": "2026-09-08T04:29:28.448637",
+    "seq": 1,
+    "status": "sent"
+  },
+  "esha.arya@8xventures.co": {
+    "last_sent": "2026-09-08T04:29:50.552819",
+    "seq": 1,
+    "status": "sent"
+  },
+  "francisco@grupolala.com": {
+    "last_sent": "2026-09-08T04:30:00.854016",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anshoo.sharma@magicpin.in": {
+    "last_sent": "2026-09-08T04:30:10.592065",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carlos@bitkraft.vc": {
+    "last_sent": "2026-09-08T04:30:23.787278",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rodriguez.alejandro@grupobimbo.com": {
+    "last_sent": "2026-09-08T04:30:37.425660",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dennis_rodenbaugh@dfamilk.com": {
+    "last_sent": "2026-09-08T04:31:01.276106",
+    "seq": 1,
+    "status": "sent"
+  },
+  "diogo.caldas@refriango.com": {
+    "last_sent": "2026-09-08T04:31:15.535270",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bill_newlands@cbrands.com": {
+    "last_sent": "2026-09-08T04:31:26.351598",
+    "seq": 1,
+    "status": "sent"
+  },
+  "http@vedacorp.com": {
+    "last_sent": "2026-09-08T04:31:39.817797",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@bikanervala.com": {
+    "last_sent": "2026-09-08T04:31:49.437793",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jean-yves@symrise.com": {
+    "last_sent": "2026-09-08T04:32:12.876360",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nervegna.alessandro@ferrero.com": {
+    "last_sent": "2026-09-08T04:32:25.253174",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rzz@alzayani.com": {
+    "last_sent": "2026-09-08T04:32:37.560423",
+    "seq": 1,
+    "status": "sent"
+  },
+  "c.stammkoetter@givaudan.com": {
+    "last_sent": "2026-09-08T04:32:57.578026",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jwalker@draper.vc": {
+    "last_sent": "2026-09-08T04:33:08.334651",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohamed.almarzooqi@alfahim.com": {
+    "last_sent": "2026-09-08T04:33:17.840924",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rmanocha@whealthventures.com": {
+    "last_sent": "2026-09-08T04:33:27.836487",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mark.carney@brookfield.com": {
+    "last_sent": "2026-09-08T04:33:39.064710",
+    "seq": 1,
+    "status": "sent"
+  },
+  "md@podravka.hr": {
+    "last_sent": "2026-09-08T04:34:04.504875",
+    "seq": 1,
+    "status": "sent"
+  },
+  "luciano.juan@adm.com": {
+    "last_sent": "2026-09-08T04:34:17.551373",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tzudycki@valorep.com": {
+    "last_sent": "2026-09-08T04:34:28.088411",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rc@nufarm.com": {
+    "last_sent": "2026-09-08T04:34:40.826344",
+    "seq": 1,
+    "status": "sent"
+  },
+  "k.vardanian@grandcandy.am": {
+    "last_sent": "2026-09-08T04:36:02.182081",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ranjit@sparkcapital.in": {
+    "last_sent": "2026-09-08T04:36:15.248436",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pitch@lsip.com": {
+    "last_sent": "2026-09-08T04:36:25.964981",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ja@alokozay.com": {
+    "last_sent": "2026-09-08T04:36:37.531435",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicolas.catoggio@postholdings.com": {
+    "last_sent": "2026-09-08T04:36:48.883916",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mdragijska@lidl.bg": {
+    "last_sent": "2026-09-08T04:36:59.366808",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shemara.wikramanayake@macquarie.com": {
+    "last_sent": "2026-09-08T04:37:10.237390",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lisa.heiberger@chicagobooth.edu": {
+    "last_sent": "2026-09-08T04:37:50.478644",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.leander@formicacapital.se": {
+    "last_sent": "2026-09-08T04:38:01.423217",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vishal.ramachandran@360.one": {
+    "last_sent": "2026-09-08T04:38:39.423859",
+    "seq": 1,
+    "status": "sent"
+  },
+  "faton.krasniqi@kujtesa.com": {
+    "last_sent": "2026-09-08T04:39:14.439625",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investments@qia.qa": {
+    "last_sent": "2026-09-08T04:39:45.855487",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohamad.rashedd@abuissa.com": {
+    "last_sent": "2026-09-08T04:39:59.331963",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david@whyourbanc.com": {
+    "last_sent": "2026-09-08T04:40:13.133267",
+    "seq": 1,
+    "status": "sent"
+  },
+  "richardsmith@abc.xyz": {
+    "last_sent": "2026-09-08T04:40:40.135771",
+    "seq": 1,
+    "status": "sent"
+  },
+  "krasniqi.faton@kujtesa.com": {
+    "last_sent": "2026-09-08T04:40:50.593288",
+    "seq": 1,
+    "status": "sent"
+  },
+  "schuncke.jeanmatthew@symrise.com": {
+    "last_sent": "2026-09-08T04:41:00.318559",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajesh@welspun.com": {
+    "last_sent": "2026-09-08T04:41:12.539658",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jgranoff@eurazeo.com": {
+    "last_sent": "2026-09-08T04:41:52.213693",
+    "seq": 1,
+    "status": "sent"
+  },
+  "paul.kohli@mayfield.com": {
+    "last_sent": "2026-09-08T04:42:05.236277",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.jukes@univarsolutions.com": {
+    "last_sent": "2026-09-08T04:42:25.790363",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bharat@yufoodlabs.com": {
+    "last_sent": "2026-09-08T04:42:47.487188",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ralhumaidi@ycb.com.ye": {
+    "last_sent": "2026-09-08T04:42:58.923779",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ranjana@bhaat.in": {
+    "last_sent": "2026-09-08T04:43:13.952585",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vwarnery@beiersdorf.com": {
+    "last_sent": "2026-09-08T04:43:25.047297",
+    "seq": 1,
+    "status": "sent"
+  },
+  "niharika.bisht@ivca.in": {
+    "last_sent": "2026-09-08T04:43:47.392733",
+    "seq": 1,
+    "status": "sent"
+  },
+  "f.camacho@grupolala.com": {
+    "last_sent": "2026-09-08T04:44:00.326601",
+    "seq": 1,
+    "status": "sent"
+  },
+  "js@tysonfoods.com": {
+    "last_sent": "2026-09-08T04:44:23.156108",
+    "seq": 1,
+    "status": "sent"
+  },
+  "i.chernev@kaufland.bg": {
+    "last_sent": "2026-09-08T04:44:46.782666",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sudarshan.maiya@maiyas.in": {
+    "last_sent": "2026-09-08T04:44:57.963437",
+    "seq": 1,
+    "status": "sent"
+  },
+  "asankaran@2m.com": {
+    "last_sent": "2026-09-08T04:45:08.501634",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bipin.hadhwani@gopalfoods.com": {
+    "last_sent": "2026-09-08T04:45:32.230256",
+    "seq": 1,
+    "status": "sent"
+  },
+  "j.alokozay@alokozay.com": {
+    "last_sent": "2026-09-08T04:45:44.076826",
+    "seq": 1,
+    "status": "sent"
+  },
+  "j.schomburger@tysonfoods.com": {
+    "last_sent": "2026-09-08T04:45:56.306837",
+    "seq": 1,
+    "status": "sent"
+  },
+  "milena.dragijska@lidl.bg": {
+    "last_sent": "2026-09-08T04:46:09.020303",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jalilalokozay@alokozay.com": {
+    "last_sent": "2026-09-08T04:46:21.241729",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dp65982@dominos.co.in": {
+    "last_sent": "2026-09-08T04:46:45.398387",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kirk@thehersheycompany.com": {
+    "last_sent": "2026-09-08T04:46:57.425273",
+    "seq": 1,
+    "status": "sent"
+  },
+  "queenl@moravian.edu": {
+    "last_sent": "2026-09-08T04:47:10.098640",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jerry@hcvc.co": {
+    "last_sent": "2026-09-08T04:47:21.908308",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bill@cbrands.com": {
+    "last_sent": "2026-09-08T04:47:53.277889",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cmullie@cambonpartners.com": {
+    "last_sent": "2026-09-08T04:48:04.908081",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pierrebillon@groupesifca.com": {
+    "last_sent": "2026-09-08T04:48:15.838228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vovk.vitaly@belarus-tractors.by": {
+    "last_sent": "2026-09-08T04:48:37.540187",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hannah@craftventures.com": {
+    "last_sent": "2026-09-08T04:48:49.195580",
+    "seq": 1,
+    "status": "sent"
+  },
+  "r.christensen@nufarm.com": {
+    "last_sent": "2026-09-08T04:49:02.233152",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fk@kujtesa.com": {
+    "last_sent": "2026-09-08T04:49:11.784277",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brendan@endven.com": {
+    "last_sent": "2026-09-08T04:49:23.742506",
+    "seq": 1,
+    "status": "sent"
+  },
+  "madeline.lam@serendipitycapital.com": {
+    "last_sent": "2026-09-08T04:49:34.386215",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gokul@impulsebiomed.com": {
+    "last_sent": "2026-09-08T04:49:46.692940",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ivan_chernev@kaufland.bg": {
+    "last_sent": "2026-09-08T04:49:59.445747",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karenvardanian@grandcandy.am": {
+    "last_sent": "2026-09-08T04:50:20.094900",
+    "seq": 1,
+    "status": "sent"
+  },
+  "merav@dazz.io": {
+    "last_sent": "2026-09-08T04:50:54.346212",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ara_grigoryan@brandy.am": {
+    "last_sent": "2026-09-08T04:51:05.413701",
+    "seq": 1,
+    "status": "sent"
+  },
+  "monica@kleinerperkins.com": {
+    "last_sent": "2026-09-08T04:51:37.200552",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ouazzani@spotangels.com": {
+    "last_sent": "2026-09-08T04:51:48.964310",
+    "seq": 1,
+    "status": "sent"
+  },
+  "salim_ramji@vanguard.com": {
+    "last_sent": "2026-09-08T04:52:12.602119",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kruse@blackstone.com": {
+    "last_sent": "2026-09-08T04:52:23.219232",
+    "seq": 1,
+    "status": "sent"
+  },
+  "archana.kamath@strides.com": {
+    "last_sent": "2026-09-08T04:52:36.282328",
+    "seq": 1,
+    "status": "sent"
+  },
+  "n.selte@orkla.no": {
+    "last_sent": "2026-09-08T04:52:47.248546",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jean-yves_parisot@symrise.com": {
+    "last_sent": "2026-09-08T04:53:00.047811",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kelda@stripe.com": {
+    "last_sent": "2026-09-08T04:53:12.792839",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dirk_vandeput@mdlz.com": {
+    "last_sent": "2026-09-08T04:53:24.390382",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hr@alnowais.com": {
+    "last_sent": "2026-09-08T04:53:35.368103",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john@conagra.com": {
+    "last_sent": "2026-09-08T04:53:58.320502",
+    "seq": 1,
+    "status": "sent"
+  },
+  "p.kivits@sealedair.com": {
+    "last_sent": "2026-09-08T04:54:11.660333",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rjuric@bmmigroup.com": {
+    "last_sent": "2026-09-08T04:54:48.965232",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vinod.khosla@khoslaventures.com": {
+    "last_sent": "2026-09-08T04:55:02.295602",
+    "seq": 1,
+    "status": "sent"
+  },
+  "scahillane@kellanova.com": {
+    "last_sent": "2026-09-08T04:55:14.602687",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dennisrodenbaugh@dfamilk.com": {
+    "last_sent": "2026-09-08T04:55:27.096576",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@energyimpactpartners.com": {
+    "last_sent": "2026-09-08T04:55:52.937000",
+    "seq": 1,
+    "status": "sent"
+  },
+  "oakland.steven@treehousefoods.com": {
+    "last_sent": "2026-09-08T04:56:05.259081",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carmen.correa@promujer.org": {
+    "last_sent": "2026-09-08T04:56:30.533552",
+    "seq": 1,
+    "status": "sent"
+  },
+  "awadi@rbc.com.bn": {
+    "last_sent": "2026-09-08T04:56:42.728511",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hsingh@whealthventures.com": {
+    "last_sent": "2026-09-08T04:56:52.194228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ak@bhtelecom.ba": {
+    "last_sent": "2026-09-08T04:57:11.565556",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bill.ford@gapacific.com": {
+    "last_sent": "2026-09-08T04:57:21.853381",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nischaiy.pradhan@favcy.in": {
+    "last_sent": "2026-09-08T04:58:02.981580",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marios@charalambideschristis.com.cy": {
+    "last_sent": "2026-09-08T04:58:13.514020",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anthonyali@goddardenterprises.com": {
+    "last_sent": "2026-09-08T04:58:44.528797",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sergey@santabremor.com": {
+    "last_sent": "2026-09-08T04:58:56.619425",
+    "seq": 1,
+    "status": "sent"
+  },
+  "namita.dandekar@theraintree.co.in": {
+    "last_sent": "2026-09-08T04:59:17.285207",
+    "seq": 1,
+    "status": "sent"
+  },
+  "elena.pankova@mikrokapital.com": {
+    "last_sent": "2026-09-08T04:59:28.619601",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karthik.thiagarajan@alpheya.com": {
+    "last_sent": "2026-09-08T04:59:39.012685",
+    "seq": 1,
+    "status": "sent"
+  },
+  "atflltd@atfoods.com": {
+    "last_sent": "2026-09-08T05:00:01.646543",
+    "seq": 1,
+    "status": "sent"
+  },
+  "podravka@podravka.hr": {
+    "last_sent": "2026-09-08T05:00:11.783803",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zack.schildhorn@luxcapital.com": {
+    "last_sent": "2026-09-08T05:00:42.332383",
+    "seq": 1,
+    "status": "sent"
+  },
+  "james.dow@bailliegifford.com": {
+    "last_sent": "2026-09-08T05:01:02.571440",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mdayoub@almuftah.com": {
+    "last_sent": "2026-09-08T05:01:15.239220",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cherki.jonathan@contentsquare.com": {
+    "last_sent": "2026-09-08T05:01:39.209017",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jabri@zubaircorp.com": {
+    "last_sent": "2026-09-08T05:01:50.968595",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rodenbaugh.dennis@dfamilk.com": {
+    "last_sent": "2026-09-08T05:02:03.959728",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joffe@sosv.com": {
+    "last_sent": "2026-09-08T05:02:13.720283",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicolascatoggio@postholdings.com": {
+    "last_sent": "2026-09-08T05:02:24.556752",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vardanian.karen@grandcandy.am": {
+    "last_sent": "2026-09-08T05:02:37.163701",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sfort@dfjgrowth.com": {
+    "last_sent": "2026-09-08T05:02:57.887069",
+    "seq": 1,
+    "status": "sent"
+  },
+  "khushbu.agrawal@avendus.com": {
+    "last_sent": "2026-09-08T05:03:10.310592",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john@dfj.com": {
+    "last_sent": "2026-09-08T05:03:23.325998",
+    "seq": 1,
+    "status": "sent"
+  },
+  "annur@rbc.com.bn": {
+    "last_sent": "2026-09-08T05:03:45.925228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alisha@alkemivp.com": {
+    "last_sent": "2026-09-08T05:03:56.334980",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karthik.aradhya@letsventure.com": {
+    "last_sent": "2026-09-08T05:04:07.210533",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohammad.gergawi@mocaf.gov.ae": {
+    "last_sent": "2026-09-08T05:04:19.444470",
+    "seq": 1,
+    "status": "sent"
+  },
+  "taysweeyuan@gic.com.sg": {
+    "last_sent": "2026-09-08T05:04:32.692936",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anil@elev8vp.com": {
+    "last_sent": "2026-09-08T05:04:43.368700",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ibrahim@almuftah.com": {
+    "last_sent": "2026-09-08T05:04:54.955603",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gary.powell@rothschildandco.com": {
+    "last_sent": "2026-09-08T05:05:07.321208",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alejandro_rodriguez@grupobimbo.com": {
+    "last_sent": "2026-09-08T05:05:17.611706",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nils@orkla.no": {
+    "last_sent": "2026-09-08T05:05:30.941780",
+    "seq": 1,
+    "status": "sent"
+  },
+  "iof@sidbiventure.co.in": {
+    "last_sent": "2026-09-08T05:06:05.728724",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alewis@hain.com": {
+    "last_sent": "2026-09-08T05:06:19.494720",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eric@lererhippeau.com": {
+    "last_sent": "2026-09-08T05:06:33.978656",
+    "seq": 1,
+    "status": "sent"
+  },
+  "priyanka@dextercapital.in": {
+    "last_sent": "2026-09-08T05:07:09.875826",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ls@saputo.com": {
+    "last_sent": "2026-09-08T05:07:20.383870",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nils.selte@orkla.no": {
+    "last_sent": "2026-09-08T05:07:32.921771",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marcee@socialcapital.com": {
+    "last_sent": "2026-09-08T05:07:55.159330",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tanner.kirk@thehersheycompany.com": {
+    "last_sent": "2026-09-08T05:08:17.965570",
+    "seq": 1,
+    "status": "sent"
+  },
+  "thiraphong.chansiri@thaiunion.com": {
+    "last_sent": "2026-09-08T05:08:28.304157",
+    "seq": 1,
+    "status": "sent"
+  },
+  "camacho.francisco@grupolala.com": {
+    "last_sent": "2026-09-08T05:08:40.053065",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tiffany.foo@kaporcapital.com": {
+    "last_sent": "2026-09-08T05:08:50.641284",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mdelgiglio@aliyacapitalpartners.com": {
+    "last_sent": "2026-09-08T05:09:15.225549",
+    "seq": 1,
+    "status": "sent"
+  },
+  "branson.bollinger@gmail.com": {
+    "last_sent": "2026-09-08T05:09:27.357242",
+    "seq": 1,
+    "status": "sent"
+  },
+  "saad.samadi@gargash.ae": {
+    "last_sent": "2026-09-08T05:10:17.469233",
+    "seq": 1,
+    "status": "sent"
+  },
+  "matthew@churchdwight.com": {
+    "last_sent": "2026-09-08T05:10:27.683230",
+    "seq": 1,
+    "status": "sent"
+  },
+  "thirumal.govindraj@rmz.com": {
+    "last_sent": "2026-09-08T05:10:37.416188",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stevenoakland@treehousefoods.com": {
+    "last_sent": "2026-09-08T05:10:47.674567",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajesh.jain@vishvaraj.in": {
+    "last_sent": "2026-09-08T05:11:00.159065",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david_jukes@univarsolutions.com": {
+    "last_sent": "2026-09-08T05:11:13.523984",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mark.floyd@cloudkitchens.com": {
+    "last_sent": "2026-09-08T05:11:25.981306",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abdirashid.duale@dahabshiil.com": {
+    "last_sent": "2026-09-08T05:11:51.553623",
+    "seq": 1,
+    "status": "sent"
+  },
+  "saket.burman@burmanfamilyholdings.com": {
+    "last_sent": "2026-09-08T05:12:25.033618",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maruping.mangwedi@affirmacapital.com": {
+    "last_sent": "2026-09-08T05:12:35.420779",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@veerfoods.com": {
+    "last_sent": "2026-09-08T05:13:12.149948",
+    "seq": 1,
+    "status": "sent"
+  },
+  "william.samman@drakestar.com": {
+    "last_sent": "2026-09-08T05:13:22.471012",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fokubadejo@act.is": {
+    "last_sent": "2026-09-08T05:13:33.016816",
+    "seq": 1,
+    "status": "sent"
+  },
+  "diaz.carlos@thebhlgroup.com": {
+    "last_sent": "2026-09-08T05:13:45.424653",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abramsrivera.carlos@kraftheinz.com": {
+    "last_sent": "2026-09-08T05:13:58.457879",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vw@beiersdorf.com": {
+    "last_sent": "2026-09-08T05:14:09.541117",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s.dsouza@tataconsumer.com": {
+    "last_sent": "2026-09-08T05:14:20.817206",
+    "seq": 1,
+    "status": "sent"
+  },
+  "corporate.communications@nufarm.com": {
+    "last_sent": "2026-09-08T05:14:30.888046",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ishanahan@valorep.com": {
+    "last_sent": "2026-09-08T05:14:40.489456",
+    "seq": 1,
+    "status": "sent"
+  },
+  "renatojuric@bmmigroup.com": {
+    "last_sent": "2026-09-08T05:15:02.925738",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rabie.alhumaidi@ycb.com.ye": {
+    "last_sent": "2026-09-08T05:15:26.598991",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carlosdiaz@thebhlgroup.com": {
+    "last_sent": "2026-09-08T05:15:36.965434",
+    "seq": 1,
+    "status": "sent"
+  },
+  "juan.velandia@carlsquare.com": {
+    "last_sent": "2026-09-08T05:15:48.749784",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dipali@welspun.com": {
+    "last_sent": "2026-09-08T05:16:13.614848",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chelsea@lererhippeau.com": {
+    "last_sent": "2026-09-08T05:16:39.155648",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeanyvesparisot@symrise.com": {
+    "last_sent": "2026-09-08T05:16:49.129423",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mc@charalambideschristis.com.cy": {
+    "last_sent": "2026-09-08T05:17:13.902819",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chris@a16z.com": {
+    "last_sent": "2026-09-08T05:17:25.667564",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david@univarsolutions.com": {
+    "last_sent": "2026-09-08T05:17:36.607493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "holsether.sveintore@yara.com": {
+    "last_sent": "2026-09-08T05:17:48.535415",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ghazanfar.ismail@ghazanfargroup.com": {
+    "last_sent": "2026-09-08T05:18:00.666225",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ryan@antler.co": {
+    "last_sent": "2026-09-08T05:18:12.338835",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investor@carlsberg.com": {
+    "last_sent": "2026-09-08T05:18:36.941269",
+    "seq": 1,
+    "status": "sent"
+  },
+  "n.shankar@greenstoneadvisory.com": {
+    "last_sent": "2026-09-08T05:19:01.816053",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investor.relations@bikaji.com": {
+    "last_sent": "2026-09-08T05:19:28.734942",
+    "seq": 1,
+    "status": "sent"
+  },
+  "grigoryan.ara@brandy.am": {
+    "last_sent": "2026-09-08T05:19:41.373234",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lori.thomas@fidelity.com": {
+    "last_sent": "2026-09-08T05:19:51.844252",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alisonlewis@hain.com": {
+    "last_sent": "2026-09-08T05:20:01.934770",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dc@refriango.com": {
+    "last_sent": "2026-09-08T05:20:15.270046",
+    "seq": 1,
+    "status": "sent"
+  },
+  "w.dorji@tashigroup.bt": {
+    "last_sent": "2026-09-08T05:20:28.952757",
+    "seq": 1,
+    "status": "sent"
+  },
+  "andrewmahfood@wisynco.com": {
+    "last_sent": "2026-09-08T05:20:38.942763",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jim.coulter@tpg.com": {
+    "last_sent": "2026-09-08T05:21:04.927621",
+    "seq": 1,
+    "status": "sent"
+  },
+  "contact.sabc@castel-afrique.com": {
+    "last_sent": "2026-09-08T05:21:16.492552",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ir@wilmar.com.sg": {
+    "last_sent": "2026-09-08T05:21:25.799542",
+    "seq": 1,
+    "status": "sent"
+  },
+  "umesh.m@alchemycapital.com": {
+    "last_sent": "2026-09-08T05:21:51.120138",
+    "seq": 1,
+    "status": "sent"
+  },
+  "freddothefrog@ribbit.com": {
+    "last_sent": "2026-09-08T05:22:01.250014",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anastasiagu@etoro.com": {
+    "last_sent": "2026-09-08T05:22:13.449250",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lij@etoro.com": {
+    "last_sent": "2026-09-08T05:22:35.629860",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shadi@etihadrail.ae": {
+    "last_sent": "2026-09-08T05:22:49.047164",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mudita@vedacorp.com": {
+    "last_sent": "2026-09-08T05:22:58.431541",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nc@postholdings.com": {
+    "last_sent": "2026-09-08T05:23:09.042159",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s.nedbailov@santabremor.com": {
+    "last_sent": "2026-09-08T05:23:21.051012",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alhumaidi.rabie@ycb.com.ye": {
+    "last_sent": "2026-09-08T05:23:54.717502",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eoinryan@prosus.com": {
+    "last_sent": "2026-09-08T05:24:04.616741",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sdsouza@tataconsumer.com": {
+    "last_sent": "2026-09-08T05:24:17.184732",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ageller@zscaler.com": {
+    "last_sent": "2026-09-08T05:24:29.468975",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ramez.hamdan@alfuttaim.com": {
+    "last_sent": "2026-09-08T05:24:53.181289",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nabanita.duggal@resurgentindia.com": {
+    "last_sent": "2026-09-08T05:25:03.189887",
+    "seq": 1,
+    "status": "sent"
+  },
+  "f.sandri@pilgrims.com": {
+    "last_sent": "2026-09-08T05:25:14.310352",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fatonkrasniqi@kujtesa.com": {
+    "last_sent": "2026-09-08T05:25:36.383702",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joe.bae@kkr.com": {
+    "last_sent": "2026-09-08T05:25:49.135597",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rkausar@adb.org": {
+    "last_sent": "2026-09-08T05:26:13.878105",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ic@kaufland.bg": {
+    "last_sent": "2026-09-08T05:26:25.706761",
+    "seq": 1,
+    "status": "sent"
+  },
+  "patrick@matrix.vc": {
+    "last_sent": "2026-09-08T05:26:38.668366",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brashish@oriosvp.com": {
+    "last_sent": "2026-09-08T05:27:02.250896",
+    "seq": 1,
+    "status": "sent"
+  },
+  "caldas.diogo@refriango.com": {
+    "last_sent": "2026-09-08T05:27:15.053631",
+    "seq": 1,
+    "status": "sent"
+  },
+  "crew.debra@diageo.com": {
+    "last_sent": "2026-09-08T05:27:25.121958",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kumarij@atherenergy.com": {
+    "last_sent": "2026-09-08T05:27:36.185504",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sushant@raayinvestments.com": {
+    "last_sent": "2026-09-08T05:27:57.702724",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bwang@sequoiacap.com": {
+    "last_sent": "2026-09-08T05:28:09.589733",
     "seq": 1,
     "status": "sent"
   }
