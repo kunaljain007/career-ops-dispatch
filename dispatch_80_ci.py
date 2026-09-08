@@ -26,6 +26,8 @@ MAX_PER_SMTP = 80
 
 RAW_PRIORITY = [
     "rnt@rntassociates.com",
+    "ashish.chauhan@nse.co.in",
+    "ashish.chauhan.mail@gmail.com",
     "leslie@alshaya.com",
     "john@instagram.com",
     "lalit.ghayatadke@unilazer.com",
