@@ -3,7 +3,7 @@ name: Daily Email Dispatch
 on:
   schedule:
     # Runs every day at 03:30 UTC (09:00 AM IST)
-    - cron: "30 3 * * *"
+    # - cron: "30 3 * * *"
   workflow_dispatch: # Allows manual trigger from GitHub Actions UI
 
 permissions:
