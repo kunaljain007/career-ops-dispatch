@@ -2375,10 +2375,9 @@
     "status": "sent"
   },
   "robert.pender@oilgas.com": {
-    "timestamp": "2026-07-01T11:29:05.432Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:42:10.443Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-10T03:03:07.257569",
+    "seq": 2,
+    "status": "sent"
   },
   "andrew.beal@banks.com": {
     "last_sent": "2026-09-08T02:07:03.071937",
@@ -2661,10 +2660,9 @@
     "status": "sent"
   },
   "antony.ressler@finance.com": {
-    "timestamp": "2026-07-01T11:51:34.141Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:47:58.578Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-10T03:48:57.503081",
+    "seq": 2,
+    "status": "sent"
   },
   "german.khan@oil.com": {
     "last_sent": "2026-09-09T01:48:41.579237",
@@ -2742,10 +2740,9 @@
     "status": "sent"
   },
   "jimmy.haslam@gas.com": {
-    "timestamp": "2026-07-01T11:56:51.759Z",
-    "seq": 1,
-    "originalTimestamp": "2026-05-15T12:49:30.850Z",
-    "originalSubject": "Follow-up: Heatbolt | Strategic Thermal Infrastructure (Siachen Validated)"
+    "last_sent": "2026-09-10T05:12:45.151353",
+    "seq": 2,
+    "status": "sent"
   },
   "theo.mueller@dairy.com": {
     "last_sent": "2026-09-08T01:26:02.076397",
@@ -3403,8 +3400,8 @@
     "status": "sent"
   },
   "pradeepbakshi@voltas.com": {
-    "last_sent": "2026-08-30T10:00:00",
-    "seq": 1,
+    "last_sent": "2026-09-10T04:18:58.567355",
+    "seq": 2,
     "status": "sent"
   },
   "girish.wagh@tatamotors.com": {
@@ -3423,8 +3420,8 @@
     "status": "sent"
   },
   "as.lakshminarayanan@tatacommunications.com": {
-    "last_sent": "2026-08-30T10:00:00",
-    "seq": 1,
+    "last_sent": "2026-09-10T04:51:13.890792",
+    "seq": 2,
     "status": "sent"
   },
   "warren.harris@tatatechnologies.com": {
@@ -3563,8 +3560,8 @@
     "status": "sent"
   },
   "ajoyendra.mukherjee@tatatechnologies.com": {
-    "last_sent": "2026-08-30T10:00:00",
-    "seq": 1,
+    "last_sent": "2026-09-10T01:35:39.198802",
+    "seq": 2,
     "status": "sent"
   },
   "amukherjee@tatatechnologies.com": {
@@ -3583,13 +3580,13 @@
     "status": "sent"
   },
   "nverinumbe@act.is": {
-    "last_sent": "2026-09-06T01:16:42.229038",
-    "seq": 1,
+    "last_sent": "2026-09-10T03:14:45.536901",
+    "seq": 2,
     "status": "sent"
   },
   "corey.yung@gmail.com": {
-    "last_sent": "2026-09-06T01:16:53.593985",
-    "seq": 1,
+    "last_sent": "2026-09-10T01:29:12.064994",
+    "seq": 2,
     "status": "sent"
   },
   "sunil@mapegroup.com": {
@@ -3598,23 +3595,23 @@
     "status": "sent"
   },
   "rajesh.verma@pantomathgroup.com": {
-    "last_sent": "2026-09-06T01:17:19.331201",
-    "seq": 1,
+    "last_sent": "2026-09-10T01:32:01.737780",
+    "seq": 2,
     "status": "sent"
   },
   "amonnier@familyoffice.com": {
-    "last_sent": "2026-09-06T01:17:32.095198",
-    "seq": 1,
+    "last_sent": "2026-09-10T01:48:44.064993",
+    "seq": 2,
     "status": "sent"
   },
   "prathyush@consciencemfo.com": {
-    "last_sent": "2026-09-06T01:17:43.015631",
-    "seq": 1,
+    "last_sent": "2026-09-10T03:21:05.125517",
+    "seq": 2,
     "status": "sent"
   },
   "nicolas.depardieu@drakestar.com": {
-    "last_sent": "2026-09-06T01:17:53.474267",
-    "seq": 1,
+    "last_sent": "2026-09-10T02:18:48.723932",
+    "seq": 2,
     "status": "sent"
   },
   "e4i@socialalpha.org": {
@@ -3623,13 +3620,13 @@
     "status": "sent"
   },
   "vatsal@mehtaventures.co": {
-    "last_sent": "2026-09-06T01:18:16.931474",
-    "seq": 1,
+    "last_sent": "2026-09-10T05:07:04.538173",
+    "seq": 2,
     "status": "sent"
   },
   "alon.sone@momenta.one": {
-    "last_sent": "2026-09-06T01:18:27.215597",
-    "seq": 1,
+    "last_sent": "2026-09-10T03:31:42.680344",
+    "seq": 2,
     "status": "sent"
   },
   "ankita.kumari@qure.ai": {
@@ -3638,33 +3635,33 @@
     "status": "sent"
   },
   "camilleputois@gmail.com": {
-    "last_sent": "2026-09-06T01:19:29.675317",
-    "seq": 1,
+    "last_sent": "2026-09-10T04:22:00.119533",
+    "seq": 2,
     "status": "sent"
   },
   "yasmintrotman@outlierventures.io": {
-    "last_sent": "2026-09-06T01:19:39.972602",
-    "seq": 1,
+    "last_sent": "2026-09-10T05:20:21.657059",
+    "seq": 2,
     "status": "sent"
   },
   "bb@khoslaventures.com": {
-    "last_sent": "2026-09-06T01:19:53.222717",
-    "seq": 1,
+    "last_sent": "2026-09-10T01:59:12.549425",
+    "seq": 2,
     "status": "sent"
   },
   "gonzalez@qedinvestors.com": {
-    "last_sent": "2026-09-06T01:20:05.586716",
-    "seq": 1,
+    "last_sent": "2026-09-10T03:32:03.752940",
+    "seq": 2,
     "status": "sent"
   },
   "hello@shecapital.vc": {
-    "last_sent": "2026-09-06T01:20:17.382849",
-    "seq": 1,
+    "last_sent": "2026-09-10T01:21:31.332820",
+    "seq": 2,
     "status": "sent"
   },
   "jenniferlewis@gic.com.sg": {
-    "last_sent": "2026-09-06T01:20:30.684728",
-    "seq": 1,
+    "last_sent": "2026-09-10T01:34:06.263576",
+    "seq": 2,
     "status": "sent"
   },
   "lfloresm@iberdrola.com": {
@@ -3673,13 +3670,13 @@
     "status": "sent"
   },
   "joshua@contrary.com": {
-    "last_sent": "2026-09-06T01:21:02.722920",
-    "seq": 1,
+    "last_sent": "2026-09-10T02:00:02.213686",
+    "seq": 2,
     "status": "sent"
   },
   "nt.boinay@loreal.com": {
-    "last_sent": "2026-09-06T01:21:16.172195",
-    "seq": 1,
+    "last_sent": "2026-09-10T03:07:16.325569",
+    "seq": 2,
     "status": "sent"
   },
   "dsciabica@cargill.co.in": {
@@ -21049,6 +21046,5066 @@
   },
   "neil.mcnally@skadden.com": {
     "last_sent": "2026-09-09T05:49:57.609661",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ivan.sazanov@mikrokapital.com": {
+    "last_sent": "2026-09-10T01:21:54.176493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "familyofficecontact@nadathur.com": {
+    "last_sent": "2026-09-10T01:22:05.182721",
+    "seq": 1,
+    "status": "sent"
+  },
+  "atrehan@oriosvp.com": {
+    "last_sent": "2026-09-10T01:22:16.019039",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jesse.gao@affirmacapital.com": {
+    "last_sent": "2026-09-10T01:22:30.336281",
+    "seq": 1,
+    "status": "sent"
+  },
+  "romen@dallasvc.com": {
+    "last_sent": "2026-09-10T01:22:43.994352",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vcsehgal@motherson.com": {
+    "last_sent": "2026-09-10T01:22:57.044851",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bhargesh.ojha@kotak.com": {
+    "last_sent": "2026-09-10T01:23:10.782200",
+    "seq": 1,
+    "status": "sent"
+  },
+  "analyst@saascorp.in": {
+    "last_sent": "2026-09-10T01:23:22.013365",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alison@serenaventures.com": {
+    "last_sent": "2026-09-10T01:23:34.240064",
+    "seq": 1,
+    "status": "sent"
+  },
+  "richards@guggenheimpartners.com": {
+    "last_sent": "2026-09-10T01:23:45.848547",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christina.saraswati@prasetia.co.id": {
+    "last_sent": "2026-09-10T01:24:01.229248",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rgarg@mayfield.com": {
+    "last_sent": "2026-09-10T01:24:24.811930",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajesh.s@mhd.co.om": {
+    "last_sent": "2026-09-10T01:24:49.677040",
+    "seq": 1,
+    "status": "sent"
+  },
+  "first@wolfsongroupinc.com": {
+    "last_sent": "2026-09-10T01:25:13.373043",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sheldon.adler@skadden.com": {
+    "last_sent": "2026-09-10T01:25:23.704690",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pooja.sutradhar@motilaloswal.com": {
+    "last_sent": "2026-09-10T01:25:35.739003",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ayesha.usman@theemiratesgroup.com": {
+    "last_sent": "2026-09-10T01:25:49.311428",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@500.co": {
+    "last_sent": "2026-09-10T01:26:00.630136",
+    "seq": 1,
+    "status": "sent"
+  },
+  "askblackrock@blackrock.com": {
+    "last_sent": "2026-09-10T01:26:13.839347",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mitesh@amarapt.com": {
+    "last_sent": "2026-09-10T01:26:25.924313",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aimee@sunergyworks.com": {
+    "last_sent": "2026-09-10T01:26:38.502136",
+    "seq": 1,
+    "status": "sent"
+  },
+  "devip@bharat.fund": {
+    "last_sent": "2026-09-10T01:26:48.683410",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abhijit@premjiinvest.com": {
+    "last_sent": "2026-09-10T01:27:00.170941",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shahrukh@redchillies.com": {
+    "last_sent": "2026-09-10T01:27:11.783449",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abhijit.roy@niifindia.in": {
+    "last_sent": "2026-09-10T01:27:35.714147",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tam@artesianinvest.com": {
+    "last_sent": "2026-09-10T01:27:59.922853",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dasha.silovic@epe.be": {
+    "last_sent": "2026-09-10T01:28:22.779321",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ismail.abid@al-majid.com": {
+    "last_sent": "2026-09-10T01:28:36.667029",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajender.singh@magicpin.in": {
+    "last_sent": "2026-09-10T01:28:49.672611",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jane.doe@jllt.com": {
+    "last_sent": "2026-09-10T01:29:01.545181",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jamil.cherkaoui@torchpartners.com": {
+    "last_sent": "2026-09-10T01:29:26.215820",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kc.forsythe@familyoffice.com": {
+    "last_sent": "2026-09-10T01:29:36.931625",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajshree@socialalpha.org": {
+    "last_sent": "2026-09-10T01:29:49.941734",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ben.jealous@kaporcapital.com": {
+    "last_sent": "2026-09-10T01:30:02.277879",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aameereh@adq.ae": {
+    "last_sent": "2026-09-10T01:30:13.316997",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mukeshmehta@sparkcapital.in": {
+    "last_sent": "2026-09-10T01:30:29.652209",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mayur.dharmshi@360.one": {
+    "last_sent": "2026-09-10T01:30:53.650023",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raj.nikumbh@atherenergy.com": {
+    "last_sent": "2026-09-10T01:31:15.265047",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yungyih@chicagobooth.edu": {
+    "last_sent": "2026-09-10T01:31:38.389295",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cory.bennett@endeavor.org": {
+    "last_sent": "2026-09-10T01:31:51.941581",
+    "seq": 1,
+    "status": "sent"
+  },
+  "soumya.chaturvedi@ownly.food": {
+    "last_sent": "2026-09-10T01:32:14.622295",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sadanand.date@sebi.gov.in": {
+    "last_sent": "2026-09-10T01:32:27.702935",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chandra@stakeboat.com": {
+    "last_sent": "2026-09-10T01:32:41.181418",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anant@observe.ai": {
+    "last_sent": "2026-09-10T01:32:52.417186",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mona.kwatra@edelweissfin.com": {
+    "last_sent": "2026-09-10T01:33:05.066236",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vicky.toshney@bailliegifford.com": {
+    "last_sent": "2026-09-10T01:33:15.357166",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amenon@whealthventures.com": {
+    "last_sent": "2026-09-10T01:33:29.056143",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@acppartners.com": {
+    "last_sent": "2026-09-10T01:33:40.362389",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bhargava.reddy@qure.ai": {
+    "last_sent": "2026-09-10T01:34:28.131305",
+    "seq": 1,
+    "status": "sent"
+  },
+  "puneet.gupta.08@gmail.com": {
+    "last_sent": "2026-09-10T01:34:52.044978",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jamie_abribat@woodbridgegroup.com": {
+    "last_sent": "2026-09-10T01:35:05.590981",
+    "seq": 1,
+    "status": "sent"
+  },
+  "matt@outlierventures.io": {
+    "last_sent": "2026-09-10T01:35:15.464509",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaewon.lee@affirmacapital.com": {
+    "last_sent": "2026-09-10T01:35:27.989277",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deals@aarincapital.com": {
+    "last_sent": "2026-09-10T01:35:52.730754",
+    "seq": 1,
+    "status": "sent"
+  },
+  "szali@rapido.bike": {
+    "last_sent": "2026-09-10T01:36:06.059727",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yagnesh@247vc.in": {
+    "last_sent": "2026-09-10T01:36:18.254778",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pfeld@sharkninja.com": {
+    "last_sent": "2026-09-10T01:36:29.106563",
+    "seq": 1,
+    "status": "sent"
+  },
+  "v.liu@mwam.com": {
+    "last_sent": "2026-09-10T01:36:42.163774",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lszlezinger@jefferies.com": {
+    "last_sent": "2026-09-10T01:36:55.287502",
+    "seq": 1,
+    "status": "sent"
+  },
+  "allison.crowley@bluehorizon.com": {
+    "last_sent": "2026-09-10T01:37:17.613349",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tom.warren@10xvp.com": {
+    "last_sent": "2026-09-10T01:37:42.141588",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@verge.fund": {
+    "last_sent": "2026-09-10T01:38:02.960770",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shivani.shankar@peakxv.com": {
+    "last_sent": "2026-09-10T01:38:13.448403",
+    "seq": 1,
+    "status": "sent"
+  },
+  "klampkin@accel.com": {
+    "last_sent": "2026-09-10T01:38:23.357237",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amit.jhingran@sbilife.co.in": {
+    "last_sent": "2026-09-10T01:38:36.508459",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ets.uae@kanoo.com": {
+    "last_sent": "2026-09-10T01:38:46.511758",
+    "seq": 1,
+    "status": "sent"
+  },
+  "scadiou@eurazeo.com": {
+    "last_sent": "2026-09-10T01:38:56.532182",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yettun@a16z.com": {
+    "last_sent": "2026-09-10T01:39:10.066017",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kf@khoslaventures.com": {
+    "last_sent": "2026-09-10T01:39:22.357542",
+    "seq": 1,
+    "status": "sent"
+  },
+  "corporate@ivycapventures.com": {
+    "last_sent": "2026-09-10T01:39:34.488823",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mingho_chan@advpartners.com": {
+    "last_sent": "2026-09-10T01:39:48.196163",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@accel.com": {
+    "last_sent": "2026-09-10T01:39:59.641247",
+    "seq": 1,
+    "status": "sent"
+  },
+  "c.quinteroz@iberdrola.com": {
+    "last_sent": "2026-09-10T01:40:20.878155",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bibhuduttas@sebi.gov.in": {
+    "last_sent": "2026-09-10T01:40:44.807233",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajesh.patil@icsgroup.co.in": {
+    "last_sent": "2026-09-10T01:41:08.404771",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hamburg@nucleuspartners.de": {
+    "last_sent": "2026-09-10T01:41:19.204633",
+    "seq": 1,
+    "status": "sent"
+  },
+  "beth@svangel.com": {
+    "last_sent": "2026-09-10T01:41:31.682290",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lpage@premier-brands.com": {
+    "last_sent": "2026-09-10T01:41:42.819702",
+    "seq": 1,
+    "status": "sent"
+  },
+  "peter.lesser@skadden.com": {
+    "last_sent": "2026-09-10T01:41:54.614713",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hkobler@energyimpactpartners.com": {
+    "last_sent": "2026-09-10T01:42:05.873128",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zack@ribbit.com": {
+    "last_sent": "2026-09-10T01:42:18.529065",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prashant@srf.com": {
+    "last_sent": "2026-09-10T01:42:30.916297",
+    "seq": 1,
+    "status": "sent"
+  },
+  "angad@picocap.in": {
+    "last_sent": "2026-09-10T01:42:41.428373",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sachin.jain@icsgroup.co.in": {
+    "last_sent": "2026-09-10T01:42:52.817295",
+    "seq": 1,
+    "status": "sent"
+  },
+  "josh@buckleyventures.com": {
+    "last_sent": "2026-09-10T01:43:05.660341",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeff@capricornllc.com": {
+    "last_sent": "2026-09-10T01:43:25.159397",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amruta.shedge@theraintree.co.in": {
+    "last_sent": "2026-09-10T01:43:46.660305",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amrut@nexusvp.com": {
+    "last_sent": "2026-09-10T01:44:08.667171",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alexious.m@alsayergroup.com": {
+    "last_sent": "2026-09-10T01:44:19.333367",
+    "seq": 1,
+    "status": "sent"
+  },
+  "plamb@act.is": {
+    "last_sent": "2026-09-10T01:44:29.558989",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john@dfjgrowth.com": {
+    "last_sent": "2026-09-10T01:44:42.464064",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajesh@meity.gov.in": {
+    "last_sent": "2026-09-10T01:44:55.159010",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aviral@ajuniorvc.com": {
+    "last_sent": "2026-09-10T01:45:07.539161",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sughosh@mapegroup.com": {
+    "last_sent": "2026-09-10T01:45:20.729065",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.ineco@almanagroup.com": {
+    "last_sent": "2026-09-10T01:45:34.302660",
+    "seq": 1,
+    "status": "sent"
+  },
+  "x.feng@mwam.com": {
+    "last_sent": "2026-09-10T01:45:46.000724",
+    "seq": 1,
+    "status": "sent"
+  },
+  "natalia.rodziewicz@ihcuae.com": {
+    "last_sent": "2026-09-10T01:45:59.097572",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shamilton@familyoffice.com": {
+    "last_sent": "2026-09-10T01:46:11.960803",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wolfsonm@wolfsongroupinc.com": {
+    "last_sent": "2026-09-10T01:46:33.337630",
+    "seq": 1,
+    "status": "sent"
+  },
+  "william-tanuwijaya@weforum.org": {
+    "last_sent": "2026-09-10T01:46:58.053054",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anish@lucidday.com": {
+    "last_sent": "2026-09-10T01:47:22.814933",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lk@advantedge.vc": {
+    "last_sent": "2026-09-10T01:47:35.760132",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jackie.xu@kleinerperkins.com": {
+    "last_sent": "2026-09-10T01:47:45.434063",
+    "seq": 1,
+    "status": "sent"
+  },
+  "petersenr@10xvp.com": {
+    "last_sent": "2026-09-10T01:47:57.516374",
+    "seq": 1,
+    "status": "sent"
+  },
+  "smendiratta@whealthventures.com": {
+    "last_sent": "2026-09-10T01:48:08.115317",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eric@sosv.com": {
+    "last_sent": "2026-09-10T01:48:20.273036",
+    "seq": 1,
+    "status": "sent"
+  },
+  "compliance@adq.ae": {
+    "last_sent": "2026-09-10T01:48:31.131793",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeetesh@rapido.bike": {
+    "last_sent": "2026-09-10T01:48:55.356426",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dgreenstein@troweprice.com": {
+    "last_sent": "2026-09-10T01:49:06.727868",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bt@jefferies.com": {
+    "last_sent": "2026-09-10T01:49:20.148887",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nadia.hasan@tranglo.com": {
+    "last_sent": "2026-09-10T01:49:42.464785",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abdulrahman.kheraigi@taqa.com": {
+    "last_sent": "2026-09-10T01:50:07.957425",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arup.ghosh@resurgentindia.com": {
+    "last_sent": "2026-09-10T01:50:29.386797",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lino_saputo@saputo.com": {
+    "last_sent": "2026-09-10T01:50:39.865693",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deep@venturehighway.vc": {
+    "last_sent": "2026-09-10T01:50:52.160791",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cs.ncd@indiainfoline.com": {
+    "last_sent": "2026-09-10T01:51:05.491753",
+    "seq": 1,
+    "status": "sent"
+  },
+  "robert@outlierventures.io": {
+    "last_sent": "2026-09-10T01:51:16.930304",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david@foundersfund.com": {
+    "last_sent": "2026-09-10T01:51:27.592336",
+    "seq": 1,
+    "status": "sent"
+  },
+  "co.secretary@hiragroup.com": {
+    "last_sent": "2026-09-10T01:51:39.323400",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ismailghazanfar@ghazanfargroup.com": {
+    "last_sent": "2026-09-10T01:51:52.376539",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alex.leung@serendipitycapital.com": {
+    "last_sent": "2026-09-10T01:52:03.543377",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ranjan@manipalgroup.com": {
+    "last_sent": "2026-09-10T01:52:17.388530",
+    "seq": 1,
+    "status": "sent"
+  },
+  "corporate.communications@univarsolutions.com": {
+    "last_sent": "2026-09-10T01:52:31.869939",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nat@elevate.vc": {
+    "last_sent": "2026-09-10T01:52:57.059727",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anil.kumar@hdfcbank.com": {
+    "last_sent": "2026-09-10T01:53:17.582089",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ravi.kk@kkfund.co": {
+    "last_sent": "2026-09-10T01:53:38.049108",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gfalcone@blueridgecapital.com": {
+    "last_sent": "2026-09-10T01:53:48.364094",
+    "seq": 1,
+    "status": "sent"
+  },
+  "balu_volvo@masaood.com": {
+    "last_sent": "2026-09-10T01:54:00.453375",
+    "seq": 1,
+    "status": "sent"
+  },
+  "luke.ferrandino@skadden.com": {
+    "last_sent": "2026-09-10T01:54:13.840280",
+    "seq": 1,
+    "status": "sent"
+  },
+  "monika.vollmer@sagana.com": {
+    "last_sent": "2026-09-10T01:54:26.239072",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vinudasan@somanigroup.com": {
+    "last_sent": "2026-09-10T01:54:39.919717",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lynn_m@c-ventures.nl": {
+    "last_sent": "2026-09-10T01:54:53.236808",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maarbani.steven@tarongagroup.com": {
+    "last_sent": "2026-09-10T01:55:04.449202",
+    "seq": 1,
+    "status": "sent"
+  },
+  "admin@alteriacapital.com": {
+    "last_sent": "2026-09-10T01:55:16.996198",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nikko@synapsesocial.com": {
+    "last_sent": "2026-09-10T01:55:30.613188",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aritra@sangam.vc": {
+    "last_sent": "2026-09-10T01:55:43.829322",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.lombardo@mwam.com": {
+    "last_sent": "2026-09-10T01:56:09.374929",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abdallah.alqudah@alfaisalholding.com": {
+    "last_sent": "2026-09-10T01:56:32.495053",
+    "seq": 1,
+    "status": "sent"
+  },
+  "adam.larkey@o3capital.com": {
+    "last_sent": "2026-09-10T01:56:52.626867",
+    "seq": 1,
+    "status": "sent"
+  },
+  "compusbangaloresakti@premjiinvest.com": {
+    "last_sent": "2026-09-10T01:57:03.122714",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ito@beyondnextventures.com": {
+    "last_sent": "2026-09-10T01:57:12.766228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mackenzie@foundersfund.com": {
+    "last_sent": "2026-09-10T01:57:24.966104",
+    "seq": 1,
+    "status": "sent"
+  },
+  "firenet@al-majid.com": {
+    "last_sent": "2026-09-10T01:57:37.810425",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tim.kopp@hydeparkvp.com": {
+    "last_sent": "2026-09-10T01:57:51.192589",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amit.jha@fidelity.com": {
+    "last_sent": "2026-09-10T01:58:01.962795",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ailbhe.dempsey@transposeplatform.vc": {
+    "last_sent": "2026-09-10T01:58:15.396864",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hramirez@iberdrola.com": {
+    "last_sent": "2026-09-10T01:58:27.244531",
+    "seq": 1,
+    "status": "sent"
+  },
+  "postmaster@adventinternational.com": {
+    "last_sent": "2026-09-10T01:58:39.298653",
+    "seq": 1,
+    "status": "sent"
+  },
+  "husainf@muhaidib.com": {
+    "last_sent": "2026-09-10T01:58:53.065580",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vinodm@innovencapital.com": {
+    "last_sent": "2026-09-10T01:59:37.403552",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abhi@desaiventures.io": {
+    "last_sent": "2026-09-10T02:00:12.072911",
+    "seq": 1,
+    "status": "sent"
+  },
+  "khiguchi@adb.org": {
+    "last_sent": "2026-09-10T02:00:22.344787",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajiv.roy@3lines.vc": {
+    "last_sent": "2026-09-10T02:00:35.719955",
+    "seq": 1,
+    "status": "sent"
+  },
+  "twilliams@lincolninternational.com": {
+    "last_sent": "2026-09-10T02:00:46.155771",
+    "seq": 1,
+    "status": "sent"
+  },
+  "achen@nexuslp.com": {
+    "last_sent": "2026-09-10T02:00:58.159326",
+    "seq": 1,
+    "status": "sent"
+  },
+  "danielle@guggenheimpartners.com": {
+    "last_sent": "2026-09-10T02:01:10.915027",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ir@lsvp.com": {
+    "last_sent": "2026-09-10T02:01:21.678485",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aagrawal@avaanacapital.com": {
+    "last_sent": "2026-09-10T02:01:31.902890",
+    "seq": 1,
+    "status": "sent"
+  },
+  "diana@figure8.vc": {
+    "last_sent": "2026-09-10T02:01:45.327850",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mrajab@alshaya.com": {
+    "last_sent": "2026-09-10T02:01:57.692022",
+    "seq": 1,
+    "status": "sent"
+  },
+  "an@polarispartners.com": {
+    "last_sent": "2026-09-10T02:02:20.234227",
+    "seq": 1,
+    "status": "sent"
+  },
+  "muieen@betatron.co": {
+    "last_sent": "2026-09-10T02:02:42.828251",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ir@thaiunion.com": {
+    "last_sent": "2026-09-10T02:03:05.182202",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sunildsouza@tataconsumer.com": {
+    "last_sent": "2026-09-10T02:03:17.766615",
+    "seq": 1,
+    "status": "sent"
+  },
+  "inez.stefanie@endeavor.org": {
+    "last_sent": "2026-09-10T02:03:30.918888",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deepak.jorwal@motilaloswal.com": {
+    "last_sent": "2026-09-10T02:03:41.482051",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rkahn@lincolninternational.com": {
+    "last_sent": "2026-09-10T02:03:54.278919",
+    "seq": 1,
+    "status": "sent"
+  },
+  "st@instagram.com": {
+    "last_sent": "2026-09-10T02:04:07.110385",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nick@ribbit.com": {
+    "last_sent": "2026-09-10T02:04:18.569567",
+    "seq": 1,
+    "status": "sent"
+  },
+  "von@gennexcorp.com": {
+    "last_sent": "2026-09-10T02:04:32.140830",
+    "seq": 1,
+    "status": "sent"
+  },
+  "citiventures@citi.com": {
+    "last_sent": "2026-09-10T02:04:41.826206",
+    "seq": 1,
+    "status": "sent"
+  },
+  "victoria.200osu@fidelity.com": {
+    "last_sent": "2026-09-10T02:04:52.861922",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shanti@letsventure.com": {
+    "last_sent": "2026-09-10T02:05:04.867863",
+    "seq": 1,
+    "status": "sent"
+  },
+  "felixm@fortislux.com": {
+    "last_sent": "2026-09-10T02:05:28.105060",
+    "seq": 1,
+    "status": "sent"
+  },
+  "exports@tainwala.in": {
+    "last_sent": "2026-09-10T02:05:48.229268",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sarah.schaffer@blackrock.com": {
+    "last_sent": "2026-09-10T02:06:12.515792",
+    "seq": 1,
+    "status": "sent"
+  },
+  "balaji@a16z.com": {
+    "last_sent": "2026-09-10T02:06:24.360128",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gdelidi@gmt.ge": {
+    "last_sent": "2026-09-10T02:06:36.664499",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nirmala.pandurkar@kotak.com": {
+    "last_sent": "2026-09-10T02:06:49.565275",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mpfarr@eightfold.ai": {
+    "last_sent": "2026-09-10T02:07:02.652892",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bansal@blacksoil.co.in": {
+    "last_sent": "2026-09-10T02:07:13.948633",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lmanning@agfunder.com": {
+    "last_sent": "2026-09-10T02:07:26.046572",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anne.ackerley@blackrock.com": {
+    "last_sent": "2026-09-10T02:07:38.886281",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kloss@abacon.capital": {
+    "last_sent": "2026-09-10T02:07:50.787779",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hitesh.savanth@o3capital.com": {
+    "last_sent": "2026-09-10T02:08:00.882930",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gavin.hattersley@millercoors.com": {
+    "last_sent": "2026-09-10T02:08:13.947783",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nick+test@usv.com": {
+    "last_sent": "2026-09-10T02:08:36.626796",
+    "seq": 1,
+    "status": "sent"
+  },
+  "9initish@premjiinvest.com": {
+    "last_sent": "2026-09-10T02:09:00.029470",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dgscm@rbi.org.in": {
+    "last_sent": "2026-09-10T02:09:21.616349",
+    "seq": 1,
+    "status": "sent"
+  },
+  "growbig@motilaloswal.com": {
+    "last_sent": "2026-09-10T02:09:35.162031",
+    "seq": 1,
+    "status": "sent"
+  },
+  "guyn@artesianinvest.com": {
+    "last_sent": "2026-09-10T02:09:45.464731",
+    "seq": 1,
+    "status": "sent"
+  },
+  "waseem.akhtar@abuissa.com": {
+    "last_sent": "2026-09-10T02:09:55.821427",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dsaragaglia@stayseatedinc.net": {
+    "last_sent": "2026-09-10T02:10:09.128448",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dongips@skoll.org": {
+    "last_sent": "2026-09-10T02:10:19.025695",
+    "seq": 1,
+    "status": "sent"
+  },
+  "acusick@khoslaventures.com": {
+    "last_sent": "2026-09-10T02:10:30.219347",
+    "seq": 1,
+    "status": "sent"
+  },
+  "umesh_mittal@alchemycapital.com": {
+    "last_sent": "2026-09-10T02:10:43.181257",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maggi@mikrokapital.com": {
+    "last_sent": "2026-09-10T02:10:53.781876",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alex@altair.vc": {
+    "last_sent": "2026-09-10T02:11:06.977991",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sneha.rao@indigoedge.com": {
+    "last_sent": "2026-09-10T02:11:19.044785",
+    "seq": 1,
+    "status": "sent"
+  },
+  "haoli@midascapital.co.in": {
+    "last_sent": "2026-09-10T02:11:42.286698",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kiran@venturecatalysts.in": {
+    "last_sent": "2026-09-10T02:12:06.349464",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aahmed@alghanim.com": {
+    "last_sent": "2026-09-10T02:12:26.459321",
+    "seq": 1,
+    "status": "sent"
+  },
+  "greg@eclipse.capital": {
+    "last_sent": "2026-09-10T02:12:38.458341",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lakshmi@fakhro.com": {
+    "last_sent": "2026-09-10T02:12:48.792475",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kgaidas@familyoffice.com": {
+    "last_sent": "2026-09-10T02:12:58.901009",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mikelle@craftventures.com": {
+    "last_sent": "2026-09-10T02:13:11.151210",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investor.services@blackrock.com": {
+    "last_sent": "2026-09-10T02:13:22.279321",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lucy.chow@wbaforum.org": {
+    "last_sent": "2026-09-10T02:13:33.281490",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mkurohara@draper.vc": {
+    "last_sent": "2026-09-10T02:13:45.711268",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nikhil.jajoo@pantomathgroup.com": {
+    "last_sent": "2026-09-10T02:13:56.785803",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jmorris@nexuslp.com": {
+    "last_sent": "2026-09-10T02:14:09.428159",
+    "seq": 1,
+    "status": "sent"
+  },
+  "varunchugh@dbs.com": {
+    "last_sent": "2026-09-10T02:14:19.714967",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bharat.jain@icicisecurities.com": {
+    "last_sent": "2026-09-10T02:14:40.352759",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s.sarwat@ajlanbros-holding.com": {
+    "last_sent": "2026-09-10T02:15:02.032819",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sam_periman@10xvp.com": {
+    "last_sent": "2026-09-10T02:15:22.210042",
+    "seq": 1,
+    "status": "sent"
+  },
+  "omillet@eurazeo.com": {
+    "last_sent": "2026-09-10T02:15:33.668789",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eric.perez@envato.com": {
+    "last_sent": "2026-09-10T02:15:44.110713",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mmaloun@moccae.gov.ae": {
+    "last_sent": "2026-09-10T02:15:56.999782",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ananya.sreedharan@letsventure.com": {
+    "last_sent": "2026-09-10T02:16:07.179068",
+    "seq": 1,
+    "status": "sent"
+  },
+  "u.mittal@alchemycapital.com": {
+    "last_sent": "2026-09-10T02:16:19.498105",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ptornquist@cvc.com": {
+    "last_sent": "2026-09-10T02:16:30.053271",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tilak@lvlup.vc": {
+    "last_sent": "2026-09-10T02:16:40.250738",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amr.elhelbawi@alfaisalholding.com": {
+    "last_sent": "2026-09-10T02:16:53.340552",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ag@artesianinvest.com": {
+    "last_sent": "2026-09-10T02:17:06.159999",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mpo_mbm@masaood.com": {
+    "last_sent": "2026-09-10T02:17:19.695825",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nishal@goldengate.vc": {
+    "last_sent": "2026-09-10T02:17:43.554539",
+    "seq": 1,
+    "status": "sent"
+  },
+  "egraff@a16z.com": {
+    "last_sent": "2026-09-10T02:18:05.670787",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cwood@ark-invest.com": {
+    "last_sent": "2026-09-10T02:18:25.785377",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jsodhi@srf.com": {
+    "last_sent": "2026-09-10T02:18:36.633352",
+    "seq": 1,
+    "status": "sent"
+  },
+  "avi.n@tarongagroup.com": {
+    "last_sent": "2026-09-10T02:19:00.553521",
+    "seq": 1,
+    "status": "sent"
+  },
+  "niraj@bharat.fund": {
+    "last_sent": "2026-09-10T02:19:10.315583",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nishantarya@hotmail.com": {
+    "last_sent": "2026-09-10T02:19:24.015969",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael.moritz@carlsquare.com": {
+    "last_sent": "2026-09-10T02:19:39.026769",
+    "seq": 1,
+    "status": "sent"
+  },
+  "theodora.desmaria@prasetia.co.id": {
+    "last_sent": "2026-09-10T02:19:52.605111",
+    "seq": 1,
+    "status": "sent"
+  },
+  "swapnil@invideo.io": {
+    "last_sent": "2026-09-10T02:20:05.695570",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@picocap.in": {
+    "last_sent": "2026-09-10T02:20:17.354552",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jsmith@adventinternational.com": {
+    "last_sent": "2026-09-10T02:20:29.762199",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jenny@betatron.co": {
+    "last_sent": "2026-09-10T02:20:53.124178",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ventures@3m.com": {
+    "last_sent": "2026-09-10T02:21:14.836846",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sales@cargill.co.in": {
+    "last_sent": "2026-09-10T02:21:38.549727",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yelhan@adb.org": {
+    "last_sent": "2026-09-10T02:21:48.106591",
+    "seq": 1,
+    "status": "sent"
+  },
+  "matthias@betatron.co": {
+    "last_sent": "2026-09-10T02:22:00.149480",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lorenzo@antler.co": {
+    "last_sent": "2026-09-10T02:22:12.041092",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tkogon@aliyacapitalpartners.com": {
+    "last_sent": "2026-09-10T02:22:22.070759",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chetan@360.one": {
+    "last_sent": "2026-09-10T02:22:34.093609",
+    "seq": 1,
+    "status": "sent"
+  },
+  "paine@goldengate.vc": {
+    "last_sent": "2026-09-10T02:22:46.265654",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ir@alteriacapital.com": {
+    "last_sent": "2026-09-10T02:22:58.011499",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mindy_silverman@troweprice.com": {
+    "last_sent": "2026-09-10T02:23:10.726846",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ozgenur_telyak@cargill.com": {
+    "last_sent": "2026-09-10T02:23:22.528448",
+    "seq": 1,
+    "status": "sent"
+  },
+  "programabolsas.brasil@iberdrola.com": {
+    "last_sent": "2026-09-10T02:23:35.183104",
+    "seq": 1,
+    "status": "sent"
+  },
+  "althea.stewart@ark-invest.com": {
+    "last_sent": "2026-09-10T02:23:57.102268",
+    "seq": 1,
+    "status": "sent"
+  },
+  "itrumpower@2m.com": {
+    "last_sent": "2026-09-10T02:24:20.901279",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shabeer_tba@masaood.com": {
+    "last_sent": "2026-09-10T02:24:45.767168",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alice@breakthroughenergy.org": {
+    "last_sent": "2026-09-10T02:24:58.250721",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joshua.kramer@climecap.com": {
+    "last_sent": "2026-09-10T02:25:11.108208",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sadiq.hussain@sevioragroup.com": {
+    "last_sent": "2026-09-10T02:25:24.130922",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vaneeta.varma@mayfield.com": {
+    "last_sent": "2026-09-10T02:25:34.676786",
+    "seq": 1,
+    "status": "sent"
+  },
+  "t.ratanpal@1crowd.co": {
+    "last_sent": "2026-09-10T02:25:46.400791",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@flintcap.com": {
+    "last_sent": "2026-09-10T02:25:57.723322",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zoom@primevp.in": {
+    "last_sent": "2026-09-10T02:26:11.678833",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anil@venturecatalysts.in": {
+    "last_sent": "2026-09-10T02:26:21.340664",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dennis@bitkraft.vc": {
+    "last_sent": "2026-09-10T02:26:33.311104",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yogesh@invideo.io": {
+    "last_sent": "2026-09-10T02:26:47.452759",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marasco@mikrokapital.com": {
+    "last_sent": "2026-09-10T02:27:13.023178",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anawaz@unituscapital.com": {
+    "last_sent": "2026-09-10T02:27:35.883216",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vijetha.shastry@dextercapital.in": {
+    "last_sent": "2026-09-10T02:28:00.025859",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bahm.alison@momenta.one": {
+    "last_sent": "2026-09-10T02:28:12.353015",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jfleuti@skoll.org": {
+    "last_sent": "2026-09-10T02:28:24.383583",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ameen.jaber@gargash.ae": {
+    "last_sent": "2026-09-10T02:28:37.838881",
+    "seq": 1,
+    "status": "sent"
+  },
+  "transportservices@alghanim.com": {
+    "last_sent": "2026-09-10T02:28:51.708454",
+    "seq": 1,
+    "status": "sent"
+  },
+  "knowledgeservices@socialalpha.org": {
+    "last_sent": "2026-09-10T02:29:02.607550",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sapan.karia@pantomathgroup.com": {
+    "last_sent": "2026-09-10T02:29:16.241677",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vandeput.dirk@mdlz.com": {
+    "last_sent": "2026-09-10T02:29:29.057475",
+    "seq": 1,
+    "status": "sent"
+  },
+  "william@mucker.com": {
+    "last_sent": "2026-09-10T02:29:40.665061",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nabil.mahmoud@alfaisalholding.com": {
+    "last_sent": "2026-09-10T02:29:53.081695",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ian_archibald@c-ventures.nl": {
+    "last_sent": "2026-09-10T02:30:08.002550",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cchotalia@dfj.com": {
+    "last_sent": "2026-09-10T02:30:32.252798",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hr@alfaisalholding.com": {
+    "last_sent": "2026-09-10T02:30:54.193874",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aakarsh.kishore@mathco.com": {
+    "last_sent": "2026-09-10T02:31:19.299141",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lwozniak@adq.ae": {
+    "last_sent": "2026-09-10T02:31:30.191216",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marcus.cheu@protege.vc": {
+    "last_sent": "2026-09-10T02:31:42.200085",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tkumar@almuftah.com": {
+    "last_sent": "2026-09-10T02:31:52.728933",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sabrina@polarispartners.com": {
+    "last_sent": "2026-09-10T02:32:02.685619",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sam_p@10xvp.com": {
+    "last_sent": "2026-09-10T02:32:16.324915",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rohin@sif.vc": {
+    "last_sent": "2026-09-10T02:32:27.894501",
+    "seq": 1,
+    "status": "sent"
+  },
+  "enio@patamar.com": {
+    "last_sent": "2026-09-10T02:32:41.730553",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sushmita_mascarenhas@icsgroup.co.in": {
+    "last_sent": "2026-09-10T02:32:53.040323",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ajay.vaidya@kotak.com": {
+    "last_sent": "2026-09-10T02:33:06.152542",
+    "seq": 1,
+    "status": "sent"
+  },
+  "santosh.adsul@ondc.org": {
+    "last_sent": "2026-09-10T02:33:18.505266",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carl@jefferies.com": {
+    "last_sent": "2026-09-10T02:33:39.914946",
+    "seq": 1,
+    "status": "sent"
+  },
+  "akhil@inflexor.vc": {
+    "last_sent": "2026-09-10T02:34:05.288970",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tdhingra@valorep.com": {
+    "last_sent": "2026-09-10T02:34:26.209913",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m.singhi@singhi.com": {
+    "last_sent": "2026-09-10T02:34:36.718768",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ryang@nea.com": {
+    "last_sent": "2026-09-10T02:34:47.063216",
+    "seq": 1,
+    "status": "sent"
+  },
+  "susan_bies@cargill.com": {
+    "last_sent": "2026-09-10T02:35:00.619061",
+    "seq": 1,
+    "status": "sent"
+  },
+  "oussama.mohamad@ali-sons.com": {
+    "last_sent": "2026-09-10T02:35:13.182772",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vipul.manchanda@magicpin.in": {
+    "last_sent": "2026-09-10T02:35:24.322984",
+    "seq": 1,
+    "status": "sent"
+  },
+  "t.warren@10xvp.com": {
+    "last_sent": "2026-09-10T02:35:34.994477",
+    "seq": 1,
+    "status": "sent"
+  },
+  "business@anicutcapital.com": {
+    "last_sent": "2026-09-10T02:35:47.754021",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bryan@greycroft.com": {
+    "last_sent": "2026-09-10T02:35:59.863711",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tsung@collabfund.com": {
+    "last_sent": "2026-09-10T02:36:12.665820",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abhishek@consciencemfo.com": {
+    "last_sent": "2026-09-10T02:36:24.822225",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mrunal.nasery@pixis.ai": {
+    "last_sent": "2026-09-10T02:36:46.466308",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dweiden@khoslaventures.com": {
+    "last_sent": "2026-09-10T02:37:10.250560",
+    "seq": 1,
+    "status": "sent"
+  },
+  "matigr@etoro.com": {
+    "last_sent": "2026-09-10T02:37:32.965169",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mwam@mwam.com": {
+    "last_sent": "2026-09-10T02:37:44.086958",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arunpandey@rhitisports.com": {
+    "last_sent": "2026-09-10T02:37:55.844883",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nakul.patel@icsgroup.co.in": {
+    "last_sent": "2026-09-10T02:38:08.192396",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tak_niinami@suntory.co.jp": {
+    "last_sent": "2026-09-10T02:38:18.993102",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chidambaram.n@suhailbahwangroup.com": {
+    "last_sent": "2026-09-10T02:38:29.384028",
+    "seq": 1,
+    "status": "sent"
+  },
+  "swapnil.sheth@indigoedge.com": {
+    "last_sent": "2026-09-10T02:38:41.834374",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yash@singhi.com": {
+    "last_sent": "2026-09-10T02:38:52.637260",
+    "seq": 1,
+    "status": "sent"
+  },
+  "repstein@eightfold.ai": {
+    "last_sent": "2026-09-10T02:39:02.721796",
+    "seq": 1,
+    "status": "sent"
+  },
+  "webmaster@svangel.com": {
+    "last_sent": "2026-09-10T02:39:14.813834",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christianm@centricus.com": {
+    "last_sent": "2026-09-10T02:39:27.182849",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashley.pakenham@apax.com": {
+    "last_sent": "2026-09-10T02:39:47.280508",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dipanjan.sengupta@peakxv.com": {
+    "last_sent": "2026-09-10T02:40:11.730585",
+    "seq": 1,
+    "status": "sent"
+  },
+  "falsaleh@muhaidib.com": {
+    "last_sent": "2026-09-10T02:40:33.132542",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashok_boricha@cargill.co.in": {
+    "last_sent": "2026-09-10T02:40:44.288077",
+    "seq": 1,
+    "status": "sent"
+  },
+  "krishnan.s@jiffy.ai": {
+    "last_sent": "2026-09-10T02:40:53.683485",
+    "seq": 1,
+    "status": "sent"
+  },
+  "manav@ribbit.com": {
+    "last_sent": "2026-09-10T02:41:05.622723",
+    "seq": 1,
+    "status": "sent"
+  },
+  "paresh.parmar@bvcventures.com": {
+    "last_sent": "2026-09-10T02:41:17.247135",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rahul@rukamcapital.com": {
+    "last_sent": "2026-09-10T02:41:29.079815",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vkuang@draper.vc": {
+    "last_sent": "2026-09-10T02:41:39.754173",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marlen_morales@woodbridgegroup.com": {
+    "last_sent": "2026-09-10T02:41:51.216901",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jkinsey@dfj.com": {
+    "last_sent": "2026-09-10T02:42:03.800165",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashok.vaswani@kotak.com": {
+    "last_sent": "2026-09-10T02:42:16.664467",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sarika.bhardwaj@gmrgroup.in": {
+    "last_sent": "2026-09-10T02:42:30.378925",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rishabh@subhkam.com": {
+    "last_sent": "2026-09-10T02:42:53.454855",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tommy@synthesis.partners": {
+    "last_sent": "2026-09-10T02:43:15.907729",
+    "seq": 1,
+    "status": "sent"
+  },
+  "christopher-thompson@acppartners.com": {
+    "last_sent": "2026-09-10T02:43:38.193596",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rmenon@chicagobooth.edu": {
+    "last_sent": "2026-09-10T02:43:48.807935",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pawan.vadulas@mathco.com": {
+    "last_sent": "2026-09-10T02:43:59.037352",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pete.mcbride@fonterra.com": {
+    "last_sent": "2026-09-10T02:44:09.473718",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lindsey@doordash.com": {
+    "last_sent": "2026-09-10T02:44:21.047850",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.ford@mwam.com": {
+    "last_sent": "2026-09-10T02:44:32.211216",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ddines@cargill.co.in": {
+    "last_sent": "2026-09-10T02:44:46.106722",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rwong@accel.com": {
+    "last_sent": "2026-09-10T02:44:56.405230",
+    "seq": 1,
+    "status": "sent"
+  },
+  "k.tanner@thehersheycompany.com": {
+    "last_sent": "2026-09-10T02:45:07.065644",
+    "seq": 1,
+    "status": "sent"
+  },
+  "el.talal@bch.co": {
+    "last_sent": "2026-09-10T02:45:17.590293",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mo@khoslaventures.com": {
+    "last_sent": "2026-09-10T02:45:31.680499",
+    "seq": 1,
+    "status": "sent"
+  },
+  "robertf@bmgigroup.com": {
+    "last_sent": "2026-09-10T02:45:53.825479",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ajardaneh@spotangels.com": {
+    "last_sent": "2026-09-10T02:46:16.079221",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rana.vij@pixis.ai": {
+    "last_sent": "2026-09-10T02:46:39.209198",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rashyl.basong@alfaisalholding.com": {
+    "last_sent": "2026-09-10T02:46:49.170773",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ckwok@greatoaksvc.com": {
+    "last_sent": "2026-09-10T02:46:58.855565",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ben@baksh.sg": {
+    "last_sent": "2026-09-10T02:47:19.925984",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nithin.rajendran@neuron7.ai": {
+    "last_sent": "2026-09-10T02:47:30.074219",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aaltanani@adq.ae": {
+    "last_sent": "2026-09-10T02:47:40.744743",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d-goh@kkfund.co": {
+    "last_sent": "2026-09-10T02:47:50.863325",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mfisch@lincolninternational.com": {
+    "last_sent": "2026-09-10T02:48:03.392584",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ruta@angellistindia.com": {
+    "last_sent": "2026-09-10T02:48:14.009509",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashwin@sarvam.ai": {
+    "last_sent": "2026-09-10T02:48:28.548427",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rahul@mapegroup.com": {
+    "last_sent": "2026-09-10T02:48:49.593682",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chandra.prahladka@choithrams.com": {
+    "last_sent": "2026-09-10T02:49:12.753278",
+    "seq": 1,
+    "status": "sent"
+  },
+  "uperezc@iberdrola.com": {
+    "last_sent": "2026-09-10T02:49:43.874522",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mdokchine@clairfield.com": {
+    "last_sent": "2026-09-10T02:49:56.154904",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chokola.galleria@chokola.in": {
+    "last_sent": "2026-09-10T02:50:06.090252",
+    "seq": 1,
+    "status": "sent"
+  },
+  "press@dcvc.com": {
+    "last_sent": "2026-09-10T02:50:18.747259",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stuart@enlightenedsoil.com": {
+    "last_sent": "2026-09-10T02:50:29.476694",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hq@taqa.com": {
+    "last_sent": "2026-09-10T02:50:42.242293",
+    "seq": 1,
+    "status": "sent"
+  },
+  "postmaster@dbs.com": {
+    "last_sent": "2026-09-10T02:50:52.268551",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sabrina@nexusvp.com": {
+    "last_sent": "2026-09-10T02:51:04.153572",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pradhan@energyimpactpartners.com": {
+    "last_sent": "2026-09-10T02:51:16.990877",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yago.sanchez@alantra.com": {
+    "last_sent": "2026-09-10T02:51:30.465706",
+    "seq": 1,
+    "status": "sent"
+  },
+  "t-warren@10xvp.com": {
+    "last_sent": "2026-09-10T02:51:53.702600",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kprince@adventinternational.com": {
+    "last_sent": "2026-09-10T02:52:14.785819",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaboud@spotangels.com": {
+    "last_sent": "2026-09-10T02:52:36.414083",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sudhir@chiratae.com": {
+    "last_sent": "2026-09-10T02:52:46.687488",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yaseshwini.reddy@pixis.ai": {
+    "last_sent": "2026-09-10T02:52:58.465133",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aileen.grabill@troweprice.com": {
+    "last_sent": "2026-09-10T02:53:08.423468",
+    "seq": 1,
+    "status": "sent"
+  },
+  "parag@auspice.org": {
+    "last_sent": "2026-09-10T02:53:18.195971",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alvaro@outlierventures.io": {
+    "last_sent": "2026-09-10T02:53:28.385182",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lgochanour@familyoffice.com": {
+    "last_sent": "2026-09-10T02:53:40.000123",
+    "seq": 1,
+    "status": "sent"
+  },
+  "csullivan@cmt.digital": {
+    "last_sent": "2026-09-10T02:53:52.477572",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vrushti.shah@unilazer.com": {
+    "last_sent": "2026-09-10T02:54:03.671719",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jan.oliver@bailliegifford.com": {
+    "last_sent": "2026-09-10T02:54:15.925433",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cduenas@adb.org": {
+    "last_sent": "2026-09-10T02:54:26.564051",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kirbyrak@alghanim.com": {
+    "last_sent": "2026-09-10T02:54:49.128242",
+    "seq": 1,
+    "status": "sent"
+  },
+  "reports@svangel.com": {
+    "last_sent": "2026-09-10T02:55:09.010139",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ramiyarvas@almuftah.com": {
+    "last_sent": "2026-09-10T02:55:35.366962",
+    "seq": 1,
+    "status": "sent"
+  },
+  "andrew@defyventures.org": {
+    "last_sent": "2026-09-10T02:55:47.457470",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prashanta@alsayergroup.com": {
+    "last_sent": "2026-09-10T02:55:58.871871",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sbhagat@tatatrusts.org": {
+    "last_sent": "2026-09-10T02:56:11.575003",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nam.tran@earth.vc": {
+    "last_sent": "2026-09-10T02:56:22.969805",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashokb@cargill.co.in": {
+    "last_sent": "2026-09-10T02:56:34.283625",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vishal@oriosvp.com": {
+    "last_sent": "2026-09-10T02:56:44.614963",
+    "seq": 1,
+    "status": "sent"
+  },
+  "acquisitions@blueridgecapital.com": {
+    "last_sent": "2026-09-10T02:56:55.247574",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kulrich@endeavorco.com": {
+    "last_sent": "2026-09-10T02:57:06.201358",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john.loock@bp.com": {
+    "last_sent": "2026-09-10T02:57:16.862972",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sgrego@skoll.org": {
+    "last_sent": "2026-09-10T02:57:30.682971",
+    "seq": 1,
+    "status": "sent"
+  },
+  "milena@lidl.bg": {
+    "last_sent": "2026-09-10T02:57:53.490588",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tgold@thielcapital.com": {
+    "last_sent": "2026-09-10T02:58:17.592111",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jasperlee@etoro.com": {
+    "last_sent": "2026-09-10T02:58:40.512886",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eshani.shah@o3capital.com": {
+    "last_sent": "2026-09-10T02:58:49.924844",
+    "seq": 1,
+    "status": "sent"
+  },
+  "careers@dextercapital.in": {
+    "last_sent": "2026-09-10T02:59:01.207018",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vgodse@mayfield.com": {
+    "last_sent": "2026-09-10T02:59:13.807315",
+    "seq": 1,
+    "status": "sent"
+  },
+  "filipe.areno@skadden.com": {
+    "last_sent": "2026-09-10T02:59:25.699703",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dkim@draper.vc": {
+    "last_sent": "2026-09-10T02:59:36.567614",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lainy@craftventures.com": {
+    "last_sent": "2026-09-10T02:59:49.947055",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bondoperations@artesianinvest.com": {
+    "last_sent": "2026-09-10T03:00:00.126433",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yameen@abc.xyz": {
+    "last_sent": "2026-09-10T03:00:10.599278",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mmalta@adventinternational.com": {
+    "last_sent": "2026-09-10T03:00:21.687172",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@vulcancapital.co.uk": {
+    "last_sent": "2026-09-10T03:00:34.680444",
+    "seq": 1,
+    "status": "sent"
+  },
+  "complianceofficer.ebl@edelweissfin.com": {
+    "last_sent": "2026-09-10T03:01:00.389691",
+    "seq": 1,
+    "status": "sent"
+  },
+  "diola@cmt.digital": {
+    "last_sent": "2026-09-10T03:01:23.011434",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alan.freedman@moorecap.com": {
+    "last_sent": "2026-09-10T03:01:46.453479",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mross@eightfold.ai": {
+    "last_sent": "2026-09-10T03:01:59.696199",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dhfl.ncd@edelweissfin.com": {
+    "last_sent": "2026-09-10T03:02:12.600629",
+    "seq": 1,
+    "status": "sent"
+  },
+  "innovation@saabgroup.com": {
+    "last_sent": "2026-09-10T03:02:23.119069",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@sevenseasllp.com": {
+    "last_sent": "2026-09-10T03:02:33.888603",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pager@abc.xyz": {
+    "last_sent": "2026-09-10T03:02:44.408719",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaime@ribbit.com": {
+    "last_sent": "2026-09-10T03:02:54.735628",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nagarajan.umapathy@jiffy.ai": {
+    "last_sent": "2026-09-10T03:03:20.063783",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dheeraj@redcliffelabs.com": {
+    "last_sent": "2026-09-10T03:03:32.291743",
+    "seq": 1,
+    "status": "sent"
+  },
+  "akshay@contrary.com": {
+    "last_sent": "2026-09-10T03:03:44.242362",
+    "seq": 1,
+    "status": "sent"
+  },
+  "higgins@sosv.com": {
+    "last_sent": "2026-09-10T03:04:09.285008",
+    "seq": 1,
+    "status": "sent"
+  },
+  "laurene@emersoncollective.com": {
+    "last_sent": "2026-09-10T03:04:28.915360",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arpit@rukamcapital.com": {
+    "last_sent": "2026-09-10T03:04:48.431324",
+    "seq": 1,
+    "status": "sent"
+  },
+  "casserly@energyimpactpartners.com": {
+    "last_sent": "2026-09-10T03:05:01.952259",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nat@preludeventures.com": {
+    "last_sent": "2026-09-10T03:05:15.027493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.macleod@c-ventures.nl": {
+    "last_sent": "2026-09-10T03:05:27.757293",
+    "seq": 1,
+    "status": "sent"
+  },
+  "priya.ganesh@cervinfamilyoffice.com": {
+    "last_sent": "2026-09-10T03:05:40.988571",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ravinder.meena@meity.gov.in": {
+    "last_sent": "2026-09-10T03:05:50.994295",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hope-scape@tatatrusts.org": {
+    "last_sent": "2026-09-10T03:06:03.451219",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@eightfold.ai": {
+    "last_sent": "2026-09-10T03:06:14.857958",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anup@nexusvp.com": {
+    "last_sent": "2026-09-10T03:06:25.992259",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sanjina@rangeenkhidki.in": {
+    "last_sent": "2026-09-10T03:06:38.493663",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sr@beximco.com": {
+    "last_sent": "2026-09-10T03:06:50.277516",
+    "seq": 1,
+    "status": "sent"
+  },
+  "punit.jain@resurgentindia.com": {
+    "last_sent": "2026-09-10T03:07:41.045003",
+    "seq": 1,
+    "status": "sent"
+  },
+  "echami@alghanim.com": {
+    "last_sent": "2026-09-10T03:08:02.193493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cormann@bigpond.com": {
+    "last_sent": "2026-09-10T03:08:14.930545",
+    "seq": 1,
+    "status": "sent"
+  },
+  "victor.pang@dressgreen.org": {
+    "last_sent": "2026-09-10T03:08:25.369210",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raul@miamiangels.vc": {
+    "last_sent": "2026-09-10T03:08:38.747469",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mos-stes@gov.in": {
+    "last_sent": "2026-09-10T03:08:51.096027",
+    "seq": 1,
+    "status": "sent"
+  },
+  "archibaldi@c-ventures.nl": {
+    "last_sent": "2026-09-10T03:09:01.807317",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dkihanya@rei.com": {
+    "last_sent": "2026-09-10T03:09:13.337142",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hamid@muhaidib.com": {
+    "last_sent": "2026-09-10T03:09:25.537900",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brijesh.ansari@alfuttaim.com": {
+    "last_sent": "2026-09-10T03:09:35.608531",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alon.kuperman@gpbullhound.com": {
+    "last_sent": "2026-09-10T03:09:46.227234",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aarthi@gmail.com": {
+    "last_sent": "2026-09-10T03:09:59.359204",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@trifectacapital.in": {
+    "last_sent": "2026-09-10T03:10:23.295362",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ram.gopalakrishnan@affirmacapital.com": {
+    "last_sent": "2026-09-10T03:10:53.196197",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tfindley@pritzkergroup.com": {
+    "last_sent": "2026-09-10T03:11:13.708860",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shrusti.bhansali@dextercapital.in": {
+    "last_sent": "2026-09-10T03:11:25.721292",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hc@o3capital.com": {
+    "last_sent": "2026-09-10T03:11:38.547940",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hrz@alzayani.com": {
+    "last_sent": "2026-09-10T03:11:51.703985",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dylan@figma.com": {
+    "last_sent": "2026-09-10T03:12:02.472374",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sinead@hatch.blue": {
+    "last_sent": "2026-09-10T03:12:16.147810",
+    "seq": 1,
+    "status": "sent"
+  },
+  "houghton@wolfsongroupinc.com": {
+    "last_sent": "2026-09-10T03:12:26.283241",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amitabhk87@gmail.com": {
+    "last_sent": "2026-09-10T03:12:39.745275",
+    "seq": 1,
+    "status": "sent"
+  },
+  "postmaster@redchillies.com": {
+    "last_sent": "2026-09-10T03:12:52.037150",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jamie@2m.com": {
+    "last_sent": "2026-09-10T03:13:03.344062",
+    "seq": 1,
+    "status": "sent"
+  },
+  "antara@springmarketingcapital.com": {
+    "last_sent": "2026-09-10T03:13:13.737991",
+    "seq": 1,
+    "status": "sent"
+  },
+  "darpan@cofoundercircle.ai": {
+    "last_sent": "2026-09-10T03:13:36.438693",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bcao@sequoiacap.com": {
+    "last_sent": "2026-09-10T03:14:01.154175",
+    "seq": 1,
+    "status": "sent"
+  },
+  "neeraj@ondc.org": {
+    "last_sent": "2026-09-10T03:14:24.402140",
+    "seq": 1,
+    "status": "sent"
+  },
+  "swati.sharma@pixis.ai": {
+    "last_sent": "2026-09-10T03:14:35.792902",
+    "seq": 1,
+    "status": "sent"
+  },
+  "khalid.wani@favcy.in": {
+    "last_sent": "2026-09-10T03:14:56.589140",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vlay@artesianinvest.com": {
+    "last_sent": "2026-09-10T03:15:09.282702",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pragnesh.trivedi@kanoo.com": {
+    "last_sent": "2026-09-10T03:15:21.182389",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carlyb@endeavorco.com": {
+    "last_sent": "2026-09-10T03:15:32.018885",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.peru@endeavor.org": {
+    "last_sent": "2026-09-10T03:15:45.193851",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carol@dfj.com": {
+    "last_sent": "2026-09-10T03:15:58.723315",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jose.george@srf.com": {
+    "last_sent": "2026-09-10T03:16:08.389567",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jco@aquila-capital.de": {
+    "last_sent": "2026-09-10T03:16:21.694406",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jihad.hazzan@alfahim.ae": {
+    "last_sent": "2026-09-10T03:16:42.667599",
+    "seq": 1,
+    "status": "sent"
+  },
+  "talal.e@bch.co": {
+    "last_sent": "2026-09-10T03:17:05.846273",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tess@dfjgrowth.com": {
+    "last_sent": "2026-09-10T03:17:28.798203",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gitigijoseph@yahoo.co.uk": {
+    "last_sent": "2026-09-10T03:17:41.959630",
+    "seq": 1,
+    "status": "sent"
+  },
+  "h.sabharwal@acppartners.com": {
+    "last_sent": "2026-09-10T03:17:52.086804",
+    "seq": 1,
+    "status": "sent"
+  },
+  "satyabrata.majumder@360.one": {
+    "last_sent": "2026-09-10T03:18:04.233259",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaideep.p@acppartners.com": {
+    "last_sent": "2026-09-10T03:18:16.392885",
+    "seq": 1,
+    "status": "sent"
+  },
+  "manoj.tembulkar@indiainfoline.com": {
+    "last_sent": "2026-09-10T03:18:29.373731",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sarra@globalfounderscapital.com": {
+    "last_sent": "2026-09-10T03:18:41.815633",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bockl@qedinvestors.com": {
+    "last_sent": "2026-09-10T03:18:54.424081",
+    "seq": 1,
+    "status": "sent"
+  },
+  "harshad.patel@incorpadvisory.in": {
+    "last_sent": "2026-09-10T03:19:06.972180",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sacha.carton@drakestar.com": {
+    "last_sent": "2026-09-10T03:19:18.146832",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s-chaudhry@cargill.co.in": {
+    "last_sent": "2026-09-10T03:19:31.782537",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lisa@inspiredcompanies.global": {
+    "last_sent": "2026-09-10T03:19:56.774539",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mario.foster@alnaboodah.com": {
+    "last_sent": "2026-09-10T03:20:16.782674",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shashank@innovencapital.com": {
+    "last_sent": "2026-09-10T03:20:41.919453",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gksowmiyah@sparkcapital.in": {
+    "last_sent": "2026-09-10T03:20:53.395275",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lgross@foundersfund.com": {
+    "last_sent": "2026-09-10T03:21:15.938899",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bentel@icsgroup.co.in": {
+    "last_sent": "2026-09-10T03:21:29.247162",
+    "seq": 1,
+    "status": "sent"
+  },
+  "enayat@alshaya.com": {
+    "last_sent": "2026-09-10T03:21:39.365382",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicholas.quinn@jpmorgan.com": {
+    "last_sent": "2026-09-10T03:21:50.674949",
+    "seq": 1,
+    "status": "sent"
+  },
+  "paul.mancuso@moorecap.com": {
+    "last_sent": "2026-09-10T03:22:01.164060",
+    "seq": 1,
+    "status": "sent"
+  },
+  "geo@emersoncollective.com": {
+    "last_sent": "2026-09-10T03:22:12.144397",
+    "seq": 1,
+    "status": "sent"
+  },
+  "orourke@guggenheimpartners.com": {
+    "last_sent": "2026-09-10T03:22:23.555784",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajiv@antler.co": {
+    "last_sent": "2026-09-10T03:22:35.228296",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ian.a@c-ventures.nl": {
+    "last_sent": "2026-09-10T03:22:58.855293",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tcarlberg@skoll.org": {
+    "last_sent": "2026-09-10T03:23:18.824121",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dkumar@muthootfinance.com": {
+    "last_sent": "2026-09-10T03:23:38.053804",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sandeep.chordia@kotak.com": {
+    "last_sent": "2026-09-10T03:23:48.720652",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kamath@manipalgroup.com": {
+    "last_sent": "2026-09-10T03:24:01.038170",
+    "seq": 1,
+    "status": "sent"
+  },
+  "al@coinmarketcap.com": {
+    "last_sent": "2026-09-10T03:24:12.100248",
+    "seq": 1,
+    "status": "sent"
+  },
+  "heidihangmanclement@jimrogers.com": {
+    "last_sent": "2026-09-10T03:24:23.051223",
+    "seq": 1,
+    "status": "sent"
+  },
+  "t.urbahn@etihad.com": {
+    "last_sent": "2026-09-10T03:24:34.115102",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ruxandra@civilizationventures.com": {
+    "last_sent": "2026-09-10T03:24:46.902680",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chandraprakash.padiyar@alchemycapital.com": {
+    "last_sent": "2026-09-10T03:25:00.274470",
+    "seq": 1,
+    "status": "sent"
+  },
+  "achaturvedi@accel.com": {
+    "last_sent": "2026-09-10T03:25:10.202717",
+    "seq": 1,
+    "status": "sent"
+  },
+  "warren@angellist.com": {
+    "last_sent": "2026-09-10T03:25:20.952332",
+    "seq": 1,
+    "status": "sent"
+  },
+  "srinis@gmail.com": {
+    "last_sent": "2026-09-10T03:25:34.179576",
+    "seq": 1,
+    "status": "sent"
+  },
+  "st@walmart.com": {
+    "last_sent": "2026-09-10T03:25:57.837188",
+    "seq": 1,
+    "status": "sent"
+  },
+  "almasaood@masaood.com": {
+    "last_sent": "2026-09-10T03:26:22.776283",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mustafa@shkhamdan.ae": {
+    "last_sent": "2026-09-10T03:26:42.501999",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mamta.sawhney@caparo.co.in": {
+    "last_sent": "2026-09-10T03:26:52.422021",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dangle@nea.com": {
+    "last_sent": "2026-09-10T03:27:04.291996",
+    "seq": 1,
+    "status": "sent"
+  },
+  "james.simmons@cargill.co.in": {
+    "last_sent": "2026-09-10T03:27:29.092186",
+    "seq": 1,
+    "status": "sent"
+  },
+  "faheem@indigoedge.com": {
+    "last_sent": "2026-09-10T03:27:39.623117",
+    "seq": 1,
+    "status": "sent"
+  },
+  "luis_lopez@cargill.com": {
+    "last_sent": "2026-09-10T03:27:51.703783",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sayan.ray@srf.com": {
+    "last_sent": "2026-09-10T03:28:04.319343",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mdonnelly@energyimpactpartners.com": {
+    "last_sent": "2026-09-10T03:28:14.799365",
+    "seq": 1,
+    "status": "sent"
+  },
+  "caleb@beyondnextventures.com": {
+    "last_sent": "2026-09-10T03:28:25.974767",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tavishg@annapurna.com": {
+    "last_sent": "2026-09-10T03:28:36.556241",
+    "seq": 1,
+    "status": "sent"
+  },
+  "claudiaperey@gmail.com": {
+    "last_sent": "2026-09-10T03:28:59.884760",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investments@culturecap.in": {
+    "last_sent": "2026-09-10T03:29:24.859917",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tdraper@dfj.com": {
+    "last_sent": "2026-09-10T03:29:48.254814",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kapampa@capricornllc.com": {
+    "last_sent": "2026-09-10T03:29:58.400728",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bhawanajain@somanigroup.com": {
+    "last_sent": "2026-09-10T03:30:11.234113",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rizwan@rapido.bike": {
+    "last_sent": "2026-09-10T03:30:21.581189",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ryan_zoradi@patamar.com": {
+    "last_sent": "2026-09-10T03:30:32.124305",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ksnarula@mukand.com": {
+    "last_sent": "2026-09-10T03:30:45.555802",
+    "seq": 1,
+    "status": "sent"
+  },
+  "liis.bolton@yolo.io": {
+    "last_sent": "2026-09-10T03:30:57.187846",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicoletakr@etoro.com": {
+    "last_sent": "2026-09-10T03:31:07.561703",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sapna@waterbridge.vc": {
+    "last_sent": "2026-09-10T03:31:19.806882",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rep@walmart.com": {
+    "last_sent": "2026-09-10T03:32:25.474993",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mathews@centricus.com": {
+    "last_sent": "2026-09-10T03:32:47.097524",
+    "seq": 1,
+    "status": "sent"
+  },
+  "press@whatsapp.com": {
+    "last_sent": "2026-09-10T03:32:58.582230",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ryu-hayashi@garage.co.jp": {
+    "last_sent": "2026-09-10T03:33:11.494463",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aruniyer@springmarketingcapital.com": {
+    "last_sent": "2026-09-10T03:33:23.093912",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aj@ajlanbros-holding.com": {
+    "last_sent": "2026-09-10T03:33:33.750149",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sashidhar.jagdishan@hdfcbank.com": {
+    "last_sent": "2026-09-10T03:33:45.025718",
+    "seq": 1,
+    "status": "sent"
+  },
+  "reena@subhkam.com": {
+    "last_sent": "2026-09-10T03:33:58.132476",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pmehra@srf.com": {
+    "last_sent": "2026-09-10T03:34:10.285976",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ajit.deshmukh@equirus.com": {
+    "last_sent": "2026-09-10T03:34:20.783060",
+    "seq": 1,
+    "status": "sent"
+  },
+  "spomerantz@jefferies.com": {
+    "last_sent": "2026-09-10T03:34:32.113397",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rohan.roy@venturecatalysts.in": {
+    "last_sent": "2026-09-10T03:34:45.282589",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sumit.shukla@axispensionfund.com": {
+    "last_sent": "2026-09-10T03:35:10.328155",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vasan@accel.com": {
+    "last_sent": "2026-09-10T03:35:32.757696",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zak@unitedautosports.com": {
+    "last_sent": "2026-09-10T03:35:54.236610",
+    "seq": 1,
+    "status": "sent"
+  },
+  "allan@redchillies.com": {
+    "last_sent": "2026-09-10T03:36:06.926770",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anas_mari@moccae.gov.ae": {
+    "last_sent": "2026-09-10T03:36:19.051986",
+    "seq": 1,
+    "status": "sent"
+  },
+  "reachus@venturehighway.vc": {
+    "last_sent": "2026-09-10T03:36:29.109883",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.skyline@almanagroup.com": {
+    "last_sent": "2026-09-10T03:36:41.371573",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ryan.drumm@lcatterton.com": {
+    "last_sent": "2026-09-10T03:36:51.370844",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aidorgbsl@gmail.com": {
+    "last_sent": "2026-09-10T03:37:02.737202",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mrsmith@abc.xyz": {
+    "last_sent": "2026-09-10T03:37:13.510921",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bhakti.rege@equirus.com": {
+    "last_sent": "2026-09-10T03:37:26.655723",
+    "seq": 1,
+    "status": "sent"
+  },
+  "andrew@lsvp.com": {
+    "last_sent": "2026-09-10T03:37:37.618596",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hello@lightbox.vc": {
+    "last_sent": "2026-09-10T03:38:11.106627",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sandeep.bakhshi@icicibank.com": {
+    "last_sent": "2026-09-10T03:38:34.303480",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gouri@sekhsaria.com": {
+    "last_sent": "2026-09-10T03:38:56.637012",
+    "seq": 1,
+    "status": "sent"
+  },
+  "esam@fakhro.com": {
+    "last_sent": "2026-09-10T03:39:06.713774",
+    "seq": 1,
+    "status": "sent"
+  },
+  "priyanka.vasudevan@morganstanley.com": {
+    "last_sent": "2026-09-10T03:39:16.438380",
+    "seq": 1,
+    "status": "sent"
+  },
+  "leo-shiraishi@garage.co.jp": {
+    "last_sent": "2026-09-10T03:39:37.906686",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rahul.singh@ajlanbros-holding.com": {
+    "last_sent": "2026-09-10T03:39:50.482407",
+    "seq": 1,
+    "status": "sent"
+  },
+  "piyush@alpheya.com": {
+    "last_sent": "2026-09-10T03:40:03.283049",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ssultana@whealthventures.com": {
+    "last_sent": "2026-09-10T03:40:15.146888",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maria@ribbit.com": {
+    "last_sent": "2026-09-10T03:40:27.399863",
+    "seq": 1,
+    "status": "sent"
+  },
+  "achyuta@energyimpactpartners.com": {
+    "last_sent": "2026-09-10T03:40:38.031232",
+    "seq": 1,
+    "status": "sent"
+  },
+  "batul.joffrey@kaporcapital.com": {
+    "last_sent": "2026-09-10T03:40:50.873183",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vijayakrishnang@sebi.gov.in": {
+    "last_sent": "2026-09-10T03:41:14.527532",
+    "seq": 1,
+    "status": "sent"
+  },
+  "akash.philip@rmz.com": {
+    "last_sent": "2026-09-10T03:41:36.394150",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dave@cottonwood.vc": {
+    "last_sent": "2026-09-10T03:41:59.499291",
+    "seq": 1,
+    "status": "sent"
+  },
+  "saudi@endeavor.org": {
+    "last_sent": "2026-09-10T03:42:10.193507",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.burton@bezosearthfund.org": {
+    "last_sent": "2026-09-10T03:42:21.384378",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nquinn@lsvp.com": {
+    "last_sent": "2026-09-10T03:42:32.806765",
+    "seq": 1,
+    "status": "sent"
+  },
+  "press@redchillies.com": {
+    "last_sent": "2026-09-10T03:42:44.864356",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zoradi.ryan@patamar.com": {
+    "last_sent": "2026-09-10T03:42:57.950835",
+    "seq": 1,
+    "status": "sent"
+  },
+  "morris.w@wolfsongroupinc.com": {
+    "last_sent": "2026-09-10T03:43:08.899854",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david@projectmoonhut.org": {
+    "last_sent": "2026-09-10T03:43:20.372517",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shahvirj@sebi.gov.in": {
+    "last_sent": "2026-09-10T03:43:32.194274",
+    "seq": 1,
+    "status": "sent"
+  },
+  "support@spotangels.com": {
+    "last_sent": "2026-09-10T03:43:44.227758",
+    "seq": 1,
+    "status": "sent"
+  },
+  "todd_fawver@cargill.com": {
+    "last_sent": "2026-09-10T03:43:54.935419",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nishith.shah@aequitasindia.in": {
+    "last_sent": "2026-09-10T03:44:20.916701",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zoya@srt10.in": {
+    "last_sent": "2026-09-10T03:44:46.207144",
+    "seq": 1,
+    "status": "sent"
+  },
+  "savas@azersun.com": {
+    "last_sent": "2026-09-10T03:45:12.289618",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gracy.dsouza@jbpharma.com": {
+    "last_sent": "2026-09-10T03:45:23.375010",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tapan.ray@pratithiorganic.com": {
+    "last_sent": "2026-09-10T03:45:33.358367",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alexis@hardwareclub.co": {
+    "last_sent": "2026-09-10T03:45:44.176430",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rewinding@almullagroup.com": {
+    "last_sent": "2026-09-10T03:45:55.957442",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sumant.kathpalia@indusind.com": {
+    "last_sent": "2026-09-10T03:46:08.997413",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fportais@alantra.com": {
+    "last_sent": "2026-09-10T03:46:20.456862",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sonny.young@outlierventures.io": {
+    "last_sent": "2026-09-10T03:46:30.718748",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tsolomonia@gmt.ge": {
+    "last_sent": "2026-09-10T03:46:43.422422",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ia@c-ventures.nl": {
+    "last_sent": "2026-09-10T03:46:53.826453",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajeev.mehta@mhd.co.om": {
+    "last_sent": "2026-09-10T03:47:04.035847",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aposza@targetglobal.vc": {
+    "last_sent": "2026-09-10T03:47:30.164538",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abdulla@fakhro.com": {
+    "last_sent": "2026-09-10T03:47:51.917800",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rahulhumayun@anthillventures.com": {
+    "last_sent": "2026-09-10T03:48:13.700033",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mohit@devc.com": {
+    "last_sent": "2026-09-10T03:48:24.899988",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mitul@dextercapital.in": {
+    "last_sent": "2026-09-10T03:48:34.647572",
+    "seq": 1,
+    "status": "sent"
+  },
+  "han.cho@ajlanbros-holding.com": {
+    "last_sent": "2026-09-10T03:48:45.963932",
+    "seq": 1,
+    "status": "sent"
+  },
+  "connect@stripe.com": {
+    "last_sent": "2026-09-10T03:49:10.402923",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abbassif1@bp.com": {
+    "last_sent": "2026-09-10T03:49:20.984960",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rental@alsayergroup.com": {
+    "last_sent": "2026-09-10T03:49:33.676256",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dusan.radicevic@aldahra.com": {
+    "last_sent": "2026-09-10T03:49:44.346931",
+    "seq": 1,
+    "status": "sent"
+  },
+  "donovan.streicher@carlsquare.com": {
+    "last_sent": "2026-09-10T03:49:57.182564",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jamuna@nadathur.com": {
+    "last_sent": "2026-09-10T03:50:09.825200",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sg@gv.com": {
+    "last_sent": "2026-09-10T03:50:30.325208",
+    "seq": 1,
+    "status": "sent"
+  },
+  "corinnelebrun@hotmail.com": {
+    "last_sent": "2026-09-10T03:50:54.333806",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajeshbhatia@voltas.com": {
+    "last_sent": "2026-09-10T03:51:16.466700",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brad@usv.com": {
+    "last_sent": "2026-09-10T03:51:28.168783",
+    "seq": 1,
+    "status": "sent"
+  },
+  "froggyfrog@ribbit.com": {
+    "last_sent": "2026-09-10T03:51:41.206239",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kshitij.kushagra@meity.gov.in": {
+    "last_sent": "2026-09-10T03:51:51.480201",
+    "seq": 1,
+    "status": "sent"
+  },
+  "paulo@kayafounders.com": {
+    "last_sent": "2026-09-10T03:52:05.485794",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ssmith@endeavorco.com": {
+    "last_sent": "2026-09-10T03:52:16.511964",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sjurvetson@dfj.com": {
+    "last_sent": "2026-09-10T03:52:26.917443",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dsacks@craftventures.com": {
+    "last_sent": "2026-09-10T03:52:37.729087",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ali.fadhlani@twofour54.com": {
+    "last_sent": "2026-09-10T03:52:50.637062",
+    "seq": 1,
+    "status": "sent"
+  },
+  "spdas@dasandco.com": {
+    "last_sent": "2026-09-10T03:53:03.659255",
+    "seq": 1,
+    "status": "sent"
+  },
+  "muthu@almullagroup.com": {
+    "last_sent": "2026-09-10T03:53:15.031606",
+    "seq": 1,
+    "status": "sent"
+  },
+  "contactus@trmg.in": {
+    "last_sent": "2026-09-10T03:53:37.819316",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nandini@vedacorp.com": {
+    "last_sent": "2026-09-10T03:54:00.948710",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hanna@thielcapital.com": {
+    "last_sent": "2026-09-10T03:54:22.448927",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ksrawat@srf.com": {
+    "last_sent": "2026-09-10T03:54:34.717520",
+    "seq": 1,
+    "status": "sent"
+  },
+  "murali@innovencapital.com": {
+    "last_sent": "2026-09-10T03:54:47.941603",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ini@nadathur.com": {
+    "last_sent": "2026-09-10T03:54:59.689128",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dgips@skoll.org": {
+    "last_sent": "2026-09-10T03:55:13.226720",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mark@fb.com": {
+    "last_sent": "2026-09-10T03:55:24.353276",
+    "seq": 1,
+    "status": "sent"
+  },
+  "s-perlman@10xvp.com": {
+    "last_sent": "2026-09-10T03:55:37.434037",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chuck.laue@straydogcapital.com": {
+    "last_sent": "2026-09-10T03:55:51.280285",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aliya@breakthroughenergy.org": {
+    "last_sent": "2026-09-10T03:56:02.600731",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kelvin.sutedja@protege.vc": {
+    "last_sent": "2026-09-10T03:56:15.684343",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pcosti@cvc.com": {
+    "last_sent": "2026-09-10T03:56:25.604336",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lesterchiew@gic.com.sg": {
+    "last_sent": "2026-09-10T03:56:52.281563",
+    "seq": 1,
+    "status": "sent"
+  },
+  "brad@a16z.com": {
+    "last_sent": "2026-09-10T03:57:05.984942",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bb@aquila-capital.de": {
+    "last_sent": "2026-09-10T03:57:17.333154",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pbrooke@adventinternational.com": {
+    "last_sent": "2026-09-10T03:57:38.887157",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ramu@sinceresyndication.com": {
+    "last_sent": "2026-09-10T03:57:52.190857",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yatin.jhamb@hdfcbank.com": {
+    "last_sent": "2026-09-10T03:58:04.629713",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rvalle@iberdrola.com": {
+    "last_sent": "2026-09-10T03:58:18.087954",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dmart.ipo@edelweissfin.com": {
+    "last_sent": "2026-09-10T03:58:28.328896",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael@stripe.com": {
+    "last_sent": "2026-09-10T03:58:39.923289",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vo@thesolitario.com": {
+    "last_sent": "2026-09-10T03:58:50.240453",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pooja.keswani@alchemycapital.com": {
+    "last_sent": "2026-09-10T03:59:03.618285",
+    "seq": 1,
+    "status": "sent"
+  },
+  "justus@spaceangels.com": {
+    "last_sent": "2026-09-10T03:59:13.880308",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ueha@beyondnextventures.com": {
+    "last_sent": "2026-09-10T03:59:23.697227",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tanmay.bhat@aib.ie": {
+    "last_sent": "2026-09-10T03:59:35.648685",
+    "seq": 1,
+    "status": "sent"
+  },
+  "elizabeth.bedford@moorecap.com": {
+    "last_sent": "2026-09-10T03:59:59.192439",
+    "seq": 1,
+    "status": "sent"
+  },
+  "omesh.desilva@alfuttaim.com": {
+    "last_sent": "2026-09-10T04:00:21.962493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fweiss@aliyacapitalpartners.com": {
+    "last_sent": "2026-09-10T04:00:44.615422",
+    "seq": 1,
+    "status": "sent"
+  },
+  "oleksandra@globalfounderscapital.com": {
+    "last_sent": "2026-09-10T04:00:57.313154",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nicolas.vienot@alantra.com": {
+    "last_sent": "2026-09-10T04:01:08.217820",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mayera@socialcapital.com": {
+    "last_sent": "2026-09-10T04:01:20.411603",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sachin.katti@intel.com": {
+    "last_sent": "2026-09-10T04:01:33.766420",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alain@cottonwood.vc": {
+    "last_sent": "2026-09-10T04:01:44.634833",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ifigueroa@hl.com": {
+    "last_sent": "2026-09-10T04:01:56.372381",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joyce.cruzat@abuissa.com": {
+    "last_sent": "2026-09-10T04:02:07.674821",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ethan@craftventures.com": {
+    "last_sent": "2026-09-10T04:02:17.852703",
+    "seq": 1,
+    "status": "sent"
+  },
+  "samkit.shah@equirus.com": {
+    "last_sent": "2026-09-10T04:02:32.151453",
+    "seq": 1,
+    "status": "sent"
+  },
+  "emily.averna@bezosearthfund.org": {
+    "last_sent": "2026-09-10T04:02:45.187876",
+    "seq": 1,
+    "status": "sent"
+  },
+  "h-ouazzani@spotangels.com": {
+    "last_sent": "2026-09-10T04:03:05.687031",
+    "seq": 1,
+    "status": "sent"
+  },
+  "caroline@tryquinn.com": {
+    "last_sent": "2026-09-10T04:03:28.653287",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashish-mittal@resurgentindia.com": {
+    "last_sent": "2026-09-10T04:03:50.781165",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ajay@equirus.com": {
+    "last_sent": "2026-09-10T04:04:02.696801",
+    "seq": 1,
+    "status": "sent"
+  },
+  "parag.rao@hdfcbank.com": {
+    "last_sent": "2026-09-10T04:04:12.729182",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vinceadriana.tassini@familyoffices.com": {
+    "last_sent": "2026-09-10T04:04:24.312769",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prasanna.bora@o3capital.com": {
+    "last_sent": "2026-09-10T04:04:37.080978",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.krane@gv.com": {
+    "last_sent": "2026-09-10T04:04:51.190465",
+    "seq": 1,
+    "status": "sent"
+  },
+  "harshtiwari@invideo.io": {
+    "last_sent": "2026-09-10T04:05:04.582924",
+    "seq": 1,
+    "status": "sent"
+  },
+  "coleman.william@preludeventures.com": {
+    "last_sent": "2026-09-10T04:05:15.194172",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jmilan@aidsunited.org": {
+    "last_sent": "2026-09-10T04:05:25.216811",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shivania@observe.ai": {
+    "last_sent": "2026-09-10T04:05:38.683483",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sumit@sarvam.ai": {
+    "last_sent": "2026-09-10T04:05:49.157432",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kwimmer@eightfold.ai": {
+    "last_sent": "2026-09-10T04:06:11.073767",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arz@alzayani.com": {
+    "last_sent": "2026-09-10T04:06:34.837146",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amir@accomplice.co": {
+    "last_sent": "2026-09-10T04:06:58.402442",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sylviab@cascademgt.com": {
+    "last_sent": "2026-09-10T04:07:11.538975",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marriott-macy@straydogcapital.com": {
+    "last_sent": "2026-09-10T04:07:22.987281",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cbreitner@cvc.com": {
+    "last_sent": "2026-09-10T04:07:36.196886",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chihirohosoe@dbs.com": {
+    "last_sent": "2026-09-10T04:07:48.247307",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sales@tainwala.in": {
+    "last_sent": "2026-09-10T04:07:58.203455",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kris_sg@inf.net": {
+    "last_sent": "2026-09-10T04:08:09.245355",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jfox@nexuslp.com": {
+    "last_sent": "2026-09-10T04:08:19.901886",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ronak@invideo.io": {
+    "last_sent": "2026-09-10T04:08:32.233807",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ben@elevate.vc": {
+    "last_sent": "2026-09-10T04:08:44.204544",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chrisc@annapurna.com": {
+    "last_sent": "2026-09-10T04:08:57.332028",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tejas.karhadkar@incorpadvisory.in": {
+    "last_sent": "2026-09-10T04:09:19.986944",
+    "seq": 1,
+    "status": "sent"
+  },
+  "priscilla@chanzuckerberg.com": {
+    "last_sent": "2026-09-10T04:09:41.014517",
+    "seq": 1,
+    "status": "sent"
+  },
+  "roger.lienhard@bluehorizon.com": {
+    "last_sent": "2026-09-10T04:10:01.211116",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rsokolich@gqg.com": {
+    "last_sent": "2026-09-10T04:10:13.710885",
+    "seq": 1,
+    "status": "sent"
+  },
+  "samuel.arbesman@luxcapital.com": {
+    "last_sent": "2026-09-10T04:10:33.958587",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raya.papp@sagana.com": {
+    "last_sent": "2026-09-10T04:10:45.336753",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rick.petersen@10xvp.com": {
+    "last_sent": "2026-09-10T04:10:56.581693",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karene@qedinvestors.com": {
+    "last_sent": "2026-09-10T04:11:10.341220",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jack.dessay@drakestar.com": {
+    "last_sent": "2026-09-10T04:11:21.638190",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jithendra@observe.ai": {
+    "last_sent": "2026-09-10T04:11:34.254997",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sb@abc.xyz": {
+    "last_sent": "2026-09-10T04:11:46.407559",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hitesh.veera@kotak.com": {
+    "last_sent": "2026-09-10T04:11:59.152645",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eduardo@kaporcapital.com": {
+    "last_sent": "2026-09-10T04:12:24.758567",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jared@usv.com": {
+    "last_sent": "2026-09-10T04:12:48.078081",
+    "seq": 1,
+    "status": "sent"
+  },
+  "azizl@adx.ae": {
+    "last_sent": "2026-09-10T04:13:09.912500",
+    "seq": 1,
+    "status": "sent"
+  },
+  "malaiarasen.chandra@tranglo.com": {
+    "last_sent": "2026-09-10T04:13:20.442488",
+    "seq": 1,
+    "status": "sent"
+  },
+  "duncan.turner@sosv.com": {
+    "last_sent": "2026-09-10T04:13:29.980730",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prabhir.correa@waterfieldadvisors.com": {
+    "last_sent": "2026-09-10T04:13:41.227849",
+    "seq": 1,
+    "status": "sent"
+  },
+  "honeywellventures@honeywell.com": {
+    "last_sent": "2026-09-10T04:13:52.044965",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sangini@singhi.com": {
+    "last_sent": "2026-09-10T04:14:03.454115",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aklemm@clairfield.com": {
+    "last_sent": "2026-09-10T04:14:16.924719",
+    "seq": 1,
+    "status": "sent"
+  },
+  "imran@alshaya.com": {
+    "last_sent": "2026-09-10T04:14:30.492356",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tmf@stripe.com": {
+    "last_sent": "2026-09-10T04:14:42.313679",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amehra@baroncapitalgroup.com": {
+    "last_sent": "2026-09-10T04:14:52.616284",
+    "seq": 1,
+    "status": "sent"
+  },
+  "borichaashok@cargill.co.in": {
+    "last_sent": "2026-09-10T04:15:04.428056",
+    "seq": 1,
+    "status": "sent"
+  },
+  "samir.sanghvi@incorpadvisory.in": {
+    "last_sent": "2026-09-10T04:15:28.238400",
+    "seq": 1,
+    "status": "sent"
+  },
+  "garth.priber@cloudkitchens.com": {
+    "last_sent": "2026-09-10T04:15:53.237118",
+    "seq": 1,
+    "status": "sent"
+  },
+  "janabai@sparkcapital.in": {
+    "last_sent": "2026-09-10T04:16:16.659532",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ideas@toyota.ventures": {
+    "last_sent": "2026-09-10T04:16:27.686929",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vigneshvar@innovencapital.com": {
+    "last_sent": "2026-09-10T04:16:40.605907",
+    "seq": 1,
+    "status": "sent"
+  },
+  "reski.marampa@prasetia.co.id": {
+    "last_sent": "2026-09-10T04:16:52.655476",
+    "seq": 1,
+    "status": "sent"
+  },
+  "travis@obran.coop": {
+    "last_sent": "2026-09-10T04:17:04.125511",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deeps@samadhiventures.vc": {
+    "last_sent": "2026-09-10T04:17:14.170187",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deepankur@rukamcapital.com": {
+    "last_sent": "2026-09-10T04:17:26.688553",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aktsa@sif.vc": {
+    "last_sent": "2026-09-10T04:17:38.166088",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tamilanban.sivapragasam@strides.com": {
+    "last_sent": "2026-09-10T04:17:48.573765",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cgtilaye@mukand.com": {
+    "last_sent": "2026-09-10T04:18:01.258269",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mariette.oudin@se.com": {
+    "last_sent": "2026-09-10T04:18:13.900747",
+    "seq": 1,
+    "status": "sent"
+  },
+  "presbrok@indiainfoline.com": {
+    "last_sent": "2026-09-10T04:18:35.934149",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rob@agfunder.com": {
+    "last_sent": "2026-09-10T04:19:19.662125",
+    "seq": 1,
+    "status": "sent"
+  },
+  "paulfa@etoro.com": {
+    "last_sent": "2026-09-10T04:19:29.469381",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mpb@blacksoil.co.in": {
+    "last_sent": "2026-09-10T04:19:42.060526",
+    "seq": 1,
+    "status": "sent"
+  },
+  "younus.iftekhar@equiruswealth.com": {
+    "last_sent": "2026-09-10T04:19:55.594571",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sdevine@rptc-inc.com": {
+    "last_sent": "2026-09-10T04:20:08.261262",
+    "seq": 1,
+    "status": "sent"
+  },
+  "saksham.p@rapido.bike": {
+    "last_sent": "2026-09-10T04:20:18.855496",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sasaki@garage.co.jp": {
+    "last_sent": "2026-09-10T04:20:29.021854",
+    "seq": 1,
+    "status": "sent"
+  },
+  "last@kkfund.co": {
+    "last_sent": "2026-09-10T04:20:39.636457",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marion.araque@kaporcapital.com": {
+    "last_sent": "2026-09-10T04:20:53.099497",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rikesh.gandecha@centricus.com": {
+    "last_sent": "2026-09-10T04:21:02.726617",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jmattox@capricornllc.com": {
+    "last_sent": "2026-09-10T04:21:15.378232",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mthakur@advpartners.com": {
+    "last_sent": "2026-09-10T04:21:39.426575",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dennis.colon@jiffy.ai": {
+    "last_sent": "2026-09-10T04:22:19.041601",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mark@artesianinvest.com": {
+    "last_sent": "2026-09-10T04:22:31.073368",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mikeri@aramex.com": {
+    "last_sent": "2026-09-10T04:22:42.656571",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prashant.sharma@motilaloswal.com": {
+    "last_sent": "2026-09-10T04:22:55.746248",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sunay.gupta@sagana.com": {
+    "last_sent": "2026-09-10T04:23:07.579551",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jennifer_laue@straydogcapital.com": {
+    "last_sent": "2026-09-10T04:23:19.765299",
+    "seq": 1,
+    "status": "sent"
+  },
+  "scott@bvp.com": {
+    "last_sent": "2026-09-10T04:23:33.637539",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eduardo.velasco@lcatterton.com": {
+    "last_sent": "2026-09-10T04:23:45.630390",
+    "seq": 1,
+    "status": "sent"
+  },
+  "croberts@breyercapital.com": {
+    "last_sent": "2026-09-10T04:23:56.420797",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rohit@mapegroup.com": {
+    "last_sent": "2026-09-10T04:24:07.130939",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sqallim@spotangels.com": {
+    "last_sent": "2026-09-10T04:24:17.177827",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ggran@mayfield.com": {
+    "last_sent": "2026-09-10T04:24:38.327388",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shiva.krishnamurthy@unilever.com": {
+    "last_sent": "2026-09-10T04:24:59.290055",
+    "seq": 1,
+    "status": "sent"
+  },
+  "janardhan.n@zubaircorp.com": {
+    "last_sent": "2026-09-10T04:25:22.704717",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m2@2m.com": {
+    "last_sent": "2026-09-10T04:25:35.253314",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hello@ziggcap.com": {
+    "last_sent": "2026-09-10T04:25:48.190043",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mathew.vaidyan@waterfieldadvisors.com": {
+    "last_sent": "2026-09-10T04:26:00.148381",
+    "seq": 1,
+    "status": "sent"
+  },
+  "msantos@mayfield.com": {
+    "last_sent": "2026-09-10T04:26:11.703485",
+    "seq": 1,
+    "status": "sent"
+  },
+  "suraj.ramchandani@venturecatalysts.in": {
+    "last_sent": "2026-09-10T04:26:22.657116",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ajay.pathak@leena.ai": {
+    "last_sent": "2026-09-10T04:26:35.548533",
+    "seq": 1,
+    "status": "sent"
+  },
+  "boardcell@sebi.gov.in": {
+    "last_sent": "2026-09-10T04:26:46.666623",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.eleraki@al-majid.com": {
+    "last_sent": "2026-09-10T04:26:56.501198",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dodla.swapna@gmail.com": {
+    "last_sent": "2026-09-10T04:27:09.892104",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sjain@unituscapital.com": {
+    "last_sent": "2026-09-10T04:27:22.184460",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ncd@smccapitals.com": {
+    "last_sent": "2026-09-10T04:27:45.098780",
+    "seq": 1,
+    "status": "sent"
+  },
+  "reshmi@vedacorp.com": {
+    "last_sent": "2026-09-10T04:28:09.258057",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alessandro.casartelli@gpbullhound.com": {
+    "last_sent": "2026-09-10T04:28:29.343914",
+    "seq": 1,
+    "status": "sent"
+  },
+  "investments@kohliventures.com": {
+    "last_sent": "2026-09-10T04:28:41.038822",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jasper@bitkraft.vc": {
+    "last_sent": "2026-09-10T04:28:53.299264",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nitheesh.m@jiffy.ai": {
+    "last_sent": "2026-09-10T04:29:03.682997",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dmartens@cmt.digital": {
+    "last_sent": "2026-09-10T04:29:15.896685",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lcasper@adventinternational.com": {
+    "last_sent": "2026-09-10T04:29:27.273210",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sai.araveti@sig.com": {
+    "last_sent": "2026-09-10T04:29:40.475022",
+    "seq": 1,
+    "status": "sent"
+  },
+  "oalmendarez@greycroft.com": {
+    "last_sent": "2026-09-10T04:29:50.724702",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bandar.altunisi@outlierventures.io": {
+    "last_sent": "2026-09-10T04:30:03.990533",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vikash.jalan@alfuttaim.com": {
+    "last_sent": "2026-09-10T04:30:14.615975",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jerome@primevp.in": {
+    "last_sent": "2026-09-10T04:30:28.392158",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shelbi.sturgess@emersoncollective.com": {
+    "last_sent": "2026-09-10T04:30:51.648625",
+    "seq": 1,
+    "status": "sent"
+  },
+  "daniel@goldrockcap.com": {
+    "last_sent": "2026-09-10T04:31:15.944524",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@cargill.co.in": {
+    "last_sent": "2026-09-10T04:31:40.801973",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kaushik.mukherjee@rpsg.in": {
+    "last_sent": "2026-09-10T04:31:54.222787",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ben@lererhippeau.com": {
+    "last_sent": "2026-09-10T04:32:06.838493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "chandni.bose@mathco.com": {
+    "last_sent": "2026-09-10T04:32:19.171354",
+    "seq": 1,
+    "status": "sent"
+  },
+  "namit.sahay@pantomathgroup.com": {
+    "last_sent": "2026-09-10T04:32:31.914298",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john@abc.xyz": {
+    "last_sent": "2026-09-10T04:32:45.485994",
+    "seq": 1,
+    "status": "sent"
+  },
+  "marius@quantstamp.com": {
+    "last_sent": "2026-09-10T04:32:58.289607",
+    "seq": 1,
+    "status": "sent"
+  },
+  "team@gsfindia.com": {
+    "last_sent": "2026-09-10T04:33:12.010039",
+    "seq": 1,
+    "status": "sent"
+  },
+  "robert@qimingvc.com": {
+    "last_sent": "2026-09-10T04:33:22.988283",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eshaashua@wolfsongroupinc.com": {
+    "last_sent": "2026-09-10T04:33:34.748565",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@drakestar.com": {
+    "last_sent": "2026-09-10T04:33:46.467104",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anirudh.mandhana@niifindia.in": {
+    "last_sent": "2026-09-10T04:34:11.779102",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bniccol@starbucks.com": {
+    "last_sent": "2026-09-10T04:34:37.318023",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sandeep.pandey@sbipensionfunds.com": {
+    "last_sent": "2026-09-10T04:35:00.298687",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eric.hurckes@guggenheimpartners.com": {
+    "last_sent": "2026-09-10T04:35:11.897066",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jchavis@ark-invest.com": {
+    "last_sent": "2026-09-10T04:35:21.771728",
+    "seq": 1,
+    "status": "sent"
+  },
+  "amit.bhatia@swordfishinvestments.com": {
+    "last_sent": "2026-09-10T04:35:35.132747",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mischa.krause@carlsquare.com": {
+    "last_sent": "2026-09-10T04:35:49.279633",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jkearns@familyoffice.com": {
+    "last_sent": "2026-09-10T04:36:03.050102",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sanchita.mukherjee@peakxv.com": {
+    "last_sent": "2026-09-10T04:36:15.049528",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mcupta@preludeventures.com": {
+    "last_sent": "2026-09-10T04:36:27.268857",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jim@jhuntholdings.com": {
+    "last_sent": "2026-09-10T04:36:37.392583",
+    "seq": 1,
+    "status": "sent"
+  },
+  "maria.natashia@prasetia.co.id": {
+    "last_sent": "2026-09-10T04:36:50.133843",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kramani@mayfield.com": {
+    "last_sent": "2026-09-10T04:37:03.146233",
+    "seq": 1,
+    "status": "sent"
+  },
+  "facebook-careers@alfardan.com.qa": {
+    "last_sent": "2026-09-10T04:37:26.127505",
+    "seq": 1,
+    "status": "sent"
+  },
+  "manish.kanojia@abakkusinvest.com": {
+    "last_sent": "2026-09-10T04:37:47.961707",
+    "seq": 1,
+    "status": "sent"
+  },
+  "query@motilaloswal.com": {
+    "last_sent": "2026-09-10T04:38:08.467690",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shilpa.sangameswaran@biocon.com": {
+    "last_sent": "2026-09-10T04:38:19.356243",
+    "seq": 1,
+    "status": "sent"
+  },
+  "smita@rtp.vc": {
+    "last_sent": "2026-09-10T04:38:30.500906",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gantavya@socialalpha.org": {
+    "last_sent": "2026-09-10T04:38:43.590037",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kush3007@gmail.com": {
+    "last_sent": "2026-09-10T04:38:56.918246",
+    "seq": 1,
+    "status": "sent"
+  },
+  "reed@powder.gg": {
+    "last_sent": "2026-09-10T04:39:09.799915",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bhaskarbhat@outlook.in": {
+    "last_sent": "2026-09-10T04:39:20.350631",
+    "seq": 1,
+    "status": "sent"
+  },
+  "priyanka.goyal@kotak.com": {
+    "last_sent": "2026-09-10T04:39:31.670978",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ongseiwei@gic.com.sg": {
+    "last_sent": "2026-09-10T04:39:42.457801",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lijunzhu@joycapital.com.cn": {
+    "last_sent": "2026-09-10T04:39:54.091687",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.armstrong@skadden.com": {
+    "last_sent": "2026-09-10T04:40:06.644718",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.osterdahl@antler.co": {
+    "last_sent": "2026-09-10T04:40:31.354863",
+    "seq": 1,
+    "status": "sent"
+  },
+  "siddharth@venturecatalysts.in": {
+    "last_sent": "2026-09-10T04:40:53.161779",
+    "seq": 1,
+    "status": "sent"
+  },
+  "martina.hodges@bailliegifford.com": {
+    "last_sent": "2026-09-10T04:41:15.039600",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rajan@alsayergroup.com": {
+    "last_sent": "2026-09-10T04:41:27.602160",
+    "seq": 1,
+    "status": "sent"
+  },
+  "michael.riggs@fidelity.com": {
+    "last_sent": "2026-09-10T04:41:39.468167",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m.constantinou@charalambideschristis.com.cy": {
+    "last_sent": "2026-09-10T04:41:52.473542",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaspriya.kaur@peakxv.com": {
+    "last_sent": "2026-09-10T04:42:05.765566",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jessy.tapper@chicagobooth.edu": {
+    "last_sent": "2026-09-10T04:42:19.096849",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pradeep@almullagroup.com": {
+    "last_sent": "2026-09-10T04:42:30.360615",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jaideep@venturehighway.vc": {
+    "last_sent": "2026-09-10T04:42:40.962919",
+    "seq": 1,
+    "status": "sent"
+  },
+  "openings@motherson.com": {
+    "last_sent": "2026-09-10T04:42:53.803120",
+    "seq": 1,
+    "status": "sent"
+  },
+  "burhan@almullagroup.com": {
+    "last_sent": "2026-09-10T04:43:04.074179",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@unilazer.com": {
+    "last_sent": "2026-09-10T04:43:17.255216",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stephen.everett@fidelity.com": {
+    "last_sent": "2026-09-10T04:44:04.096968",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rpatel@baroncapitalgroup.com": {
+    "last_sent": "2026-09-10T04:44:28.575171",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ashish@mfvpartners.com": {
+    "last_sent": "2026-09-10T04:44:39.012154",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sgdandekar@voltas.com": {
+    "last_sent": "2026-09-10T04:44:49.195660",
+    "seq": 1,
+    "status": "sent"
+  },
+  "d.j@majidalfuttaim.com": {
+    "last_sent": "2026-09-10T04:45:01.431551",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shruti@premjiinvest.com": {
+    "last_sent": "2026-09-10T04:45:12.368441",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zhangyiming@bytedance.com": {
+    "last_sent": "2026-09-10T04:45:25.478582",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stephen@sosv.com": {
+    "last_sent": "2026-09-10T04:45:37.557967",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vpapacharalampous@targetglobal.vc": {
+    "last_sent": "2026-09-10T04:45:49.733874",
+    "seq": 1,
+    "status": "sent"
+  },
+  "manishagrawal@act.is": {
+    "last_sent": "2026-09-10T04:46:02.013954",
+    "seq": 1,
+    "status": "sent"
+  },
+  "zairik@anthillventures.com": {
+    "last_sent": "2026-09-10T04:46:15.219756",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rbhatia@moussepartners.com": {
+    "last_sent": "2026-09-10T04:46:25.815741",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mfernandes@nea.com": {
+    "last_sent": "2026-09-10T04:46:48.784134",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deven@primevp.in": {
+    "last_sent": "2026-09-10T04:47:11.529768",
+    "seq": 1,
+    "status": "sent"
+  },
+  "agoswami@sbivencapital.com.sg": {
+    "last_sent": "2026-09-10T04:47:34.159391",
+    "seq": 1,
+    "status": "sent"
+  },
+  "contact@innovencapital.com": {
+    "last_sent": "2026-09-10T04:47:43.956004",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stephanieww@etoro.com": {
+    "last_sent": "2026-09-10T04:47:57.368743",
+    "seq": 1,
+    "status": "sent"
+  },
+  "milan@piventures.in": {
+    "last_sent": "2026-09-10T04:48:08.892568",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pooja@singhi.com": {
+    "last_sent": "2026-09-10T04:48:19.699372",
+    "seq": 1,
+    "status": "sent"
+  },
+  "madhuj67@gmail.com": {
+    "last_sent": "2026-09-10T04:48:30.363961",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sunando.mukherjee@niifindia.in": {
+    "last_sent": "2026-09-10T04:48:43.359493",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kunwar.pal@srf.com": {
+    "last_sent": "2026-09-10T04:48:54.338575",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kathy@oakgrove.vc": {
+    "last_sent": "2026-09-10T04:49:05.469080",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kelsey@doordash.com": {
+    "last_sent": "2026-09-10T04:49:16.454934",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nakkul@merakventures.com": {
+    "last_sent": "2026-09-10T04:49:28.941023",
+    "seq": 1,
+    "status": "sent"
+  },
+  "h_a@weforum.org": {
+    "last_sent": "2026-09-10T04:49:53.293649",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stefan@b-t.energy": {
+    "last_sent": "2026-09-10T04:50:13.842422",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fotisp@gmail.com": {
+    "last_sent": "2026-09-10T04:50:37.902490",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nramachandran@unituscapital.com": {
+    "last_sent": "2026-09-10T04:50:50.415084",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kate.comben@instagram.com": {
+    "last_sent": "2026-09-10T04:51:00.573401",
+    "seq": 1,
+    "status": "sent"
+  },
+  "angelie@artesianinvest.com": {
+    "last_sent": "2026-09-10T04:51:24.923432",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dir@suhailbahwangroup.com": {
+    "last_sent": "2026-09-10T04:51:37.686445",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fredal@muthootfinance.com": {
+    "last_sent": "2026-09-10T04:51:50.118959",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mehdi.messaoudi@alpheya.com": {
+    "last_sent": "2026-09-10T04:52:01.963922",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jgordy@pritzkergroup.com": {
+    "last_sent": "2026-09-10T04:52:11.967018",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vatsala.khurana@trmg.in": {
+    "last_sent": "2026-09-10T04:52:23.324343",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anjaly.simon@jiffy.ai": {
+    "last_sent": "2026-09-10T04:52:34.929018",
+    "seq": 1,
+    "status": "sent"
+  },
+  "contact@adq.ae": {
+    "last_sent": "2026-09-10T04:52:56.496910",
+    "seq": 1,
+    "status": "sent"
+  },
+  "martin@a16z.com": {
+    "last_sent": "2026-09-10T04:53:18.407031",
+    "seq": 1,
+    "status": "sent"
+  },
+  "careers@quantstamp.com": {
+    "last_sent": "2026-09-10T04:53:41.864635",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pranay.jain@avendus.com": {
+    "last_sent": "2026-09-10T04:53:51.410539",
+    "seq": 1,
+    "status": "sent"
+  },
+  "halil.emecen@centricus.com": {
+    "last_sent": "2026-09-10T04:54:04.084541",
+    "seq": 1,
+    "status": "sent"
+  },
+  "david.cleary@abc.xyz": {
+    "last_sent": "2026-09-10T04:54:17.722445",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arokiaswamy.selvaraj@kanoo.com": {
+    "last_sent": "2026-09-10T04:54:29.339526",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.uca@almanagroup.com": {
+    "last_sent": "2026-09-10T04:54:43.138748",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nhegde@whealthventures.com": {
+    "last_sent": "2026-09-10T04:54:56.430470",
+    "seq": 1,
+    "status": "sent"
+  },
+  "johnson@sif.vc": {
+    "last_sent": "2026-09-10T04:55:10.584314",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mivesic@skoll.org": {
+    "last_sent": "2026-09-10T04:55:20.422994",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ketan@suhailbahwangroup.com": {
+    "last_sent": "2026-09-10T04:55:32.915253",
+    "seq": 1,
+    "status": "sent"
+  },
+  "stacey@jimrogers.com": {
+    "last_sent": "2026-09-10T04:55:43.576903",
+    "seq": 1,
+    "status": "sent"
+  },
+  "robertralf@newpointbrokers.com": {
+    "last_sent": "2026-09-10T04:56:07.967928",
+    "seq": 1,
+    "status": "sent"
+  },
+  "invest@growx.vc": {
+    "last_sent": "2026-09-10T04:56:21.595357",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shivam@angellistindia.com": {
+    "last_sent": "2026-09-10T04:56:34.921497",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sumit@subhkam.com": {
+    "last_sent": "2026-09-10T04:56:57.158132",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vinod-murali@innovencapital.com": {
+    "last_sent": "2026-09-10T04:57:08.438657",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rony.saha@alkemivp.com": {
+    "last_sent": "2026-09-10T04:57:20.530472",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yash@openwatervc.com": {
+    "last_sent": "2026-09-10T04:57:32.885154",
+    "seq": 1,
+    "status": "sent"
+  },
+  "last@svangel.com": {
+    "last_sent": "2026-09-10T04:57:45.442165",
+    "seq": 1,
+    "status": "sent"
+  },
+  "felix.pappachan@kanoo.com": {
+    "last_sent": "2026-09-10T04:57:57.435337",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vineet.jain@360.one": {
+    "last_sent": "2026-09-10T04:58:08.761547",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rohit.nag@motilaloswal.com": {
+    "last_sent": "2026-09-10T04:58:20.700509",
+    "seq": 1,
+    "status": "sent"
+  },
+  "t.munton@taqa.com": {
+    "last_sent": "2026-09-10T04:58:30.848269",
+    "seq": 1,
+    "status": "sent"
+  },
+  "myemailaddress@abc.xyz": {
+    "last_sent": "2026-09-10T04:58:41.807004",
+    "seq": 1,
+    "status": "sent"
+  },
+  "davidsacks@craftventures.com": {
+    "last_sent": "2026-09-10T04:58:52.434884",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ravi.santhanam@hdfcbank.com": {
+    "last_sent": "2026-09-10T04:59:15.643441",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dave@ziggcap.com": {
+    "last_sent": "2026-09-10T04:59:28.987893",
+    "seq": 1,
+    "status": "sent"
+  },
+  "preston@doordash.com": {
+    "last_sent": "2026-09-10T04:59:41.310398",
+    "seq": 1,
+    "status": "sent"
+  },
+  "continuity@ycombinator.com": {
+    "last_sent": "2026-09-10T05:00:01.982553",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shailjaraina@chokola.in": {
+    "last_sent": "2026-09-10T05:00:12.148323",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dynamism@a16z.com": {
+    "last_sent": "2026-09-10T05:00:25.656340",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vaibhav.a@sparkcapital.in": {
+    "last_sent": "2026-09-10T05:00:38.562458",
+    "seq": 1,
+    "status": "sent"
+  },
+  "vijay@vedacorp.com": {
+    "last_sent": "2026-09-10T05:00:51.722834",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sujaya.jacob@ondc.org": {
+    "last_sent": "2026-09-10T05:01:04.477586",
+    "seq": 1,
+    "status": "sent"
+  },
+  "birbal@baksh.sg": {
+    "last_sent": "2026-09-10T05:01:16.624363",
+    "seq": 1,
+    "status": "sent"
+  },
+  "havell@newmajoritycapital.com": {
+    "last_sent": "2026-09-10T05:01:29.540814",
+    "seq": 1,
+    "status": "sent"
+  },
+  "anna@bluehorizon.com": {
+    "last_sent": "2026-09-10T05:01:42.431303",
+    "seq": 1,
+    "status": "sent"
+  },
+  "munfoong.hew@tranglo.com": {
+    "last_sent": "2026-09-10T05:01:55.399228",
+    "seq": 1,
+    "status": "sent"
+  },
+  "customerservice@dbs.com": {
+    "last_sent": "2026-09-10T05:02:08.490936",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sarfaraz.nawaz@abakkusinvest.com": {
+    "last_sent": "2026-09-10T05:02:29.626678",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tejas.naik@indiainfoline.com": {
+    "last_sent": "2026-09-10T05:02:52.469363",
+    "seq": 1,
+    "status": "sent"
+  },
+  "deals@amarapt.com": {
+    "last_sent": "2026-09-10T05:03:13.191143",
+    "seq": 1,
+    "status": "sent"
+  },
+  "karen@dfj.com": {
+    "last_sent": "2026-09-10T05:03:25.690380",
+    "seq": 1,
+    "status": "sent"
+  },
+  "cgirgenti@pritzkergroup.com": {
+    "last_sent": "2026-09-10T05:03:39.238548",
+    "seq": 1,
+    "status": "sent"
+  },
+  "poiesz@energyimpactpartners.com": {
+    "last_sent": "2026-09-10T05:03:50.965981",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@burmanfamilyoffice.com": {
+    "last_sent": "2026-09-10T05:04:04.122508",
+    "seq": 1,
+    "status": "sent"
+  },
+  "yagneshsanghrajka@gmail.com": {
+    "last_sent": "2026-09-10T05:04:18.001423",
+    "seq": 1,
+    "status": "sent"
+  },
+  "m.dalic@podravka.hr": {
+    "last_sent": "2026-09-10T05:04:30.728073",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeffrey.ds@enharmonicenc.com": {
+    "last_sent": "2026-09-10T05:04:44.500923",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pulkit@socialalpha.org": {
+    "last_sent": "2026-09-10T05:04:56.748429",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dunlop.aaron@acppartners.com": {
+    "last_sent": "2026-09-10T05:05:07.927848",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aalshabat@taqa.com": {
+    "last_sent": "2026-09-10T05:05:21.730768",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raju@redchillies.com": {
+    "last_sent": "2026-09-10T05:05:42.496292",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ritesh.chandra@avendus.com": {
+    "last_sent": "2026-09-10T05:06:06.293305",
+    "seq": 1,
+    "status": "sent"
+  },
+  "viridiana@emersoncollective.com": {
+    "last_sent": "2026-09-10T05:06:31.569349",
+    "seq": 1,
+    "status": "sent"
+  },
+  "teecellc@gmail.com": {
+    "last_sent": "2026-09-10T05:06:43.210369",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bucky.moore@kleinerperkins.com": {
+    "last_sent": "2026-09-10T05:06:54.301796",
+    "seq": 1,
+    "status": "sent"
+  },
+  "dany@becocapital.com": {
+    "last_sent": "2026-09-10T05:07:16.324653",
+    "seq": 1,
+    "status": "sent"
+  },
+  "sagiyama@beyondnextventures.com": {
+    "last_sent": "2026-09-10T05:07:28.873945",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jeevan.rajan@fakhro.com": {
+    "last_sent": "2026-09-10T05:07:41.954574",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bchee@polarispartners.com": {
+    "last_sent": "2026-09-10T05:07:56.816367",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mike@qedinvestors.com": {
+    "last_sent": "2026-09-10T05:08:07.598723",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jean.stoffel@borlettigroup.com": {
+    "last_sent": "2026-09-10T05:08:18.460240",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kbrown@500.co": {
+    "last_sent": "2026-09-10T05:08:32.011242",
+    "seq": 1,
+    "status": "sent"
+  },
+  "patipol.vorasanon@bualuangventures.com": {
+    "last_sent": "2026-09-10T05:09:08.932955",
+    "seq": 1,
+    "status": "sent"
+  },
+  "doug.greenstein@troweprice.com": {
+    "last_sent": "2026-09-10T05:09:29.622067",
+    "seq": 1,
+    "status": "sent"
+  },
+  "juned.desai@ajlanbros-holding.com": {
+    "last_sent": "2026-09-10T05:09:51.582608",
+    "seq": 1,
+    "status": "sent"
+  },
+  "prince@walmart.com": {
+    "last_sent": "2026-09-10T05:10:04.947141",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rchristensen@nufarm.com": {
+    "last_sent": "2026-09-10T05:10:18.072266",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kaushik.guhathakurta@resurgentindia.com": {
+    "last_sent": "2026-09-10T05:10:31.570299",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@firstcheque.vc": {
+    "last_sent": "2026-09-10T05:10:41.426225",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ravisankar.k@suhailbahwangroup.com": {
+    "last_sent": "2026-09-10T05:10:53.465745",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shantimohan@letsventure.com": {
+    "last_sent": "2026-09-10T05:11:07.426858",
+    "seq": 1,
+    "status": "sent"
+  },
+  "catherine@angellist.com": {
+    "last_sent": "2026-09-10T05:11:19.313537",
+    "seq": 1,
+    "status": "sent"
+  },
+  "first@hedgewood.com": {
+    "last_sent": "2026-09-10T05:11:32.776161",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@nrupsconsultant.com": {
+    "last_sent": "2026-09-10T05:11:44.648392",
+    "seq": 1,
+    "status": "sent"
+  },
+  "manaswini@socialalpha.org": {
+    "last_sent": "2026-09-10T05:11:56.529531",
+    "seq": 1,
+    "status": "sent"
+  },
+  "aramsey@adventinternational.com": {
+    "last_sent": "2026-09-10T05:12:22.615333",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ca.svjain@gmail.com": {
+    "last_sent": "2026-09-10T05:13:07.555289",
+    "seq": 1,
+    "status": "sent"
+  },
+  "daniel_rosello@woodbridgegroup.com": {
+    "last_sent": "2026-09-10T05:13:19.904045",
+    "seq": 1,
+    "status": "sent"
+  },
+  "roda.waruinge@abuissa.com": {
+    "last_sent": "2026-09-10T05:13:32.792574",
+    "seq": 1,
+    "status": "sent"
+  },
+  "r.montay@fordfoundation.org": {
+    "last_sent": "2026-09-10T05:13:43.349804",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ceo@sidbiventure.co.in": {
+    "last_sent": "2026-09-10T05:14:04.280470",
+    "seq": 1,
+    "status": "sent"
+  },
+  "francis@contrary.com": {
+    "last_sent": "2026-09-10T05:14:15.602842",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pia.delima@vaiuglobal.com": {
+    "last_sent": "2026-09-10T05:14:29.116960",
+    "seq": 1,
+    "status": "sent"
+  },
+  "joewilliams@waltonfamilyfoundation.org": {
+    "last_sent": "2026-09-10T05:14:41.692895",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arthur.sung@moorecap.com": {
+    "last_sent": "2026-09-10T05:14:54.057086",
+    "seq": 1,
+    "status": "sent"
+  },
+  "noel.tata@itd.tatasteel.com": {
+    "last_sent": "2026-09-10T05:15:07.183474",
+    "seq": 1,
+    "status": "sent"
+  },
+  "bmarcus@dasandco.com": {
+    "last_sent": "2026-09-10T05:15:31.584691",
+    "seq": 1,
+    "status": "sent"
+  },
+  "kimberly.shin@fsg.org": {
+    "last_sent": "2026-09-10T05:15:53.803815",
+    "seq": 1,
+    "status": "sent"
+  },
+  "gensets@masaood.com": {
+    "last_sent": "2026-09-10T05:16:14.248222",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.aa@almanagroup.com": {
+    "last_sent": "2026-09-10T05:16:27.201471",
+    "seq": 1,
+    "status": "sent"
+  },
+  "jcarlson@pritzkergroup.com": {
+    "last_sent": "2026-09-10T05:16:39.916265",
+    "seq": 1,
+    "status": "sent"
+  },
+  "acracco@clairfield.com": {
+    "last_sent": "2026-09-10T05:16:51.346498",
+    "seq": 1,
+    "status": "sent"
+  },
+  "carley.phillips@greycroft.com": {
+    "last_sent": "2026-09-10T05:17:04.439501",
+    "seq": 1,
+    "status": "sent"
+  },
+  "john.garrison@neuron7.ai": {
+    "last_sent": "2026-09-10T05:17:17.249789",
+    "seq": 1,
+    "status": "sent"
+  },
+  "apoorvn@observe.ai": {
+    "last_sent": "2026-09-10T05:17:30.843539",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ravi_parmeshwar@cargill.co.in": {
+    "last_sent": "2026-09-10T05:17:43.394971",
+    "seq": 1,
+    "status": "sent"
+  },
+  "matthew@artesianinvest.com": {
+    "last_sent": "2026-09-10T05:17:54.045170",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mantovani@cocircular.com.br": {
+    "last_sent": "2026-09-10T05:18:06.002058",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ecm@smccapitals.com": {
+    "last_sent": "2026-09-10T05:18:20.163928",
+    "seq": 1,
+    "status": "sent"
+  },
+  "lynn_mytelka@c-ventures.nl": {
+    "last_sent": "2026-09-10T05:18:44.399939",
+    "seq": 1,
+    "status": "sent"
+  },
+  "raj.menda@rmz.com": {
+    "last_sent": "2026-09-10T05:19:08.707567",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ed.wholesalebanking@hdfcbank.com": {
+    "last_sent": "2026-09-10T05:19:33.916092",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eda.lee@bezosearthfund.org": {
+    "last_sent": "2026-09-10T05:19:43.913958",
+    "seq": 1,
+    "status": "sent"
+  },
+  "fuad.sharaf@maf.ae": {
+    "last_sent": "2026-09-10T05:19:55.577906",
+    "seq": 1,
+    "status": "sent"
+  },
+  "abobarykin@baroncapitalgroup.com": {
+    "last_sent": "2026-09-10T05:20:08.237520",
+    "seq": 1,
+    "status": "sent"
+  },
+  "akila@sarvam.ai": {
+    "last_sent": "2026-09-10T05:20:32.305559",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alex@flintcap.com": {
+    "last_sent": "2026-09-10T05:20:45.438335",
+    "seq": 1,
+    "status": "sent"
+  },
+  "easymoneysniper@gmail.com": {
+    "last_sent": "2026-09-10T05:20:57.765075",
+    "seq": 1,
+    "status": "sent"
+  },
+  "markus@antler.co": {
+    "last_sent": "2026-09-10T05:21:10.155552",
+    "seq": 1,
+    "status": "sent"
+  },
+  "contact@piventures.in": {
+    "last_sent": "2026-09-10T05:21:23.679130",
+    "seq": 1,
+    "status": "sent"
+  },
+  "tom.w@10xvp.com": {
+    "last_sent": "2026-09-10T05:21:34.297164",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@invideo.io": {
+    "last_sent": "2026-09-10T05:21:57.150901",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shahirs@aramex.com": {
+    "last_sent": "2026-09-10T05:22:19.933800",
+    "seq": 1,
+    "status": "sent"
+  },
+  "james.mellors@blackrock.com": {
+    "last_sent": "2026-09-10T05:22:44.747489",
+    "seq": 1,
+    "status": "sent"
+  },
+  "wbfund@sidbiventure.co.in": {
+    "last_sent": "2026-09-10T05:22:57.785811",
+    "seq": 1,
+    "status": "sent"
+  },
+  "arnav.tainwala@tainwala.in": {
+    "last_sent": "2026-09-10T05:23:10.656913",
+    "seq": 1,
+    "status": "sent"
+  },
+  "8013712345jsbindra@motherson.com": {
+    "last_sent": "2026-09-10T05:23:23.550546",
+    "seq": 1,
+    "status": "sent"
+  },
+  "csd@taqa.com": {
+    "last_sent": "2026-09-10T05:23:33.646715",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ishaan.vermani@climecap.com": {
+    "last_sent": "2026-09-10T05:23:45.948624",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rbakhrji@therig.sa": {
+    "last_sent": "2026-09-10T05:23:58.294593",
+    "seq": 1,
+    "status": "sent"
+  },
+  "thomas@rtp.vc": {
+    "last_sent": "2026-09-10T05:24:11.837369",
+    "seq": 1,
+    "status": "sent"
+  },
+  "asset_management@blueridgecapital.com": {
+    "last_sent": "2026-09-10T05:24:24.136185",
+    "seq": 1,
+    "status": "sent"
+  },
+  "eweinstein@thielcapital.com": {
+    "last_sent": "2026-09-10T05:24:36.550436",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mikhail@altair.vc": {
+    "last_sent": "2026-09-10T05:24:50.521508",
+    "seq": 1,
+    "status": "sent"
+  },
+  "hr.vfx@redchillies.com": {
+    "last_sent": "2026-09-10T05:25:12.414744",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mumbai@equirus.com": {
+    "last_sent": "2026-09-10T05:25:35.527809",
+    "seq": 1,
+    "status": "sent"
+  },
+  "alan@greycroft.com": {
+    "last_sent": "2026-09-10T05:25:58.766905",
+    "seq": 1,
+    "status": "sent"
+  },
+  "smclaughry@polarispartners.com": {
+    "last_sent": "2026-09-10T05:26:10.537934",
+    "seq": 1,
+    "status": "sent"
+  },
+  "admin@fakhro.com": {
+    "last_sent": "2026-09-10T05:26:22.944271",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mjacobson@polarispartners.com": {
+    "last_sent": "2026-09-10T05:26:33.823125",
+    "seq": 1,
+    "status": "sent"
+  },
+  "xavier.arputharaj@alfuttaim.com": {
+    "last_sent": "2026-09-10T05:26:45.243900",
+    "seq": 1,
+    "status": "sent"
+  },
+  "team301@genmills.com": {
+    "last_sent": "2026-09-10T05:26:57.811555",
+    "seq": 1,
+    "status": "sent"
+  },
+  "francis.moore@moorefamilyofficegroup.com": {
+    "last_sent": "2026-09-10T05:27:10.451950",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info.asteel@almanagroup.com": {
+    "last_sent": "2026-09-10T05:27:20.398382",
+    "seq": 1,
+    "status": "sent"
+  },
+  "secretarysdept@rbi.org.in": {
+    "last_sent": "2026-09-10T05:27:31.177591",
+    "seq": 1,
+    "status": "sent"
+  },
+  "info@tcifund.com": {
+    "last_sent": "2026-09-10T05:27:44.593328",
+    "seq": 1,
+    "status": "sent"
+  },
+  "a.alakel@rcu.gov.sa": {
+    "last_sent": "2026-09-10T05:27:56.380402",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rufino.bautista@abuissa.com": {
+    "last_sent": "2026-09-10T05:28:20.941233",
+    "seq": 1,
+    "status": "sent"
+  },
+  "mark@craftventures.com": {
+    "last_sent": "2026-09-10T05:28:42.430016",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ayumu_kobayashi@reazon.jp": {
+    "last_sent": "2026-09-10T05:29:03.400518",
+    "seq": 1,
+    "status": "sent"
+  },
+  "pim.sewuster@prosus.com": {
+    "last_sent": "2026-09-10T05:29:16.053223",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shayan.rahman@beximco.com": {
+    "last_sent": "2026-09-10T05:29:29.028269",
+    "seq": 1,
+    "status": "sent"
+  },
+  "james@inclusivecapitalism.com": {
+    "last_sent": "2026-09-10T05:29:41.697990",
+    "seq": 1,
+    "status": "sent"
+  },
+  "samperlman@10xvp.com": {
+    "last_sent": "2026-09-10T05:29:52.693815",
+    "seq": 1,
+    "status": "sent"
+  },
+  "knies@valorep.com": {
+    "last_sent": "2026-09-10T05:30:02.435291",
+    "seq": 1,
+    "status": "sent"
+  },
+  "swapnilj@observe.ai": {
+    "last_sent": "2026-09-10T05:30:15.376619",
+    "seq": 1,
+    "status": "sent"
+  },
+  "shubham@rukamcapital.com": {
+    "last_sent": "2026-09-10T05:30:25.208028",
+    "seq": 1,
+    "status": "sent"
+  },
+  "ordering@dominos.co.in": {
+    "last_sent": "2026-09-10T05:30:37.937994",
+    "seq": 1,
+    "status": "sent"
+  },
+  "rahul.kar@suhailbahwangroup.com": {
+    "last_sent": "2026-09-10T05:30:51.570062",
+    "seq": 1,
+    "status": "sent"
+  },
+  "relations@abc.xyz": {
+    "last_sent": "2026-09-10T05:31:05.928182",
+    "seq": 1,
+    "status": "sent"
+  },
+  "nasserwalid@alnowais.com": {
+    "last_sent": "2026-09-10T05:31:29.488395",
     "seq": 1,
     "status": "sent"
   }
