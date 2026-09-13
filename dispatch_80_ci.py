@@ -1481,7 +1481,6 @@ seen = set(sent_history)
 BLACKLIST_DOMAINS = [
     "godrej", "godrejinds", "godrejagrotech", "godrejagrovet", "godrejagro",
     "itc.in", "itcportal",
-    "barilla", "barilla.com",
     "3one4capital", "3one4caoital"
 ]
 
