@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: '30 23 * * *'  # 23:30 UTC = 5:00 AM IST daily
   workflow_dispatch:
-  push:
-    branches: [ master, main ]       # Allows manual click from GitHub Actions UI
 
 jobs:
   dispatch:

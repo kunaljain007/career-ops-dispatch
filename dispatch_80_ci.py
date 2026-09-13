@@ -1620,12 +1620,12 @@ def send_one(smtp_user, smtp_pass, to_addr, item_type="fresh", seq=1):
         html  = build_html_body(name_clean, name_clean, "Your Organization", "Executive Leadership", "global_pe")
 
     msg["Subject"] = sub
-    msg.attach(MIMEText(plain, "plain"))
-    msg.attach(MIMEText(html, "html"))
+    msg.attach(MIMEText(plain, "plain", "utf-8"))
+    msg.attach(MIMEText(html, "html", "utf-8"))
     
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=25) as s:
         s.login(smtp_user, smtp_pass)
-        s.sendmail(smtp_user, [to_addr, CC], msg.as_string())
+        s.send_message(msg)
 
 sent_records = []
 if os.path.exists(LOG_FILE):
