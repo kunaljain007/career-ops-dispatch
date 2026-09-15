@@ -1,0 +1,68 @@
+[
+  {
+    "to": "f\u00e1biobarbosa@natura.net",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T01:59:15.377228"
+  },
+  {
+    "to": "rui.mendon\u00e7a@marfrig.com.br",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T02:03:40.706530"
+  },
+  {
+    "to": "f\u00e1bio_barbosa@natura.net",
+    "from": "techhp.kunaljain@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T02:09:58.017839"
+  },
+  {
+    "to": "f\u00e1bio@natura.net",
+    "from": "kumarpalporwal8@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T02:35:49.279286"
+  },
+  {
+    "to": "rmendon\u00e7a@marfrig.com.br",
+    "from": "founder.parshwapower@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T03:30:52.569159"
+  },
+  {
+    "to": "barbosa.f\u00e1bio@natura.net",
+    "from": "jainakshita876@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T03:46:57.859075"
+  },
+  {
+    "to": "ruimendon\u00e7a@marfrig.com.br",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T04:39:38.563977"
+  },
+  {
+    "to": "f\u00e1bio.barbosa@natura.net",
+    "from": "founder.parshwapower@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T05:03:54.389226"
+  },
+  {
+    "to": "rui_mendon\u00e7a@marfrig.com.br",
+    "from": "kumarpalporwal8@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T05:07:21.442684"
+  },
+  {
+    "to": "r.mendon\u00e7a@marfrig.com.br",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T05:09:08.307084"
+  },
+  {
+    "to": "mendon\u00e7a.rui@marfrig.com.br",
+    "from": "cofounder.heatbolt@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-15T05:29:21.464534"
+  }
+]
