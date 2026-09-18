@@ -1,0 +1,92 @@
+[
+  {
+    "to": "r.mendon\u00e7a@marfrig.com.br",
+    "from": "kumarpalporwal8@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T01:42:23.022233"
+  },
+  {
+    "to": "f\u00e1bio@natura.net",
+    "from": "teambrandvibes@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T01:54:01.227873"
+  },
+  {
+    "to": "fb@natura.net",
+    "from": "techxp.kunaljain@gmail.com",
+    "error": "Connection unexpectedly closed: The read operation timed out",
+    "timestamp": "2026-09-18T02:15:17.021823"
+  },
+  {
+    "to": "info@navitascap.com",
+    "from": "cofounder.heatbolt@gmail.com",
+    "error": "Connection unexpectedly closed: The read operation timed out",
+    "timestamp": "2026-09-18T02:15:54.182188"
+  },
+  {
+    "to": "gadani@adani.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "error": "Connection unexpectedly closed: The read operation timed out",
+    "timestamp": "2026-09-18T02:16:52.478906"
+  },
+  {
+    "to": "kdofueu.img.daten@bmlv.gv.at",
+    "from": "founder.parshwapower@gmail.com",
+    "error": "Connection unexpectedly closed: The read operation timed out",
+    "timestamp": "2026-09-18T02:17:26.651879"
+  },
+  {
+    "to": "mendon\u00e7a.rui@marfrig.com.br",
+    "from": "teambrandvibes@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T02:29:42.757981"
+  },
+  {
+    "to": "f\u00e1bio_barbosa@natura.net",
+    "from": "cofounder.parshwapower@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T02:34:43.362733"
+  },
+  {
+    "to": "rui.mendon\u00e7a@marfrig.com.br",
+    "from": "cofounder.parshwapower@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T02:49:23.790851"
+  },
+  {
+    "to": "ruimendon\u00e7a@marfrig.com.br",
+    "from": "founder.parshwapower@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T03:00:43.009945"
+  },
+  {
+    "to": "f\u00e1bio.barbosa@natura.net",
+    "from": "techxp.kunaljain@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T04:14:44.302957"
+  },
+  {
+    "to": "rmendon\u00e7a@marfrig.com.br",
+    "from": "techhp.kunaljain@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T04:36:03.050103"
+  },
+  {
+    "to": "rui_mendon\u00e7a@marfrig.com.br",
+    "from": "techxp.kunaljain@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T04:40:05.340880"
+  },
+  {
+    "to": "f\u00e1biobarbosa@natura.net",
+    "from": "hydronext6@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T04:59:24.840803"
+  },
+  {
+    "to": "barbosa.f\u00e1bio@natura.net",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "'utf8' is an invalid keyword argument for Compat32",
+    "timestamp": "2026-09-18T05:14:11.339250"
+  }
+]
