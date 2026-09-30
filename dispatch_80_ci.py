@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import json, smtplib, time, os, sys, random, re
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+from email.message import EmailMessage
 from datetime import datetime
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -1601,7 +1600,7 @@ def build_followup_body(name_clean, seq):
     return subj, plain, html
 
 def send_one(smtp_user, smtp_pass, to_addr, item_type="fresh", seq=1):
-    msg = MIMEMultipart("alternative")
+    msg = EmailMessage()
     msg["From"]       = smtp_user
     msg["To"]         = to_addr
     msg["CC"]         = CC
@@ -1619,8 +1618,8 @@ def send_one(smtp_user, smtp_pass, to_addr, item_type="fresh", seq=1):
         html  = build_html_body(name_clean, name_clean, "Your Organization", "Executive Leadership", "global_pe")
 
     msg["Subject"] = sub
-    msg.attach(MIMEText(plain, "plain", "utf-8"))
-    msg.attach(MIMEText(html, "html", "utf-8"))
+    msg.set_content(plain)
+    msg.add_alternative(html, subtype="html")
     
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=25) as s:
         s.login(smtp_user, smtp_pass)
