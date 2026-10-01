@@ -1527,7 +1527,7 @@ for email_addr, f_info in list(followup_tracker.items()):
 
 print(f"Due follow-ups ready: {len(due_followups)}", flush=True)
 
-total_target_cap = MAX_PER_SMTP * len(smtp_pool)
+total_target_cap = sum(acc.get("max", MAX_PER_SMTP) for acc in smtp_pool)
 
 # Reserve up to 20% of daily capacity for due follow-ups, fill the rest with fresh leads
 max_followups_today = min(len(due_followups), int(total_target_cap * 0.20))
@@ -1600,13 +1600,16 @@ def build_followup_body(name_clean, seq):
     return subj, plain, html
 
 def send_one(smtp_user, smtp_pass, to_addr, item_type="fresh", seq=1):
+    import uuid
     msg = EmailMessage()
     msg["From"]       = smtp_user
     msg["To"]         = to_addr
     msg["CC"]         = CC
     msg["Reply-To"]   = REPLY_TO
-    msg["X-Priority"] = "1"
-    msg["Importance"] = "High"
+    # Anti-spam: List-Unsubscribe header (required by Google/Yahoo since Feb 2024)
+    msg["List-Unsubscribe"] = f"<mailto:{REPLY_TO}?subject=unsubscribe>"
+    # Unique Message-ID to prevent duplicate detection
+    msg["Message-ID"] = f"<{uuid.uuid4().hex}@heatbolt.com>"
     
     name_clean = to_addr.split("@")[0].replace(".", " ").replace("_", " ").replace("-", " ").title()
 
@@ -1634,12 +1637,14 @@ if os.path.exists(LOG_FILE):
         sent_records = []
 
 failed_records = []
+# Per-account max: read from pool or default to MAX_PER_SMTP (80)
+smtp_max_caps = [acc.get("max", MAX_PER_SMTP) for acc in smtp_pool]
 smtp_usage = [0] * len(smtp_pool)
 current_smtp_idx = 0
 
 for idx, (item_type, target_email, seq) in enumerate(today_batch, 1):
     tries = 0
-    while smtp_usage[current_smtp_idx] >= MAX_PER_SMTP and tries < len(smtp_pool):
+    while smtp_usage[current_smtp_idx] >= smtp_max_caps[current_smtp_idx] and tries < len(smtp_pool):
         current_smtp_idx = (current_smtp_idx + 1) % len(smtp_pool)
         tries += 1
     
@@ -1667,7 +1672,7 @@ for idx, (item_type, target_email, seq) in enumerate(today_batch, 1):
             "status": "SENT"
         }
         sent_records.append(rec)
-        print(f"[{idx:4d}/{len(today_batch)}] SENT ({item_type.upper()} seq:{seq}) -> {target_email:<40} (via {user.split('@')[0]} | {smtp_usage[current_smtp_idx]}/{MAX_PER_SMTP})", flush=True)
+        print(f"[{idx:4d}/{len(today_batch)}] SENT ({item_type.upper()} seq:{seq}) -> {target_email:<40} (via {user.split('@')[0]} | {smtp_usage[current_smtp_idx]}/{smtp_max_caps[current_smtp_idx]})", flush=True)
         
         with open(LOG_FILE, "w", encoding="utf-8") as f:
             json.dump(sent_records, f, indent=2)
@@ -1701,7 +1706,7 @@ for idx, (item_type, target_email, seq) in enumerate(today_batch, 1):
             json.dump(failed_records, f, indent=2)
     
     current_smtp_idx = (current_smtp_idx + 1) % len(smtp_pool)
-    delay = random.uniform(8, 12)
+    delay = random.uniform(15, 25)
     time.sleep(delay)
 
 print(f"Job finished. Successfully sent: {len(sent_records)}, Failed: {len(failed_records)}")
