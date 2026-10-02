@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>HEATBOLT — Defence Strategic Briefing</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+
+<style>
+
+:root{
+
+  --bg:#F6F3EA; --bg2:#EFEAD9; --panel:#FFFFFF; --panel2:#F3EFE0;
+
+  --line:#DAD4C0; --line2:#C6BEA6;
+
+  --gold:#A97B16; --gold2:#8A650F; --gold-dim:rgba(169,123,22,.12);
+
+  --olive:#6B7A58; --cream:#22291B; --muted:#5C6650; --dim:#8A9177;
+
+  --red:#B03A22;
+
+  --disp:'Oswald','Arial Narrow',sans-serif;
+
+  --body:'Inter',system-ui,sans-serif;
+
+  --mono:'JetBrains Mono',ui-monospace,monospace;
+
+}
+
+*{margin:0;padding:0;box-sizing:border-box}
+
+html,body{height:100%;background:var(--bg);color:var(--cream);font-family:var(--body);overflow:hidden}
+
+body::before{content:'';position:fixed;inset:0;z-index:0;pointer-events:none;
+
+  background:
+
+    radial-gradient(1200px 700px at 85% -10%, rgba(169,123,22,.08), transparent 60%),
+
+    radial-gradient(1000px 600px at -10% 110%, rgba(107,122,88,.12), transparent 60%),
+
+    linear-gradient(180deg,#F8F5EC 0%,#EFEAD9 100%);}
+
+body::after{content:'';position:fixed;inset:0;z-index:60;pointer-events:none;opacity:.05;mix-blend-mode:overlay;
+
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)'/%3E%3C/svg%3E");}
+
+.gridlines{position:fixed;inset:0;z-index:0;pointer-events:none;opacity:.35;
+
+  background-image:linear-gradient(rgba(60,70,40,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(60,70,40,.06) 1px,transparent 1px);
+
+  background-size:72px 72px;}
+
+
+
+/* ============ SLIDES ============ */
+
+.slide{position:fixed;inset:0;z-index:1;display:none;flex-direction:column;padding:4.5vh 5vw 9vh;}
+
+.slide.active{display:flex}
+
+.shead{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:4vh;flex:0 0 auto}
+
+.kicker{font-family:var(--mono);font-size:11px;letter-spacing:.28em;color:var(--gold);text-transform:uppercase}
+
+.kicker::before{content:'// ';color:var(--dim)}
+
+.snum{font-family:var(--mono);font-size:11px;letter-spacing:.2em;color:var(--dim)}
+
+.sbody{flex:1;display:flex;flex-direction:column;justify-content:center;min-height:0}
+
+
+
+/* entrance animation */
+
+.anim{opacity:0;transform:translateY(26px);transition:opacity .8s cubic-bezier(.2,.7,.2,1),transform .8s cubic-bezier(.2,.7,.2,1)}
+
+.slide.active .anim.in{opacity:1;transform:none}
+
+
+
+/* ============ TYPO ============ */
+
+h1,h2,h3{font-family:var(--disp);text-transform:uppercase;line-height:1.02}
+
+h2{font-size:clamp(30px,4.6vw,62px);font-weight:600;letter-spacing:.01em}
+
+h2 .g{color:var(--gold)}
+
+.lede{font-size:clamp(15px,1.25vw,19px);color:var(--muted);line-height:1.65;font-weight:300;max-width:62ch}
+
+.micro{font-family:var(--mono);font-size:10.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--dim)}
+
+.rule{width:64px;height:3px;background:linear-gradient(90deg,var(--gold),transparent);margin:18px 0}
+
+
+
+/* ============ CARDS / GRIDS ============ */
+
+.grid{display:grid;gap:14px}
+
+.g2{grid-template-columns:repeat(2,1fr)} .g3{grid-template-columns:repeat(3,1fr)}
+
+.g4{grid-template-columns:repeat(4,1fr)} .g5{grid-template-columns:repeat(5,1fr)}
+
+.card{position:relative;background:linear-gradient(160deg,var(--panel),var(--panel2));border:1px solid var(--line);padding:20px 20px 18px;overflow:hidden}
+
+.card::before{content:'';position:absolute;top:0;left:0;width:14px;height:14px;border-top:2px solid var(--gold);border-left:2px solid var(--gold)}
+
+.card::after{content:'';position:absolute;bottom:0;right:0;width:14px;height:14px;border-bottom:2px solid var(--gold);border-right:2px solid var(--gold)}
+
+.card:hover{border-color:var(--line2);background:linear-gradient(160deg,#FCFAF3,#F4F0E2)}
+
+.ct{font-family:var(--disp);font-size:16px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;margin-bottom:8px}
+
+.ct .n{color:var(--gold);font-family:var(--mono);font-size:11px;letter-spacing:.1em;display:block;margin-bottom:6px}
+
+.cd{font-size:12.5px;color:var(--muted);line-height:1.55;font-weight:300}
+
+.tag{display:inline-block;font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--gold2);border:1px solid rgba(169,123,22,.4);padding:5px 10px;margin:3px 4px 3px 0;background:var(--gold-dim)}
+
+.tag.dim{color:var(--muted);border-color:var(--line);background:transparent}
+
+
+
+/* ============ COVER ============ */
+
+.cover{justify-content:center;align-items:flex-start}
+
+.cover-frame{position:relative;width:100%;height:100%;border:1px solid var(--line2);display:flex;flex-direction:column;justify-content:space-between;padding:6vh 5vw}
+
+.cover-frame::before,.cover-frame::after{content:'';position:absolute;width:22px;height:22px}
+
+.cover-frame::before{top:-1px;left:-1px;border-top:3px solid var(--gold);border-left:3px solid var(--gold)}
+
+.cover-frame::after{bottom:-1px;right:-1px;border-bottom:3px solid var(--gold);border-right:3px solid var(--gold)}
+
+.cover-title{font-family:var(--disp);font-weight:700;font-size:clamp(64px,13vw,190px);line-height:.95;letter-spacing:.01em;text-transform:uppercase;
+
+  background:linear-gradient(105deg,#D9A441 0%,#A97B16 45%,#6E500C 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+
+.cover-sub{font-family:var(--disp);font-size:clamp(18px,2.4vw,34px);font-weight:500;text-transform:uppercase;letter-spacing:.06em;color:var(--cream);margin-top:2vh}
+
+.cover-meta{display:flex;justify-content:space-between;align-items:flex-end;flex-wrap:wrap;gap:14px}
+
+.classif{font-family:var(--mono);font-size:10.5px;letter-spacing:.3em;color:var(--gold);border:1px solid var(--gold);padding:7px 14px;display:inline-block}
+
+
+
+/* ============ DIVIDERS ============ */
+
+.divider{justify-content:center}
+
+.ghost{position:absolute;right:2vw;bottom:-6vh;font-family:var(--disp);font-weight:700;font-size:44vh;line-height:1;color:rgba(169,123,22,.08);pointer-events:none;user-select:none}
+
+.divider .dt{font-family:var(--disp);font-weight:700;font-size:clamp(44px,7.5vw,110px);text-transform:uppercase;line-height:1}
+
+.divider .dt .g{color:var(--gold)}
+
+.dlist{display:flex;flex-wrap:wrap;gap:10px;margin-top:3.5vh}
+
+
+
+/* ============ STATS ============ */
+
+.stat{text-align:left;padding:26px 22px}
+
+.stat .v{font-family:var(--disp);font-weight:700;font-size:clamp(40px,4.6vw,72px);line-height:1;color:var(--gold2)}
+
+.stat .u{font-family:var(--disp);font-size:clamp(14px,1.4vw,20px);color:var(--gold);text-transform:uppercase;margin-left:4px}
+
+.stat .l{font-family:var(--mono);font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin-top:12px}
+
+.note{border-left:3px solid var(--red);background:rgba(196,73,47,.07);padding:14px 18px;font-size:13px;color:#7A4030;line-height:1.6;margin-top:22px}
+
+.note b{color:var(--gold2)}
+
+
+
+/* ============ STEPS / FLOW ============ */
+
+.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:0;counter-reset:s}
+
+.step{position:relative;padding:26px 22px;border:1px solid var(--line);background:var(--panel)}
+
+.step+.step{border-left:none}
+
+.step .sn{font-family:var(--disp);font-weight:700;font-size:44px;color:rgba(169,123,22,.28);line-height:1}
+
+.step .st{font-family:var(--disp);font-size:18px;font-weight:600;text-transform:uppercase;margin:10px 0 8px;color:var(--gold2)}
+
+.step .sd{font-size:12.5px;color:var(--muted);line-height:1.55;font-weight:300}
+
+.arrow{display:flex;align-items:center;gap:12px}
+
+.arrow .a{flex:1;height:1px;background:linear-gradient(90deg,var(--gold),rgba(217,164,65,.15));position:relative}
+
+.arrow .a::after{content:'';position:absolute;right:0;top:-3.5px;border-left:8px solid var(--gold);border-top:4px solid transparent;border-bottom:4px solid transparent}
+
+
+
+/* ============ TIMELINE ============ */
+
+.tl{display:flex;gap:0;margin-top:10px}
+
+.tl .ph{flex:1;position:relative;padding:44px 10px 0 0}
+
+.tl .ph::before{content:'';position:absolute;top:16px;left:0;right:0;height:2px;background:var(--line2)}
+
+.tl .ph:last-child::before{right:10px}
+
+.tl .dot{position:absolute;top:9px;left:0;width:16px;height:16px;background:var(--bg);border:2px solid var(--gold);transform:rotate(45deg)}
+
+.tl .pn{font-family:var(--mono);font-size:10px;color:var(--gold);letter-spacing:.15em}
+
+.tl .pt{font-family:var(--disp);font-size:13px;font-weight:600;text-transform:uppercase;margin-top:6px;line-height:1.25}
+
+
+
+/* ============ NAV / CHROME ============ */
+
+#pbar{position:fixed;left:0;bottom:0;height:3px;background:linear-gradient(90deg,var(--gold),var(--gold2));z-index:50;width:0;transition:width .5s cubic-bezier(.2,.7,.2,1)}
+
+#chrome{position:fixed;right:22px;bottom:16px;z-index:50;display:flex;gap:8px;align-items:center}
+
+#chrome button{background:rgba(255,255,255,.92);border:1px solid var(--line2);color:var(--cream);font-family:var(--mono);font-size:11px;letter-spacing:.1em;padding:9px 14px;cursor:pointer;transition:.25s}
+
+#chrome button:hover{border-color:var(--gold);color:var(--gold2)}
+
+#counter{position:fixed;left:22px;bottom:16px;z-index:50;font-family:var(--mono);font-size:11px;letter-spacing:.2em;color:var(--dim)}
+
+#counter b{color:var(--gold)}
+
+#brand{position:fixed;top:0;left:0;right:0;z-index:50;display:flex;justify-content:space-between;padding:14px 22px;pointer-events:none}
+
+#brand span{font-family:var(--mono);font-size:10px;letter-spacing:.3em;color:var(--dim);text-transform:uppercase}
+
+#brand span b{color:var(--gold)}
+
+
+
+.vlist{display:flex;flex-direction:column;gap:12px}
+
+.vrow{display:flex;gap:16px;align-items:baseline;border-bottom:1px solid var(--line);padding-bottom:12px}
+
+.vrow .k{font-family:var(--disp);font-weight:600;font-size:clamp(18px,1.9vw,26px);text-transform:uppercase;color:var(--gold2);min-width:220px}
+
+.vrow .d{font-size:13.5px;color:var(--muted);font-weight:300;line-height:1.55}
+
+
+
+.big-quote{font-family:var(--disp);font-weight:600;font-size:clamp(26px,3.4vw,48px);text-transform:uppercase;line-height:1.15}
+
+.big-quote .g{color:var(--gold)}
+
+
+
+.flow-strip{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:3vh}
+
+.flow-strip .fs{font-family:var(--mono);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold2);border:1px solid rgba(217,164,65,.4);padding:8px 12px;background:var(--gold-dim)}
+
+.flow-strip .fsa{color:var(--dim);font-family:var(--mono)}
+
+
+
+@media print{
+
+  html,body{overflow:visible;height:auto}
+
+  .slide{position:relative;display:flex!important;page-break-after:always;height:100vh;opacity:1!important}
+
+  .anim{opacity:1!important;transform:none!important}
+
+  #chrome,#pbar,#counter,#brand{display:none!important}
+
+  body::after{display:none}
+
+}
+
+@media(max-width:900px){.g4,.g5,.steps,.tl{grid-template-columns:repeat(2,1fr)}.step+.step{border-left:1px solid var(--line)}.g3{grid-template-columns:1fr 1fr}}
+
+</style>
+
+<base target="_blank">
+
+</head>
+
+<body>
+
+<div class="gridlines"></div>
+
+<div id="brand"><span><b>HEATBOLT</b> // DEFENCE STRATEGIC BRIEFING</span><span>WATER-ACTIVATED THERMAL PLATFORM</span></div>
+
+
+
+<!-- 1 COVER -->
+
+<section class="slide cover">
+
+  <div class="cover-frame">
+
+    <div class="anim"><span class="classif">DEFENCE PARTNER BRIEFING — UNCLASSIFIED</span></div>
+
+    <div>
+
+      <div class="micro anim">Portable Thermal Infrastructure for the Soldier</div>
+
+      <div class="cover-title anim">HEATBOLT</div>
+
+      <div class="cover-sub anim">Water-Activated Thermal Technology for Extreme Environments</div>
+
+      <div class="rule anim"></div>
+
+      <div class="lede anim" style="max-width:56ch">A portable thermal platform engineered to deliver heat and steam without mains electricity, LPG, or open flame — built for the environments where infrastructure cannot follow.</div>
+
+    </div>
+
+    <div class="cover-meta anim">
+
+      <div class="micro">FOUNDER &amp; MANAGING DIRECTOR — DR. KUMARPAL PORWAL<br>HEATBOLT / SHREE NAKODA PARSHWA INDUSTRIES — INDIA</div>
+
+      <div class="micro" style="text-align:right">TECHNOLOGY × MANUFACTURING × SCIENCE<br>DEFENCE × COMMERCIALISATION</div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 2 PROPOSITION -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">The One-Line Proposition</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="big-quote anim">Every soldier should have access to <span class="g">dependable thermal capability</span> — wherever the mission goes.</div>
+
+    <div class="rule anim"></div>
+
+    <p class="lede anim">Heatbolt is developing a portable, water-activated thermal platform providing heat and steam without dependence on fixed infrastructure — designed for soldier warmth, hot food and beverages, high-altitude operations, emergency medical support, field shelters, and beyond.</p>
+
+    <div class="anim" style="margin-top:3vh">
+
+      <span class="tag">Soldier warmth</span><span class="tag">Hot food &amp; beverages</span><span class="tag">High-altitude ops</span><span class="tag">Snow &amp; ice management</span><span class="tag">Emergency medical</span><span class="tag">Field shelters</span><span class="tag">Hygiene &amp; sanitation</span><span class="tag">Equipment maintenance</span><span class="tag">Aviation / UAV concepts</span><span class="tag">Search &amp; rescue</span><span class="tag">Disaster response</span>
+
+    </div>
+
+    <div class="card anim" style="margin-top:3.5vh;max-width:640px;border-color:rgba(217,164,65,.45)">
+
+      <div class="ct"><span class="n">VISION</span>Move thermal infrastructure from the base to the soldier.</div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 3 DIVIDER PROBLEM -->
+
+<section class="slide divider">
+
+  <div class="ghost">01</div>
+
+  <header class="shead"><span class="kicker">Section 01</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="micro anim">The Operational Problem</div>
+
+    <div class="dt anim" style="margin-top:12px">Extreme environments create a<br><span class="g">thermal infrastructure gap</span></div>
+
+    <div class="rule anim"></div>
+
+    <p class="lede anim">A soldier in high-altitude, remote, glacial, winter or infrastructure-constrained terrain needs thermal energy for far more than personal warmth.</p>
+
+  </div>
+
+</section>
+
+
+
+<!-- 4 THE GAP -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">The Operational Problem</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Eight thermal requirements. <span class="g">Zero infrastructure.</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g4 anim">
+
+      <div class="card"><div class="ct"><span class="n">01</span>Personnel</div><div class="cd">Warmth, comfort, survival and cold-weather protection.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">02</span>Food</div><div class="cd">Heating RTE / RTC meals, beverages and hydration.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">03</span>Water</div><div class="cd">Hot water, steam and field utility requirements.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">04</span>Medical</div><div class="cd">Temperature-sensitive field support and emergency thermal workflows.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">05</span>Equipment</div><div class="cd">Drying, warming, maintenance and cold-weather support.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">06</span>Shelter</div><div class="cd">Temporary heating and hot-water requirements.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">07</span>Mobility</div><div class="cd">Potential applications around vehicles, aviation and UAV systems.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">08</span>Emergency Response</div><div class="cd">Search &amp; rescue, disaster relief and humanitarian missions.</div></div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 5 CHALLENGE -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">The Challenge</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="micro anim">The challenge is not simply producing heat.</div>
+
+    <div class="big-quote anim" style="margin-top:14px">It is producing <span class="g">useful heat</span> where conventional infrastructure cannot easily follow.</div>
+
+    <div class="rule anim"></div>
+
+    <div class="anim" style="margin-top:1vh">
+
+      <span class="tag dim">Cold</span><span class="tag dim">Remote</span><span class="tag dim">Time-critical</span><span class="tag dim">Logistically constrained</span><span class="tag dim">Physically demanding</span><span class="tag dim">Infrastructure-limited</span>
+
+    </div>
+
+    <p class="lede anim" style="margin-top:3.5vh">The soldier is the ultimate field test. If the technology performs under these conditions, the platform can support every adjacent application that follows.</p>
+
+  </div>
+
+</section>
+
+
+
+<!-- 6 DIVIDER SOLUTION -->
+
+<section class="slide divider">
+
+  <div class="ghost">02</div>
+
+  <header class="shead"><span class="kicker">Section 02</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="micro anim">The Heatbolt Answer</div>
+
+    <div class="dt anim" style="margin-top:12px">Portable thermal<br><span class="g">infrastructure</span></div>
+
+    <div class="rule anim"></div>
+
+    <p class="lede anim">A proprietary water-activated thermal system — engineered for environments where infrastructure is limited.</p>
+
+  </div>
+
+</section>
+
+
+
+<!-- 7 OPERATING PRINCIPLE -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">The Heatbolt Answer</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Water in. <span class="g">Heat out.</span> Anywhere.</h2>
+
+    <div class="rule anim"></div>
+
+    <div class="steps anim">
+
+      <div class="step"><div class="sn">01</div><div class="st">Activate</div><div class="sd">Water is added to a specially formulated thermal system.</div></div>
+
+      <div class="step"><div class="sn">02</div><div class="st">React</div><div class="sd">The formulation reacts with water and releases thermal energy.</div></div>
+
+      <div class="step"><div class="sn">03</div><div class="st">Transfer</div><div class="sd">Resulting heat / steam is directed toward the intended application.</div></div>
+
+      <div class="step"><div class="sn">04</div><div class="st">Deploy</div><div class="sd">Capability is incorporated into portable products, kits, packaging and field systems.</div></div>
+
+    </div>
+
+    <div class="anim" style="margin-top:3.5vh">
+
+      <span class="tag">No mains electricity</span><span class="tag">No LPG / gas connection</span><span class="tag">No open flame</span><span class="tag">Portable</span><span class="tag">Modular</span><span class="tag">Application-specific</span>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 8 PLATFORM -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">The Platform Thesis</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Not a heater. <span class="g">A thermal platform.</span></h2>
+
+    <div class="rule anim"></div>
+
+    <p class="lede anim" style="margin-bottom:3vh">A conventional product solves one problem. A platform solves many — using one common technological foundation.</p>
+
+    <div class="grid g4 anim">
+
+      <div class="card"><div class="ct"><span class="n">SOLDIER</span>Body Warming</div><div class="cd">Personal thermal protection at the point of need.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">FOOD</span>Ration Heating</div><div class="cd">Hot meals and beverages without field kitchens.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">WATER</span>Hot Water / Steam</div><div class="cd">Field utility hot water and steam generation.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">SHELTER</span>Temporary Heating</div><div class="cd">Warm shelters and accommodation support.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">MEDICAL</span>Field Support</div><div class="cd">Thermal workflows for casualty care.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">EQUIPMENT</span>Drying / Warming</div><div class="cd">Gear drying and cold-weather preparation.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">MOBILITY</span>Cold-Weather Support</div><div class="cd">Concepts for vehicles, aviation and UAV systems.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">SAR</span>Emergency Capability</div><div class="cd">Thermal support for search &amp; rescue operations.</div></div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 9 PERFORMANCE -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Performance Envelope</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Selected figures from <span class="g">current development</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g4 anim">
+
+      <div class="card stat"><div><span class="v" data-to="100" data-suffix="°C">0</span></div><div class="l">Peak thermal output — selected configurations</div></div>
+
+      <div class="card stat"><div><span class="v" data-to="30" data-suffix="s">0</span></div><div class="l">Approximate activation time — referenced configuration</div></div>
+
+      <div class="card stat"><div><span class="v" data-to="45" data-suffix="min">0</span></div><div class="l">Described thermal duration — selected configuration</div></div>
+
+      <div class="card stat"><div><span class="v" data-to="60" data-suffix="°C">0</span><span class="u">/ 3 hrs</span></div><div class="l">Extended warmth configuration — supplied material</div></div>
+
+    </div>
+
+    <div class="note anim"><b>IMPORTANT —</b> Performance varies with formulation, water quantity, packaging geometry, payload, ambient temperature, insulation, application and environmental conditions. <b>Every Defence application must undergo application-specific validation.</b></div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 10 DIVIDER USE CASES -->
+
+<section class="slide divider">
+
+  <div class="ghost">03</div>
+
+  <header class="shead"><span class="kicker">Section 03</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="micro anim">Mission Use Cases</div>
+
+    <div class="dt anim" style="margin-top:12px">From product<br>to <span class="g">soldier capability</span></div>
+
+    <div class="rule anim"></div>
+
+    <p class="lede anim">Ten mission-aligned use cases — each engineered toward qualification, not just demonstration.</p>
+
+  </div>
+
+</section>
+
+
+
+<!-- 11 TEN USE CASES -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Mission Use Cases</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Ten use cases. <span class="g">One platform.</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g5 anim">
+
+      <div class="card"><div class="ct"><span class="n">UC-01</span>Personal Thermal Protection</div><div class="cd">Body warmers, emergency packs, warmer jackets, survival kits.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-02</span>Field Food &amp; Beverages</div><div class="cd">RTE/RTC meals, tea, coffee, soup, self-heating packaging.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-03</span>High-Altitude &amp; Glacial</div><div class="cd">Warming, hot water, shelter heating, gear drying, snow melting.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-04</span>Ice &amp; Snow Management</div><div class="cd">Localised melting, frozen interfaces, access-point support.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-05</span>Field Medical Support</div><div class="cd">Patient transport thermal support, hot water, sterilisation concepts.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-06</span>Temporary Shelters</div><div class="cd">Emergency heating, warm tents, hot water, portable hygiene.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-07</span>Hygiene &amp; Sanitation</div><div class="cd">Hot water, steam, field laundry, hygiene stations.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-08</span>Equipment Maintenance</div><div class="cd">Gear drying, vehicle support, frozen component management.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-09</span>Aviation &amp; UAV</div><div class="cd">De-icing support, cold-weather UAV and subsystem concepts.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UC-10</span>Search &amp; Rescue</div><div class="cd">Emergency warming, shelters, disaster and humanitarian response.</div></div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 12 SOLDIER-FIRST -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">The Soldier-First Vision</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">A family of <span class="g">mission-ready kits</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g4 anim">
+
+      <div class="card"><div class="ct"><span class="n">KIT 01</span>Soldier Survival Kit</div><div class="cd">Portable thermal activation · Emergency warming · Food / beverage heating · Water heating</div></div>
+
+      <div class="card"><div class="ct"><span class="n">KIT 02</span>High-Altitude Kit</div><div class="cd">Personal warmth · Snow / ice support · Equipment warming · Emergency shelter support</div></div>
+
+      <div class="card"><div class="ct"><span class="n">KIT 03</span>Field Ration System</div><div class="cd">Integrated heating · Hot meals · Hot beverages · Controlled activation</div></div>
+
+      <div class="card"><div class="ct"><span class="n">KIT 04</span>Winter Operations Kit</div><div class="cd">Body warming · Gear drying · Water heating · Shelter support</div></div>
+
+    </div>
+
+    <div class="flow-strip anim">
+
+      <span class="fs">Design around the soldier</span><span class="fsa">→</span>
+
+      <span class="fs">Validate in the field</span><span class="fsa">→</span>
+
+      <span class="fs">Engineer for scale</span><span class="fsa">→</span>
+
+      <span class="fs">Expand across applications</span>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 13 HIGH ALTITUDE -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Use Case 03 — Deep Dive</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="micro anim">Priority Mission Environment</div>
+
+    <h2 class="anim" style="margin-top:10px">High-altitude &amp; <span class="g">glacial operations</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g2 anim">
+
+      <div>
+
+        <div class="vlist">
+
+          <div class="vrow"><div class="k">Soldier Warming</div><div class="d">Sustained personal thermal protection in extreme cold.</div></div>
+
+          <div class="vrow"><div class="k">Hot Food &amp; Water</div><div class="d">Hot meals, beverages and field utility water.</div></div>
+
+          <div class="vrow"><div class="k">Shelter &amp; Gear</div><div class="d">Emergency shelter heating and equipment warming / drying.</div></div>
+
+          <div class="vrow"><div class="k">Snow &amp; Ice</div><div class="d">Localised ice melting and water recovery from snow.</div></div>
+
+        </div>
+
+      </div>
+
+      <div>
+
+        <div class="card" style="height:100%">
+
+          <div class="ct"><span class="n">TARGET ENVIRONMENTS</span></div>
+
+          <div style="margin-top:8px">
+
+            <span class="tag">High altitude</span><span class="tag">Glacial regions</span><span class="tag">Winter deployment</span><span class="tag">Remote posts</span><span class="tag">Infrastructure-constrained locations</span>
+
+          </div>
+
+          <div class="ct" style="margin-top:26px"><span class="n">WHY IT LEADS</span></div>
+
+          <p class="cd" style="margin-top:6px">The harshest thermal gap in Defence. If Heatbolt performs here, every other environment becomes an expansion — not a risk.</p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 14 MEDICAL -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Use Case 05 — Deep Dive</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Field medical support — <span class="g">with full qualification discipline</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g3 anim">
+
+      <div class="card"><div class="ct"><span class="n">THERMAL</span>Patient Transport</div><div class="cd">Thermal support during casualty evacuation and patient movement.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">UTILITY</span>Hot Water &amp; Steam</div><div class="cd">Portable hot-water requirements and steam-support concepts.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">CONCEPT</span>Sterilisation / Decon</div><div class="cd">Sterilisation and decontamination concepts for field workflows.</div></div>
+
+    </div>
+
+    <div class="note anim"><b>CRITICAL QUALIFICATION —</b> Heatbolt does not propose bypassing medical qualification. Dedicated evaluation covers temperature accuracy, material compatibility, contamination control, packaging, human factors, safety and applicable regulatory requirements. <b>Medical applications are dedicated qualification programmes.</b></div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 15 AVIATION + SAR -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Use Cases 09 / 10 — Development Horizons</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="grid g2 anim">
+
+      <div class="card">
+
+        <div class="ct"><span class="n">AVIATION &amp; UAV — FUTURE CONCEPTS</span></div>
+
+        <div style="margin-top:10px">
+
+          <span class="tag">Aircraft de-icing support</span><span class="tag">UAV cold-weather support</span><span class="tag">Battery / subsystem thermal concepts</span><span class="tag">Equipment warming</span><span class="tag">Field maintenance &amp; drying</span>
+
+        </div>
+
+        <div class="note" style="margin-top:22px"><b>IMPORTANT —</b> Aviation applications require aircraft- and system-specific engineering and qualification. Presented as <b>development opportunities</b>, not current operational approvals.</div>
+
+      </div>
+
+      <div class="card">
+
+        <div class="ct"><span class="n">SEARCH &amp; RESCUE — DUAL-USE VALUE</span></div>
+
+        <div style="margin-top:10px">
+
+          <span class="tag">Emergency warming</span><span class="tag">Warm food</span><span class="tag">Hot water</span><span class="tag">Temporary shelters</span><span class="tag">Ice / snow support</span><span class="tag">Disaster response</span><span class="tag">Humanitarian operations</span>
+
+        </div>
+
+        <div class="rule" style="margin-top:22px"></div>
+
+        <p class="cd">One platform serving <b style="color:var(--gold2)">Defence + Disaster Response + Humanitarian Operations</b>.</p>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 16 80+ PIPELINE -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Innovation Pipeline</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">One technology. <span class="g">80+ application concepts.</span></h2>
+
+    <div class="rule anim"></div>
+
+    <p class="lede anim" style="margin-bottom:2.5vh">A structured innovation pipeline — not 80+ already-qualified products.</p>
+
+    <div class="grid g3 anim">
+
+      <div class="card"><div class="ct"><span class="n">PERSONNEL</span></div><div class="cd">Body warmers · Warmer jackets · Survival kits · Portable baths · Field laundry</div></div>
+
+      <div class="card"><div class="ct"><span class="n">FOOD</span></div><div class="cd">Field kitchens · Food warming · Preservation · Field bakery · Ration systems</div></div>
+
+      <div class="card"><div class="ct"><span class="n">WATER</span></div><div class="cd">Water heating · Steam · Distillation · Purification concepts</div></div>
+
+      <div class="card"><div class="ct"><span class="n">MEDICAL</span></div><div class="cd">Field hospitals · Medical thermal support · Sterilisation concepts · Emergency kits</div></div>
+
+      <div class="card"><div class="ct"><span class="n">EQUIPMENT</span></div><div class="cd">Gear drying · Vehicle maintenance · Bore cleaning · De-icing · Warming</div></div>
+
+      <div class="card"><div class="ct"><span class="n">INFRASTRUCTURE</span></div><div class="cd">Concrete curing · Remote construction · Emergency shelters · Underground facilities</div></div>
+
+      <div class="card"><div class="ct"><span class="n">SECURITY</span></div><div class="cd">Border support · Surveillance support · Tactical fogging concepts · Decontamination</div></div>
+
+      <div class="card"><div class="ct"><span class="n">SAR</span></div><div class="cd">Disaster response · Emergency shelters · Search &amp; rescue · Humanitarian aid</div></div>
+
+      <div class="card"><div class="ct"><span class="n">ENVIRONMENT</span></div><div class="cd">Environmental cleanup · Waste applications · Water systems · Remote operations</div></div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 17 DIVIDER TEAM -->
+
+<section class="slide divider">
+
+  <div class="ghost">04</div>
+
+  <header class="shead"><span class="kicker">Section 04</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <div class="micro anim">The Team</div>
+
+    <div class="dt anim" style="margin-top:12px">Technology alone does not<br>create a <span class="g">Defence capability</span></div>
+
+    <div class="rule anim"></div>
+
+    <div class="dlist anim">
+
+      <span class="tag">Science</span><span class="tag">Engineering</span><span class="tag">Manufacturing</span><span class="tag">Quality</span><span class="tag">Commercialisation</span><span class="tag">Field Validation</span>
+
+    </div>
+
+    <p class="lede anim" style="margin-top:3vh">Heatbolt is building capability across every dimension — from thermal mechanism to millions of consistent units.</p>
+
+  </div>
+
+</section>
+
+
+
+<!-- 18 LEADERSHIP -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Leadership</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Built to <span class="g">execute</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g4 anim">
+
+      <div class="card"><div class="ct"><span class="n">FOUNDER &amp; MD</span>Dr. Kumarpal Porwal</div><div class="cd">Deep-tech commercialisation · Controlled thermal activation · Enterprise AI &amp; transformation (Chief of Staff, Vega Aviation) · Defence &amp; FMCG engagement</div></div>
+
+      <div class="card"><div class="ct"><span class="n">MANUFACTURING &amp; QUALITY</span>Rahul Awasthi</div><div class="cd">National Mfg &amp; Quality Head, SBC Tanzania (Pepsi) · Ex-SLMG Coca-Cola, Amazon (6,000+ employees), Glenmark, SABMiller, Coca-Cola</div></div>
+
+      <div class="card"><div class="ct"><span class="n">MARKETING &amp; GROWTH</span>Puneet Solanki</div><div class="cd">Market positioning · Strategic engagement · Application &amp; partnership development · Go-to-market across Defence, FMCG, institutional buyers</div></div>
+
+      <div class="card"><div class="ct"><span class="n">GLOBAL BUSINESS LEADERSHIP</span>Amit Jain</div><div class="cd">Former Managing Director — L'Oréal India (first Indian MD) · Leadership across AkzoNobel, Coca-Cola, Viacom/MTV, ICI · Consumer innovation &amp; scaling</div></div>
+
+    </div>
+
+    <p class="cd anim" style="margin-top:2.5vh;color:var(--dim)">Advisory relationships are presented according to actual documented relationships.</p>
+
+  </div>
+
+</section>
+
+
+
+<!-- 19 ECOSYSTEM -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Science &amp; Engineering Ecosystem</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">A <span class="g">multidisciplinary</span> bench</h2>
+
+    <div class="rule anim"></div>
+
+    <div class="vlist anim">
+
+      <div class="vrow"><div class="k" style="min-width:280px">Dr. Saibalendu Sarkar — TIFR</div><div class="d">Nanomaterials · Catalysis · CO₂ conversion · Advanced characterisation</div></div>
+
+      <div class="vrow"><div class="k" style="min-width:280px">Anil Kumar Tripathi</div><div class="d">Packaging technology · High-barrier &amp; food packaging · QA/QC · NPD</div></div>
+
+      <div class="vrow"><div class="k" style="min-width:280px">Mahantesh G. Vantamuri</div><div class="d">Mechanical / tooling / product design · CAD · Injection moulding · Sheet metal</div></div>
+
+      <div class="vrow"><div class="k" style="min-width:280px">T. Koshi · Prerna Bhanot · Michele Barbazza</div><div class="d">Strategy &amp; governance · Talent &amp; organisation · International business development</div></div>
+
+      <div class="vrow"><div class="k" style="min-width:280px">Extended Industry Network</div><div class="d">Ex-CFTRI · All-India food-industry leadership · Vega Helmets · Microlabs · Nilons · Snack industry · Additional scientific relationships</div></div>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+
+<!-- 19b ADVISORS -->
+
+<section class="slide">
+
+  <header class="shead"><span class="kicker">Distinguished Advisors &amp; Ecosystem</span><span class="snum"></span></header>
+
+  <div class="sbody">
+
+    <h2 class="anim">Names that <span class="g">strengthen the mission</span></h2>
+
+    <div class="rule anim"></div>
+
+    <div class="grid g4 anim">
+
+      <div class="card"><div class="ct"><span class="n">ROCKET SCIENCE &amp; PROPULSION</span>Nambi Narayan</div><div class="cd">ISRO rocket scientist — space propulsion and aerospace research pioneer.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">PACKAGING &amp; FMCG SCALE</span>Pradeep Kumar Pandey</div><div class="cd">President — Packaging Development, Emami Ltd · 29+ yrs, Gold Medalist · Ex-Procter &amp; Gamble, Amway, Dabur.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">THERMOFORMING &amp; ADVANCED SYSTEMS</span>Andrew Dobringer</div><div class="cd">Senior Advisor — Global thermoforming, precision tooling &amp; advanced industrial packaging engineering.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">RESEARCH LEADERSHIP</span>Prof. Somnath Ganguly</div><div class="cd">40+ years in chemical formulation and advanced laboratory research leadership.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">MACHINERY &amp; ENGINEERING</span>Ravi Tejwani</div><div class="cd">Machinery expert — industrial production equipment and process automation.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">CINEMA &amp; NARRATIVE</span>R. Madhavan</div><div class="cd">Acclaimed film actor &amp; director — national storytelling, communication and strategic narrative.</div></div>
+
+      <div class="card"><div class="ct"><span class="n">STRATEGIC NETWORK</span>Marichi Mathur</div><div class="cd">Senior Advisor — Executive leadership, institutional alliances and strategic ecosystem expansion.</div></div>
+
+    </div>
+
+    <p class="cd anim" style="margin-top:2.2vh;color:var(--dim)">Roles and designations to be presented strictly according to supporting documentation and formal engagement terms.</p>
+
+  </div>
+
+</section>
+
+<!-- 19c ENDORSEMENTS & VALIDATION -->
+<section class="slide">
+  <header class="shead"><span class="kicker">Endorsements &amp; Market Pull</span><span class="snum"></span></header>
+  <div class="sbody">
+    <h2 class="anim">The ecosystem is <span class="g">already responding</span></h2>
+    <div class="rule anim"></div>
+    <div class="grid g3 anim">
+      <div class="card">
+        <div class="ct"><span class="n">INSTITUTIONAL VALIDATION</span>Defence &amp; National Stakeholders</div>
+        <div class="cd">Active engagement across Indian Armed Forces command hubs, DRDO ecosystem partners, and emergency response teams for high-altitude cold trials.</div>
+      </div>
+      <div class="card">
+        <div class="ct"><span class="n">GLOBAL FMCG TRACTION</span>Multinational Dialogue</div>
+        <div class="cd">Direct commercial, self-heating ration, and meal packaging evaluations initiated with Nestlé, Barilla, Mondelēz, PepsiCo, Unilever, and McDonald's.</div>
+      </div>
+      <div class="card">
+        <div class="ct"><span class="n">COMMERCIAL MOMENTUM</span>Viral National Reach</div>
+        <div class="cd">Showcased via Startup India and Invest India platforms; over 60,000+ stakeholder touchpoints and 20B+ annual unit volume potential projected.</div>
+      </div>
+    </div>
+    <div class="note anim" style="margin-top:28px">
+      <b>PROVEN DEMAND INDICATORS —</b> Heatbolt is transitioning rapidly from breakthrough laboratory formulation to mission-critical defence field evaluation and high-volume industrial packaging.
+    </div>
+  </div>
+</section>
+
+<!-- 20 ROADMAP & NEXT STEPS -->
+<section class="slide">
+  <header class="shead"><span class="kicker">Strategic Roadmap</span><span class="snum"></span></header>
+  <div class="sbody">
+    <h2 class="anim">Path to <span class="g">Operational Deployment</span></h2>
+    <div class="rule anim"></div>
+    <div class="steps anim">
+      <div class="step">
+        <div class="sn">01</div>
+        <div class="st">Field Trials</div>
+        <div class="sd">Rigorous sub-zero &amp; high-altitude environmental stress testing with designated infantry units.</div>
+      </div>
+      <div class="step">
+        <div class="sn">02</div>
+        <div class="st">Mil-Spec Certification</div>
+        <div class="sd">Thermal output standardization, shelf-life validation (3+ yrs), and hazardous transport compliance.</div>
+      </div>
+      <div class="step">
+        <div class="sn">03</div>
+        <div class="st">Volume Production</div>
+        <div class="sd">Automated pouch filling, QC scaling with Tier-1 manufacturing partners for 10M+ units monthly.</div>
+      </div>
+      <div class="step">
+        <div class="sn">04</div>
+        <div class="st">Force Integration</div>
+        <div class="sd">Standard issue inclusion into ration kits, extreme climate survival packs, and mobile field clinics.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- 21 CONCLUSION & PARTNERSHIP -->
+<section class="slide cover">
+  <div class="cover-frame">
+    <div class="anim"><span class="classif">JOIN THE MISSION — STRATEGIC ENGAGEMENT</span></div>
+    <div>
+      <div class="micro anim">Thermal Sovereignty for Extreme Environments</div>
+      <div class="cover-title anim" style="font-size:clamp(48px,8vw,110px)">HEATBOLT</div>
+      <div class="cover-sub anim" style="margin-top:1vh">Partnering to Equip the Frontline Soldier</div>
+      <div class="rule anim"></div>
+      <div class="big-quote anim" style="font-size:clamp(20px,2.2vw,32px);max-width:48ch;line-height:1.3">
+        "The future of convenience and survival is not just portable food and water — <span class="g">it is portable heat.</span>"
+      </div>
+    </div>
+    <div class="cover-meta anim">
+      <div class="micro">
+        DR. KUMARPAL PORWAL — FOUNDER &amp; MD<br>
+        +91 73533 19757 | +91 88672 94189<br>
+        founder.heatbolt@gmail.com | Bangalore, India
+      </div>
+      <div class="micro" style="text-align:right">
+        DEFENCE COLLABORATION · TECHNOLOGY LICENSING<br>
+        INSTITUTIONAL STRATEGIC ALLIANCE
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- NAVIGATION BAR AND CHROME CONTROLS -->
+<div id="pbar"></div>
+<div id="counter"></div>
+<div id="chrome">
+  <button id="prevBtn" title="Previous Slide (Left Arrow)">&#x25C0; Prev</button>
+  <button id="nextBtn" title="Next Slide (Right Arrow, Space)">Next &#x25B6;</button>
+  <button id="fullBtn" title="Toggle Fullscreen (F)">&#x26F6; Full</button>
+</div>
+
+<script>
+(function(){
+  const slides = Array.from(document.querySelectorAll('.slide'));
+  const pbar = document.getElementById('pbar');
+  const counter = document.getElementById('counter');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const fullBtn = document.getElementById('fullBtn');
+  let current = 0;
+  const total = slides.length;
+
+  slides.forEach((s, idx) => {
+    const numSpan = s.querySelector('.snum');
+    if(numSpan) {
+      numSpan.textContent = String(idx + 1).padStart(2, '0') + ' / ' + String(total).padStart(2, '0');
+    }
+  });
+
+  function showSlide(idx) {
+    if(idx < 0) idx = 0;
+    if(idx >= total) idx = total - 1;
+    current = idx;
+
+    slides.forEach((s, i) => {
+      if(i === current) {
+        s.classList.add('active');
+        setTimeout(() => {
+          s.querySelectorAll('.anim').forEach((el, elIdx) => {
+            setTimeout(() => el.classList.add('in'), elIdx * 60);
+          });
+          s.querySelectorAll('[data-to]').forEach(statEl => {
+            const target = parseInt(statEl.getAttribute('data-to'), 10);
+            const suffix = statEl.getAttribute('data-suffix') || '';
+            let val = 0;
+            const step = Math.max(1, Math.round(target / 25));
+            const timer = setInterval(() => {
+              val += step;
+              if(val >= target) {
+                val = target;
+                clearInterval(timer);
+              }
+              statEl.textContent = val + suffix;
+            }, 30);
+          });
+        }, 30);
+      } else {
+        s.classList.remove('active');
+        s.querySelectorAll('.anim').forEach(el => el.classList.remove('in'));
+      }
+    });
+
+    const pct = ((current + 1) / total) * 100;
+    pbar.style.width = pct + '%';
+    counter.innerHTML = 'SLIDE <b>' + String(current + 1).padStart(2, '0') + '</b> OF ' + String(total).padStart(2, '0');
+  }
+
+  prevBtn.addEventListener('click', () => showSlide(current - 1));
+  nextBtn.addEventListener('click', () => showSlide(current + 1));
+  fullBtn.addEventListener('click', () => {
+    if(!document.fullscreenElement) {
+      document.documentElement.requestFullscreen().catch(()=>{});
+    } else {
+      document.exitFullscreen().catch(()=>{});
+    }
+  });
+
+  window.addEventListener('keydown', (e) => {
+    if(e.key === 'ArrowRight' || e.key === ' ' || e.key === 'PageDown') {
+      e.preventDefault();
+      showSlide(current + 1);
+    } else if(e.key === 'ArrowLeft' || e.key === 'PageUp') {
+      e.preventDefault();
+      showSlide(current - 1);
+    } else if(e.key === 'Home') {
+      e.preventDefault();
+      showSlide(0);
+    } else if(e.key === 'End') {
+      e.preventDefault();
+      showSlide(total - 1);
+    } else if(e.key === 'f' || e.key === 'F') {
+      if(!document.fullscreenElement) {
+        document.documentElement.requestFullscreen().catch(()=>{});
+      } else {
+        document.exitFullscreen().catch(()=>{});
+      }
+    }
+  });
+
+  showSlide(0);
+})();
+</script>
+</body>
+</html>
