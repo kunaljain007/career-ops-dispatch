@@ -5,6 +5,7 @@ import sys
 sys.stdout.reconfigure(encoding='utf-8')
 
 new_emails = [
+    "nandanreddy17@gmail.com",
     "dilipsurana@microlabs.in",
     "ranjeet.goswami@tcs.com",
     "major_ranjeet@yahoo.co.in",
