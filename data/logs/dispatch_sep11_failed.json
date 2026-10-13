@@ -1,0 +1,908 @@
+[
+  {
+    "to": "aina.gaur@sagana.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365a59b18sm2119770c88.2 - gsmtp')",
+    "timestamp": "2026-09-11T01:23:10.087018"
+  },
+  {
+    "to": "rakshit.sinha@aequitasindia.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4ed64fcsm1933521eec.16 - gsmtp')",
+    "timestamp": "2026-09-11T01:26:21.169673"
+  },
+  {
+    "to": "quality@chokola.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b78d59sm2105057c88.8 - gsmtp')",
+    "timestamp": "2026-09-11T01:29:43.784407"
+  },
+  {
+    "to": "innovation@enel.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e95075sm1808609eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T01:33:01.265172"
+  },
+  {
+    "to": "sgopal@whealthventures.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b8137fsm2294672c88.9 - gsmtp')",
+    "timestamp": "2026-09-11T01:36:08.330002"
+  },
+  {
+    "to": "prasadmenon@mukand.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365ba71cesm2230033c88.13 - gsmtp')",
+    "timestamp": "2026-09-11T01:39:14.615270"
+  },
+  {
+    "to": "guy@abuissa.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e95075sm1848031eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T01:42:17.973207"
+  },
+  {
+    "to": "arvind@unicornivc.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b8ead8sm2273369c88.10 - gsmtp')",
+    "timestamp": "2026-09-11T01:45:21.056915"
+  },
+  {
+    "to": "smith@jefferies.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e5193dsm1889042eec.10 - gsmtp')",
+    "timestamp": "2026-09-11T01:48:26.807938"
+  },
+  {
+    "to": "skoshy@luthra.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b8f1f7sm2112031c88.11 - gsmtp')",
+    "timestamp": "2026-09-11T01:51:03.076274"
+  },
+  {
+    "to": "tbertier@cambonpartners.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f0feaasm1920866eec.21 - gsmtp')",
+    "timestamp": "2026-09-11T01:51:25.144427"
+  },
+  {
+    "to": "samir.rachh@gmail.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b78d59sm2200855c88.8 - gsmtp')",
+    "timestamp": "2026-09-11T01:54:10.225631"
+  },
+  {
+    "to": "meenal.kamble@responsability.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e52a60sm1805093eec.6 - gsmtp')",
+    "timestamp": "2026-09-11T01:54:34.305923"
+  },
+  {
+    "to": "spoojary@unituscapital.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b347e6sm2094870c88.4 - gsmtp')",
+    "timestamp": "2026-09-11T01:57:10.623367"
+  },
+  {
+    "to": "jon@breakthroughenergy.org",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b8f1f7sm2136341c88.11 - gsmtp')",
+    "timestamp": "2026-09-11T01:57:34.833060"
+  },
+  {
+    "to": "ankitakumari@chokola.in",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365ba729dsm3071308c88.14 - gsmtp')",
+    "timestamp": "2026-09-11T02:00:20.701940"
+  },
+  {
+    "to": "info@gennexcorp.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b5e1edsm2362961c88.6 - gsmtp')",
+    "timestamp": "2026-09-11T02:00:44.320871"
+  },
+  {
+    "to": "kumari.jagrithi@atherenergy.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f739b5sm1936957eec.25 - gsmtp')",
+    "timestamp": "2026-09-11T02:03:32.076126"
+  },
+  {
+    "to": "cweglinski@alfardan.com.qa",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e9b359sm1840468eec.14 - gsmtp')",
+    "timestamp": "2026-09-11T02:03:51.031650"
+  },
+  {
+    "to": "pankit@invideo.io",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f06423sm1928329eec.20 - gsmtp')",
+    "timestamp": "2026-09-11T02:06:34.505610"
+  },
+  {
+    "to": "bp@qimingvc.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b5e1edsm2388975c88.6 - gsmtp')",
+    "timestamp": "2026-09-11T02:06:57.516766"
+  },
+  {
+    "to": "aditya@innovencapital.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33bac1c716csm177216eec.2 - gsmtp')",
+    "timestamp": "2026-09-11T02:09:40.182542"
+  },
+  {
+    "to": "anand.shankar@sharrpventures.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e52a60sm1873358eec.6 - gsmtp')",
+    "timestamp": "2026-09-11T02:10:03.902541"
+  },
+  {
+    "to": "marc.bouchet@tdk-ventures.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4cf31c1sm2006775eec.1 - gsmtp')",
+    "timestamp": "2026-09-11T02:12:45.679653"
+  },
+  {
+    "to": "masfoutcenter@moccae.gov.ae",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e95075sm1977810eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T02:13:04.678356"
+  },
+  {
+    "to": "macy.marriott@straydogcapital.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4ed64fcsm2162980eec.16 - gsmtp')",
+    "timestamp": "2026-09-11T02:15:59.121468"
+  },
+  {
+    "to": "abhisekh@elev8vp.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b347e6sm2170337c88.4 - gsmtp')",
+    "timestamp": "2026-09-11T02:16:21.972453"
+  },
+  {
+    "to": "kiran.patil@wondercement.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365a598aasm2357948c88.1 - gsmtp')",
+    "timestamp": "2026-09-11T02:19:04.688368"
+  },
+  {
+    "to": "katie@workplay.ventures",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4cf31c1sm2034595eec.1 - gsmtp')",
+    "timestamp": "2026-09-11T02:19:27.262473"
+  },
+  {
+    "to": "cvines@ideosinstitute.org",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b8137fsm2490510c88.9 - gsmtp')",
+    "timestamp": "2026-09-11T02:22:10.879502"
+  },
+  {
+    "to": "rmendon\u00e7a@marfrig.com.br",
+    "from": "techxp.kunaljain@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 16: ordinal not in range(128)",
+    "timestamp": "2026-09-11T02:22:23.137383"
+  },
+  {
+    "to": "alhousmi.diallo@ajlanbros-holding.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e4fb3esm2010243eec.7 - gsmtp')",
+    "timestamp": "2026-09-11T02:22:35.545713"
+  },
+  {
+    "to": "barbosa.f\u00e1bio@natura.net",
+    "from": "cofounder.heatbolt@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 18: ordinal not in range(128)",
+    "timestamp": "2026-09-11T02:22:47.820958"
+  },
+  {
+    "to": "tim@500.co",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f7390csm1951068eec.26 - gsmtp')",
+    "timestamp": "2026-09-11T02:25:18.045184"
+  },
+  {
+    "to": "joflynn@tcifund.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4ed79absm2192067eec.17 - gsmtp')",
+    "timestamp": "2026-09-11T02:25:40.061244"
+  },
+  {
+    "to": "will@contrary.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4ed64fcsm2218799eec.16 - gsmtp')",
+    "timestamp": "2026-09-11T02:28:17.614169"
+  },
+  {
+    "to": "support@jiffy.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba7a9bb56sm1641958eec.31 - gsmtp')",
+    "timestamp": "2026-09-11T02:28:37.103736"
+  },
+  {
+    "to": "reception@cvc.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e5182fsm2109368eec.9 - gsmtp')",
+    "timestamp": "2026-09-11T02:31:18.187000"
+  },
+  {
+    "to": "subhash.saraf@resurgentindia.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e4fb3esm2049589eec.7 - gsmtp')",
+    "timestamp": "2026-09-11T02:31:39.909411"
+  },
+  {
+    "to": "recruiting@2m.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e5123esm1877710eec.8 - gsmtp')",
+    "timestamp": "2026-09-11T02:34:25.173813"
+  },
+  {
+    "to": "info@lsvp.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e95075sm2071439eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T02:34:48.509676"
+  },
+  {
+    "to": "stuart.mcalpine@cinven.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f1e434sm2163030eec.22 - gsmtp')",
+    "timestamp": "2026-09-11T02:37:30.421059"
+  },
+  {
+    "to": "tejas.linge@pixis.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b345a4sm2442049c88.5 - gsmtp')",
+    "timestamp": "2026-09-11T02:37:53.133505"
+  },
+  {
+    "to": "renuka@sparkcapital.in",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e9a8a9sm2006196eec.13 - gsmtp')",
+    "timestamp": "2026-09-11T02:40:29.823235"
+  },
+  {
+    "to": "ge@flintcap.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e5182fsm2151638eec.9 - gsmtp')",
+    "timestamp": "2026-09-11T02:40:51.522854"
+  },
+  {
+    "to": "bmcdonald@hl.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365ba729dsm3316232c88.14 - gsmtp')",
+    "timestamp": "2026-09-11T02:43:29.798425"
+  },
+  {
+    "to": "schoudhary@tcifund.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-143659a9a06sm2641508c88.0 - gsmtp')",
+    "timestamp": "2026-09-11T02:43:52.390833"
+  },
+  {
+    "to": "madhu@mk-ventures.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f7390csm2042454eec.26 - gsmtp')",
+    "timestamp": "2026-09-11T02:46:34.980762"
+  },
+  {
+    "to": "michael.metzger@drakestar.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4fb3ddasm1895645eec.30 - gsmtp')",
+    "timestamp": "2026-09-11T02:46:57.869862"
+  },
+  {
+    "to": "f\u00e1bio_barbosa@natura.net",
+    "from": "techhp.kunaljain@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-11T02:48:35.355583"
+  },
+  {
+    "to": "jardaneha@spotangels.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4efc398sm2287661eec.19 - gsmtp')",
+    "timestamp": "2026-09-11T02:49:34.460055"
+  },
+  {
+    "to": "ashish@resurgentindia.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b759d0sm2688763c88.7 - gsmtp')",
+    "timestamp": "2026-09-11T02:49:58.689181"
+  },
+  {
+    "to": "pitch@sequoia.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b8ead8sm2559598c88.10 - gsmtp')",
+    "timestamp": "2026-09-11T02:52:43.807990"
+  },
+  {
+    "to": "r.mendon\u00e7a@marfrig.com.br",
+    "from": "techxp.kunaljain@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 17: ordinal not in range(128)",
+    "timestamp": "2026-09-11T02:52:55.627672"
+  },
+  {
+    "to": "anil.gupta@havells.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b347e6sm2319421c88.4 - gsmtp')",
+    "timestamp": "2026-09-11T02:53:07.247339"
+  },
+  {
+    "to": "kenneth.davidson@bailliegifford.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b8ead8sm2574038c88.10 - gsmtp')",
+    "timestamp": "2026-09-11T02:56:04.827830"
+  },
+  {
+    "to": "nadia.saleh@alfuttaim.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f5833fsm2480126eec.23 - gsmtp')",
+    "timestamp": "2026-09-11T02:56:26.590957"
+  },
+  {
+    "to": "fakhri@alghanim.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365ba71cesm2566341c88.13 - gsmtp')",
+    "timestamp": "2026-09-11T02:59:13.834915"
+  },
+  {
+    "to": "andrew.redding@troweprice.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4efc398sm2337286eec.19 - gsmtp')",
+    "timestamp": "2026-09-11T02:59:37.164060"
+  },
+  {
+    "to": "ceo@acppartners.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e5182fsm2249836eec.9 - gsmtp')",
+    "timestamp": "2026-09-11T03:02:16.754688"
+  },
+  {
+    "to": "lisa@incits.org",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4b1f409sm2376585eec.0 - gsmtp')",
+    "timestamp": "2026-09-11T03:02:39.884215"
+  },
+  {
+    "to": "events@atherenergy.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e5182fsm2265132eec.9 - gsmtp')",
+    "timestamp": "2026-09-11T03:05:30.163029"
+  },
+  {
+    "to": "avinash@observe.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e51449sm2012599eec.5 - gsmtp')",
+    "timestamp": "2026-09-11T03:05:50.595837"
+  },
+  {
+    "to": "rui_mendon\u00e7a@marfrig.com.br",
+    "from": "kumarpalporwal8@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 19: ordinal not in range(128)",
+    "timestamp": "2026-09-11T03:07:28.230695"
+  },
+  {
+    "to": "partner.managing@goldengate.vc",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e95075sm2227579eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T03:08:41.306472"
+  },
+  {
+    "to": "workswith@stripe.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba7a9bb56sm1845886eec.31 - gsmtp')",
+    "timestamp": "2026-09-11T03:09:03.396938"
+  },
+  {
+    "to": "mendon\u00e7a.rui@marfrig.com.br",
+    "from": "teambrandvibes@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 15: ordinal not in range(128)",
+    "timestamp": "2026-09-11T03:10:54.215910"
+  },
+  {
+    "to": "holidays@al-majid.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365a598aasm2580744c88.1 - gsmtp')",
+    "timestamp": "2026-09-11T03:11:38.377849"
+  },
+  {
+    "to": "lamees.elzeghaty@greatplacetowork.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4cf31c1sm2274272eec.1 - gsmtp')",
+    "timestamp": "2026-09-11T03:12:01.500053"
+  },
+  {
+    "to": "jptamvada@gmail.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e52a60sm2166266eec.6 - gsmtp')",
+    "timestamp": "2026-09-11T03:14:43.581800"
+  },
+  {
+    "to": "info@cottonwood.vc",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365a59b18sm2592165c88.2 - gsmtp')",
+    "timestamp": "2026-09-11T03:15:06.840498"
+  },
+  {
+    "to": "tamalum@tatainvestment.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba7a9bb56sm1908606eec.31 - gsmtp')",
+    "timestamp": "2026-09-11T03:17:52.797820"
+  },
+  {
+    "to": "bipin@mobikwik.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4ed64fcsm2467873eec.16 - gsmtp')",
+    "timestamp": "2026-09-11T03:18:17.427407"
+  },
+  {
+    "to": "swm@noumreti.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b78d59sm2557422c88.8 - gsmtp')",
+    "timestamp": "2026-09-11T03:20:55.897831"
+  },
+  {
+    "to": "prateek@vverse.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b8f1f7sm2472768c88.11 - gsmtp')",
+    "timestamp": "2026-09-11T03:21:17.603343"
+  },
+  {
+    "to": "okan.inaltay@gpbullhound.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b345a4sm2650368c88.5 - gsmtp')",
+    "timestamp": "2026-09-11T03:24:04.705351"
+  },
+  {
+    "to": "luis_rosas@woodbridgegroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f5833fsm2633131eec.23 - gsmtp')",
+    "timestamp": "2026-09-11T03:24:25.223244"
+  },
+  {
+    "to": "gthomas@adq.ae",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b345a4sm2665916c88.5 - gsmtp')",
+    "timestamp": "2026-09-11T03:27:03.349288"
+  },
+  {
+    "to": "innovation@mhi.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365ba729dsm3570585c88.14 - gsmtp')",
+    "timestamp": "2026-09-11T03:27:25.569973"
+  },
+  {
+    "to": "secretary.acs@almanagroup.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b97994sm4291336c88.12 - gsmtp')",
+    "timestamp": "2026-09-11T03:30:08.000327"
+  },
+  {
+    "to": "laura@angellist.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-143659a9a06sm2848607c88.0 - gsmtp')",
+    "timestamp": "2026-09-11T03:30:31.213024"
+  },
+  {
+    "to": "donald.farquharson@bailliegifford.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365a59b18sm2672735c88.2 - gsmtp')",
+    "timestamp": "2026-09-11T03:33:08.644519"
+  },
+  {
+    "to": "ravi.raj@manipalgroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b759d0sm2910540c88.7 - gsmtp')",
+    "timestamp": "2026-09-11T03:33:32.120250"
+  },
+  {
+    "to": "contact@blume.vc",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365a598aasm2701041c88.1 - gsmtp')",
+    "timestamp": "2026-09-11T03:36:19.990353"
+  },
+  {
+    "to": "contact@gennexcorp.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b97994sm4371604c88.12 - gsmtp')",
+    "timestamp": "2026-09-11T03:36:42.845914"
+  },
+  {
+    "to": "a.chen@mwam.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e95075sm2383591eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T03:39:23.692045"
+  },
+  {
+    "to": "help@familyoffice.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b759d0sm2945559c88.7 - gsmtp')",
+    "timestamp": "2026-09-11T03:39:46.354910"
+  },
+  {
+    "to": "acuignet@cambonpartners.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e5182fsm2442508eec.9 - gsmtp')",
+    "timestamp": "2026-09-11T03:42:22.761560"
+  },
+  {
+    "to": "dalia@weaveimpact.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e5123esm2181358eec.8 - gsmtp')",
+    "timestamp": "2026-09-11T03:42:43.632900"
+  },
+  {
+    "to": "malcolm.schutte@centricus.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b345a4sm2776052c88.5 - gsmtp')",
+    "timestamp": "2026-09-11T03:45:20.585496"
+  },
+  {
+    "to": "recruit@suhailbahwangroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e51449sm2188134eec.5 - gsmtp')",
+    "timestamp": "2026-09-11T03:45:41.763519"
+  },
+  {
+    "to": "anuroop@lionrock.com",
+    "from": "teambrandvibes@gmail.com",
+    "error": "Connection unexpectedly closed: The read operation timed out",
+    "timestamp": "2026-09-11T03:48:29.757039"
+  },
+  {
+    "to": "a.persak@mwam.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b97994sm4495177c88.12 - gsmtp')",
+    "timestamp": "2026-09-11T03:49:12.733359"
+  },
+  {
+    "to": "all.unilazer@unilazer.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e52a60sm2334530eec.6 - gsmtp')",
+    "timestamp": "2026-09-11T03:49:35.740842"
+  },
+  {
+    "to": "nemoqi@etoro.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e95075sm2459229eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T03:52:27.179472"
+  },
+  {
+    "to": "fiona.warren@bailliegifford.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba7a9bb56sm2133297eec.31 - gsmtp')",
+    "timestamp": "2026-09-11T03:52:51.255502"
+  },
+  {
+    "to": "thejaswini@rapido.bike",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-143659a9a06sm2981825c88.0 - gsmtp')",
+    "timestamp": "2026-09-11T03:56:01.212306"
+  },
+  {
+    "to": "mark.maldonado@fidelity.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365a59b18sm2804011c88.2 - gsmtp')",
+    "timestamp": "2026-09-11T03:58:42.223667"
+  },
+  {
+    "to": "himani@leena.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365ba71cesm2857050c88.13 - gsmtp')",
+    "timestamp": "2026-09-11T03:59:04.887503"
+  },
+  {
+    "to": "market.offers@envato.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e4fb3esm2513254eec.7 - gsmtp')",
+    "timestamp": "2026-09-11T04:02:04.100257"
+  },
+  {
+    "to": "wilhelm.detry@outlierventures.io",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4b1f409sm2738004eec.0 - gsmtp')",
+    "timestamp": "2026-09-11T04:02:26.691973"
+  },
+  {
+    "to": "afurst@qti.qualcomm.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4ed64fcsm2756479eec.16 - gsmtp')",
+    "timestamp": "2026-09-11T04:05:14.607914"
+  },
+  {
+    "to": "home@abc.xyz",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f7390csm2447975eec.26 - gsmtp')",
+    "timestamp": "2026-09-11T04:05:38.773616"
+  },
+  {
+    "to": "elena.bocharova@gpbullhound.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e95075sm2549520eec.11 - gsmtp')",
+    "timestamp": "2026-09-11T04:08:13.565290"
+  },
+  {
+    "to": "jcorum@lincolninternational.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e51449sm2306727eec.5 - gsmtp')",
+    "timestamp": "2026-09-11T04:08:32.824228"
+  },
+  {
+    "to": "cv@alantra.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f82c69sm2578030eec.27 - gsmtp')",
+    "timestamp": "2026-09-11T04:11:20.847757"
+  },
+  {
+    "to": "kapil@observe.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f739b5sm2582010eec.25 - gsmtp')",
+    "timestamp": "2026-09-11T04:11:44.036713"
+  },
+  {
+    "to": "arshad@betatron.co",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f82c69sm2599004eec.27 - gsmtp')",
+    "timestamp": "2026-09-11T04:14:22.383348"
+  },
+  {
+    "to": "shyam.yadavalli@360.one",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b8ead8sm2951389c88.10 - gsmtp')",
+    "timestamp": "2026-09-11T04:14:44.413245"
+  },
+  {
+    "to": "f\u00e1biobarbosa@natura.net",
+    "from": "hydronext6@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-11T04:17:26.170835"
+  },
+  {
+    "to": "lazout@cambonpartners.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4b1f409sm2853749eec.0 - gsmtp')",
+    "timestamp": "2026-09-11T04:17:50.154716"
+  },
+  {
+    "to": "bmisales123@almullagroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f7390csm2529533eec.26 - gsmtp')",
+    "timestamp": "2026-09-11T04:18:11.865646"
+  },
+  {
+    "to": "flanagan@blackstone.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4fb3ddasm2331025eec.30 - gsmtp')",
+    "timestamp": "2026-09-11T04:20:59.009370"
+  },
+  {
+    "to": "justin@working-cap.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4ed295esm2816900eec.15 - gsmtp')",
+    "timestamp": "2026-09-11T04:21:18.794910"
+  },
+  {
+    "to": "jkennard@ark-invest.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e9a3casm2620653eec.12 - gsmtp')",
+    "timestamp": "2026-09-11T04:23:54.731044"
+  },
+  {
+    "to": "abass.bila@impactvest.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f55735sm2741035eec.24 - gsmtp')",
+    "timestamp": "2026-09-11T04:24:16.159794"
+  },
+  {
+    "to": "kra@preludeventures.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365ba729dsm3967303c88.14 - gsmtp')",
+    "timestamp": "2026-09-11T04:26:58.700262"
+  },
+  {
+    "to": "ankit.modi@qure.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b97994sm4914489c88.12 - gsmtp')",
+    "timestamp": "2026-09-11T04:27:19.786791"
+  },
+  {
+    "to": "vikas@rapido.bike",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4cf72dbsm2904213eec.3 - gsmtp')",
+    "timestamp": "2026-09-11T04:30:07.627879"
+  },
+  {
+    "to": "n.kothari@greenstoneadvisory.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4efc398sm2898051eec.19 - gsmtp')",
+    "timestamp": "2026-09-11T04:30:26.833942"
+  },
+  {
+    "to": "shail.pillay@aequitasindia.in",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4b1f409sm2976994eec.0 - gsmtp')",
+    "timestamp": "2026-09-11T04:33:11.387420"
+  },
+  {
+    "to": "stefan@antler.co",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e5182fsm2755340eec.9 - gsmtp')",
+    "timestamp": "2026-09-11T04:33:35.188940"
+  },
+  {
+    "to": "tierney@usv.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-143659a9a06sm3210038c88.0 - gsmtp')",
+    "timestamp": "2026-09-11T04:36:24.365334"
+  },
+  {
+    "to": "eshita@beyondnextventures.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b8f1f7sm2859237c88.11 - gsmtp')",
+    "timestamp": "2026-09-11T04:36:46.647937"
+  },
+  {
+    "to": "events@venturecatalysts.in",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4ed79absm2994854eec.17 - gsmtp')",
+    "timestamp": "2026-09-11T04:39:32.893604"
+  },
+  {
+    "to": "rupali@bergerbd.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4cf31c1sm2784586eec.1 - gsmtp')",
+    "timestamp": "2026-09-11T04:39:54.421201"
+  },
+  {
+    "to": "ral@sbivencapital.com.sg",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba7a9bb56sm2464642eec.31 - gsmtp')",
+    "timestamp": "2026-09-11T04:42:49.758059"
+  },
+  {
+    "to": "f\u00e1bio.barbosa@natura.net",
+    "from": "techxp.kunaljain@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-11T04:43:02.094844"
+  },
+  {
+    "to": "sg@growx.vc",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b345a4sm3112138c88.5 - gsmtp')",
+    "timestamp": "2026-09-11T04:43:13.755257"
+  },
+  {
+    "to": "f\u00e1bio@natura.net",
+    "from": "hydronext6@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe1' in position 10: ordinal not in range(128)",
+    "timestamp": "2026-09-11T04:45:29.898841"
+  },
+  {
+    "to": "hetal@blacksoil.co.in",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4e5193dsm2767348eec.10 - gsmtp')",
+    "timestamp": "2026-09-11T04:45:54.875961"
+  },
+  {
+    "to": "michaelfreedman@bayberrieholdings.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-143659a9a06sm3277994c88.0 - gsmtp')",
+    "timestamp": "2026-09-11T04:46:16.037828"
+  },
+  {
+    "to": "maen@alshaya.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4cf72dbsm3044366eec.3 - gsmtp')",
+    "timestamp": "2026-09-11T04:48:58.261154"
+  },
+  {
+    "to": "thomas.venon@18eastcapital.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4ed79absm3067553eec.17 - gsmtp')",
+    "timestamp": "2026-09-11T04:49:19.855300"
+  },
+  {
+    "to": "ruimendon\u00e7a@marfrig.com.br",
+    "from": "cofounder.parshwapower@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 18: ordinal not in range(128)",
+    "timestamp": "2026-09-11T04:50:28.566943"
+  },
+  {
+    "to": "vonda.ahrens@fidelity.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 5a478bee46e88-33ba4f0feaasm2871075eec.21 - gsmtp')",
+    "timestamp": "2026-09-11T04:51:56.155499"
+  },
+  {
+    "to": "sukumar.s@strides.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4cf72dbsm3069644eec.3 - gsmtp')",
+    "timestamp": "2026-09-11T04:52:15.090901"
+  },
+  {
+    "to": "kapil.khandelwal@blackrock.com",
+    "from": "founder.heatbolt@gmail.com",
+    "error": "(550, b'5.4.5 Daily user sending limit exceeded. For more information on Gmail\\n5.4.5 sending limits go to\\n5.4.5  https://support.google.com/a/answer/166852 a92af1059eb24-14365b348cbsm3072805c88.3 - gsmtp')",
+    "timestamp": "2026-09-11T04:54:59.023599"
+  },
+  {
+    "to": "ravi@venturecatalysts.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e52a60sm2756580eec.6 - gsmtp')",
+    "timestamp": "2026-09-11T04:55:22.442426"
+  },
+  {
+    "to": "cgilliet@eurazeo.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f82c69sm2927465eec.27 - gsmtp')",
+    "timestamp": "2026-09-11T04:58:23.476005"
+  },
+  {
+    "to": "atishay@sarvam.ai",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f5833fsm3367029eec.23 - gsmtp')",
+    "timestamp": "2026-09-11T05:01:38.588192"
+  },
+  {
+    "to": "eric@lsvp.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e5193dsm2895310eec.10 - gsmtp')",
+    "timestamp": "2026-09-11T05:04:39.952635"
+  },
+  {
+    "to": "sushil.swami@bvcventures.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba7a9bb56sm2663441eec.31 - gsmtp')",
+    "timestamp": "2026-09-11T05:07:57.607357"
+  },
+  {
+    "to": "anna.hedlund@bezosearthfund.org",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f5833fsm3454459eec.23 - gsmtp')",
+    "timestamp": "2026-09-11T05:10:58.335591"
+  },
+  {
+    "to": "dutta@meity.gov.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f82c69sm3053782eec.27 - gsmtp')",
+    "timestamp": "2026-09-11T05:13:52.440951"
+  },
+  {
+    "to": "hello@siriusone.vc",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired a92af1059eb24-14365b345a4sm3317968c88.5 - gsmtp')",
+    "timestamp": "2026-09-11T05:17:03.420325"
+  },
+  {
+    "to": "aince@atherenergy.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f06423sm3174603eec.20 - gsmtp')",
+    "timestamp": "2026-09-11T05:20:16.450056"
+  },
+  {
+    "to": "investments@agventures.co.in",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4f1e434sm3138109eec.22 - gsmtp')",
+    "timestamp": "2026-09-11T05:23:26.331194"
+  },
+  {
+    "to": "rui.mendon\u00e7a@marfrig.com.br",
+    "from": "superreachconsultant@gmail.com",
+    "error": "'ascii' codec can't encode character '\\xe7' in position 19: ordinal not in range(128)",
+    "timestamp": "2026-09-11T05:25:37.077016"
+  },
+  {
+    "to": "clarise@innovencapital.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4fb3ddasm2731465eec.30 - gsmtp')",
+    "timestamp": "2026-09-11T05:26:50.421311"
+  },
+  {
+    "to": "avin@tarongagroup.com",
+    "from": "trillionmemberclub@gmail.com",
+    "error": "(534, b'5.7.9 Please log in with your web browser and then try again. For more\\n5.7.9 information, go to\\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 5a478bee46e88-33ba4e52a60sm3023186eec.6 - gsmtp')",
+    "timestamp": "2026-09-11T05:29:56.596696"
+  }
+]

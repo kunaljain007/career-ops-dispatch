@@ -1,0 +1,35 @@
+name: Daily Email Dispatch
+
+on:
+  schedule:
+    # Runs every day at 03:30 UTC (09:00 AM IST)
+    # - cron: "30 3 * * *"
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run parallel dispatcher (16 accounts x 80 = 1280 emails)
+        run: python parallel_dispatch.py
+
+      - name: Commit updated queue back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f data/all_unsent_emails.json || true
+          git diff --cached --quiet || git commit -m "chore: update queue after daily dispatch [skip ci]"
+          git push origin HEAD || true
