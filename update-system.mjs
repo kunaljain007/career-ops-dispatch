@@ -213,7 +213,7 @@ function newestBackupBranch(branches) {
 }
 
 function git(...args) {
-  return execFileSync('git', args, { cwd: ROOT, encoding: 'utf-8', timeout: 30000 }).trim();
+  return execFileSync('git', args, { cwd: ROOT, encoding: 'utf-8', timeout: 180000 }).trim();
 }
 
 function gitStatusEntries() {
