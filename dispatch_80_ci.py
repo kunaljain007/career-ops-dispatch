@@ -1554,7 +1554,7 @@ print(f"Active SMTPs: {len(smtp_pool)} | Target: {len(today_batch)} (Fresh: {len
 with open(QUEUE_FILE, "w", encoding="utf-8") as f:
     json.dump(remaining_queue, f, indent=2)
 
-from send_heatbolt_emails import build_html_body, build_plain_body, SUBJECT
+from email_templates import build_html_body, build_plain_body, SUBJECT
 
 REPLY_TO = "founder.heatbolt@gmail.com"
 CC       = "team.heatbolt@gmail.com"

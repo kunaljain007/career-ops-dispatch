@@ -23,7 +23,7 @@ jobs:
         env:
           SMTP_POOL_JSON: ${{ secrets.SMTP_POOL_JSON }}
         run: |
-          python dispatch_80_ci.py || true
+          python dispatch_80_ci.py
 
       - name: Commit and push sent logs
         run: |
