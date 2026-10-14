@@ -1732,7 +1732,8 @@ for idx, (item_type, target_email, seq) in enumerate(today_batch, 1):
             json.dump(failed_records, f, indent=2)
     
     current_smtp_idx = (current_smtp_idx + 1) % len(smtp_pool)
-    delay = random.uniform(15, 25)
+    delay = random.uniform(35, 60)
+    print(f"Pacing: resting {delay:.1f}s before next send...", flush=True)
     time.sleep(delay)
 
 print(f"Job finished. Successfully sent: {len(sent_records)}, Failed: {len(failed_records)}")
