@@ -1474,6 +1474,23 @@ else:
     with open(SMTP_FILE, "r", encoding="utf-8") as f:
         smtp_pool = json.load(f)
 
+# Filter active accounts considering 24h cooldown
+valid_pool = []
+now_iso = datetime.now().isoformat()
+for acc in smtp_pool:
+    if acc.get("active", True) is False:
+        cooldown = acc.get("cooldown_until")
+        if cooldown and now_iso >= cooldown:
+            acc["active"] = True
+            valid_pool.append(acc)
+        else:
+            print(f"[COOLDOWN] Skipping {acc['user']} (resting until {cooldown})")
+    else:
+        valid_pool.append(acc)
+
+smtp_pool = valid_pool
+print(f"[POOL] Active sending pool size: {len(smtp_pool)} accounts")
+
 queue_emails = []
 if os.path.exists(QUEUE_FILE):
     try:
