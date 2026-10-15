@@ -1,4 +1,4 @@
-name: Daily 4:00 AM IST Email Dispatch (80/SMTP - 1280 Total)
+name: Daily 4:00 AM IST Email Dispatch (15/SMTP Warmup - 240 Total)
 
 on:
   schedule:
