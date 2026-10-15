@@ -1,0 +1,2252 @@
+# Portal Scanner Configuration
+# Used by /career-ops scan to discover new offers automatically.
+#
+# Strategy (3 levels):
+#   1. Playwright → careers_url of each company (real-time, reliable)
+#   2. Greenhouse API → structured JSON (fast, Greenhouse-only)
+#   3. WebSearch with site: filters (broad discovery, may be stale)
+#
+# IMPORTANT: Each company in tracked_companies MUST have careers_url.
+#
+# HOW TO CUSTOMIZE:
+#   1. Copy this file to portals.yml in the project root
+#   2. Edit title_filter.positive with YOUR target role keywords
+#   3. Add/remove companies in tracked_companies
+#   4. Adjust search_queries for your preferred job boards
+#   5. Set enabled: false on companies you don't care about
+
+# -- Title filter --
+# The scanner uses these keywords to decide if a title is relevant.
+# At least 1 positive must match AND 0 negatives must match (case-insensitive).
+
+title_filter:
+  positive:
+    # [CUSTOMIZE] Add keywords matching YOUR target roles
+    - "Chief of Staff"
+    - "Head of Strategy"
+    - "Strategy Lead"
+    - "Operations"
+    - "Director of Innovation"
+    - "Founder in Residence"
+    - "General Manager"
+    - "Special Projects"
+    - "Intern"
+    - "Internship"
+    - "MBA Intern"
+    - "VP Strategy"
+    - "Professor"
+    - "Lecturer"
+    - "Faculty"
+    - "Teaching"
+    - "Instructor"
+    - "Adjunct"
+    - "Curriculum"
+    - "Academic"
+    - "Research Fellow"
+    - "Dean"
+    - "Education Lead"
+    - "Training Manager"
+    - "Learning and Development"
+    - "L&D"
+    - "Corporate Trainer"
+    - "Head of Learning"
+    - "Tutor"
+    - "AI Engineer"
+    - "Applied AI"
+    - "AI Product Manager"
+    - "Solutions Architect"
+    - "Solutions Engineer"
+    - "Forward Deployed"
+    - "Deployment Strategist"
+    - "Machine Learning"
+    - "ML Engineer"
+    - "LLMOps"
+    - "Developer Advocate"
+    - "DevRel"
+    - "AI Researcher"
+    - "AI Safety"
+    - "AI Strategy"
+    - "Head of AI"
+    - "Founding Engineer"
+    - "Customer Engineer"
+    - "Field Engineer"
+    - "GTM Engineer"
+    - "Prompt Engineer"
+    - "Voice AI"
+    - "Conversational AI"
+    - "Data Scientist"
+    - "Research Scientist"
+    - "Venture Partner"
+    - "Startup Mentor"
+    - "Startup Advisor"
+    - "Entrepreneur in Residence"
+    - "EIR"
+    - "Fractional Chief of Staff"
+    - "Fractional COO"
+    - "Fractional Head of Strategy"
+    - "Consultant"
+    - "Strategy Consultant"
+    - "Principal Consultant"
+    - "Startup Consultant"
+    - "Venture Builder"
+    - "Head of Growth"
+    - "Head of Business Operations"
+    - "Remote"
+
+  negative:
+    # [CUSTOMIZE] Add keywords for roles you want to exclude
+    - "Junior"
+    - ".NET"
+    - "Java "
+    - "iOS"
+    - "Android"
+    - "PHP"
+    - "Ruby"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto"
+    - "Salesforce Admin"
+    - "SAP "
+    - "Oracle EBS"
+    - "Mainframe"
+    - "COBOL"
+  seniority_boost:
+    # These prefixes add relevance but are not required
+    - "Senior"
+    - "Staff"
+    - "Principal"
+    - "Lead"
+    - "Head"
+    - "Director"
+
+# -- Search queries --
+# Each query triggers a WebSearch. Use site: to filter by portal.
+# The scanner extracts title, URL, and company from results.
+
+search_queries:
+  # -- Ashby --
+  - name: Ashby — Chief of Staff
+    query: 'site:jobs.ashbyhq.com "Chief of Staff" OR "Head of Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Ashby — Strategy & Ops
+    query: 'site:jobs.ashbyhq.com "Strategy & Operations" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Ashby — Startup Mentoring & Advisory
+    query: 'site:jobs.ashbyhq.com "Venture Partner" OR "EIR" OR "Startup Advisor" OR "Fractional" remote'
+    enabled: true
+
+  # -- Greenhouse --
+  - name: Greenhouse — Chief of Staff
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Chief of Staff" OR "Head of Strategy" remote'
+    enabled: true
+
+  - name: Greenhouse — Remote AI & Startups
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "AI Transformation" OR "Solutions Architect" OR "Head of AI" remote'
+    enabled: true
+
+
+  - name: Greenhouse — Strategy & Ops
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Strategy & Operations" OR "Business Operations" remote'
+    enabled: true
+
+  # -- Lever --
+  - name: Lever — Chief of Staff
+    query: 'site:jobs.lever.co "Chief of Staff" OR "Head of Strategy" remote'
+    enabled: true
+
+  - name: Lever — Strategy & Ops
+    query: 'site:jobs.lever.co "Strategy & Operations" OR "Business Operations" remote'
+    enabled: true
+  - name: Lever — AI PM
+    query: 'site:jobs.lever.co "AI Product Manager" OR "Solutions Architect" AI remote'
+    enabled: true
+
+  - name: Lever — AI Roles
+    query: 'site:jobs.lever.co "AI Engineer" OR "Agentic" OR "LLMOps" OR "Automation" remote'
+    enabled: true
+
+  # -- High Paying / Executive --
+  - name: High Paying — Ashby
+    query: 'site:jobs.ashbyhq.com "Chief of Staff" OR "AI" OR "Executive" "$200k" OR "$250k" OR "$300k" OR "$350k" remote'
+    enabled: true
+
+  - name: High Paying — Greenhouse
+    query: 'site:boards.greenhouse.io OR site:job-boards.greenhouse.io "Chief of Staff" OR "AI" OR "Executive" "$200k" OR "$250k" OR "$300k" OR "$350k" remote'
+    enabled: true
+
+  - name: High Paying — Lever
+    query: 'site:jobs.lever.co "Chief of Staff" OR "AI" OR "Executive" "$200k" OR "$250k" OR "$300k" OR "$350k" remote'
+    enabled: true
+
+  # -- Wellfound (startups) --
+  - name: Wellfound — AI PM
+    query: 'site:wellfound.com "AI Product Manager" OR "AI Solutions" remote'
+    enabled: true
+
+  # -- Workable --
+  - name: Workable — AI Roles
+    query: 'site:apply.workable.com "AI" "Product Manager" OR "Solutions Architect" OR "AI Engineer" remote'
+    enabled: true
+
+  # -- No-Code / Low-Code / Automation --
+  - name: Ashby — No-Code & Automation
+    query: 'site:jobs.ashbyhq.com "no-code" OR "low-code" OR "automation engineer" OR "n8n" OR "Make" OR "Airtable" remote senior'
+    enabled: true
+
+  - name: Greenhouse — No-Code & Automation
+    query: 'site:job-boards.greenhouse.io "no-code" OR "low-code" OR "automation engineer" OR "business systems" senior remote'
+    enabled: true
+
+  - name: GTM Engineer — All portals
+    query: '"GTM Engineer" OR "RevOps Engineer" OR "Growth Engineer" automation Airtable OR Make OR Clay remote'
+    enabled: true
+
+  # -- Voice AI & Conversational AI --
+  - name: Voice AI — FDE & SA
+    query: 'site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com "Voice AI" OR "Conversational AI" OR "Speech" "Solutions" OR "Forward Deployed" OR "Customer Engineer"'
+    enabled: true
+
+  - name: Voice AI — AI Engineer
+    query: 'site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com "Voice" OR "Speech" "AI Engineer" OR "Deployment" OR "Integration"'
+    enabled: true
+
+  # -- Contact Center AI --
+  - name: Contact Center AI — SA & SE
+    query: '"contact center" OR "customer service" "AI" "Solutions Architect" OR "Solutions Engineer" OR "Forward Deployed" remote'
+    enabled: true
+
+  # -- FDE specific (cross-portal) --
+  - name: FDE & Deployed Engineer — All portals
+    query: '"Forward Deployed Engineer" OR "Deployed Engineer" OR "Deployment Engineer" AI site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com OR site:jobs.lever.co'
+    enabled: true
+
+  # -- RemoteFront (aggregator) --
+  - name: RemoteFront — AI & Automation
+    query: 'site:remotefront.com "AI Engineer" OR "Solutions Engineer" OR "Automation" OR "LLM" OR "Agent" remote'
+    enabled: true
+
+  # -- Remote-friendly Europe boards --
+
+  - name: Remotive — AI/DevRel/SA/FDE
+    query: 'site:remotive.com "AI Engineer" OR "Developer Advocate" OR "Solutions Architect" OR "Forward Deployed" OR "DevRel" Europe'
+    enabled: true
+
+  - name: WeWorkRemotely — AI & DX
+    query: 'site:weworkremotely.com "AI" OR "DevRel" OR "Solutions Engineer" OR "Forward Deployed" OR "Founding Engineer"'
+    enabled: true
+
+  - name: Working Nomads — AI/DevRel/SA
+    query: 'site:workingnomads.com "AI Engineer" OR "Developer Advocate" OR "Solutions Architect" OR "Forward Deployed"'
+    enabled: true
+
+  - name: EU Remote Jobs — AI/DevRel/SA
+    query: 'site:euremotejobs.com "AI" OR "DevRel" OR "Solutions Architect" OR "Forward Deployed" OR "Founding Engineer"'
+    enabled: true
+
+  - name: RemoteOK — AI/DevRel/SA
+    query: 'site:remoteok.com "AI Engineer" OR "Developer Advocate" OR "Solutions Architect" OR "Forward Deployed" OR "Founding Engineer"'
+    enabled: true
+
+  # -- Specialized AI / Dev-Tools / FDE boards --
+
+  - name: ai-jobs.net — DevRel/SA/FDE
+    query: 'site:ai-jobs.net "Developer Advocate" OR "Solutions Architect" OR "Forward Deployed" OR "DevRel" remote Europe'
+    enabled: true
+
+  - name: ai-jobs.net — Founding/Applied AI
+    query: 'site:ai-jobs.net "Founding Engineer" OR "Applied AI Engineer" OR "Founding" remote'
+    enabled: true
+
+  - name: fwddeploy.com — Forward Deployed roles
+    query: 'site:fwddeploy.com "Forward Deployed" OR "Deployed Engineer" remote Europe OR EMEA'
+    enabled: true
+
+  - name: YC Jobs — Operations & Strategy
+    query: 'site:ycombinator.com/jobs OR site:workatastartup.com "Chief of Staff" OR "Head of Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: YC Jobs — Heavily Funded
+    query: 'site:workatastartup.com "Series A" OR "Series B" OR "Seed" "Chief of Staff" OR "Operations" remote'
+    enabled: true
+
+  - name: Wellfound — Heavily Funded Startups
+    query: 'site:wellfound.com "Operations" OR "Chief of Staff" OR "Strategy" "Series A" OR "Series B" remote'
+    enabled: true
+
+  # -- Spanish market specialized (high-value for Madrid/Barcelona-based candidates) --
+
+  - name: Manfred — Tech Senior España
+    query: 'site:getmanfred.com/en/job-offers "Solutions Architect" OR "DevRel" OR "Forward Deployed" OR "AI Engineer" OR "Founding"'
+    enabled: true
+
+  - name: Tecnoempleo — Remoto Senior
+    query: 'site:tecnoempleo.com "remoto" OR "remote" Senior "AI" OR "Architect" OR "Lead"'
+    enabled: true
+
+  - name: JobFluent — Spain startups
+    query: 'site:jobfluent.com Madrid OR Barcelona "AI" OR "Engineer" OR "Solutions" OR "DevRel"'
+    enabled: true
+
+  - name: Welcome to the Jungle — Spain tech
+    query: 'site:welcometothejungle.com Spain OR Madrid OR Barcelona "AI Engineer" OR "Solutions Architect" OR "DevRel" OR "Forward Deployed"'
+    enabled: true
+
+  # -- DevRel-specific boards --
+
+  - name: DevRelX Jobs
+    query: 'site:devrelx.com/jobs remote OR Europe OR EMEA'
+    enabled: true
+
+  - name: TrueUp — DevRel roles
+    query: 'site:trueup.io/devrel OR site:trueup.io "Developer Advocate" OR "DevRel" remote Europe'
+    enabled: true
+
+  - name: Remote Rocketship — DevRel
+    query: 'site:remoterocketship.com/jobs/developer-relations OR site:remoterocketship.com "DevRel" remote'
+    enabled: true
+
+  - name: DevRel Job board
+    query: 'site:devreljob.com remote OR Europe OR EMEA'
+    enabled: true
+
+  # -- European / global aggregators --
+
+  - name: Himalayas — Remote AI/Dev-tools
+    query: 'site:himalayas.app "AI Engineer" OR "Solutions Architect" OR "Developer Advocate" OR "Forward Deployed" OR "Founding Engineer" Europe'
+    enabled: true
+
+  - name: Jooble — España Tech Senior
+    query: 'site:jooble.org "AI Engineer" OR "Solutions Architect" OR "DevRel" Madrid OR remote España'
+    enabled: true
+
+  - name: EU Data Jobs — AI/ML Europe
+    query: 'site:eudatajobs.com "AI" OR "ML" OR "Data" "Engineer" OR "Architect" remote Europe'
+    enabled: true
+
+  - name: HN Who's Hiring — Remote AI
+    query: 'site:news.ycombinator.com OR site:hnrss.org "AI Engineer" OR "Forward Deployed" OR "DevRel" OR "Founding Engineer" remote'
+    enabled: true
+
+# -- Tracked companies --
+# Companies whose career pages are checked directly.
+# scan_method: playwright (default), websearch, greenhouse_api
+# For Greenhouse companies, add api: field for faster structured JSON access.
+
+tracked_companies:
+
+  # -- AI Labs & LLM providers --
+
+  - name: Anthropic
+    careers_url: https://job-boards.greenhouse.io/anthropic
+    api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
+    enabled: true
+
+  - name: OpenAI
+    careers_url: https://openai.com/careers
+    scan_method: websearch
+    scan_query: 'site:openai.com/careers "Solutions" OR "Forward Deployed" OR "AI Engineer"'
+    enabled: true
+
+  # -- Voice AI & Conversational AI --
+
+  - name: PolyAI
+    careers_url: https://job-boards.eu.greenhouse.io/polyai
+    api: https://boards-api.greenhouse.io/v1/boards/polyai/jobs
+    notes: "UK. Voice AI for enterprise contact centers."
+    enabled: true
+
+  - name: Parloa
+    careers_url: https://job-boards.eu.greenhouse.io/parloa
+    api: https://boards-api.greenhouse.io/v1/boards/parloa/jobs
+    notes: "Berlin EMEA. Voice AI enterprise."
+    enabled: true
+
+  - name: Intercom
+    careers_url: https://job-boards.greenhouse.io/intercom
+    api: https://boards-api.greenhouse.io/v1/boards/intercom/jobs
+    notes: "Dublin EMEA. Fin AI agent."
+    enabled: true
+
+  - name: Hume AI
+    careers_url: https://job-boards.greenhouse.io/humeai
+    api: https://boards-api.greenhouse.io/v1/boards/humeai/jobs
+    notes: "NYC. Empathic voice AI."
+    enabled: true
+
+  - name: ElevenLabs
+    careers_url: https://jobs.ashbyhq.com/elevenlabs
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/elevenlabs'
+    notes: "Voice AI TTS leader."
+    enabled: true
+
+  - name: Deepgram
+    careers_url: https://jobs.ashbyhq.com/deepgram
+    scan_method: websearch
+    scan_query: 'site:deepgram.com/careers OR "deepgram" "Solutions" OR "AI Engineer" site:jobs.ashbyhq.com'
+    notes: "STT/TTS APIs."
+    enabled: true
+
+  - name: Vapi
+    careers_url: https://jobs.ashbyhq.com/vapi
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/vapi'
+    notes: "Voice AI infrastructure."
+    enabled: true
+
+  - name: Bland AI
+    careers_url: https://jobs.ashbyhq.com/bland
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/bland'
+    notes: "Voice phone agents. $65M Series B."
+    enabled: true
+
+  # -- AI-native platforms (FDE/SA teams) --
+
+  - name: Retool
+    careers_url: https://retool.com/careers
+    scan_method: websearch
+    scan_query: 'site:retool.com/careers "Deployed" OR "AI" OR "Solutions"'
+    notes: "London. Popularized Deployed Engineer role."
+    enabled: true
+
+  - name: Airtable
+    careers_url: https://job-boards.greenhouse.io/airtable
+    api: https://boards-api.greenhouse.io/v1/boards/airtable/jobs
+    notes: "No-code + AI platform."
+    enabled: true
+
+  - name: Vercel
+    careers_url: https://job-boards.greenhouse.io/vercel
+    api: https://boards-api.greenhouse.io/v1/boards/vercel/jobs
+    notes: "AI SDK, v0.dev. Frontend AI tooling."
+    enabled: true
+
+  - name: Temporal
+    careers_url: https://job-boards.greenhouse.io/temporal
+    api: https://boards-api.greenhouse.io/v1/boards/temporal/jobs
+    notes: "Workflow orchestration."
+    enabled: true
+
+  - name: Arize AI
+    careers_url: https://job-boards.greenhouse.io/arizeai
+    api: https://boards-api.greenhouse.io/v1/boards/arizeai/jobs
+    notes: "LLMOps / AI observability."
+    enabled: true
+
+  - name: RunPod
+    careers_url: https://job-boards.greenhouse.io/runpod
+    api: https://boards-api.greenhouse.io/v1/boards/runpod/jobs
+    notes: "GPU cloud for AI."
+    enabled: true
+
+  - name: Glean
+    careers_url: https://job-boards.greenhouse.io/gleanwork
+    api: https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs
+    notes: "Enterprise AI search."
+    enabled: true
+
+  # -- Contact Center AI & CX --
+
+  - name: Ada
+    careers_url: https://job-boards.greenhouse.io/ada
+    scan_method: websearch
+    scan_query: '"ada.cx" OR "ada" "AI" "Solutions" OR "Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io'
+    notes: "Toronto + remote. AI customer service."
+    enabled: true
+
+  - name: LivePerson
+    careers_url: https://liveperson.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:liveperson.com/careers OR "liveperson" "Solutions" OR "AI" site:job-boards.greenhouse.io'
+    notes: "Remote EMEA. Conversational AI enterprise."
+    enabled: true
+
+  - name: Sierra
+    careers_url: https://jobs.ashbyhq.com/sierra
+    scan_method: websearch
+    scan_query: '"sierra.ai" "AI" "Forward Deployed" OR "Applied" OR "Solutions" site:jobs.ashbyhq.com'
+    notes: "Bret Taylor (ex-CEO Salesforce). AI customer agents."
+    enabled: true
+
+  - name: Decagon
+    careers_url: https://jobs.ashbyhq.com/decagon
+    scan_method: websearch
+    scan_query: '"decagon" "AI" "Forward Deployed" OR "Solutions" site:jobs.ashbyhq.com'
+    notes: "AI customer support agents."
+    enabled: true
+
+  # -- Enterprise comms & contact center --
+
+  - name: Talkdesk
+    careers_url: https://www.talkdesk.com/careers
+    scan_method: websearch
+    scan_query: 'site:talkdesk.com/careers "AI" OR "Solutions Architect" OR "AI Engineer"'
+    notes: "Lisbon. Contact center AI. EMEA friendly."
+    enabled: true
+
+  - name: Twilio
+    careers_url: https://www.twilio.com/en-us/company/jobs
+    scan_method: websearch
+    scan_query: 'site:twilio.com/company/jobs "AI" OR "Voice" "Solutions" OR "Architect"'
+    notes: "Voice/messaging infrastructure."
+    enabled: true
+
+  - name: Dialpad
+    careers_url: https://www.dialpad.com/careers
+    scan_method: websearch
+    scan_query: '"dialpad" "AI" "Solutions" OR "Engineer" site:job-boards.greenhouse.io OR site:jobs.ashbyhq.com'
+    notes: "Voice AI for business comms."
+    enabled: true
+
+  - name: Gong
+    careers_url: https://www.gong.io/careers
+    scan_method: websearch
+    scan_query: 'site:gong.io/careers "AI" OR "Solutions" OR "Architect"'
+    notes: "Revenue intelligence with voice AI."
+    enabled: true
+
+  - name: Genesys
+    careers_url: https://www.genesys.com/careers
+    scan_method: websearch
+    scan_query: 'site:genesys.com/careers "AI" "Solutions Architect" OR "AI Engineer"'
+    notes: "Contact center cloud + AI."
+    enabled: true
+
+  - name: Salesforce
+    careers_url: https://careers.salesforce.com
+    scan_method: websearch
+    scan_query: 'site:careers.salesforce.com "Forward Deployed" OR "AI Engineer" OR "Agentforce"'
+    notes: "Agentforce = AI agents platform."
+    enabled: true
+
+  # -- AI infra & LLMOps --
+
+  - name: Langfuse
+    careers_url: https://langfuse.com/careers
+    scan_method: websearch
+    scan_query: '"langfuse" careers OR jobs "engineer" OR "solutions"'
+    notes: "Berlin. LLMOps / observability."
+    enabled: true
+
+  - name: Lindy
+    careers_url: https://jobs.ashbyhq.com/lindy
+    scan_method: websearch
+    scan_query: '"lindy.ai" "AI" "Forward Deployed" OR "Solutions" site:jobs.ashbyhq.com'
+    notes: "AI agent management platform."
+    enabled: true
+
+  - name: Cognigy
+    careers_url: https://careers.cognigy.com
+    scan_method: websearch
+    scan_query: '"cognigy" careers "AI" OR "Solutions" OR "Engineer"'
+    notes: "Dusseldorf EMEA. Conversational AI enterprise."
+    enabled: true
+
+  - name: Speechmatics
+    careers_url: https://job-boards.greenhouse.io/speechmatics
+    api: https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs
+    notes: "Cambridge UK. Speech recognition platform."
+    enabled: true
+
+  # -- No-Code/Low-Code & Automation --
+
+  - name: n8n
+    careers_url: https://jobs.ashbyhq.com/n8n
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/n8n'
+    notes: "Berlin + remote EU/US. Workflow automation."
+    enabled: true
+
+  - name: Zapier
+    careers_url: https://jobs.ashbyhq.com/zapier
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/zapier'
+    notes: "Remote-first. Automation platform leader."
+    enabled: true
+
+  - name: Make.com (Celonis)
+    careers_url: https://www.make.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:make.com/en/careers OR "make.com" "engineer" OR "solutions" site:jobs.ashbyhq.com'
+    notes: "Celonis parent company. Automation platform."
+    enabled: true
+
+  # -- Ashby-based (Playwright direct) --
+
+  - name: Cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+    notes: "AI/LLM provider. Toronto + remote."
+    enabled: true
+
+  - name: LangChain
+    careers_url: https://jobs.ashbyhq.com/langchain
+    notes: "LangChain/LangSmith framework."
+    enabled: true
+
+  - name: Pinecone
+    careers_url: https://jobs.ashbyhq.com/pinecone
+    notes: "Vector database."
+    enabled: true
+
+  # -- Lever-based (Playwright direct) --
+
+  - name: Mistral AI
+    careers_url: https://jobs.lever.co/mistral
+    notes: "Paris. European AI lab."
+    enabled: true
+
+  - name: Weights & Biases
+    careers_url: https://jobs.lever.co/wandb
+    notes: "MLOps platform."
+    enabled: true
+
+  - name: Palantir
+    careers_url: https://jobs.lever.co/palantir
+    notes: "FDE roles. Mostly US/London."
+    enabled: true
+
+  # -- European tech (EMEA-friendly) --
+
+  - name: Factorial
+    careers_url: https://job-boards.greenhouse.io/factorial
+    scan_method: websearch
+    scan_query: 'site:jobs.greenhouse.io/factorial'
+    notes: "Barcelona. HR SaaS unicorn."
+    enabled: true
+
+  - name: Attio
+    careers_url: https://jobs.ashbyhq.com/attio
+    scan_method: websearch
+    scan_query: 'site:attio.com/careers OR site:jobs.ashbyhq.com/attio'
+    notes: "Remote EU. AI-native CRM. Series B $52M."
+    enabled: true
+
+  - name: Tinybird
+    careers_url: https://jobs.ashbyhq.com/tinybird
+    scan_method: websearch
+    scan_query: 'site:tinybird.co/careers OR site:jobs.ashbyhq.com/tinybird'
+    notes: "Remote. Real-time data platform."
+    enabled: true
+
+  - name: Clarity AI
+    careers_url: https://jobs.lever.co/clarity-ai
+    scan_method: websearch
+    scan_query: 'site:clarity.ai/careers OR site:jobs.lever.co/clarity-ai'
+    notes: "Madrid/Remote. Sustainability analytics with AI."
+    enabled: true
+
+  - name: Travelperk
+    careers_url: https://jobs.ashbyhq.com/travelperk
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/travelperk'
+    notes: "Barcelona. Business travel unicorn."
+    enabled: true
+
+  # -- DACH & European AI ecosystem --
+  # All entries below have been verified against the Greenhouse / Ashby /
+  # Lever / Workable APIs or live job boards. Greenhouse boards expose a
+  # JSON API at https://boards-api.greenhouse.io/v1/boards/{slug}/jobs which
+  # the scanner can hit directly via the api: field.
+
+  # -- DACH AI labs & frontier model providers --
+
+  - name: Aleph Alpha
+    careers_url: https://jobs.ashbyhq.com/AlephAlpha
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/AlephAlpha'
+    notes: "Heidelberg DE. Sovereign European LLM provider, enterprise & government focus."
+    enabled: true
+
+  - name: DeepL
+    careers_url: https://jobs.ashbyhq.com/DeepL
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/DeepL'
+    notes: "Cologne DE. Translation & language AI. 60+ open roles, EU/DACH heavy."
+    enabled: true
+
+  - name: Black Forest Labs
+    careers_url: https://job-boards.greenhouse.io/blackforestlabs
+    api: https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs
+    notes: "Freiburg DE / SF. FLUX image models, ex-Stable Diffusion team."
+    enabled: true
+
+  - name: Helsing
+    careers_url: https://job-boards.greenhouse.io/helsing
+    api: https://boards-api.greenhouse.io/v1/boards/helsing/jobs
+    notes: "Munich / Berlin / London / Paris. Defence AI unicorn. 100+ roles, ML & FDE."
+    enabled: true
+
+  # -- DACH enterprise & SaaS (AI-heavy) --
+
+  - name: Celonis
+    careers_url: https://job-boards.greenhouse.io/celonis
+    api: https://boards-api.greenhouse.io/v1/boards/celonis/jobs
+    notes: "Munich / NYC. Process intelligence, Applied AI Engineer roles, Field CTOs."
+    enabled: true
+
+  - name: Contentful
+    careers_url: https://job-boards.greenhouse.io/contentful
+    api: https://boards-api.greenhouse.io/v1/boards/contentful/jobs
+    notes: "Berlin / Denver. Headless CMS, AI content workflows."
+    enabled: true
+
+  - name: GetYourGuide
+    careers_url: https://job-boards.greenhouse.io/getyourguide
+    api: https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs
+    notes: "Berlin. Travel marketplace, ML & data platform roles."
+    enabled: true
+
+  - name: HelloFresh
+    careers_url: https://job-boards.greenhouse.io/hellofresh
+    api: https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs
+    notes: "Berlin. Meal kit unicorn, large data/ML org."
+    enabled: true
+
+  # -- DACH fintech --
+
+  - name: N26
+    careers_url: https://job-boards.greenhouse.io/n26
+    api: https://boards-api.greenhouse.io/v1/boards/n26/jobs
+    notes: "Berlin / Barcelona. Mobile bank, ~50 roles, ML & risk."
+    enabled: true
+
+  - name: Trade Republic
+    careers_url: https://job-boards.greenhouse.io/traderepublicbank
+    api: https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs
+    notes: "Berlin / London / Paris. Neobroker, ~50 roles, platform & data."
+    enabled: true
+
+  - name: SumUp
+    careers_url: https://job-boards.greenhouse.io/sumup
+    api: https://boards-api.greenhouse.io/v1/boards/sumup/jobs
+    notes: "Berlin / London. Payments fintech, EU + LATAM hiring."
+    enabled: true
+
+  - name: Qonto
+    careers_url: https://jobs.lever.co/qonto
+    notes: "Paris / Berlin / Barcelona / Milan. SMB neobank, MLOps for AI Product roles."
+    enabled: true
+
+  # -- DACH logistics / mobility --
+
+  - name: Forto
+    careers_url: https://jobs.lever.co/forto
+    notes: "Berlin DE. Digital freight forwarder, product & data roles, German + English."
+    enabled: true
+
+  # -- Switzerland / Austria AI --
+
+  - name: Lakera
+    careers_url: https://jobs.ashbyhq.com/lakera.ai
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/lakera.ai'
+    notes: "Zurich CH / SF. AI security & guardrails. Has Forward Deployed Engineer roles."
+    enabled: true
+
+  - name: Scandit
+    careers_url: https://job-boards.greenhouse.io/scandit
+    api: https://boards-api.greenhouse.io/v1/boards/scandit/jobs
+    notes: "Zurich CH. Computer vision / smart data capture, ML roles."
+    enabled: true
+
+  - name: Cradle
+    careers_url: https://jobs.ashbyhq.com/cradlebio
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/cradlebio'
+    notes: "Zurich CH / Amsterdam. AI-guided protein design, ML researcher roles."
+    enabled: true
+
+  # -- France AI ecosystem --
+
+  - name: Hugging Face
+    careers_url: https://apply.workable.com/huggingface/
+    scan_method: websearch
+    scan_query: 'site:apply.workable.com/huggingface'
+    notes: "Paris / NYC / Remote. ML hub & open-source models."
+    enabled: true
+
+  - name: Photoroom
+    careers_url: https://jobs.ashbyhq.com/photoroom
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/photoroom'
+    notes: "Paris FR. AI photo editor, Head of CV / Head of ML roles."
+    enabled: true
+
+  - name: Pigment
+    careers_url: https://jobs.lever.co/pigment
+    notes: "Paris FR / NYC / London. AI-powered FP&A planning platform."
+    enabled: true
+
+  # -- UK & Ireland AI (EU-friendly hiring) --
+
+  - name: Wayve
+    careers_url: https://job-boards.greenhouse.io/wayve
+    api: https://boards-api.greenhouse.io/v1/boards/wayve/jobs
+    notes: "London UK. Embodied AI for self-driving, ML & robotics roles."
+    enabled: true
+
+  - name: Isomorphic Labs
+    careers_url: https://job-boards.greenhouse.io/isomorphiclabs
+    api: https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs
+    notes: "London / Lausanne / Cambridge MA. DeepMind spin-out for drug discovery AI."
+    enabled: true
+
+  - name: PhysicsX
+    careers_url: https://job-boards.greenhouse.io/physicsx
+    api: https://boards-api.greenhouse.io/v1/boards/physicsx/jobs
+    notes: "London UK. Physics-informed ML for engineering, ~40 roles."
+    enabled: true
+
+  - name: Stability AI
+    careers_url: https://job-boards.greenhouse.io/stabilityai
+    api: https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs
+    notes: "London / SF. Generative AI image/video research lab."
+    enabled: true
+
+  - name: Synthesia
+    careers_url: https://jobs.ashbyhq.com/synthesia
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/synthesia OR site:job-boards.greenhouse.io/synthesia'
+    notes: "London UK. AI video generation for enterprise, $4B valuation."
+    enabled: true
+
+  - name: Faculty
+    careers_url: https://jobs.ashbyhq.com/faculty
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/faculty'
+    notes: "London UK. Applied AI consultancy. 80+ roles, AI Safety / MLE / Delivery."
+    enabled: true
+
+  - name: Causaly
+    careers_url: https://jobs.ashbyhq.com/causaly
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/causaly'
+    notes: "London / Athens. Biomedical knowledge graph + AI."
+    enabled: true
+
+  # -- Nordics AI --
+
+  - name: Lovable
+    careers_url: https://jobs.ashbyhq.com/lovable
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/lovable'
+    notes: "Stockholm SE. AI app builder (text-to-app), 80+ open roles."
+    enabled: true
+
+  - name: Legora
+    careers_url: https://jobs.ashbyhq.com/legora
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/legora'
+    notes: "Stockholm SE / NYC / London. AI-native legal workspace."
+    enabled: true
+
+  - name: Spotify
+    careers_url: https://jobs.lever.co/spotify
+    notes: "Stockholm SE / NYC / London. Audio platform, large ML/personalization org."
+    enabled: true
+
+  - name: Vinted
+    careers_url: https://jobs.lever.co/vinted
+    notes: "Vilnius LT / Berlin. C2C marketplace unicorn, data science & ML roles."
+    enabled: true
+
+  # -- Iberia AI --
+
+  - name: Amplemarket
+    careers_url: https://job-boards.greenhouse.io/amplemarket
+    api: https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs
+    notes: "Lisbon PT / Remote. AI-native sales platform."
+    enabled: true
+
+  # -- AI / Developer Tools --
+
+  - name: Perplexity
+    careers_url: https://jobs.ashbyhq.com/perplexity
+    scan_method: websearch
+    scan_query: ‘site:jobs.ashbyhq.com/perplexity "AI" OR "Applied AI" OR "Forward Deployed" OR "Engineer"’
+    notes: "AI-native search and enterprise AI platform."
+    enabled: true
+
+  - name: Clay Labs
+    careers_url: https://jobs.ashbyhq.com/claylabs
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/claylabs "AI" OR "Developer Experience" OR "Growth" OR "Engineer"'
+    notes: "AI-native GTM and workflow automation platform."
+    enabled: true
+
+  - name: Runway
+    careers_url: https://job-boards.greenhouse.io/runwayml
+    api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
+    notes: "Generative AI video and creative tooling platform."
+    enabled: true
+
+  - name: Hightouch
+    careers_url: https://job-boards.greenhouse.io/hightouch
+    api: https://boards-api.greenhouse.io/v1/boards/hightouch/jobs
+    notes: "Data activation platform with AI agents and solutions engineering roles."
+    enabled: true
+
+  - name: WorkOS
+    careers_url: https://jobs.ashbyhq.com/workos
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/workos "Solutions Engineer" OR "Developer Success" OR "Engineer"'
+    notes: "Developer tools and enterprise-ready auth/platform APIs."
+    enabled: true
+
+  # -- Dev Tools / AI Infra (DevRel, SA, FDE focus) --
+
+  - name: Supabase
+    careers_url: https://jobs.ashbyhq.com/supabase
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/supabase'
+    notes: "Open-source Firebase alternative. Remote-first. Postgres + Auth + Storage. Strong DevRel/DX hiring."
+    enabled: true
+
+  - name: Resend
+    careers_url: https://jobs.ashbyhq.com/resend
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/resend'
+    notes: "Email API for developers. Remote-first. DX/DevRel focused."
+    enabled: true
+
+  - name: Clerk
+    careers_url: https://jobs.ashbyhq.com/clerk
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/clerk'
+    notes: "Auth & user management for developers. SE / TAM / PM roles."
+    enabled: true
+
+  - name: Inngest
+    careers_url: https://jobs.ashbyhq.com/inngest
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/inngest'
+    notes: "Durable workflow engine for serverless. DX/DevRel/Engineering hiring."
+    enabled: true
+
+  - name: PlanetScale
+    careers_url: https://job-boards.greenhouse.io/planetscale
+    api: https://boards-api.greenhouse.io/v1/boards/planetscale/jobs
+    notes: "Serverless MySQL platform. Customer Engineering, Engineering, Sales."
+    enabled: true
+
+  - name: Zep AI
+    careers_url: https://www.getzep.com/careers
+    scan_method: websearch
+    scan_query: '"Zep" "Forward Deployed" OR "Developer Relations" OR "Founding" site:workatastartup.com OR site:getzep.com'
+    notes: "Context engineering platform for AI agents. YC W24. Lead FDE + DevRel Lead roles. US-only currently."
+    enabled: true
+
+  - name: Maxim AI
+    careers_url: https://www.getmaxim.ai/careers
+    scan_method: websearch
+    scan_query: '"Maxim AI" OR "getmaxim" careers "engineer" OR "product"'
+    notes: "AI evaluation and observability platform. Bangalore-based, mostly on-site."
+    enabled: true
+
+  # ── Global MNCs – Chief of Staff / Strategy / Operations ────────────────
+
+  - name: McKinsey & Company
+    careers_url: https://www.mckinsey.com/careers
+    scan_method: websearch
+    scan_query: 'site:mckinsey.com/careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Boston Consulting Group
+    careers_url: https://careers.bcg.com
+    scan_method: websearch
+    scan_query: 'site:careers.bcg.com "Chief of Staff" OR "Strategy Operations" remote'
+    enabled: true
+
+  - name: Bain & Company
+    careers_url: https://www.bain.com/careers
+    scan_method: websearch
+    scan_query: 'site:bain.com/careers "Chief of Staff" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Deloitte
+    careers_url: https://jobs.deloitte.com
+    scan_method: websearch
+    scan_query: 'site:jobs.deloitte.com "Chief of Staff" OR "Strategy" OR "Innovation Lead" remote'
+    enabled: true
+
+  - name: PwC
+    careers_url: https://jobs.pwc.com
+    scan_method: websearch
+    scan_query: 'site:jobs.pwc.com "Chief of Staff" OR "Operations Lead" OR "Innovation" remote'
+    enabled: true
+
+  - name: EY (Ernst & Young)
+    careers_url: https://careers.ey.com
+    scan_method: websearch
+    scan_query: 'site:careers.ey.com "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: KPMG
+    careers_url: https://home.kpmg/careers
+    scan_method: websearch
+    scan_query: 'site:kpmg.com "Chief of Staff" OR "Head of Operations" OR "Innovation" remote'
+    enabled: true
+
+  - name: Accenture
+    careers_url: https://www.accenture.com/us-en/careers
+    scan_method: websearch
+    scan_query: 'site:accenture.com/careers "Chief of Staff" OR "Innovation Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: IBM
+    careers_url: https://www.ibm.com/employment
+    scan_method: websearch
+    scan_query: 'site:ibm.com/employment "Chief of Staff" OR "Strategy Operations" remote'
+    enabled: true
+
+  - name: Microsoft
+    careers_url: https://careers.microsoft.com
+    scan_method: websearch
+    scan_query: 'site:careers.microsoft.com "Chief of Staff" OR "Business Program Manager" remote India'
+    enabled: true
+
+  - name: Google
+    careers_url: https://careers.google.com
+    scan_method: websearch
+    scan_query: 'site:careers.google.com "Chief of Staff" OR "Strategy & Operations" remote'
+    enabled: true
+
+  - name: Amazon
+    careers_url: https://www.amazon.jobs
+    scan_method: websearch
+    scan_query: 'site:amazon.jobs "Chief of Staff" OR "Senior Operations Manager" remote'
+    enabled: true
+
+  - name: Meta
+    careers_url: https://www.metacareers.com
+    scan_method: websearch
+    scan_query: 'site:metacareers.com "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Apple
+    careers_url: https://jobs.apple.com
+    scan_method: websearch
+    scan_query: 'site:jobs.apple.com "Chief of Staff" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Netflix
+    careers_url: https://jobs.netflix.com
+    scan_method: websearch
+    scan_query: 'site:jobs.netflix.com "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Uber
+    careers_url: https://www.uber.com/us/en/careers
+    scan_method: websearch
+    scan_query: 'site:uber.com/careers "Chief of Staff" OR "Operations Manager" OR "Strategy" remote'
+    enabled: true
+
+  - name: Airbnb
+    careers_url: https://careers.airbnb.com
+    scan_method: websearch
+    scan_query: 'site:careers.airbnb.com "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Stripe
+    careers_url: https://stripe.com/jobs
+    scan_method: websearch
+    scan_query: 'site:stripe.com/jobs "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Shopify
+    careers_url: https://www.shopify.com/careers
+    scan_method: websearch
+    scan_query: 'site:shopify.com/careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Notion
+    careers_url: https://www.notion.so/careers
+    scan_method: websearch
+    scan_query: '"notion" careers "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Figma
+    careers_url: https://www.figma.com/careers
+    scan_method: websearch
+    scan_query: 'site:figma.com/careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Canva
+    careers_url: https://www.canva.com/careers
+    scan_method: websearch
+    scan_query: 'site:canva.com/careers "Chief of Staff" OR "Head of Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Atlassian
+    careers_url: https://www.atlassian.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:atlassian.com/company/careers "Chief of Staff" OR "Operations" remote'
+    enabled: true
+
+  - name: HubSpot
+    careers_url: https://www.hubspot.com/careers
+    scan_method: websearch
+    scan_query: 'site:hubspot.com/careers "Chief of Staff" OR "GTM Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Zendesk
+    careers_url: https://jobs.zendesk.com
+    scan_method: websearch
+    scan_query: 'site:jobs.zendesk.com "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Asana
+    careers_url: https://asana.com/jobs
+    scan_method: websearch
+    scan_query: 'site:asana.com/jobs "Chief of Staff" OR "Operations" remote'
+    enabled: true
+
+  - name: Slack (Salesforce)
+    careers_url: https://slack.com/careers
+    scan_method: websearch
+    scan_query: '"slack" careers "Chief of Staff" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Dropbox
+    careers_url: https://jobs.dropbox.com
+    scan_method: websearch
+    scan_query: 'site:jobs.dropbox.com "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Zoom
+    careers_url: https://careers.zoom.us
+    scan_method: websearch
+    scan_query: 'site:careers.zoom.us "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Spotify
+    careers_url: https://www.lifeatspotify.com
+    scan_method: websearch
+    scan_query: 'site:lifeatspotify.com "Chief of Staff" OR "Business Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Twitter / X
+    careers_url: https://careers.x.com
+    scan_method: websearch
+    scan_query: 'site:careers.x.com "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: LinkedIn
+    careers_url: https://careers.linkedin.com
+    scan_method: websearch
+    scan_query: 'site:careers.linkedin.com "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Square (Block)
+    careers_url: https://www.block.xyz/careers
+    scan_method: websearch
+    scan_query: '"block.xyz" OR "square" careers "Chief of Staff" OR "Operations" remote'
+    enabled: true
+
+  - name: Robinhood
+    careers_url: https://careers.robinhood.com
+    scan_method: websearch
+    scan_query: 'site:careers.robinhood.com "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: DoorDash
+    careers_url: https://careers.doordash.com
+    scan_method: websearch
+    scan_query: 'site:careers.doordash.com "Chief of Staff" OR "Strategy" OR "Operations Manager" remote'
+    enabled: true
+
+  - name: Instacart
+    careers_url: https://instacart.careers
+    scan_method: websearch
+    scan_query: 'site:instacart.careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Lyft
+    careers_url: https://www.lyft.com/careers
+    scan_method: websearch
+    scan_query: 'site:lyft.com/careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Snap
+    careers_url: https://careers.snap.com
+    scan_method: websearch
+    scan_query: 'site:careers.snap.com "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Pinterest
+    careers_url: https://www.pinterestcareers.com
+    scan_method: websearch
+    scan_query: 'site:pinterestcareers.com "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Coinbase
+    careers_url: https://www.coinbase.com/careers
+    scan_method: websearch
+    scan_query: 'site:coinbase.com/careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Palantir
+    careers_url: https://jobs.lever.co/palantir
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/palantir "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: SpaceX
+    careers_url: https://www.spacex.com/careers
+    scan_method: websearch
+    scan_query: 'site:spacex.com/careers "Chief of Staff" OR "Operations Manager" OR "Strategy"'
+    enabled: true
+
+  # ── Indian Tech & MNCs ────────────────────────────────────────────────
+
+  - name: Infosys
+    careers_url: https://www.infosys.com/careers
+    scan_method: websearch
+    scan_query: 'site:infosys.com/careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Wipro
+    careers_url: https://careers.wipro.com
+    scan_method: websearch
+    scan_query: 'site:careers.wipro.com "Chief of Staff" OR "Operations" OR "Innovation Lead" remote'
+    enabled: true
+
+  - name: TCS (Tata Consultancy Services)
+    careers_url: https://www.tcs.com/careers
+    scan_method: websearch
+    scan_query: 'site:tcs.com/careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: HCL Technologies
+    careers_url: https://www.hcltech.com/careers
+    scan_method: websearch
+    scan_query: 'site:hcltech.com/careers "Chief of Staff" OR "Strategy Operations" remote'
+    enabled: true
+
+  - name: Tech Mahindra
+    careers_url: https://careers.techmahindra.com
+    scan_method: websearch
+    scan_query: 'site:careers.techmahindra.com "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Flipkart
+    careers_url: https://www.flipkartcareers.com
+    scan_method: websearch
+    scan_query: '"flipkart" careers "Chief of Staff" OR "Head of Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: Zomato
+    careers_url: https://www.zomato.com/careers
+    scan_method: websearch
+    scan_query: '"zomato" careers "Chief of Staff" OR "Strategy" OR "Business Operations"'
+    enabled: true
+
+  - name: Swiggy
+    careers_url: https://careers.swiggy.com
+    scan_method: websearch
+    scan_query: '"swiggy" careers "Chief of Staff" OR "Strategy" OR "Head of Operations"'
+    enabled: true
+
+  - name: BYJU's
+    careers_url: https://byjus.com/careers
+    scan_method: websearch
+    scan_query: '"byjus" careers "Chief of Staff" OR "Strategy" OR "Business Operations"'
+    enabled: true
+
+  - name: Razorpay
+    careers_url: https://razorpay.com/jobs
+    scan_method: websearch
+    scan_query: '"razorpay" careers "Chief of Staff" OR "Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: Zepto
+    careers_url: https://www.zeptonow.com/careers
+    scan_method: websearch
+    scan_query: '"zepto" OR "zeptonow" careers "Chief of Staff" OR "Operations" OR "Business Strategy"'
+    enabled: true
+
+  - name: CRED
+    careers_url: https://careers.cred.club
+    scan_method: websearch
+    scan_query: '"CRED" careers "Chief of Staff" OR "Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: OYO
+    careers_url: https://www.oyorooms.com/careers
+    scan_method: websearch
+    scan_query: '"OYO" careers "Chief of Staff" OR "Director Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Meesho
+    careers_url: https://meesho.io/careers
+    scan_method: websearch
+    scan_query: '"meesho" careers "Chief of Staff" OR "Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: PhonePe
+    careers_url: https://www.phonepe.com/careers
+    scan_method: websearch
+    scan_query: '"phonepe" careers "Chief of Staff" OR "Head of Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Groww
+    careers_url: https://groww.in/careers
+    scan_method: websearch
+    scan_query: '"groww" careers "Chief of Staff" OR "Business Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Ola
+    careers_url: https://www.olacabs.com/careers
+    scan_method: websearch
+    scan_query: '"ola" careers "Chief of Staff" OR "Strategy" OR "Head of Operations" remote'
+    enabled: true
+
+  - name: Paytm
+    careers_url: https://paytm.com/careers
+    scan_method: websearch
+    scan_query: '"paytm" careers "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Freshworks
+    careers_url: https://www.freshworks.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:freshworks.com/careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Zoho
+    careers_url: https://careers.zohocorp.com
+    scan_method: websearch
+    scan_query: 'site:careers.zohocorp.com "Chief of Staff" OR "Business Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Nykaa
+    careers_url: https://careers.nykaa.com
+    scan_method: websearch
+    scan_query: '"nykaa" careers "Chief of Staff" OR "Head of Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: PolicyBazaar
+    careers_url: https://www.policybazaar.com/info/jobs
+    scan_method: websearch
+    scan_query: '"policybazaar" careers "Chief of Staff" OR "Operations" OR "Strategy Lead"'
+    enabled: true
+
+  - name: MakeMyTrip
+    careers_url: https://careers.makemytrip.com
+    scan_method: websearch
+    scan_query: '"makemytrip" careers "Chief of Staff" OR "Business Operations" OR "Strategy"'
+    enabled: true
+
+  - name: InMobi
+    careers_url: https://www.inmobi.com/company/careers
+    scan_method: websearch
+    scan_query: '"inmobi" careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: upGrad
+    careers_url: https://careers.upgrad.com
+    scan_method: websearch
+    scan_query: '"upGrad" careers "Chief of Staff" OR "Head of Strategy" OR "Operations"'
+    enabled: true
+
+  - name: Clevertap
+    careers_url: https://clevertap.com/careers
+    scan_method: websearch
+    scan_query: '"clevertap" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Darwinbox
+    careers_url: https://darwinbox.com/careers
+    scan_method: websearch
+    scan_query: '"darwinbox" careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Zetwerk
+    careers_url: https://zetwerk.com/careers
+    scan_method: websearch
+    scan_query: '"zetwerk" careers "Chief of Staff" OR "Business Operations" OR "Strategy Leader"'
+    enabled: true
+
+  - name: blackbuck
+    careers_url: https://blackbuck.com/careers
+    scan_method: websearch
+    scan_query: '"blackbuck" OR "blackbuck.com" careers "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: BrowserStack
+    careers_url: https://www.browserstack.com/careers
+    scan_method: websearch
+    scan_query: '"browserstack" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Postman
+    careers_url: https://www.postman.com/company/careers
+    scan_method: websearch
+    scan_query: '"postman" careers "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  - name: HasuraHQ
+    careers_url: https://hasura.io/careers
+    scan_method: websearch
+    scan_query: '"hasura" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Chargebee
+    careers_url: https://www.chargebee.com/careers
+    scan_method: websearch
+    scan_query: '"chargebee" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  # ── Middle East & Gulf (UAE, Saudi Arabia) ─────────────────────────────
+
+  - name: Careem
+    careers_url: https://www.careem.com/en-ae/careers
+    scan_method: websearch
+    scan_query: '"careem" careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Noon
+    careers_url: https://www.noon.com/uae-en/careers
+    scan_method: websearch
+    scan_query: '"noon.com" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Talabat
+    careers_url: https://www.talabat.com/careers
+    scan_method: websearch
+    scan_query: '"talabat" careers "Chief of Staff" OR "Head of Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Kitopi
+    careers_url: https://kitopi.com/careers
+    scan_method: websearch
+    scan_query: '"kitopi" careers "Chief of Staff" OR "Operations Director" OR "Strategy"'
+    enabled: true
+
+  - name: ADNOC
+    careers_url: https://careers.adnoc.ae
+    scan_method: websearch
+    scan_query: 'site:careers.adnoc.ae "Chief of Staff" OR "Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: Emirates Group
+    careers_url: https://www.emiratesgroupcareers.com
+    scan_method: websearch
+    scan_query: 'site:emiratesgroupcareers.com "Chief of Staff" OR "Head of Strategy" OR "Operations"'
+    enabled: true
+
+  - name: NEOM
+    careers_url: https://www.neom.com/en-us/careers
+    scan_method: websearch
+    scan_query: '"neom" careers "Chief of Staff" OR "Director of Operations" OR "Innovation Lead"'
+    enabled: true
+
+  - name: Aramco
+    careers_url: https://www.aramco.com/en/careers
+    scan_method: websearch
+    scan_query: 'site:aramco.com/careers "Chief of Staff" OR "Strategy" OR "Innovation" remote'
+    enabled: true
+
+  - name: Mubadala
+    careers_url: https://www.mubadala.com/en/careers
+    scan_method: websearch
+    scan_query: '"mubadala" careers "Chief of Staff" OR "Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: G42
+    careers_url: https://careers.g42.ai
+    scan_method: websearch
+    scan_query: '"g42" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  # ── Southeast Asia ─────────────────────────────────────────────────────
+
+  - name: Grab
+    careers_url: https://grab.careers
+    scan_method: websearch
+    scan_query: 'site:grab.careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Gojek (GoTo)
+    careers_url: https://www.gotogroup.com/careers
+    scan_method: websearch
+    scan_query: '"gojek" OR "goto" careers "Chief of Staff" OR "Head of Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Sea Group (Shopee)
+    careers_url: https://career.sea.com
+    scan_method: websearch
+    scan_query: '"sea group" OR "shopee" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Tokopedia
+    careers_url: https://www.tokopedia.com/careers
+    scan_method: websearch
+    scan_query: '"tokopedia" careers "Chief of Staff" OR "Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: Traveloka
+    careers_url: https://www.traveloka.com/en-en/careers
+    scan_method: websearch
+    scan_query: '"traveloka" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  # ── African & Emerging Market Tech ────────────────────────────────────
+
+  - name: Flutterwave
+    careers_url: https://flutterwave.com/us/careers
+    scan_method: websearch
+    scan_query: '"flutterwave" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Paystack
+    careers_url: https://paystack.com/careers
+    scan_method: websearch
+    scan_query: '"paystack" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Andela
+    careers_url: https://andela.com/join-andela
+    scan_method: websearch
+    scan_query: '"andela" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  # ── European Unicorns & Scale-ups ─────────────────────────────────────
+
+  - name: Revolut
+    careers_url: https://www.revolut.com/careers
+    scan_method: websearch
+    scan_query: 'site:revolut.com/careers "Chief of Staff" OR "Head of Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Wise
+    careers_url: https://wise.com/gb/careers
+    scan_method: websearch
+    scan_query: 'site:wise.com/careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Klarna
+    careers_url: https://jobs.lever.co/klarna
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/klarna "Chief of Staff" OR "Strategy" OR "Operations"'
+    enabled: true
+
+  - name: Bolt
+    careers_url: https://bolt.eu/en/careers
+    scan_method: websearch
+    scan_query: '"bolt.eu" careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Monzo
+    careers_url: https://monzo.com/careers
+    scan_method: websearch
+    scan_query: 'site:monzo.com/careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Checkout.com
+    careers_url: https://www.checkout.com/careers
+    scan_method: websearch
+    scan_query: '"checkout.com" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Personio
+    careers_url: https://job-boards.greenhouse.io/personio
+    api: https://boards-api.greenhouse.io/v1/boards/personio/jobs
+    notes: "Munich. HR SaaS. DACH and pan-Europe."
+    enabled: true
+
+  - name: Pleo
+    careers_url: https://www.pleo.io/en/careers
+    scan_method: websearch
+    scan_query: '"pleo" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Spendesk
+    careers_url: https://www.spendesk.com/en/careers
+    scan_method: websearch
+    scan_query: '"spendesk" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Doctolib
+    careers_url: https://careers.doctolib.fr
+    scan_method: websearch
+    scan_query: '"doctolib" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Alan Health
+    careers_url: https://jobs.lever.co/alan
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/alan "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Contentsquare
+    careers_url: https://contentsquare.com/careers
+    scan_method: websearch
+    scan_query: '"contentsquare" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Mirakl
+    careers_url: https://www.mirakl.com/about/careers
+    scan_method: websearch
+    scan_query: '"mirakl" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Dataiku
+    careers_url: https://www.dataiku.com/company/working-at-dataiku
+    scan_method: websearch
+    scan_query: '"dataiku" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Ledger
+    careers_url: https://www.ledger.com/careers
+    scan_method: websearch
+    scan_query: '"ledger" careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Sorare
+    careers_url: https://sorare.com/careers
+    scan_method: websearch
+    scan_query: '"sorare" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Back Market
+    careers_url: https://jobs.lever.co/backmarket
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/backmarket "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Swile
+    careers_url: https://www.swile.co/en/careers
+    scan_method: websearch
+    scan_query: '"swile" careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: OVHcloud
+    careers_url: https://www.ovhcloud.com/en/careers
+    scan_method: websearch
+    scan_query: '"ovhcloud" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Kyriba
+    careers_url: https://www.kyriba.com/company/careers
+    scan_method: websearch
+    scan_query: '"kyriba" careers "Chief of Staff" OR "Strategy" OR "Business Operations" remote'
+    enabled: true
+
+  # ── Global Energy & CleanTech (Kumarpal's Natural Fit) ────────────────
+
+  - name: Enphase Energy
+    careers_url: https://enphase.com/careers
+    scan_method: websearch
+    scan_query: '"enphase" careers "Chief of Staff" OR "Strategy" OR "Director Operations" remote'
+    enabled: true
+
+  - name: SunPower
+    careers_url: https://sunpower.com/careers
+    scan_method: websearch
+    scan_query: '"sunpower" careers "Chief of Staff" OR "Operations Lead" OR "Innovation" remote'
+    enabled: true
+
+  - name: Bloom Energy
+    careers_url: https://www.bloomenergy.com/careers
+    scan_method: websearch
+    scan_query: '"bloom energy" careers "Chief of Staff" OR "Head of Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Nel Hydrogen
+    careers_url: https://nelhydrogen.com/careers
+    scan_method: websearch
+    scan_query: '"nel hydrogen" careers "Chief of Staff" OR "Strategy" OR "Innovation Lead"'
+    enabled: true
+
+  - name: ITM Power
+    careers_url: https://www.itm-power.com/careers
+    scan_method: websearch
+    scan_query: '"itm power" careers "Chief of Staff" OR "Strategy" OR "Operations Lead"'
+    enabled: true
+
+  - name: Plug Power
+    careers_url: https://www.plugpower.com/careers
+    scan_method: websearch
+    scan_query: '"plug power" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Ballard Power
+    careers_url: https://www.ballard.com/careers
+    scan_method: websearch
+    scan_query: '"ballard power" careers "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: First Mode
+    careers_url: https://firstmode.com/careers
+    scan_method: websearch
+    scan_query: '"firstmode" careers "Chief of Staff" OR "Operations" OR "Strategy Lead"'
+    enabled: true
+
+  - name: H2Pro
+    careers_url: https://h2pro.co/careers
+    scan_method: websearch
+    scan_query: '"h2pro" careers "Chief of Staff" OR "Head of Operations" OR "Green Hydrogen"'
+    enabled: true
+
+  - name: Advent International (Green Energy portfolio)
+    careers_url: https://www.adventinternational.com/careers
+    scan_method: websearch
+    scan_query: '"advent international" careers "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Onsemi
+    careers_url: https://www.onsemi.com/careers
+    scan_method: websearch
+    scan_query: '"onsemi" careers "Chief of Staff" OR "Strategy" OR "Operations Lead" remote'
+    enabled: true
+
+  # ── Deep Tech / Defence / Aerospace ───────────────────────────────────
+
+  - name: Anduril Industries
+    careers_url: https://www.anduril.com/careers
+    scan_method: websearch
+    scan_query: '"anduril" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Shield AI
+    careers_url: https://shield.ai/careers
+    scan_method: websearch
+    scan_query: '"shield ai" careers "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Joby Aviation
+    careers_url: https://www.jobyaviation.com/careers
+    scan_method: websearch
+    scan_query: '"joby aviation" careers "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Lilium
+    careers_url: https://lilium.com/careers
+    scan_method: websearch
+    scan_query: '"lilium" careers "Chief of Staff" OR "Business Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Archer Aviation
+    careers_url: https://www.archer.com/careers
+    scan_method: websearch
+    scan_query: '"archer aviation" careers "Chief of Staff" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Relativity Space
+    careers_url: https://www.relativityspace.com/careers
+    scan_method: websearch
+    scan_query: '"relativity space" careers "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Planet Labs
+    careers_url: https://www.planet.com/company/careers
+    scan_method: websearch
+    scan_query: '"planet labs" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Sarcos Technology
+    careers_url: https://www.sarcos.com/careers
+    scan_method: websearch
+    scan_query: '"sarcos" careers "Chief of Staff" OR "Business Operations" remote'
+    enabled: true
+
+  # ── VC-backed Series B/C Startups (Globally Remote) ──────────────────
+
+  - name: Deel
+    careers_url: https://www.deel.com/careers
+    scan_method: websearch
+    scan_query: 'site:deel.com/careers "Chief of Staff" OR "Head of Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Remote.com
+    careers_url: https://remote.com/careers
+    scan_method: websearch
+    scan_query: 'site:remote.com/careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Rippling
+    careers_url: https://www.rippling.com/careers
+    scan_method: websearch
+    scan_query: '"rippling" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Lattice
+    careers_url: https://lattice.com/careers
+    scan_method: websearch
+    scan_query: '"lattice" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Leapsome
+    careers_url: https://www.leapsome.com/careers
+    scan_method: websearch
+    scan_query: '"leapsome" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Greenhouse Software
+    careers_url: https://www.greenhouse.com/careers
+    scan_method: websearch
+    scan_query: '"greenhouse software" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Workday
+    careers_url: https://www.workday.com/en-us/company/careers
+    scan_method: websearch
+    scan_query: 'site:workday.com/careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: ServiceNow
+    careers_url: https://careers.servicenow.com
+    scan_method: websearch
+    scan_query: 'site:careers.servicenow.com "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Datadog
+    careers_url: https://careers.datadoghq.com
+    scan_method: websearch
+    scan_query: 'site:careers.datadoghq.com "Chief of Staff" OR "Business Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Snowflake
+    careers_url: https://careers.snowflake.com
+    scan_method: websearch
+    scan_query: 'site:careers.snowflake.com "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Databricks
+    careers_url: https://www.databricks.com/company/careers
+    scan_method: websearch
+    scan_query: '"databricks" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Scale AI
+    careers_url: https://scale.com/careers
+    scan_method: websearch
+    scan_query: '"scale ai" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Together AI
+    careers_url: https://www.together.ai/careers
+    scan_method: websearch
+    scan_query: '"together ai" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Weights & Biases
+    careers_url: https://jobs.lever.co/wandb
+    scan_method: websearch
+    scan_query: 'site:jobs.lever.co/wandb "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Hugging Face
+    careers_url: https://apply.workable.com/huggingface
+    scan_method: websearch
+    scan_query: '"hugging face" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Jasper AI
+    careers_url: https://www.jasper.ai/careers
+    scan_method: websearch
+    scan_query: '"jasper ai" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Writer
+    careers_url: https://writer.com/careers
+    scan_method: websearch
+    scan_query: '"writer.com" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Copy.ai
+    careers_url: https://www.copy.ai/careers
+    scan_method: websearch
+    scan_query: '"copy.ai" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Runway ML
+    careers_url: https://job-boards.greenhouse.io/runwayml
+    api: https://boards-api.greenhouse.io/v1/boards/runwayml/jobs
+    enabled: true
+
+  - name: Character AI
+    careers_url: https://www.character.ai/careers
+    scan_method: websearch
+    scan_query: '"character ai" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Inflection AI
+    careers_url: https://inflection.ai/careers
+    scan_method: websearch
+    scan_query: '"inflection ai" careers "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: xAI (Elon Musk)
+    careers_url: https://x.ai/careers
+    scan_method: websearch
+    scan_query: '"xai" OR "x.ai" careers "Chief of Staff" OR "Head of Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Adept AI
+    careers_url: https://www.adept.ai/careers
+    scan_method: websearch
+    scan_query: '"adept ai" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Imbue
+    careers_url: https://imbue.com/careers
+    scan_method: websearch
+    scan_query: '"imbue" careers "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Luma AI
+    careers_url: https://lumalabs.ai/careers
+    scan_method: websearch
+    scan_query: '"luma ai" OR "lumalabs" careers "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Pika Labs
+    careers_url: https://pika.art/careers
+    scan_method: websearch
+    scan_query: '"pika labs" careers "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Midjourney
+    careers_url: https://www.midjourney.com/jobs
+    scan_method: websearch
+    scan_query: '"midjourney" careers "Chief of Staff" OR "Operations" OR "Strategy"'
+    enabled: true
+
+  - name: Typeface
+    careers_url: https://www.typeface.ai/careers
+    scan_method: websearch
+    scan_query: '"typeface" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Glide
+    careers_url: https://www.glideapps.com/jobs
+    scan_method: websearch
+    scan_query: '"glide apps" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Linear
+    careers_url: https://linear.app/careers
+    scan_method: websearch
+    scan_query: '"linear.app" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Loom
+    careers_url: https://www.loom.com/careers
+    scan_method: websearch
+    scan_query: '"loom" careers "Chief of Staff" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Miro
+    careers_url: https://miro.com/careers
+    scan_method: websearch
+    scan_query: 'site:miro.com/careers "Chief of Staff" OR "Business Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: ClickUp
+    careers_url: https://clickup.com/careers
+    scan_method: websearch
+    scan_query: '"clickup" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Monday.com
+    careers_url: https://monday.com/careers
+    scan_method: websearch
+    scan_query: 'site:monday.com/careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Coda
+    careers_url: https://coda.io/careers
+    scan_method: websearch
+    scan_query: '"coda.io" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Pitch
+    careers_url: https://pitch.com/careers
+    scan_method: websearch
+    scan_query: '"pitch.com" careers "Chief of Staff" OR "Operations Lead" remote'
+    enabled: true
+
+  - name: Ramp
+    careers_url: https://ramp.com/careers
+    scan_method: websearch
+    scan_query: '"ramp.com" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Brex
+    careers_url: https://www.brex.com/careers
+    scan_method: websearch
+    scan_query: 'site:brex.com/careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Carta
+    careers_url: https://carta.com/careers
+    scan_method: websearch
+    scan_query: '"carta.com" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Clearbit
+    careers_url: https://clearbit.com/careers
+    scan_method: websearch
+    scan_query: '"clearbit" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Segment
+    careers_url: https://www.twilio.com/en-us/segment/jobs
+    scan_method: websearch
+    scan_query: '"segment" OR "twilio segment" careers "Chief of Staff" OR "Operations" remote'
+    enabled: true
+
+  - name: Apollo.io
+    careers_url: https://www.apollo.io/careers
+    scan_method: websearch
+    scan_query: '"apollo.io" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Outreach
+    careers_url: https://www.outreach.io/company/careers
+    scan_method: websearch
+    scan_query: '"outreach.io" careers "Chief of Staff" OR "Strategy" OR "Operations" remote'
+    enabled: true
+
+  - name: Salesloft
+    careers_url: https://salesloft.com/careers
+    scan_method: websearch
+    scan_query: '"salesloft" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Gong
+    careers_url: https://www.gong.io/careers
+    scan_method: websearch
+    scan_query: 'site:gong.io/careers "Chief of Staff" OR "Business Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Chorus.ai
+    careers_url: https://www.chorus.ai/careers
+    scan_method: websearch
+    scan_query: '"chorus.ai" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: People.ai
+    careers_url: https://people.ai/careers
+    scan_method: websearch
+    scan_query: '"people.ai" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Clari
+    careers_url: https://www.clari.com/careers
+    scan_method: websearch
+    scan_query: '"clari" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Amplemarket
+    careers_url: https://job-boards.eu.greenhouse.io/amplemarket
+    api: https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs
+    enabled: true
+
+  - name: Perplexity AI
+    careers_url: https://jobs.ashbyhq.com/perplexity
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/perplexity "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Harvey AI
+    careers_url: https://www.harvey.ai/careers
+    scan_method: websearch
+    scan_query: '"harvey ai" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Casetext
+    careers_url: https://casetext.com/careers
+    scan_method: websearch
+    scan_query: '"casetext" careers "Chief of Staff" OR "Operations Lead" OR "Strategy"'
+    enabled: true
+
+  - name: Ironclad
+    careers_url: https://ironcladapp.com/careers
+    scan_method: websearch
+    scan_query: '"ironclad" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Legalzoom
+    careers_url: https://www.legalzoom.com/careers
+    scan_method: websearch
+    scan_query: '"legalzoom" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Benchling
+    careers_url: https://www.benchling.com/careers
+    scan_method: websearch
+    scan_query: '"benchling" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Relativity6
+    careers_url: https://www.relativity.com/careers
+    scan_method: websearch
+    scan_query: '"relativity" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Veeva Systems
+    careers_url: https://careers.veeva.com
+    scan_method: websearch
+    scan_query: 'site:careers.veeva.com "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Twilio
+    careers_url: https://www.twilio.com/en-us/company/jobs
+    scan_method: websearch
+    scan_query: 'site:twilio.com/company/jobs "Chief of Staff" OR "Business Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Auth0 (Okta)
+    careers_url: https://www.okta.com/company/careers
+    scan_method: websearch
+    scan_query: '"okta" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: HashiCorp
+    careers_url: https://www.hashicorp.com/careers
+    scan_method: websearch
+    scan_query: '"hashicorp" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Grafana Labs
+    careers_url: https://grafana.com/about/careers
+    scan_method: websearch
+    scan_query: '"grafana labs" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Sentry
+    careers_url: https://sentry.io/careers
+    scan_method: websearch
+    scan_query: '"sentry.io" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Cloudflare
+    careers_url: https://www.cloudflare.com/careers
+    scan_method: websearch
+    scan_query: 'site:cloudflare.com/careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Fastly
+    careers_url: https://www.fastly.com/about/careers
+    scan_method: websearch
+    scan_query: '"fastly" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Kong
+    careers_url: https://konghq.com/careers
+    scan_method: websearch
+    scan_query: '"konghq" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Algolia
+    careers_url: https://www.algolia.com/careers
+    scan_method: websearch
+    scan_query: '"algolia" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Elastic
+    careers_url: https://jobs.elastic.co
+    scan_method: websearch
+    scan_query: 'site:jobs.elastic.co "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: New Relic
+    careers_url: https://newrelic.com/about/careers
+    scan_method: websearch
+    scan_query: '"new relic" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: PagerDuty
+    careers_url: https://www.pagerduty.com/careers
+    scan_method: websearch
+    scan_query: '"pagerduty" careers "Chief of Staff" OR "Business Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Dynatrace
+    careers_url: https://jobs.dynatrace.com
+    scan_method: websearch
+    scan_query: 'site:jobs.dynatrace.com "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  - name: Datadog
+    careers_url: https://careers.datadoghq.com
+    scan_method: websearch
+    scan_query: 'site:careers.datadoghq.com "Chief of Staff" OR "Business Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Sumo Logic
+    careers_url: https://www.sumologic.com/company/careers
+    scan_method: websearch
+    scan_query: '"sumo logic" careers "Chief of Staff" OR "Operations" OR "Strategy" remote'
+    enabled: true
+
+  - name: Splunk
+    careers_url: https://www.splunk.com/en_us/careers.html
+    scan_method: websearch
+    scan_query: '"splunk" careers "Chief of Staff" OR "Operations Lead" OR "Strategy" remote'
+    enabled: true
+
+  # -- BIG TECH & UNICORNS --
+  - name: Stripe
+    careers_url: https://job-boards.greenhouse.io/stripe
+    api: https://boards-api.greenhouse.io/v1/boards/stripe/jobs
+    enabled: true
+
+  - name: Databricks
+    careers_url: https://job-boards.greenhouse.io/databricks
+    api: https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+    enabled: true
+
+  - name: Snowflake
+    careers_url: https://job-boards.greenhouse.io/snowflake
+    api: https://boards-api.greenhouse.io/v1/boards/snowflake/jobs
+    enabled: true
+
+  - name: Notion
+    careers_url: https://jobs.ashbyhq.com/notion
+    enabled: true
+
+  - name: Figma
+    careers_url: https://job-boards.greenhouse.io/figma
+    api: https://boards-api.greenhouse.io/v1/boards/figma/jobs
+    enabled: true
+
+  - name: Airbnb
+    careers_url: https://job-boards.greenhouse.io/airbnb
+    api: https://boards-api.greenhouse.io/v1/boards/airbnb/jobs
+    enabled: true
+
+  - name: Cloudflare
+    careers_url: https://job-boards.greenhouse.io/cloudflare
+    api: https://boards-api.greenhouse.io/v1/boards/cloudflare/jobs
+    enabled: true
+
+  - name: Discord
+    careers_url: https://job-boards.greenhouse.io/discord
+    api: https://boards-api.greenhouse.io/v1/boards/discord/jobs
+    enabled: true
+
+  - name: Plaid
+    careers_url: https://job-boards.greenhouse.io/plaid
+    api: https://boards-api.greenhouse.io/v1/boards/plaid/jobs
+    enabled: true
+
+  - name: Reddit
+    careers_url: https://job-boards.greenhouse.io/reddit
+    api: https://boards-api.greenhouse.io/v1/boards/reddit/jobs
+    enabled: true
+
+  - name: Scale AI
+    careers_url: https://job-boards.greenhouse.io/scaleai
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+    enabled: true
