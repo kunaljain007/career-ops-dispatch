@@ -1737,3 +1737,99 @@ for idx, (item_type, target_email, seq) in enumerate(today_batch, 1):
     time.sleep(delay)
 
 print(f"Job finished. Successfully sent: {len(sent_records)}, Failed: {len(failed_records)}")
+
+# --- Notification to founder.heatbolt@gmail.com ---
+try:
+    NOTIFY_TARGET = "founder.heatbolt@gmail.com"
+    print(f"\n[NOTIFY] Preparing daily execution report for {NOTIFY_TARGET}...")
+    
+    # Select working SMTP sender from pool
+    report_sender = None
+    for s_acc in smtp_pool:
+        if s_acc.get("user") and s_acc.get("pass"):
+            report_sender = s_acc
+            break
+            
+    if report_sender:
+        rep_user = report_sender["user"]
+        rep_pass = report_sender["pass"]
+        rep_host = report_sender.get("host", "smtp.gmail.com")
+        rep_port = int(report_sender.get("port", 587))
+        
+        rep_date = datetime.now().strftime("%d %b %Y, %I:%M %p IST")
+        rep_subject = f"🚀 Daily Career-Ops Dispatch Report — {len(sent_records)} Contacts Reached ({rep_date})"
+        
+        # Format HTML list of sent contacts
+        sent_html_items = ""
+        for i, r in enumerate(sent_records[:60], 1):
+            sent_html_items += f"<li style='margin-bottom: 4px;'><strong>#{i}</strong> {r.get('to')} <span style='color: #718096; font-size: 12px;'>via {r.get('from')}</span></li>"
+        if len(sent_records) > 60:
+            sent_html_items += f"<li style='color: #4a5568;'><em>...and {len(sent_records) - 60} more recipients logged in data/logs/</em></li>"
+            
+        fail_html_items = ""
+        if failed_records:
+            for fr in failed_records[:20]:
+                fail_html_items += f"<li style='color: #e53e3e;'>{fr.get('to')}: {fr.get('error')}</li>"
+        else:
+            fail_html_items = "<li style='color: #38a169;'>Zero failures encountered!</li>"
+            
+        rep_body_html = f"""
+        <div style="font-family: Arial, sans-serif; max-width: 650px; margin: 0 auto; color: #2d3748; line-height: 1.6; border: 1px solid #e2e8f0; border-radius: 8px; padding: 24px; background-color: #ffffff;">
+            <div style="border-bottom: 2px solid #3182ce; padding-bottom: 12px; margin-bottom: 20px;">
+                <h2 style="color: #2b6cb0; margin: 0;">Daily Career-Ops Automated Dispatch Report</h2>
+                <p style="color: #718096; margin: 4px 0 0 0; font-size: 14px;">Execution Timestamp: {rep_date}</p>
+            </div>
+            
+            <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+                <tr>
+                    <td style="padding: 12px; background-color: #ebf8ff; border: 1px solid #bee3f8; border-radius: 6px; text-align: center;">
+                        <span style="font-size: 12px; color: #2b6cb0; text-transform: uppercase; font-weight: bold;">Successfully Dispatched</span><br/>
+                        <span style="font-size: 28px; font-weight: bold; color: #2c5282;">{len(sent_records)}</span>
+                    </td>
+                    <td style="width: 15px;"></td>
+                    <td style="padding: 12px; background-color: #fffaf0; border: 1px solid #feebc8; border-radius: 6px; text-align: center;">
+                        <span style="font-size: 12px; color: #c05621; text-transform: uppercase; font-weight: bold;">Failed / Deferred</span><br/>
+                        <span style="font-size: 28px; font-weight: bold; color: #9c4221;">{len(failed_records)}</span>
+                    </td>
+                    <td style="width: 15px;"></td>
+                    <td style="padding: 12px; background-color: #f7fafc; border: 1px solid #e2e8f0; border-radius: 6px; text-align: center;">
+                        <span style="font-size: 12px; color: #4a5568; text-transform: uppercase; font-weight: bold;">Active SMTP Senders</span><br/>
+                        <span style="font-size: 28px; font-weight: bold; color: #2d3748;">{len(smtp_pool)}</span>
+                    </td>
+                </tr>
+            </table>
+
+            <h3 style="color: #2d3748; margin-top: 24px; border-bottom: 1px solid #edf2f7; padding-bottom: 6px;">Top Reached Contacts & Decision Makers</h3>
+            <ol style="padding-left: 20px; font-size: 14px; color: #2d3748;">
+                {sent_html_items}
+            </ol>
+
+            <h3 style="color: #2d3748; margin-top: 24px; border-bottom: 1px solid #edf2f7; padding-bottom: 6px;">Delivery Exceptions</h3>
+            <ul style="padding-left: 20px; font-size: 13px;">
+                {fail_html_items}
+            </ul>
+
+            <div style="margin-top: 30px; padding: 12px; background-color: #f7fafc; border-left: 4px solid #3182ce; font-size: 12px; color: #718096;">
+                This automated report was generated and dispatched by your GitHub Actions cloud runner via repository: <strong>career-ops-dispatch</strong>.
+            </div>
+        </div>
+        """
+        
+        rep_msg = EmailMessage()
+        rep_msg["From"] = f"Career-Ops Bot <{rep_user}>"
+        rep_msg["To"] = NOTIFY_TARGET
+        rep_msg["Subject"] = rep_subject
+        rep_msg.set_content(f"Daily Career-Ops Report: {len(sent_records)} sent, {len(failed_records)} failed. Check logs for details.")
+        rep_msg.add_alternative(rep_body_html, subtype="html")
+        
+        with smtplib.SMTP(rep_host, rep_port, timeout=30) as s_server:
+            s_server.starttls()
+            s_server.login(rep_user, rep_pass)
+            s_server.send_message(rep_msg)
+            
+        print(f"[NOTIFY] SUCCESS: Daily summary email delivered to {NOTIFY_TARGET} via {rep_user}!")
+    else:
+        print("[NOTIFY] Skipped: No authenticated sender found in pool.")
+except Exception as notify_err:
+    print(f"[NOTIFY] Error dispatching notification to {NOTIFY_TARGET}: {notify_err}", flush=True)
+
