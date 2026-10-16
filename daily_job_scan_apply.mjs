@@ -267,7 +267,7 @@ async function discoverJobs() {
   const remotiveJobs = [];
   try {
     console.log("  Fetching Remotive API...");
-    const raw = await httpGet('https://remotive.com/api/remote-jobs?category=all&limit=50');
+    const raw = await httpGet('https://remotive.com/api/remote-jobs?category=all&limit=100');
     const data = JSON.parse(raw);
     for (const item of (data.jobs || [])) {
       if (isRelevantTitle(item.title || '')) {
@@ -282,6 +282,48 @@ async function discoverJobs() {
     }
   } catch (e) {
     console.log(`  [Remotive] Error: ${e.message}`);
+  }
+
+  // 1c2. Jobicy Global Remote API
+  const jobicyJobs = [];
+  try {
+    console.log("  Fetching Jobicy Global Remote API...");
+    const raw = await httpGet('https://jobicy.com/api/v2/remote-jobs?count=50');
+    const data = JSON.parse(raw);
+    for (const item of (data.jobs || [])) {
+      if (isRelevantTitle(item.jobTitle || '')) {
+        jobicyJobs.push({
+          url: item.url || `https://jobicy.com/jobs/${item.id}`,
+          company: item.companyName || 'Unknown',
+          title: (item.jobTitle || '').trim(),
+          platform: 'jobicy',
+          source: 'Jobicy Global Remote API',
+        });
+      }
+    }
+  } catch (e) {
+    console.log(`  [Jobicy] Error: ${e.message}`);
+  }
+
+  // 1c3. Arbeitnow Global Remote API
+  const arbeitnowJobs = [];
+  try {
+    console.log("  Fetching Arbeitnow Global Remote API...");
+    const raw = await httpGet('https://www.arbeitnow.com/api/job-board-api');
+    const data = JSON.parse(raw);
+    for (const item of (data.data || [])) {
+      if (item.remote && isRelevantTitle(item.title || '')) {
+        arbeitnowJobs.push({
+          url: item.url,
+          company: item.company_name || 'Unknown',
+          title: (item.title || '').trim(),
+          platform: 'arbeitnow',
+          source: 'Arbeitnow API',
+        });
+      }
+    }
+  } catch (e) {
+    console.log(`  [Arbeitnow] Error: ${e.message}`);
   }
 
   // 1d. Extract from pipeline.md
@@ -304,7 +346,7 @@ async function discoverJobs() {
 
   // Deduplicate and filter out previously applied
   const prevApplied = getPreviouslyAppliedUrls();
-  const allDiscovered = [...pipelineJobs, ...remoteokJobs, ...remotiveJobs];
+  const allDiscovered = [...pipelineJobs, ...remoteokJobs, ...remotiveJobs, ...jobicyJobs, ...arbeitnowJobs];
   const seen = new Set();
   const freshJobs = [];
 
@@ -401,7 +443,7 @@ function runAutonomousApplications(jobs) {
   console.log(`  Using resume: ${resumePath}`);
 
   const appliedList = [];
-  const MAX_PER_RUN = 10; // Cap at 10 per hourly run for deliverability safety
+  const MAX_PER_RUN = 20; // Increased to 20 per run for global remote coverage
   const toProcess = jobs.slice(0, MAX_PER_RUN);
 
   for (const job of toProcess) {
