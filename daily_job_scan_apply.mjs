@@ -54,7 +54,7 @@ const TARGET_ROLES = [
 ];
 
 const NEGATIVE_FILTERS = [
-  "Junior", "Intern ", "Janitor", "Cleaner", "Warehouse",
+  "Junior", "Intern", "Janitor", "Cleaner", "Warehouse",
   "Driver", "Cashier", "Barista", "Part-time Seasonal",
   "Coordinator", "Associate", "Assistant", "Entry Level",
   "Specialist", "Clerk", "Receptionist", "Technician",
@@ -92,7 +92,14 @@ const KNOWN_HIRING_INBOXES = {
   "harvey": "careers@harvey.ai",
 };
 
-function resolveHiringInbox(company, url) {
+function cleanCompanyName(company) {
+  return company
+    .replace(/\s*\((RemoteOK|Himalayas|Remotive|WeWorkRemotely)\)/gi, '')
+    .trim();
+}
+
+function resolveHiringInbox(rawCompany, url) {
+  const company = cleanCompanyName(rawCompany);
   const compKey = company.toLowerCase().trim();
   for (const [key, inbox] of Object.entries(KNOWN_HIRING_INBOXES)) {
     if (compKey.includes(key) || key.includes(compKey)) {
@@ -104,12 +111,12 @@ function resolveHiringInbox(company, url) {
   try {
     const parsed = new URL(url);
     const host = parsed.hostname.replace(/^www\./, '');
-    if (!host.includes('ashbyhq') && !host.includes('greenhouse') && !host.includes('lever') && !host.includes('remoteok')) {
+    if (!host.includes('ashbyhq') && !host.includes('greenhouse') && !host.includes('lever') && !host.includes('remoteok') && !host.includes('remotive') && !host.includes('himalayas')) {
       return `careers@${host}`;
     }
   } catch {}
 
-  // Fallback domain format based on company name
+  // Fallback domain format based on cleaned company name
   const cleanName = compKey.replace(/[^a-z0-9]/g, '');
   return `careers@${cleanName}.com`;
 }
