@@ -28,6 +28,7 @@ const CANDIDATE = {
   location: "Belgaum, Karnataka, India (Open to Remote & Global Relocation)",
   linkedin: "https://www.linkedin.com/in/kumarpal-porwal",
   resumePdf: path.resolve("data/Dr_Kumarpal_Porwal_Resume.pdf"),
+  desktopResumePdf: "C:/Users/My/Desktop/kumarpal resume.pdf",
   fallbackResumePdf: path.resolve("cv-cos.pdf"),
 };
 
@@ -157,7 +158,9 @@ function isRelevantTitle(title) {
 }
 
 function getResumePath() {
+  if (fs.existsSync(CANDIDATE.desktopResumePdf)) return CANDIDATE.desktopResumePdf;
   if (fs.existsSync(CANDIDATE.resumePdf)) return CANDIDATE.resumePdf;
+  if (fs.existsSync("data/kumarpal_resume.pdf")) return path.resolve("data/kumarpal_resume.pdf");
   if (fs.existsSync(CANDIDATE.fallbackResumePdf)) return CANDIDATE.fallbackResumePdf;
   if (fs.existsSync("C:/Users/My/Desktop/kumarpalshreeram.pdf")) return "C:/Users/My/Desktop/kumarpalshreeram.pdf";
   return null;
