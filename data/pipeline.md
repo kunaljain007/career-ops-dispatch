@@ -2450,3 +2450,73 @@ Christ Church Barbados
 - [ ] https://jobs.lever.co/spotify/a4c49acb-a095-4452-ad9e-69e4b778c256 | Spotify | Senior Applied Research Scientist - Personalization
 - [ ] https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030 | Spotify | Senior Staff Machine Learning Engineer - Content Platform
 - [ ] https://jobs.lever.co/qonto/560f5d61-930e-4d27-ab4d-254119b2d920 | Qonto | Senior/Staff - Go Backend Engineer - remote friendly
+
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8140302 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5427309008 | Anthropic | APAC Recruiting Coordinator
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447368008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424305008 | Anthropic | Manager, Applied AI Architects - Digital Natives, EMEA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397596008 | Anthropic | Manufacturing Quality Engineer, Data Center Power & Cooling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5409569008 | Anthropic | New Product Introduction (NPI) Sourcing Manager, Data Center Power & Cooling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399225008 | Anthropic | Supply Chain Delivery Manager, Data Center Power & Cooling OFE
+- [ ] https://jobs.ashbyhq.com/deepgram/54a27203-b9d4-454a-be89-e5eee1b0cc12 | Deepgram | Recruiting Coordinator
+- [ ] https://jobs.ashbyhq.com/deepgram/f07356f4-0b6c-422b-8dd0-a1f4216bea9b | Deepgram | Executive Coordinator
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5686511004 | Vercel | Recruiting Coordinator (Contract)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4607608005 | Glean | Recruiting Coordinator (Contract)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669911005 | Glean | Regional Vice President, New York City
+- [ ] https://jobs.ashbyhq.com/sierra/ae9e7e56-df4e-420f-8130-91b4c59e0fb0 | Sierra | Office Coordinator (Contract)
+- [ ] https://jobs.ashbyhq.com/sierra/3258c9bc-1bae-4bd1-89d2-9d8a545e9f7b | Sierra | Area Vice President, Consumer Business Services
+- [ ] https://jobs.ashbyhq.com/sierra/693984cb-bc25-4d14-ac2f-ad2fbe6e0cd9 | Sierra | Recruiting Coordinator (Contract)
+- [ ] https://jobs.ashbyhq.com/sierra/89b2027d-d019-46ca-8071-f8a1a4e647d8 | Sierra | Area Vice President, Public Sector
+- [ ] https://jobs.ashbyhq.com/decagon/75e5cdbc-66dd-41be-8440-508aa69a6ed8 | Decagon | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/8efd42da-94f8-4623-bdde-795edec5ce86 | n8n | Deployment Strategist | Remote | Europe
+- [ ] https://jobs.ashbyhq.com/cohere/65c1f098-97b0-4478-81a6-6f8c9b8c5ef0 | Cohere | Office Manager & Security Coordinator
+- [ ] https://helsing.ai/jobs/5003469101?gh_jid=5003469101 | Helsing | Facility Coordinator
+- [ ] https://helsing.ai/jobs/4835300101?gh_jid=4835300101 | Helsing | Front Office Coordinator / Guest Service Agent
+- [ ] https://helsing.ai/jobs/4998730101?gh_jid=4998730101 | Helsing | Front Office Coordinator / Guest Service Agent (m/w/d)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7886038003?gh_jid=7886038003 | Celonis | Senior Value Engineer - Technology Consultant
+- [ ] https://careers.hellofresh.com/global/en/job/8222713?gh_jid=8222713 | HelloFresh | Delivery Coordinator (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8288704?gh_jid=8288704 | HelloFresh | [HELLOCONNECT] Accounting Coordinator
+- [ ] https://careers.hellofresh.com/global/en/job/8283622?gh_jid=8283622 | HelloFresh | Hub coordinator (6 Months Contract)
+- [ ] https://careers.hellofresh.com/global/en/job/8274954?gh_jid=8274954 | HelloFresh | Operational Excellence Coordinator
+- [ ] https://careers.hellofresh.com/global/en/job/8230131?gh_jid=8230131 | HelloFresh |  Purchasing Coordinator
+- [ ] https://careers.hellofresh.com/global/en/job/8163394?gh_jid=8163394 | HelloFresh | Safety Coordinator 
+- [ ] https://careers.hellofresh.com/global/en/job/8095964?gh_jid=8095964 | HelloFresh | Senior Accounting Coordinator
+- [ ] https://careers.hellofresh.com/global/en/job/8135972?gh_jid=8135972 | HelloFresh | Supply Chain Coordinator
+- [ ] https://traderepublic.com/en-de/about?jobId=7913188003&gh_jid=7913188003 | Trade Republic | Country Manager Portugal 
+- [ ] https://sumup.com/careers/positions/8660828002?gh_jid=8660828002 | SumUp | AML Coordinator
+- [ ] https://sumup.com/careers/positions/8644924002?gh_jid=8644924002 | SumUp | Chief Operating Officer (PCF-42) - SumUp Limited
+- [ ] https://sumup.com/careers/positions/8878860002?gh_jid=8878860002 | SumUp | Experienced Field Sales Consultant
+- [ ] https://sumup.com/careers/positions/8815302002?gh_jid=8815302002 | SumUp | Workplace Experience Coordinator- Berlin (fixed term 12 months)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6209688004 | Isomorphic Labs | Candidate Experience Coordinator, Cambridge, MA 
+- [ ] https://jobs.ashbyhq.com/legora/75f24991-ac2e-441e-b3e4-2be3243e1ed6 | Legora |  Workplace Coordinator
+- [ ] https://jobs.ashbyhq.com/legora/485c4a74-853f-4d74-902e-85cd1779aef6 | Legora |  Executive Recruiting Coordinator
+- [ ] https://jobs.ashbyhq.com/perplexity/ed4fb057-3f06-419a-8bb2-9c98f370d477 | Perplexity | Recruiting Coordinator 
+- [ ] https://jobs.ashbyhq.com/perplexity/3077e11d-8008-4980-a901-84d8b7993bc9 | Perplexity | Sr. Workplace Coordinator
+- [ ] https://jobs.ashbyhq.com/supabase/b566fbf8-2894-4314-9533-8fa920e80c19 | Supabase | Executive Assistant to the CEO
+- [ ] https://stripe.com/jobs/search?gh_jid=8209639 | Stripe | Administrative Business Partner, Office of the President
+- [ ] https://stripe.com/jobs/search?gh_jid=8223719 | Stripe | Administrative Coordinator
+- [ ] https://stripe.com/jobs/search?gh_jid=8190030 | Stripe | Executive Advisory Programs Manager
+- [ ] https://stripe.com/jobs/search?gh_jid=8231145 | Stripe | Recruiting Coordinator (Fixed-Term Contract)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8735820002 | Databricks | Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8741922002 | Databricks | Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892965002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8661245002 | Databricks | Senior Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8720254002 | Databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8877962002 | Databricks | Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8755492002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8461218002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647743002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8592942002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8494145002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647669002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8732052002 | Databricks | Sr. Manager, Field Engineering
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8675570002 | Databricks | Sr. Solutions Architect
+- [ ] https://jobs.ashbyhq.com/notion/8cb74a17-1685-4f92-8314-6ef6264b5085 | Notion | Forward Deployed Architect
+- [ ] https://jobs.ashbyhq.com/notion/a31cd66b-1729-4ba9-9fb7-bf9099ed01e6 | Notion | Recruiting Coordinator, Tokyo
+- [ ] https://jobs.ashbyhq.com/notion/510088c9-5ba6-44df-bef1-1d83c027f730 | Notion | Recruiting Coordinator, EMEA
+- [ ] https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e | Notion | Recruiting Coordinator - AMER
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8180488?gh_jid=8180488 | Cloudflare | Recruiting Coordinator (Contract)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8184169?gh_jid=8184169 | Cloudflare | Senior Forward Deployed Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8172411?gh_jid=8172411 | Cloudflare | Vice President, Cloudflare One GTM 
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8256449?gh_jid=8256449 | Cloudflare | Workplace Coordinator
