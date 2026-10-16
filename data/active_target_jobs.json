@@ -1,0 +1,83 @@
+{
+  "activeCoS": [
+    {
+      "company": "ElevenLabs",
+      "title": "GTM Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/aec0af09-38e8-4fa4-8a93-f720a90c915e",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Marketing Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/cohere/81450c5f-8495-439b-a1b3-ce7ef9739437",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Chief Of Staff",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8000413003?gh_jid=8000413003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Chief of Staff, Sales",
+      "url": "https://jobs.ashbyhq.com/notion/c5c69246-74db-4960-a0e0-7945be6c30ae",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Reddit",
+      "title": "Chief of Staff, Global Sales",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8187521",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Chief of Staff, Public Sector Engineering & Security",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720163005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Reddit",
+      "title": "Chief of Staff, Global Sales",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8249259",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    }
+  ],
+  "activeRemote": [
+    {
+      "company": "Leverage Live Local",
+      "title": "Head of Operations",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+      "platform": "remoteok",
+      "source": "RemoteOK API"
+    },
+    {
+      "company": "ExtraHop",
+      "title": "Sr Solutions Architect",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+      "platform": "remoteok",
+      "source": "RemoteOK API"
+    }
+  ]
+}

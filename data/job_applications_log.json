@@ -7244,5 +7244,95 @@
     "cover_letter": "Dear ExtraHop Hiring Team,\n\nI am writing to express my strong interest in the Sr Solutions Architect position at ExtraHop.\n\nAs a seasoned Strategy and Transformation Leader with 10+ years of high-impact leadership, I bring a unique blend of enterprise strategy, AI-driven automation, deep-tech commercialization, and operational excellence directly aligned with this role.\n\nKEY HIGHLIGHTS:\n• Chief of Staff & AI Strategist at Vega Aviation — Architected multi-agent autonomous AI systems across a 50+ person engineering division, delivering a 40% operational efficiency surge. Secured aviation certifications 3 months ahead of schedule.\n• Founder & MD at HeatBolt/Parshwa Power — Commercialized breakthrough flameless thermal platforms. Strategic partnerships with Amul, Bikaji, Haldiram, Emirates Flight Catering, and Indian Defence Forces.\n• Strategic Advisor to CEOs, Board Chairs, and industry titans across regulated aviation, defense, energy, FMCG, and enterprise tech ecosystems.\n• Green Hydrogen Research — Advanced research at Indian Institute of Science (IISc), Bangalore.\n\nI thrive in fast-paced, ambiguous environments where strategy and execution must work hand-in-hand. My experience bridging R&D, commercial operations, compliance, and cross-functional teams makes me uniquely suited to drive impact at ExtraHop.\n\nWarm regards,\nDr. Kumarpal Porwal\n+91 73533 19757 | founder.heatbolt@gmail.com | linkedin.com/in/kumarpal-porwal",
     "status": "discovered",
     "discovered_at": "2026-10-16T06:03:15.468Z"
+  },
+  {
+    "company": "Celonis",
+    "role": "Chief Of Staff",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8000413003?gh_jid=8000413003",
+    "platform": "greenhouse",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked, confirmation text pending.",
+    "timestamp": "2026-10-16T07:14:23.795Z"
+  },
+  {
+    "company": "Notion",
+    "role": "Chief of Staff, Sales",
+    "url": "https://jobs.ashbyhq.com/notion/c5c69246-74db-4960-a0e0-7945be6c30ae",
+    "platform": "ashby",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked on Ashby form.",
+    "timestamp": "2026-10-16T07:14:37.591Z"
+  },
+  {
+    "company": "Scale AI",
+    "role": "Chief of Staff, Public Sector Engineering & Security",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720163005",
+    "platform": "greenhouse",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked, confirmation text pending.",
+    "timestamp": "2026-10-16T07:14:48.249Z"
+  },
+  {
+    "company": "Reddit",
+    "role": "Chief of Staff, Global Sales",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8187521",
+    "platform": "greenhouse",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked, confirmation text pending.",
+    "timestamp": "2026-10-16T07:14:59.052Z"
+  },
+  {
+    "company": "Cohere",
+    "role": "Marketing Chief of Staff",
+    "url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+    "platform": "ashby",
+    "status": "form-filled",
+    "details": "Form fields populated.",
+    "timestamp": "2026-10-16T07:15:03.775Z"
+  },
+  {
+    "company": "Cohere",
+    "role": "Chief of Staff",
+    "url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0",
+    "platform": "ashby",
+    "status": "form-filled",
+    "details": "Form fields populated.",
+    "timestamp": "2026-10-16T07:15:08.638Z"
+  },
+  {
+    "company": "Cohere",
+    "role": "Chief of Staff (Technical)",
+    "url": "https://jobs.ashbyhq.com/cohere/81450c5f-8495-439b-a1b3-ce7ef9739437",
+    "platform": "ashby",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked on Ashby form.",
+    "timestamp": "2026-10-16T07:15:21.199Z"
+  },
+  {
+    "company": "Reddit",
+    "role": "Chief of Staff, Global Sales Ops",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8249259",
+    "platform": "greenhouse",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked, confirmation text pending.",
+    "timestamp": "2026-10-16T07:15:31.758Z"
+  },
+  {
+    "company": "Leverage Live Local",
+    "role": "Head of Operations (Remote)",
+    "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+    "platform": "remoteok",
+    "status": "discovered-apply-link",
+    "details": "External link resolved: /l/1137461",
+    "timestamp": "2026-10-16T07:15:38.475Z"
+  },
+  {
+    "company": "ExtraHop",
+    "role": "Sr Solutions Architect (Remote)",
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+    "platform": "remoteok",
+    "status": "discovered-apply-link",
+    "details": "External link resolved: /l/1137394",
+    "timestamp": "2026-10-16T07:15:44.423Z"
   }
 ]
