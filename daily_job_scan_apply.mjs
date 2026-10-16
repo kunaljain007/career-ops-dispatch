@@ -38,16 +38,19 @@ const PIPELINE_FILE = path.join(DATA_DIR, "pipeline.md");
 
 // High-priority leadership & executive target roles
 const TARGET_ROLES = [
+  "Chief Executive Officer", "CEO", "Interim CEO", "Fractional CEO",
+  "Managing Director", "MD", "Country Manager", "President", "Vice President",
   "Chief of Staff", "Head of Strategy", "VP Strategy", "Director of Strategy",
   "Head of Operations", "VP Operations", "Director of Operations", "COO", "Fractional COO",
+  "Chief Operating Officer", "Chief Commercial Officer", "CCO", "Chief Growth Officer",
   "Director of Innovation", "Head of Future Industries", "Corporate Development",
   "Founder in Residence", "Entrepreneur in Residence", "EIR",
   "Venture Partner", "Startup Mentor", "Startup Advisor",
-  "Head of AI", "AI Strategy", "AI Transformation", "Director of AI",
+  "Head of AI", "AI Strategy", "AI Transformation", "Director of AI", "Chief AI Officer",
   "Solutions Architect", "Head of Growth", "General Manager",
   "Special Projects", "Strategy Consultant", "Forward Deployed",
   "Strategy & Operations", "Business Operations", "Technical Program Manager",
-  "Strategy Lead", "Operations Lead", "Executive Director",
+  "Strategy Lead", "Operations Lead", "Executive Director", "Managing Partner",
 ];
 
 const NEGATIVE_FILTERS = [

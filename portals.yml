@@ -21,18 +21,18 @@
 
 title_filter:
   positive:
-    # [CUSTOMIZE] Add keywords matching YOUR target roles
+    # Executive Leadership & C-Suite Target Roles
+    - "Chief Executive Officer"
+    - "CEO"
+    - "Managing Director"
+    - "Country Manager"
+    - "President"
+    - "Chief Operating Officer"
+    - "COO"
     - "Chief of Staff"
     - "Head of Strategy"
     - "Strategy Lead"
-    - "Operations"
-    - "Director of Innovation"
-    - "Founder in Residence"
-    - "General Manager"
-    - "Special Projects"
-    - "Intern"
-    - "Internship"
-    - "MBA Intern"
+    - "Head of Operations"
     - "VP Strategy"
     - "Professor"
     - "Lecturer"
