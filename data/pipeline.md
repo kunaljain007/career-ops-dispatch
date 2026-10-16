@@ -2407,3 +2407,46 @@ Christ Church Barbados
 - [ ] https://jobs.lever.co/pigment/83c08a7d-fcb6-4966-aaec-62db0f2bd591 | Pigment | Solutions Consultant - West Coast
 - [ ] https://jobs.lever.co/pigment/d55f8feb-974d-4ccc-a15d-a93f7e7caa44 | Pigment | Tech Talent Acquisition Intern / Apprentice
 - [ ] https://jobs.lever.co/pigment/debfb2ed-3ad0-4a47-8f64-d2ac19a2b553 | Pigment | Technical Solutions Consultant - Germany
+
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/8128393 | Intercom | Senior AI Deployment Consultant
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390735008 | Anthropic | Applied AI Architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426933008 | Anthropic | Applied AI Architect, Partnerships
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390795008 | Anthropic | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391021008 | Anthropic | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/c34f5713-25aa-42fd-877e-012a99e261e3 | Decagon | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7875762003?gh_jid=7875762003 | Celonis | Senior Value Engineer - Technology Consultant
+- [ ] https://sumup.com/careers/positions/8870996002?gh_jid=8870996002 | SumUp | Experienced Field Sales Consultant
+- [ ] https://jobs.ashbyhq.com/faculty/73372b67-3d4d-43ec-98b7-282aaec7fd09 | Faculty | Lead Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/1a8ccd5c-71b3-41d1-8121-eb086e428b83 | Faculty | Senior Machine Learning Engineer
+- [ ] https://stripe.com/jobs/search?gh_jid=8201680 | Stripe | GTM Strategy & Operations Analyst
+- [ ] https://stripe.com/jobs/search?gh_jid=8130867 | Stripe | Software Engineer, Intern
+- [ ] https://stripe.com/jobs/search?gh_jid=8130805 | Stripe | Software Engineer, Intern (Summer or Winter)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8870718002 | Databricks | Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8736471002 | Databricks | Delivery Solutions Architect - Digital Native Business
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8630011002 | Databricks | Deployment Strategist
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8860431002 | Databricks | Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8892968002 | Databricks | Lead Solutions Architect - Generative AI (EMEA Emerging DNB)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8503068002 | Databricks | Manager, Forward Deployed Engineering
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8819053002 | Databricks | Senior Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8704938002 | Databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8874892002 | Databricks | Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569633002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002 | Databricks | Specialist Solutions Architect - AI/ML
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8583353002 | Databricks | Sr. Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8739474002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8461193002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8807063002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8592951002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8494146002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647668002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8736179002 | Databricks | Sr. Manager, Field Engineering
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8632383002 | Databricks | Sr. Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002 | Databricks | Sr. Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/notion/3e988191-692b-48b7-969f-61c000c1636e | Notion | Forward Deployed Architect
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8043305?gh_jid=8043305 | Cloudflare | Forward Deployed Engineer, Professional Services
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8173707?gh_jid=8173707 | Cloudflare | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730845005 | Scale AI | Software Engineering Intern (Summer 2027) 
+- [ ] https://jobs.lever.co/spotify/819f584f-84a5-485d-8082-3412545f6c8a | Spotify | Research Scientist - Generative Audio
+- [ ] https://jobs.lever.co/spotify/a4c49acb-a095-4452-ad9e-69e4b778c256 | Spotify | Senior Applied Research Scientist - Personalization
+- [ ] https://jobs.lever.co/spotify/499543e3-78e7-473a-8a1d-a82ce9ce9030 | Spotify | Senior Staff Machine Learning Engineer - Content Platform
+- [ ] https://jobs.lever.co/qonto/560f5d61-930e-4d27-ab4d-254119b2d920 | Qonto | Senior/Staff - Go Backend Engineer - remote friendly
