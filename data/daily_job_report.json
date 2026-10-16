@@ -1,0 +1,4484 @@
+{
+  "date": "2026-10-16T06:03:15.532Z",
+  "candidate": "Dr. Kumarpal Porwal",
+  "total_discovered": 639,
+  "chief_of_staff": 13,
+  "ai_roles": 145,
+  "strategy_roles": 71,
+  "remote_roles": 2,
+  "jobs": [
+    {
+      "company": "ElevenLabs",
+      "title": "GTM Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/aec0af09-38e8-4fa4-8a93-f720a90c915e",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Marketing Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Chief of Staff to the VP of Product",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4693004005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Chief of Staff",
+      "url": "https://jobs.ashbyhq.com/cohere/81450c5f-8495-439b-a1b3-ce7ef9739437",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Chief Of Staff",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/8000413003?gh_jid=8000413003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Chief of Staff",
+      "url": "https://careers.hellofresh.com/global/en/job/8234237?gh_jid=8234237",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Chief of Staff, Sales",
+      "url": "https://jobs.ashbyhq.com/notion/c5c69246-74db-4960-a0e0-7945be6c30ae",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Chief of Staff to Chief Strategy Officer",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8076815?gh_jid=8076815",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Chief of Staff to the CMO",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8788190002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Reddit",
+      "title": "Chief of Staff, Global Sales",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8187521",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Chief of Staff, Public Sector Engineering & Security",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720163005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Reddit",
+      "title": "Chief of Staff, Global Sales",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8249259",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "CodePath (RemoteOK)",
+      "title": "Lead Instructor Applied AI Engineering Summer 2026",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-instructor-applied-ai-engineering-summer-2026-codepath-1131038",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Smartsheet (RemoteOK)",
+      "title": "Senior Product Manager Applied AI",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-applied-ai-smartsheet-1131233",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Tribe AI (RemoteOK)",
+      "title": "Forward Deployed AI Architect",
+      "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-ai-architect-tribe-ai-1130777",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "PolyAI",
+      "title": "Forward Deployed AI Engineer - Vancouver",
+      "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Engineering - Internal AI Transformation",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "General Manager - Spain",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b8af4833-d4a9-4ab4-baec-5da007f6d1e9",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Applied AI (Digital Natives Business)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Industries",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect Lead, EMEA Commercial",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5201715008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Partnerships",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Public Sector",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227643008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect (Startups)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5228931008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5248983008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Security Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227641008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Forward Deployed Engineer, Applied AI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4985877008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Head of ANZ, Applied AI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184077008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager of Applied AI Architecture, Enterprise Tech (Cyber)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197538008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager of Applied AI Architecture, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5230755008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager of Solutions Architecture, Applied AI (Enterprise Tech)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5222289008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Partner Solutions Architect, Applied AI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Zapier",
+      "title": "Sr. Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Arize AI",
+      "title": "Forward Deployed AI Engineer, East",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/5993755004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied AI Engineer (Benelux) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7662803003?gh_jid=7662803003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied AI Engineer (DACH) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7765677003?gh_jid=7765677003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Associate Applied AI Engineer (Scale EMEA) - Orbit Program",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7762505003?gh_jid=7762505003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Applied AI Solutions Consultant",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7695048003?gh_jid=7695048003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Strategic Applied AI Solutions Consultant",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7750227003?gh_jid=7750227003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Working Student Applied AI Brand Solutions",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7713599003?gh_jid=7713599003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Working Student Applied AI Solution Consulting (Nordics)",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7746655003?gh_jid=7746655003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "url": "https://stripe.com/jobs/search?gh_jid=7747638",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Procurement Transformation Program Manager, Operations and AI",
+      "url": "https://stripe.com/jobs/search?gh_jid=7989423",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, AI (Pre-sales)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7975723",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8503080002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546365002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Solutions Architect (Pre-sales) - Strategic Accounts",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501390002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Communications, Media, Entertainment & Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568063002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, AI Forward Deployed Engineering (FDE)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8515642002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Head of AI Forward Deployed Engineering (FDE), Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585021002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Staff Applied AI Engineer - Context Retrieval",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect, Strategic Retail - Central",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8487768002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - AI/ML",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8544533002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Delivery Solutions Architect - AI Native",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8469076002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461241002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer- Communications, Media, Entertainment & Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461163002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461222002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Manager, AI Forward Deployed Engineering (FDE) – EMEA",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574912002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - AI Natives Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8541221002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Strategic AI Native",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8458028002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Solutions Architect, AI / Cloudflare Developer Platform",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7529800?gh_jid=7529800",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Technical Program Manager, Gen AI Operations Planning",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4693449005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Software Engineer - Applied AI (Senior or Staff Level)",
+      "url": "https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424310008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect,  Beneficial Deployments (Life Sciences Community & Enablement)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Enterprise Tech",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383335008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Industries",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390765008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Industries",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390778008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, International Policy",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439830008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Partnerships",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390902008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Partnerships",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5300430008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Public Sector",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architects, Partner",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432554008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architects, Partner",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439499008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432573008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Strategic Enterprise Tech",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409008008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390799008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments (Lab Automation)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440821008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, DNB",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Public Sector",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups (Life Sciences)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454650008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Startups (Physical AI)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI, Research Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390811008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "[London] Applied AI Architect, Partnerships",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager, Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager, Applied AI Architecture, Enterprise Tech",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444482008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager Applied AI Architecture, Financial Services",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390894008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager Applied AI Architecture, Healthcare & Life Sciences",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390890008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager, Applied AI Engineering (Megas)",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442934008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager of Applied AI Architecture, Commercial",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager of Applied AI Architecture, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446029008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Recruiter, Applied AI",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5356621008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Software Engineer, Staff: Applied AI, Science & Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444766008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Arize AI",
+      "title": "Applied AI Engineer",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/6128122004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Arize AI",
+      "title": "Forward Deployed AI Engineer, West",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/6030953004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Applied AI Engineer - Technology Consultant",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior AI Transformation & Innovation Consultant",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7993837003?gh_jid=7993837003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Applied AI Solution Engineer",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7825688003?gh_jid=7825688003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Contentful",
+      "title": "Software Engineer, Applied AI Solutions",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8233486",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Legora",
+      "title": "Legal Engineer - Applied AI Knowledge",
+      "url": "https://jobs.ashbyhq.com/legora/e97abb73-204d-4f34-b4d1-7f2690b5a030",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Legora",
+      "title": "Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/legora/a4ef48af-644d-4d6e-b2eb-74e2bb12c19e",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Clay Labs",
+      "title": "Software Engineer, Applied AI",
+      "url": "https://jobs.ashbyhq.com/claylabs/5e07db20-d96a-4dff-b7d3-3bf1cdde6fc1",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Applied AI Architect, Perplexity Computer",
+      "url": "https://jobs.ashbyhq.com/perplexity/4fba58de-a168-4948-9d82-a7d4b38f45f2",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Member of Technical Staff (Applied AI Engineer, Agent Capabilities)",
+      "url": "https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Supabase",
+      "title": "Head of AI Native Operations",
+      "url": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "url": "https://stripe.com/jobs/search?gh_jid=7747640",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, AI",
+      "url": "https://stripe.com/jobs/search?gh_jid=8248509",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Metronome (AI Native)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8168813",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Manager, Solutions Architecture, AI & Developer Platform",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8113115?gh_jid=8113115",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Solutions Architect, AI/Cloudflare Developer Platform",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8189858?gh_jid=8189858",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Engineer – Forward Deployed Engineering (AI FDE)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer - London",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer - Netherlands",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813464002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "AI Forward Deployed Engineer - Sweden",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813515002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Communications, Media, Entertainment & Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735569002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892971002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior AI Engineer - FDE (Forward Deployed Engineer)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, AI Forward Deployed Engineering - London",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8793863002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect (Data & AI) - Leeds based",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585599002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect - Retail, Consumer Goods, Travel & Hospitality",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567972002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755474002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Communications, Media, Entertainment & Gaming",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6117756002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Media, Entertainment and Agencies)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8733726002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Portuguese Speaking) Madrid Spain",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8675568002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Retail, Consumer Goods, Travel & Hospitality",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8615016002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - AI/ML",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585164002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - AWS Infrastructure & AI Platform",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Azure Infrastructure & AI Platform",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461226002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Manager, AI Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8630019002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Specialist Solutions Architect -AI&ML Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Frontier Agents Engineer (Applied AI)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720573005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Product Operations Lead, Generative AI",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4740039005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Frontier Agents Engineer (Applied AI)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720478005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Staff Applied AI Engineer",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720050005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Staff Frontier Agents Engineer (Applied AI)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720487005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Industries",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390770008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Partnerships",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390787008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Architect, Startups",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Enterprise",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager, Applied AI Architect",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430869008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Forward Deployed AI Accelerator, Marketing",
+      "url": "https://stripe.com/jobs/search?gh_jid=8055930",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lead Solutions Architect - Generative AI (EMEA Emerging DNB)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892970002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755476002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - AI/ML",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8593505002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461168002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643895002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Manager, AI Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8845270002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Tremendous (RemoteOK)",
+      "title": "Special Projects Lead",
+      "url": "https://remoteOK.com/remote-jobs/remote-special-projects-lead-tremendous-1131704",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "bdManagedIT (RemoteOK)",
+      "title": "Director of Operations MSP Service Delivery",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-operations-msp-service-delivery-bdmanagedit-1133848",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Natera (RemoteOK)",
+      "title": "Senior Manager Associate Director Strategy & Operations",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-associate-director-strategy-operations-natera-1131115",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Nexxa.AI (RemoteOK)",
+      "title": "Customer Program Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-program-manager-nexxa-ai-1130935",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Alpaca (RemoteOK)",
+      "title": "Product Operations Lead",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-operations-lead-alpaca-1130684",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ChowNow  (RemoteOK)",
+      "title": "Senior Sales Enablement Program Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-enablement-program-manager-chownow-1130631",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Calendly (RemoteOK)",
+      "title": "Senior Technical Program Manager",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-technical-program-manager-calendly-1130236",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "540 (RemoteOK)",
+      "title": "Senior Solutions Architect",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-solutions-architect-540-1131145",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Bland AI",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airtable",
+      "title": "Senior Partner Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/airtable/jobs/8461582002",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airtable",
+      "title": "Senior Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/airtable/jobs/8498915002",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "General Manager - Belgium",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/088d1dfb-4685-461a-b8b1-3f9681f4af12",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "General Manager - Germany",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1ef264b8-ee9e-4713-a10a-0603f2cdbb94",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "General Manager - Chile",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/d107e946-5995-498b-be4a-d0fb75203660",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Forward Deployed Engineer - Software Engineer - Singapore",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/36bdb528-004b-482c-8924-33b27b76121f",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "General Manager - Mexico",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/500f3674-8a80-414b-b6a9-4bce6cda0c13",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Impact Strategy & Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3b517d94-7ecc-41ba-b49f-71c0671b27f7",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Talent Operations Lead",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/da8e86bb-f9a7-4d6c-8699-e2e11779915e",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Forward Deployed Engineering Recruiter",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/fc24cc63-43de-46e1-a1aa-2910013f5e7f",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Forward Deployed Engineer, Deepgram for Restaurants",
+      "url": "https://jobs.ashbyhq.com/deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Glean",
+      "title": "Founding Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651990005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Forward Deployed Software Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7982566",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7218259",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Staff Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7462110",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Center Facility Operations Lead",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218181008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Center Hardware Operations Lead",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218186008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Strategy & Operations Lead, Marketing",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5248946008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Sierra",
+      "title": "Forward Deployed Infrastructure Engineer",
+      "url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Sierra",
+      "title": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/sierra/d30758ba-edbc-43f8-9862-ac239440fe5d",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Sierra",
+      "title": "RFP Strategy & Operations Analyst",
+      "url": "https://jobs.ashbyhq.com/sierra/03424869-528d-4db1-b099-5d7f736d1a39",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "n8n",
+      "title": "Sales Strategy & Operations Manager – US (East Coast-based)",
+      "url": "https://jobs.ashbyhq.com/n8n/e77c1fa5-1232-49a3-9db3-b291cd79006b",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "n8n",
+      "title": "Forward Deployed Engineering Lead",
+      "url": "https://jobs.ashbyhq.com/n8n/e34d0a51-253b-4ca0-96ec-f3685d0fad9e",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Arize AI",
+      "title": "Forward Deployed Engineer, APJ",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/5993317004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Attio",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/attio/cef00929-63ab-4927-8a3c-1ea1d4224606",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Vercel",
+      "title": "Head of Workplace Strategy & Operations",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6006177004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Vercel",
+      "title": "Product Strategy & Operations",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6011651004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Vercel",
+      "title": "Senior Manager, Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5995789004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Vercel",
+      "title": "Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5796302004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "DeepL",
+      "title": "Senior Solutions Architect - Voice",
+      "url": "https://jobs.ashbyhq.com/DeepL/f8094527-6d0f-4be9-8bcb-b7b446a1483f",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Decagon",
+      "title": "Deal Desk Operations & Strategy Lead",
+      "url": "https://jobs.ashbyhq.com/decagon/76b7427f-4d3a-491a-8096-745303f46a31",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Solutions Architect - Defence and National Security",
+      "url": "https://jobs.ashbyhq.com/cohere/9e1af45a-d1a6-4173-bf0f-8af42fa42bf0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "url": "https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Solutions Architect - Public Sector",
+      "url": "https://jobs.ashbyhq.com/cohere/1bc73d85-e6f4-4338-b53a-9ffb609a950d",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Public Sector)",
+      "url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Solutions Architecture",
+      "url": "https://jobs.ashbyhq.com/cohere/4fedfdfc-3c41-4b77-8c66-c17b4ed2aaeb",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Solutions Architect",
+      "url": "https://jobs.ashbyhq.com/cohere/67c4c05a-f7ab-48dc-a779-af835e2d36f1",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "LangChain",
+      "title": "EMEA Deal Strategy & Operations Manager",
+      "url": "https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "LangChain",
+      "title": "EMEA Sales Strategy & Operations Lead",
+      "url": "https://jobs.ashbyhq.com/langchain/4c2bd9b2-58c0-4ef8-8b11-b742bf964f99",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "LangChain",
+      "title": "Solutions Architect (APAC)",
+      "url": "https://jobs.ashbyhq.com/langchain/c882af7e-59aa-4017-b791-9a8094c0ef6f",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "LangChain",
+      "title": "Monetization Programs and Operations Lead",
+      "url": "https://jobs.ashbyhq.com/langchain/71e8057d-8401-4b8a-a61f-3448f847e56b",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Black Forest Labs",
+      "title": "Forward Deployed Machine Learning Engineer",
+      "url": "https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Creative Operations Lead",
+      "url": "https://careers.hellofresh.com/global/en/job/7918184?gh_jid=7918184",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Creative Operations Lead (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/7904267?gh_jid=7904267",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Editorial Operations Lead",
+      "url": "https://careers.hellofresh.com/global/en/job/7931631?gh_jid=7931631",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Senior Manager - Tech Business Operations",
+      "url": "https://careers.hellofresh.com/global/en/job/7920651?gh_jid=7920651",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "N26",
+      "title": "Strategy & Operations Associate - Lending",
+      "url": "https://n26.com/en-eu/careers/positions/7946282?gh_jid=7946282",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "N26",
+      "title": "Strategy & Operations Associate - Lending",
+      "url": "https://n26.com/en-eu/careers/positions/7913105?gh_jid=7913105",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "N26",
+      "title": "Strategy & Operations Manager - Acquire",
+      "url": "https://n26.com/en-eu/careers/positions/7962850?gh_jid=7962850",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7677452003?gh_jid=7677452003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Strategy & Operations Manager",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7739087003?gh_jid=7739087003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Wayve",
+      "title": "Solutions Architect",
+      "url": "https://wayve.firststage.co/jobs?gh_jid=8554444002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Wayve",
+      "title": "Technical Operations Lead",
+      "url": "https://wayve.firststage.co/jobs?gh_jid=8582879002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Faculty",
+      "title": "Lead Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/faculty/e3f544c9-e520-4799-ab4d-c0b3cb050760",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "PhysicsX",
+      "title": "Forward Deployed Software Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "PhysicsX",
+      "title": "Senior Forward Deployed Software Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4839390101",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Lovable",
+      "title": "Solutions Architect, London/Stockholm",
+      "url": "https://jobs.ashbyhq.com/lovable/642dfe37-d5f5-4cf7-a38d-d6dac3dde58f",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Supabase",
+      "title": "Partner Solutions Architect - AWS",
+      "url": "https://jobs.ashbyhq.com/supabase/85606cff-df9a-462e-a6b9-5c7d0892eaa8",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Hightouch",
+      "title": "Founding Forward Deployed Marketer",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6008745004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Hightouch",
+      "title": "Sales Operations Lead",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6020192004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "SumUp",
+      "title": "Tax Process and Operations Lead",
+      "url": "https://sumup.com/careers/positions/8576656002?gh_jid=8576656002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Brand Partnerships & Strategy Lead",
+      "url": "https://stripe.com/jobs/search?gh_jid=7868790",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Engineering Manager, Forward Deployed (Privy)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7947546",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Finance & Strategy Lead, Payments Product",
+      "url": "https://stripe.com/jobs/search?gh_jid=7902126",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Global Head of Specialist Solutions Architecture, Revenue",
+      "url": "https://stripe.com/jobs/search?gh_jid=7963508",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Head of Enterprise Solutions Architecture Platforms",
+      "url": "https://stripe.com/jobs/search?gh_jid=7915144",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Marketing Operations Program Manager, Sold Funnel",
+      "url": "https://stripe.com/jobs/search?gh_jid=7616135",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Operations Program Manager, Capital Collections",
+      "url": "https://stripe.com/jobs/search?gh_jid=7815794",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Solutions Architect - Billing",
+      "url": "https://stripe.com/jobs/search?gh_jid=7927330",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Solutions Architect, (German fluency)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7919325",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Solutions Architect - LatAm",
+      "url": "https://stripe.com/jobs/search?gh_jid=7927324",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Solutions Architect, Technology Partnerships",
+      "url": "https://stripe.com/jobs/search?gh_jid=7964568",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Business Practices - Deal Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=7858819",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Solutions Architecture (GTM Transformation)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7470827",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Sales Strategy & Operations Business Partner",
+      "url": "https://stripe.com/jobs/search?gh_jid=7944515",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect (Australia)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7366524",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Commercial, UK",
+      "url": "https://stripe.com/jobs/search?gh_jid=7882492",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Enterprise (Pre-sales)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7827184",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Platforms",
+      "url": "https://stripe.com/jobs/search?gh_jid=7893203",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Platforms Velocity",
+      "url": "https://stripe.com/jobs/search?gh_jid=7396509",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect (SEA)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7978586",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Startups and SMB",
+      "url": "https://stripe.com/jobs/search?gh_jid=7903814",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Startup & SMB (French fluency)",
+      "url": "https://stripe.com/jobs/search?gh_jid=7601668",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Payments",
+      "url": "https://stripe.com/jobs/search?gh_jid=7377591",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Business Operations Associate",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8482370002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575044002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548984002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476399002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - High-Tech & Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549046002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540465002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Startups & Emerging Enterprise",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476401002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Field Technical Program Manager, Forward Deployed Engineering - LATAM",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423289002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8462016002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lead Solutions Architect  - Strategic Customers",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7642125002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Delivery Solutions Architects",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8545248002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Delivery Solutions Architects - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567320002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Delivery Solutions Architects - Financial Services",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8565280002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Delivery Solutions Architects - Toronto, ON",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8563185002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Field Engineering France  - Specialist Solutions Architects",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517065002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8445817002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Professional Services (Forward Deployed Engineering)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Partner Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439182002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Resident Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8501125002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Resident Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8362737002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Resident Solutions Architect - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578167002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Resident Solutions Architect - Financial Services",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461325002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Resident Solutions Architect - Healthcare & Life Sciences",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494148002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Resident Solutions Architect - Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494154002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Resident Solutions Architect - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494128002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568420002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect - Digital Natives",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8554470002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect (Enterprise Accounts)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8517068002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570586002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect - Lakewatch",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8516237002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8431937002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect -  Field Engineering (GCC)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8450157002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Greater China Region)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8499584002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect  Greenfield(New Logo) France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8531019002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect Greenfield (New Logo) Mid Market France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8560496002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8085877002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - High Tech and MFG",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8434341002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - High-Tech MFG",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8243219002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect, Hunter - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8432348002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568015002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Lakebase)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568017002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Montreal",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6679262002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Pre-sales)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8455752002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Public Sector (SLED)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8522044002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Sports",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585084002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Vietnam)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8529348002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Data Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Data Engineering & Warehousing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555703002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - GCP Infrastructure",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8589834002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8105504002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Engagement Manager, Forward Deployed Engineering - LATAM",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530605002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8534142002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. ISV & Partner Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8439172002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8417656002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Agencies",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585089002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect (Lakebase)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568025002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8583085002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Polish Speaker",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8512037002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Business Operations and Growth Lead",
+      "url": "https://careers.airbnb.com/positions/7916146?gh_jid=7916146",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Growth Strategy & Operations Lead",
+      "url": "https://careers.airbnb.com/positions/7957137?gh_jid=7957137",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Host Communications Strategy Lead",
+      "url": "https://careers.airbnb.com/positions/7944579?gh_jid=7944579",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Programs and Business Operations Lead, Cities",
+      "url": "https://careers.airbnb.com/positions/7944603?gh_jid=7944603",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Programs and Business Operations Lead - Mexico City",
+      "url": "https://careers.airbnb.com/positions/7541528?gh_jid=7541528",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Sales Operations Lead, AMER",
+      "url": "https://jobs.ashbyhq.com/notion/cb4f5e1a-88e4-4259-b73c-ac975dbcde5f",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Strategy & Operations, Early Career",
+      "url": "https://jobs.ashbyhq.com/notion/83c8907b-e05e-401a-a5de-9ebe0b1a800f",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Forward Deployed Engineer, GTM - Japan",
+      "url": "https://jobs.ashbyhq.com/notion/4bc0802c-b5e0-411c-be01-daaea2bc3ae0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Customer Success Strategy & Operations Manager",
+      "url": "https://jobs.ashbyhq.com/notion/cfacf665-602d-43b2-9d92-7dfda3bb19a2",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Business Operations & Strategy Lead",
+      "url": "https://jobs.ashbyhq.com/notion/ef4d9a34-153f-47a7-ba9f-f9a9de821066",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Central GTM Strategy & Operations Manager",
+      "url": "https://jobs.ashbyhq.com/notion/c45ae77a-37d4-451a-bc59-1723fb15422e",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Discord",
+      "title": "Solutions Architect, SF Bay Area",
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8579738002",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Forward Deployed Engineer",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7778796?gh_jid=7778796",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7728103?gh_jid=7728103",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Solutions Strategy Lead",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7947516?gh_jid=7947516",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Director, Forward Deployed Engineering",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4690504005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Director of Product Management, Forward Deployed & Strategy",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4669229005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Growth Strategy & Operations Lead",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4701543005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Operations Program Manager (Computer Vision), Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4704555005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Operations Program Manager, Regional Lead",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4684806005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Product Delivery & Operations Lead",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4617327005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4673310005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Reddit",
+      "title": "Program Manager, Vendor Operations",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7396638",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Reddit",
+      "title": "Revenue Strategy & Operations, Lead",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7863043",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Middle East)",
+      "url": "https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Staff Technical Program Manager, Machine Learning",
+      "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Director, Solutions Architecture — Americas",
+      "url": "https://jobs.ashbyhq.com/cohere/1e6c4acf-d98a-46ac-bacb-d609ca1326c1",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (South Korea)",
+      "url": "https://jobs.ashbyhq.com/cohere/9c5e1ab3-883b-4d15-885c-76400da7ca11",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Singapore)",
+      "url": "https://jobs.ashbyhq.com/cohere/e88931c0-d3fa-4e81-accc-45db823ea616",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Director, Solutions Architecture, APAC",
+      "url": "https://jobs.ashbyhq.com/cohere/14a286d9-e415-4198-8d3b-8e0a7882a5b6",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)",
+      "url": "https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (UK Public Sector)",
+      "url": "https://jobs.ashbyhq.com/cohere/691982e3-9357-42e4-b4c3-a65cae906935",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Solutions Architect - UAE",
+      "url": "https://jobs.ashbyhq.com/cohere/f154a1cb-b7c1-4f74-ac50-04ef9dcfc9e0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cohere",
+      "title": "Solutions Architect - Nordics",
+      "url": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Legal Operations Lead",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/191bba6f-c66d-4ac0-8ddd-300b272046e0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Forward Deployed Engineer - Software Engineer - United Kingdom",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Forward Deployed Engineer - Software Engineer - Argentina",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1f7a2786-46d3-46c9-81f3-c3849b412988",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Forward Deployed Engineer - Software Engineer - Mexico",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/8a573932-b1fb-4df7-9023-e13a6cecbbbb",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Partnerships Strategy & Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/36b52143-1ed2-4e60-89c4-84e09d856658",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Company Operations Lead",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/4aaebda4-53be-424c-8246-cde77ff853bb",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Forward Deployed Data Scientist",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8185627",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8201208",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8081165",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Senior Forward Deployed Product Manager",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/7111007",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Solutions Architect -Spanish Speaking",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8123007",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Parloa",
+      "title": "Manager, Forward Deployed Engineering",
+      "url": "https://job-boards.eu.greenhouse.io/parloa/jobs/4959301101",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Senior Forward Deployed Engineer (FDE), Strategic Accounts",
+      "url": "https://jobs.ashbyhq.com/deepgram/1645ceac-3ef9-45ba-8386-49c7c43b14f0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Deepgram",
+      "title": "Privacy Operations Lead",
+      "url": "https://jobs.ashbyhq.com/deepgram/1fea22ce-2438-44cb-b28f-2c0109f2f78a",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Commercial Operations Program Manager",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Customer Marketing Manager, Special Projects",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439355008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Data Center Operations Lead - Partner Site Operations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398280008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Director, Financial Reporting - Special Projects",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441936008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Enforcement Operations Lead, Cloud Partners",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5417758008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423029008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "GTM Strategy & Operations - AMER Enterprise Tech",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390956008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "GTM Strategy & Operations, FDE",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427938008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "GTM Strategy & Operations, Frontier",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390952008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Manager, Forward Deployed Engineering",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Operations Lead, Investor Relations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358138008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Product Marketing Manager, Special Projects",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424080008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Program Manager, Safeguards Workforce Operations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431285008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Revenue Strategy & Operations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5199633008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Staff Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449229008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Strategy & Operations, Office of the CCO",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432995008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Vercel",
+      "title": "Head of Solutions Architecture, EMEA",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6111005004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Vercel",
+      "title": "Head of Solutions Architecture, Startups",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6119846004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Sierra",
+      "title": "Pricing Strategy & Operations",
+      "url": "https://jobs.ashbyhq.com/sierra/3935e2a4-eb85-44dd-8e50-1443402bc2b4",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Glean",
+      "title": "Founding Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4651991005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Glean",
+      "title": "Resident Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4717716005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Decagon",
+      "title": "Founders' Office, Business Operations",
+      "url": "https://jobs.ashbyhq.com/decagon/c309c767-3553-42e1-81ec-73cc3b88c2ce",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Decagon",
+      "title": "Business Operations, Pricing Strategy",
+      "url": "https://jobs.ashbyhq.com/decagon/80e62efe-c1e1-4f00-a9cb-2a75d8cbb577",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Decagon",
+      "title": "Solutions Architect, Voice - London",
+      "url": "https://jobs.ashbyhq.com/decagon/c9d15c3c-e5e8-4b5b-8b28-dbeb6d5da2c0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Decagon",
+      "title": "Business Operations, Analytics Engineer",
+      "url": "https://jobs.ashbyhq.com/decagon/d5af97d3-e615-4387-8636-8a461e8677f2",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Decagon",
+      "title": "Business Operations, Growth",
+      "url": "https://jobs.ashbyhq.com/decagon/aed35522-81dd-466f-aa98-6dbe8fda413a",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "n8n",
+      "title": "Forward Deployed Engineer - US East Coast",
+      "url": "https://jobs.ashbyhq.com/n8n/98dc8c86-b135-4803-8044-1d6f6a631aa8",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "n8n",
+      "title": "Forward Deployed Engineer - EMEA",
+      "url": "https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Attio",
+      "title": "Forward Deployed GTM Engineer",
+      "url": "https://jobs.ashbyhq.com/attio/26c31052-b667-46ae-b459-049018e55e96",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Helsing",
+      "title": "Strategy & Operations (AUS)",
+      "url": "https://helsing.ai/jobs/4978367101?gh_jid=4978367101",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Lead Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7788552003?gh_jid=7788552003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Celonis",
+      "title": "Senior Solutions Architect",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7784638003?gh_jid=7784638003",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "GetYourGuide",
+      "title": "Brand Strategy Lead",
+      "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8152695",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "GetYourGuide",
+      "title": "Care Strategy Lead",
+      "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8255738",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "GetYourGuide",
+      "title": "General Manager, Global Attractions & Ticketed Experiences",
+      "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8242277",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "GetYourGuide",
+      "title": "Head of Strategy and Operations — Partnerships",
+      "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8016369",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "GetYourGuide",
+      "title": "Senior Manager, Business Operations & Strategy (Optimization)",
+      "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8248756",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "Loyalty Program Strategy Lead (all genders)",
+      "url": "https://careers.hellofresh.com/global/en/job/8055149?gh_jid=8055149",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "HelloFresh",
+      "title": "[TECH] Senior Forward Deployed Engineer [INTELLIGENT PLATFORMS]",
+      "url": "https://careers.hellofresh.com/global/en/job/8258950?gh_jid=8258950",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "N26",
+      "title": "Strategy & Operations Associate: Customer Risk Lifecycle",
+      "url": "https://n26.com/en-eu/careers/positions/8255715?gh_jid=8255715",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "N26",
+      "title": "Strategy & Operations: Customer Risk Lifecycle",
+      "url": "https://n26.com/en-eu/careers/positions/8243302?gh_jid=8243302",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "SumUp",
+      "title": "Executivo(a) de Vendas Externas | Fortaleza – Meireles",
+      "url": "https://sumup.com/careers/positions/8858945002?gh_jid=8858945002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "PhysicsX",
+      "title": "Forward Deployed Software Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stability AI",
+      "title": "Forward Deployed Engineer",
+      "url": "http://stability.ai/careers?gh_jid=4966000101",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Lovable",
+      "title": "Global People Operations Lead",
+      "url": "https://jobs.ashbyhq.com/lovable/dbdb349a-195e-4de6-834d-f0e587678ee9",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Lovable",
+      "title": "Forward Deployed Engineering Lead",
+      "url": "https://jobs.ashbyhq.com/lovable/f8590c0f-5374-4753-839b-e5c7315a71c2",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Faculty",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/faculty/87b95736-0abf-4b18-b628-0083d52ec961",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Faculty",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/faculty/c7d3b4b9-fe50-4ebd-8f55-9c6c014014e8",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Legora",
+      "title": "Senior / Staff Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/legora/f76a3939-895d-4203-9322-927bae45f533",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Legora",
+      "title": "Talent Operations Program Manager, Interview Excellence",
+      "url": "https://jobs.ashbyhq.com/legora/1c2e752d-1615-455d-aa96-188c01c58301",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Legora",
+      "title": "Talent Operations Program Manager, Systems & Insights",
+      "url": "https://jobs.ashbyhq.com/legora/fed7f0fd-c8c8-43f4-83d2-c02e036b72ac",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Legora",
+      "title": "Strategy & Operations Manager - Legal Data",
+      "url": "https://jobs.ashbyhq.com/legora/a9a41184-0878-43bc-abc9-e7a5546415f6",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Clay Labs",
+      "title": "Partner & Marketplace Operations Lead",
+      "url": "https://jobs.ashbyhq.com/claylabs/d3bd708c-4b20-45c9-9522-f38abc30ca06",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Perplexity",
+      "title": "GTM Strategy & Operations Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/b75db90b-ca13-4a2f-aac4-c7764b631540",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Business Operations Manager, Marketing and Communications",
+      "url": "https://jobs.ashbyhq.com/perplexity/fd64d88c-823e-4329-b133-f09754e0f4b8",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Strategic Business Operations Lead, API",
+      "url": "https://jobs.ashbyhq.com/perplexity/cf99602c-3f06-4443-bc8a-e03d0a67ad4c",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Global Workplace Business Operations Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/c5dcc0db-7fdc-4e09-86c7-b6618400df16",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Perplexity",
+      "title": "Billing Operations Lead",
+      "url": "https://jobs.ashbyhq.com/perplexity/702c7eb8-9908-407f-bcb5-647a227819d6",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Comms Strategy & Operations Associate",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241857",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Design Program Manager, Research Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8155390",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Forward Deployed Security Engineer",
+      "url": "https://stripe.com/jobs/search?gh_jid=8181003",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "GTM Strategy & Operations Analyst",
+      "url": "https://stripe.com/jobs/search?gh_jid=8195483",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Manager, Solutions Architecture- Enterprise Hunter",
+      "url": "https://stripe.com/jobs/search?gh_jid=8163542",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Manager, Solutions Architecture - Enterprise (West)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175633",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Manager, Solutions Architecture - Platforms (Chicago)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175667",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Partner Solutions Architecture Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175651",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Pre-Sales Solutions Architect, Money Management",
+      "url": "https://stripe.com/jobs/search?gh_jid=7370967",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Privacy Operations Program Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8053517",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Product Strategy & Operations APAC",
+      "url": "https://stripe.com/jobs/search?gh_jid=8081423",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Deal Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8209633",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Risk Operations GTM Enablement",
+      "url": "https://stripe.com/jobs/search?gh_jid=8209641",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Public Sector Operations Lead, UK",
+      "url": "https://stripe.com/jobs/search?gh_jid=8096121",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Sales Strategy & Operations Analyst",
+      "url": "https://stripe.com/jobs/search?gh_jid=8164674",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Sales Strategy & Operations Business Partner",
+      "url": "https://stripe.com/jobs/search?gh_jid=8089882",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Commercial, UK/I",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144264",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Enterprise Hunter (Presales)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8175663",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Enterprise (Presales)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144185",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect (Greater China)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144223",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect (India)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8042913",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, (Italian fluency)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144233",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Metronome (Startups)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8179419",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, Platforms, UK",
+      "url": "https://stripe.com/jobs/search?gh_jid=8147491",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Solutions Architect, SMB",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144256",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Billing",
+      "url": "https://stripe.com/jobs/search?gh_jid=7728618",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Data",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144262",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Money Management",
+      "url": "https://stripe.com/jobs/search?gh_jid=8223712",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Payments",
+      "url": "https://stripe.com/jobs/search?gh_jid=8119967",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Payments",
+      "url": "https://stripe.com/jobs/search?gh_jid=8119970",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Radar (APAC)",
+      "url": "https://stripe.com/jobs/search?gh_jid=8225567",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architect, Tax",
+      "url": "https://stripe.com/jobs/search?gh_jid=8090244",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Specialist Solutions Architecture, Link",
+      "url": "https://stripe.com/jobs/search?gh_jid=8279202",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategic Business Performance, Central Strategy & Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8155580",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategy and Operations Lead, Deal Pricing",
+      "url": "https://stripe.com/jobs/search?gh_jid=8044391",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategy & Operations Business Partner, Customer Success",
+      "url": "https://stripe.com/jobs/search?gh_jid=8224620",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategy & Operations Business Partner, Global Payments Performance",
+      "url": "https://stripe.com/jobs/search?gh_jid=8171928",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategy & Operations Business Partner, Solution Architecture",
+      "url": "https://stripe.com/jobs/search?gh_jid=8214620",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategy & Operations, Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=8171095",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Strategy & Operations, Risk",
+      "url": "https://stripe.com/jobs/search?gh_jid=8199596",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "General Manager, DACH",
+      "url": "https://jobs.ashbyhq.com/notion/951a7b72-4cb3-4726-be5e-5359269d4929",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Customer Experience Strategy & Operations Lead",
+      "url": "https://jobs.ashbyhq.com/notion/8bb5da67-0b4d-4894-83eb-56d31e9bc662",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Forward Deployed Architect",
+      "url": "https://jobs.ashbyhq.com/notion/9a849c30-11ad-44ad-86e5-ecb7cc4b7934",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Forward Deployed Architect, France",
+      "url": "https://jobs.ashbyhq.com/notion/d87154d4-d3c5-48cf-8e83-559436f27133",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "General Manager, France",
+      "url": "https://jobs.ashbyhq.com/notion/42702b6a-b4a6-47ac-add0-07b435a8be38",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Forward Deployed Engineer, India",
+      "url": "https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Forward Deployed Engineer, Manager -London",
+      "url": "https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Business Operations & Strategy",
+      "url": "https://jobs.ashbyhq.com/notion/0d000633-4a69-4dae-ab5f-da19b5ab8cc0",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Figma",
+      "title": "Forward Deployed Engineer",
+      "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Business Operations and Growth Lead, Asia",
+      "url": "https://careers.airbnb.com/positions/8242459?gh_jid=8242459",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Host Communications Strategy Lead",
+      "url": "https://careers.airbnb.com/positions/8201750?gh_jid=8201750",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Programs and Business Operations Lead, Membership & Services",
+      "url": "https://careers.airbnb.com/positions/8028783?gh_jid=8028783",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Programs Operations Lead, Growth Levers",
+      "url": "https://careers.airbnb.com/positions/8103590?gh_jid=8103590",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Demand Strategy Lead, Experiences",
+      "url": "https://careers.airbnb.com/positions/8196013?gh_jid=8196013",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Host Communications Strategy Lead",
+      "url": "https://careers.airbnb.com/positions/8258743?gh_jid=8258743",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Program Manager, Workplace Operations",
+      "url": "https://careers.airbnb.com/positions/8079378?gh_jid=8079378",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Programs & Business Operations Lead",
+      "url": "https://careers.airbnb.com/positions/8163221?gh_jid=8163221",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior Sales Operations Lead",
+      "url": "https://careers.airbnb.com/positions/8244229?gh_jid=8244229",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Airbnb",
+      "title": "Senior SEO Strategy Lead (SEO, AEO, GEO)",
+      "url": "https://careers.airbnb.com/positions/8280719?gh_jid=8280719",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Business Operations Manager",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8250114?gh_jid=8250114",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Customer Solutions Strategy Lead",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8188498?gh_jid=8188498",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Forward Deployed Engineer (FDE)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7572075?gh_jid=7572075",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Forward Deployed Engineer, Professional Services",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8043339?gh_jid=8043339",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Forward Deployed Engineer, Professional Services (Application Security)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8203794?gh_jid=8203794",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Infrastructure Business Operations Associate",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8278383?gh_jid=8278383",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Marketing Strategy and Operations Lead",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8030678?gh_jid=8030678",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Partner Solutions Architect- Service Providers  Location New York/ New Jersey, Dallas, Denver or Seattle.",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8049820?gh_jid=8049820",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Solutions Architect, APJC (Developer Platform) - Mandarin Speaking",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Solutions Architect, Public Sector Federal",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8131824?gh_jid=8131824",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Principal Solutions Architect - SAARC",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219990?gh_jid=8219990",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8265704?gh_jid=8265704",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Forward Deployed Infrastructure Engineer",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Manager, Forward Deployed Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8192032?gh_jid=8192032",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Solutions Architect, APJC (Developer Platform) - India Market",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8169689?gh_jid=8169689",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Solutions Architect, Cloudflare Developer Platform",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8201957?gh_jid=8201957",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476496002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548986002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Financial Services",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735549002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735551002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Oil & Gas",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8687483002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8559315002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Public Sector (Defense Industrial Base)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790289002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Public Sector (DOJ)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790621002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Public Sector (DOW, DHS, Intelligence Community)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739515002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Public Sector (Federal)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790301002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Public Sector (SLED)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8790285002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Startups & Emerging Enterprise",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549248002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Director, Delivery Solutions Architects - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739519002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Field Engineering Manager, Specialist Solutions Architects",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785065002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Field Engineering Manager, Specialist Solutions Architects - Nordics",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8540455002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Forward Deployed Engineer (FDE) - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8611108002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Forward Deployed Engineering - Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8856501002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Forward Deployed Engineering - Senior Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Lead Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8768956002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Delivery Solutions Architects",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8801844002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Delivery Solutions Architects - Financial Services",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8821959002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8629997002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Forward Deployed Engineering - CMEG",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8585019002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Partner Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785221002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Engagement Manager, Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8884904002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8629999002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Forward Deployed Engineer (Technical Data Architect)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8884753002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Manager, Forward Deployed Engineering (UAE)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8849279002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652984002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect (Banking, Financial Services)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8682362002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567991002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect (Lakebase)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8568023002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect (Pre-sales) - Life Sciences",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8867686002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Specialist Solutions Architect (SSA - Cloud Infrastructure)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8855360002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7896350002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Benelux Fungible",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746185002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Core FSI",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637781002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - CPG and Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755662002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Digital Native Business)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8768958002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Digital Native Business (Fintech)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8862137002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Digital Native Business (Healthtech)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782711002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Digital Native Business, Named Accounts",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569640002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect, EMEA Startups — France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8675572002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Financial Services (Banking and Payments)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637768002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Financial Services & Insurance",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771056002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Financial Services (Professional Services)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8502991002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - FSI",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876388002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Genie)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657549002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect Greenfield Enterprise France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885047002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567993002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Lakebase)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567985002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661758002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - MFG - West",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876599002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Nordics Fungible",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8778009002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Pre-sales) - Benelux Strategic Accounts",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8733334002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Pre-sales) – Manufacturing & Automotive",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785053002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect (Pre-sales) - Utilities/Energy",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657746002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8637758002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Public Sector (SLED)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8633741002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Strategic High Tech",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8563159002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Data Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870159002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Data Warehousing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785057002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect (Data Warehousing)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8855171002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect - Security",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785061002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Specialist Solutions Architect (Security)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870714002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Delivery Solutions Architect (Greater China Region)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Engagement Manager, Forward Deployed Engineering - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8490644002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8731998002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807049002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592938002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8782216002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494142002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494155002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector/National Security",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657478002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer - National Security",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8746374002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632188002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785045002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Agencies",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8758645002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Automotive",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8721003002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect (CustomerLake)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762366002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect, Customer Lake",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762360002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Digital Native Business (Strategic Accounts)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567963002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Digital Native Business, Strategics",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8615045002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Financial Services (Asset and Wealth Management)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8605158002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Financial Services (Hunter)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567961002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect France",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885041002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - FSI",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720999002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect (Greater China)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8849932002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Lakebase",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567849002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Public Sector (Defense Industrial Base)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8453645002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Teleco",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8747038002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect - Travel and Hospitality",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569637002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Specialist Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8625656002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Staff Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555674002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8653264002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Product Operations Lead, Marketplace Operations",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823880002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Technical Program Manager, Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8884751002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Forward Deployed Product Manager, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4644742005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Forward Deployed Product Manager, Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713648005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Forward Deployed Software Engineer, Public Sector",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4481921005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Frontier Agents Engineer (Forward Deployed Engineering)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4694861005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Head of GTM Strategy & Operations, Enterprise",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4662232005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Operations Program Manager / Associate, Industrial Partnerships - Robotics",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4723290005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Product Leadership, Forward Deployed & Strategy",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4702890005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Program Manager - Growth Operations, Contract",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720969005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Frontier Agents Engineer (Forward Deployed Engineering)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4694863005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Senior Full-Stack Software Engineer, (Forward deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732394005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Staff Frontier Agents Engineer (Forward Deployed Engineering)",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4694865005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Scale AI",
+      "title": "Staff Full-Stack Software Engineer, (Forward Deployed), GPS",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4732430005",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Forward Deployed Data Scientist",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8245700",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Intercom",
+      "title": "Solutions Architect -Spanish Speaking",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8144743",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Forward Deployed Engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391016008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Anthropic",
+      "title": "Revenue Strategy & Operations",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439844008",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "PhysicsX",
+      "title": "Forward Deployed Software Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/physicsx/jobs/4932720101",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "GTM Strategy & Operations Analyst",
+      "url": "https://stripe.com/jobs/search?gh_jid=8145119",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Privacy Operations Program Manager",
+      "url": "https://stripe.com/jobs/search?gh_jid=8094087",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Program Manager, Risk Operations GTM Enablement",
+      "url": "https://stripe.com/jobs/search?gh_jid=8158082",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Stripe",
+      "title": "Sales Strategy & Operations Business Partner",
+      "url": "https://stripe.com/jobs/search?gh_jid=8106775",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8549681002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Delivery Solutions Architect - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736473002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Manager, Forward Deployed Engineering",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8613192002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Senior Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8620637002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8641892002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Digital Native Business, Named Accounts",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8877968002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Solutions Architect - Public Sector",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438777002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Delivery Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8849858002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739465002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807033002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592952002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer - FDE (Fullstack)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8645052002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494144002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Manufacturing",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341313002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Forward Deployed Engineer - National Security",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657468002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8769764002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Sr. Specialist Solutions Architect",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762362002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Databricks",
+      "title": "Staff Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8530855002",
+      "platform": "direct",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Notion",
+      "title": "Forward Deployed Architect",
+      "url": "https://jobs.ashbyhq.com/notion/77861b77-9493-4869-bbaf-eaa11477a251",
+      "platform": "ashby",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Forward Deployed Engineer, Professional Services",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8043287?gh_jid=8043287",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Cloudflare",
+      "title": "Senior Forward Deployed Engineer",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8206674?gh_jid=8206674",
+      "platform": "greenhouse",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Pigment",
+      "title": "Solutions Architect - UK",
+      "url": "https://jobs.lever.co/pigment/fb659c21-bd62-4b67-ade9-1b7f55e7f1cf",
+      "platform": "lever",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Pigment",
+      "title": "Solutions Architect Conso - Paris",
+      "url": "https://jobs.lever.co/pigment/19514b98-dd8c-4823-a98f-f81dccf8396b",
+      "platform": "lever",
+      "source": "portal-scan"
+    },
+    {
+      "company": "Leverage Live Local",
+      "title": "Head of Operations",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+      "platform": "remoteok",
+      "source": "RemoteOK API"
+    },
+    {
+      "company": "ExtraHop",
+      "title": "Sr Solutions Architect",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+      "platform": "remoteok",
+      "source": "RemoteOK API"
+    }
+  ]
+}

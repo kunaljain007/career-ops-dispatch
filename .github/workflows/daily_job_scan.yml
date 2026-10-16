@@ -1,0 +1,46 @@
+name: Daily Automated Job Discovery & Notification
+
+on:
+  schedule:
+    - cron: '0 23 * * *'  # 23:00 UTC = 4:30 AM IST daily (staggered 30 mins after dispatch)
+  workflow_dispatch:
+
+jobs:
+  job-discovery:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          npm ci || npm install
+
+      - name: Run Job Discovery, Application & Notification Engine
+        env:
+          SMTP_POOL_JSON: ${{ secrets.SMTP_POOL_JSON }}
+        run: |
+          node daily_job_scan_apply.mjs
+
+      - name: Commit and push updated discovery and application logs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ portals.yml 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore(jobs): update daily job discovery logs and reports [skip ci]"
+          git push || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
