@@ -135,10 +135,25 @@ function saveJson(filepath, data) {
   fs.writeFileSync(filepath, JSON.stringify(data, null, 2), 'utf8');
 }
 
+const HIGH_PAYING_EXECUTIVE_NEGATIVE_FILTERS = [
+  ...NEGATIVE_FILTERS,
+  "Account Executive", "Sales Representative", "SDR", "BDR", "Cold Caller",
+  "Telemarketing", "Sales Development Representative",
+];
+
 function isRelevantTitle(title) {
   const lower = title.toLowerCase();
-  if (NEGATIVE_FILTERS.some(n => lower.includes(n.toLowerCase()))) return false;
-  return TARGET_ROLES.some(r => lower.includes(r.toLowerCase()));
+  if (HIGH_PAYING_EXECUTIVE_NEGATIVE_FILTERS.some(n => lower.includes(n.toLowerCase()))) return false;
+  
+  return TARGET_ROLES.some(r => {
+    const roleLower = r.toLowerCase();
+    // For short acronyms (CEO, MD, COO, EIR, CCO), enforce whole-word matching
+    if (["ceo", "md", "coo", "eir", "cco"].includes(roleLower)) {
+      const regex = new RegExp(`\\b${roleLower}\\b`, 'i');
+      return regex.test(title);
+    }
+    return lower.includes(roleLower);
+  });
 }
 
 function getResumePath() {
