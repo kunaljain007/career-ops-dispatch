@@ -36,7 +36,7 @@ const REPORT_FILE = path.join(DATA_DIR, "daily_job_report.json");
 const APPLICATION_LOG = path.join(DATA_DIR, "job_applications_log.json");
 const PIPELINE_FILE = path.join(DATA_DIR, "pipeline.md");
 
-// High-priority leadership & executive target roles
+// High-priority leadership, executive, and freelancing consultant target roles
 const TARGET_ROLES = [
   "Chief Executive Officer", "CEO", "Interim CEO", "Fractional CEO",
   "Managing Director", "MD", "Country Manager", "President", "Vice President",
@@ -45,12 +45,16 @@ const TARGET_ROLES = [
   "Chief Operating Officer", "Chief Commercial Officer", "CCO", "Chief Growth Officer",
   "Director of Innovation", "Head of Future Industries", "Corporate Development",
   "Founder in Residence", "Entrepreneur in Residence", "EIR",
-  "Venture Partner", "Startup Mentor", "Startup Advisor",
+  "Venture Partner", "Startup Mentor", "Startup Advisor", "Executive Advisor",
   "Head of AI", "AI Strategy", "AI Transformation", "Director of AI", "Chief AI Officer",
   "Solutions Architect", "Head of Growth", "General Manager",
   "Special Projects", "Strategy Consultant", "Forward Deployed",
   "Strategy & Operations", "Business Operations", "Technical Program Manager",
   "Strategy Lead", "Operations Lead", "Executive Director", "Managing Partner",
+  "Freelance Consultant", "Management Consultant", "Independent Consultant",
+  "Fractional Chief of Staff", "Fractional Executive", "Strategy Advisor",
+  "Consulting Partner", "Principal Consultant", "Business Consultant",
+  "AI Consultant", "Operations Consultant", "Transformation Consultant",
 ];
 
 const NEGATIVE_FILTERS = [

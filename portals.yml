@@ -21,7 +21,7 @@
 
 title_filter:
   positive:
-    # Executive Leadership & C-Suite Target Roles
+    # Executive Leadership, C-Suite & Freelancing Consulting Roles
     - "Chief Executive Officer"
     - "CEO"
     - "Managing Director"
@@ -34,6 +34,13 @@ title_filter:
     - "Strategy Lead"
     - "Head of Operations"
     - "VP Strategy"
+    - "Strategy Consultant"
+    - "Management Consultant"
+    - "Freelance Consultant"
+    - "Fractional COO"
+    - "Fractional Chief of Staff"
+    - "Executive Advisor"
+    - "Consultant"
     - "Professor"
     - "Lecturer"
     - "Faculty"
