@@ -2558,3 +2558,12 @@ Christ Church Barbados
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8859538002 | Databricks | Sr. Solutions Architect
+
+- [ ] https://sumup.com/careers/positions/8883202002?gh_jid=8883202002 | SumUp | Experienced Field Sales Consultant
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8735545002 | Databricks | Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8437008002 | Databricks | Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8657065002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8494153002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8769768002 | Databricks | Sr. Solutions Architect
