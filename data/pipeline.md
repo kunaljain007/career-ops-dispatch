@@ -2520,3 +2520,41 @@ Christ Church Barbados
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8184169?gh_jid=8184169 | Cloudflare | Senior Forward Deployed Engineer
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8172411?gh_jid=8172411 | Cloudflare | Vice President, Cloudflare One GTM 
 - [ ] https://boards.greenhouse.io/cloudflare/jobs/8256449?gh_jid=8256449 | Cloudflare | Workplace Coordinator
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445806008 | Anthropic | Applied AI Architect, Security Specialist 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/22034ea4-b563-425f-b5d2-8a113e6d172d | ElevenLabs | Chief of Staff
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4744818005 | Glean | Machine Learning Engineer, Enterprise Brain
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4743056005 | Glean | Solutions Engineering Manager 
+- [ ] https://sumup.com/careers/positions/8472179002?gh_jid=8472179002 | SumUp | Experienced Field Sales Consultant
+- [ ] https://stripe.com/jobs/search?gh_jid=8282721 | Stripe | Indirect Tax Advisory Consultant
+- [ ] https://stripe.com/jobs/search?gh_jid=8072257 | Stripe | Solutions Architect, Metronome (Startups)
+- [ ] https://stripe.com/jobs/search?gh_jid=8198323 | Stripe | Solutions Engineer, AI Build Team 
+- [ ] https://stripe.com/jobs/search?gh_jid=8275261 | Stripe | Workplace Design Coordinator
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002 | Databricks | Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8648494002 | Databricks | Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8896139002 | Databricks | Manager, Delivery Solutions Architects - Healthcare & Life Sciences (HLS)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8567957002 | Databricks | Senior Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8720252002 | Databricks | Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8615245002 | Databricks | Senior Specialist Solutions Architect (AI/ML)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5898477002 | Databricks | Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002 | Databricks | Solutions Architect - Communications, Media, Entertainment and Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8854739002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Digital Native Business 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8476064002 | Databricks | Sr. Solutions Architect
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8099018?gh_jid=8099018 | Cloudflare | Recruiting Coordinator (Contract)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8160655?gh_jid=8160655 | Cloudflare | Senior Forward Deployed Engineer
+- [ ] https://jobs.lever.co/pigment/1a9ccf1f-c28d-4ed4-ab40-d093eb8fee63 | Pigment | AI Deployment Strategist
+- [ ] https://jobs.lever.co/pigment/6213a352-bd7c-415a-af75-e857f262311d | Pigment | Regional Vice President, Enterprise Sales, West Region
+
+- [ ] https://sumup.com/careers/positions/8883203002?gh_jid=8883203002 | SumUp | Experienced Field Sales Consultant
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8813844002 | Databricks | Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8885035002 | Databricks | Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8820652002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8859538002 | Databricks | Sr. Solutions Architect

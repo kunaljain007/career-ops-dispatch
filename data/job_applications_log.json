@@ -8191,6 +8191,179 @@
     "appliedAt": "2026-10-16T23:15:53.878Z"
   },
   {
+<<<<<<< Updated upstream
+=======
+    "url": "https://jobs.ashbyhq.com/elevenlabs/22034ea4-b563-425f-b5d2-8a113e6d172d",
+    "company": "ElevenLabs",
+    "title": "Chief of Staff",
+    "platform": "ashby",
+    "source": "portal-scan",
+    "recipientEmail": "careers@elevenlabs.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:15:46.648Z"
+  },
+  {
+    "url": "https://stripe.com/jobs/search?gh_jid=8072257",
+    "company": "Stripe",
+    "title": "Solutions Architect, Metronome (Startups)",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "careers@stripe.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:16:04.501Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8826872002",
+    "company": "Databricks",
+    "title": "Delivery Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:16:21.239Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648494002",
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:16:39.003Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8896139002",
+    "company": "Databricks",
+    "title": "Manager, Delivery Solutions Architects - Healthcare & Life Sciences (HLS)",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:16:54.676Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8567957002",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:17:12.294Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5898477002",
+    "company": "Databricks",
+    "title": "Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:17:29.308Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755482002",
+    "company": "Databricks",
+    "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:17:51.163Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8854739002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:18:09.234Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461251002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:18:27.718Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8807081002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Digital Native Business",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:18:45.291Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592928002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:19:04.461Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8494143002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:19:20.798Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647667002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:19:38.510Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8476064002",
+    "company": "Databricks",
+    "title": "Sr. Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:19:58.208Z"
+  },
+  {
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8160655?gh_jid=8160655",
+    "company": "Cloudflare",
+    "title": "Senior Forward Deployed Engineer",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@cloudflare.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:20:17.662Z"
+  },
+  {
+    "url": "https://jobs.lever.co/pigment/6213a352-bd7c-415a-af75-e857f262311d",
+    "company": "Pigment",
+    "title": "Regional Vice President, Enterprise Sales, West Region",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@gopigment.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:20:34.302Z"
+  },
+  {
+>>>>>>> Stashed changes
     "url": "https://jobicy.com/jobs/153397-engineering-manager-ai-transformation",
     "company": "Goodleap",
     "title": "Engineering Manager, AI Transformation",
@@ -8198,7 +8371,11 @@
     "source": "Jobicy Global Remote API",
     "recipientEmail": "careers@jobicy.com",
     "status": "100% Submitted via Direct Executive Email",
+<<<<<<< Updated upstream
     "appliedAt": "2026-10-17T08:16:50.218Z"
+=======
+    "appliedAt": "2026-10-17T07:20:51.778Z"
+>>>>>>> Stashed changes
   },
   {
     "url": "https://jobicy.com/jobs/150811-area-vice-president-strategic-sales",
@@ -8208,7 +8385,131 @@
     "source": "Jobicy Global Remote API",
     "recipientEmail": "careers@jobicy.com",
     "status": "100% Submitted via Direct Executive Email",
+<<<<<<< Updated upstream
     "appliedAt": "2026-10-17T08:16:54.781Z"
+=======
+    "appliedAt": "2026-10-17T07:21:13.010Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/153366-digital-solutions-architect",
+    "company": "Oddball",
+    "title": "Digital Solutions Architect",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-17T07:21:35.146Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8813844002",
+    "company": "Databricks",
+    "title": "Delivery Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:49:13.039Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885035002",
+    "company": "Databricks",
+    "title": "Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:49:29.497Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8820652002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:49:47.519Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461258002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:50:04.089Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:50:20.042Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647675002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:50:36.621Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8859538002",
+    "company": "Databricks",
+    "title": "Sr. Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:50:51.747Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
+    "company": "Thyme Care",
+    "title": "Principal Product Manager Strategic Initiatives",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@thymecare.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:51:09.346Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508",
+    "company": "Vytalize Health",
+    "title": "Principal Software Engineer",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@vytalizehealth.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:51:27.217Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
+    "company": "The AI Whistleblower Initiative",
+    "title": "Principal Engineer",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@theaiwhistleblowerinitiative.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:51:45.625Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/155607-cloud-partner-sales-manager-northeast",
+    "company": "Cribl",
+    "title": "Cloud Partner Sales Manager (Northeast)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:52:03.660Z"
+>>>>>>> Stashed changes
   },
   {
     "url": "https://jobicy.com/jobs/155596-head-of-business-and-corporate-development",
@@ -8218,6 +8519,30 @@
     "source": "Jobicy Global Remote API",
     "recipientEmail": "careers@jobicy.com",
     "status": "100% Submitted via Direct Executive Email",
+<<<<<<< Updated upstream
     "appliedAt": "2026-10-17T19:01:46.360Z"
+=======
+    "appliedAt": "2026-10-18T05:52:21.579Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/155578-client-partner-2",
+    "company": "Appen",
+    "title": "Client Partner",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:52:37.722Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/procjet/business-development-partner-london-235618",
+    "company": "ProcJet",
+    "title": "Business Development Partner",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-18T05:52:55.524Z"
+>>>>>>> Stashed changes
   }
 ]

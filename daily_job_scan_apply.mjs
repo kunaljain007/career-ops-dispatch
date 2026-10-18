@@ -37,7 +37,7 @@ const REPORT_FILE = path.join(DATA_DIR, "daily_job_report.json");
 const APPLICATION_LOG = path.join(DATA_DIR, "job_applications_log.json");
 const PIPELINE_FILE = path.join(DATA_DIR, "pipeline.md");
 
-// High-priority leadership, executive, and freelancing consultant target roles
+// High-priority leadership, executive, VC, AI, startup, and remote consultant target roles
 const TARGET_ROLES = [
   "Chief Executive Officer", "CEO", "Interim CEO", "Fractional CEO",
   "Managing Director", "MD", "Country Manager", "President", "Vice President",
@@ -47,8 +47,18 @@ const TARGET_ROLES = [
   "Director of Innovation", "Head of Future Industries", "Corporate Development",
   "Founder in Residence", "Entrepreneur in Residence", "EIR",
   "Venture Partner", "Startup Mentor", "Startup Advisor", "Executive Advisor",
+  "Mentor", "Startup Mentoring", "Venture Advisor", "Strategic Advisor",
+  "Venture Capital", "VC", "Investment Principal", "Investment Director", "Partner",
+  "Principal", "Head of Platform", "Portfolio Operations", "Operating Partner",
+  "Venture Associate", "Investment Partner", "Venture Scout",
+  // AI, LLM, Machine Learning & Architecture
   "Head of AI", "AI Strategy", "AI Transformation", "Director of AI", "Chief AI Officer",
-  "Solutions Architect", "Head of Growth", "General Manager",
+  "Applied AI", "AI Architect", "AI Engineer", "Staff AI", "Principal AI",
+  "Machine Learning", "ML Engineer", "LLM Engineer", "AI Researcher",
+  "Forward Deployed Engineer", "FDE", "Solutions Architect", "Head of Growth", "General Manager",
+  // Startup Generalist & High-Paying Roles
+  "Founding Engineer", "Founding Member", "Head of Product", "VP Product", "Director of Product",
+  "Head of Engineering", "VP Engineering", "Director of Engineering",
   "Special Projects", "Strategy Consultant", "Forward Deployed",
   "Strategy & Operations", "Business Operations", "Technical Program Manager",
   "Strategy Lead", "Operations Lead", "Executive Director", "Managing Partner",
@@ -56,6 +66,8 @@ const TARGET_ROLES = [
   "Fractional Chief of Staff", "Fractional Executive", "Strategy Advisor",
   "Consulting Partner", "Principal Consultant", "Business Consultant",
   "AI Consultant", "Operations Consultant", "Transformation Consultant",
+  "Freelance Strategist", "Growth Advisor", "Commercial Advisor",
+  "Remote", "Global Remote", "Worldwide Remote",
 ];
 
 const NEGATIVE_FILTERS = [
@@ -148,8 +160,8 @@ function isRelevantTitle(title) {
   
   return TARGET_ROLES.some(r => {
     const roleLower = r.toLowerCase();
-    // For short acronyms (CEO, MD, COO, EIR, CCO), enforce whole-word matching
-    if (["ceo", "md", "coo", "eir", "cco"].includes(roleLower)) {
+    // For short acronyms (CEO, MD, COO, EIR, CCO, VC), enforce whole-word matching
+    if (["ceo", "md", "coo", "eir", "cco", "vc"].includes(roleLower)) {
       const regex = new RegExp(`\\b${roleLower}\\b`, 'i');
       return regex.test(title);
     }
@@ -361,16 +373,16 @@ async function discoverJobs() {
   return freshJobs;
 }
 
-// ── Step 2: Dispatch Direct Application via SMTP ─────────────────────
-function dispatchDirectApplicationEmail(job, resumePath) {
+// ── Step 2: Dispatch Direct Application via SMTP with Pool Rotation ─
+function dispatchDirectApplicationEmail(job, resumePath, senderIndex = 0) {
   const targetEmail = resolveHiringInbox(job.company, job.url);
   const coverLetter = buildExecutiveCoverLetter(job.company, job.title);
   const subject = `Executive Application: ${job.title} — Dr. Kumarpal Porwal`;
 
-  console.log(`  ✉️  Sending application to: ${targetEmail} (${job.company} - ${job.title})`);
+  console.log(`  ✉️  Sending application to: ${targetEmail} (${job.company} - ${job.title}) [Sender index: ${senderIndex}]`);
 
   const pyScript = `
-import smtplib, json, sys, os
+import smtplib, json, sys, os, time
 from email.message import EmailMessage
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -381,10 +393,13 @@ if pool_json:
 else:
     pool = json.load(open('data/smtp_pool.json'))
 
-sender = next((a for a in pool if a.get('user') and a.get('pass')), None)
-if not sender:
+valid_senders = [a for a in pool if a.get('user') and a.get('pass')]
+if not valid_senders:
     print('Error: No SMTP sender available')
     sys.exit(1)
+
+# Rotate senders across available pool
+sender = valid_senders[${senderIndex} % len(valid_senders)]
 
 msg = EmailMessage()
 msg['From'] = f"Dr. Kumarpal Porwal <{sender['user']}>"
@@ -404,7 +419,7 @@ with smtplib.SMTP(sender.get('host', 'smtp.gmail.com'), int(sender.get('port', 5
     s.login(sender['user'], sender['pass'])
     s.send_message(msg)
 
-print('SUCCESS: Dispatched to ${targetEmail}')
+print(f"SUCCESS: Dispatched to ${targetEmail} via {sender['user']}")
 `;
 
   fs.writeFileSync('_dispatch_app.py', pyScript, 'utf8');
@@ -446,8 +461,9 @@ function runAutonomousApplications(jobs) {
   const MAX_PER_RUN = 20; // Increased to 20 per run for global remote coverage
   const toProcess = jobs.slice(0, MAX_PER_RUN);
 
-  for (const job of toProcess) {
-    const result = dispatchDirectApplicationEmail(job, resumePath);
+  for (let i = 0; i < toProcess.length; i++) {
+    const job = toProcess[i];
+    const result = dispatchDirectApplicationEmail(job, resumePath, i);
     appliedList.push({
       ...job,
       recipientEmail: result.targetEmail,
