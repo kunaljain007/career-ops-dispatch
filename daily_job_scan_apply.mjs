@@ -68,10 +68,11 @@ const TARGET_ROLES = [
   "AI Consultant", "Operations Consultant", "Transformation Consultant",
   "Freelance Strategist", "Growth Advisor", "Commercial Advisor",
   "Remote", "Global Remote", "Worldwide Remote",
+  "Remote Intern", "AI Intern", "Venture Intern", "Strategy Intern", "Research Intern", "Software Intern",
 ];
 
 const NEGATIVE_FILTERS = [
-  "Junior", "Intern", "Janitor", "Cleaner", "Warehouse",
+  "Junior", "Janitor", "Cleaner", "Warehouse",
   "Driver", "Cashier", "Barista", "Part-time Seasonal",
   "Coordinator", "Associate", "Assistant", "Entry Level",
   "Specialist", "Clerk", "Receptionist", "Technician",
