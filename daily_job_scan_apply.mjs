@@ -180,39 +180,105 @@ function getResumePath() {
 
 function buildExecutiveCoverLetter(company, role) {
   const compLower = company.toLowerCase();
+  const roleLower = role.toLowerCase();
   let domainFocus = "";
+  let roleType = "Strategic Executive";
 
-  if (compLower.includes("cohere")) {
-    domainFocus = "As Chief of Staff & AI Strategist at Vega Aviation, I deployed distributed multi-agent autonomous AI systems boosting operational efficiency by 40%. Cohere's enterprise sovereign LLM infrastructure aligns directly with my background in scaling complex technical architectures and advising executive boards.";
-  } else if (compLower.includes("scale")) {
-    domainFocus = "Having directed operations in regulated aviation, defense aerostructures, and high-assurance manufacturing at Vega Aviation, I bring direct experience with defense regulatory certifications, federal stakeholder governance, and mission-critical AI delivery.";
-  } else if (compLower.includes("celonis")) {
-    domainFocus = "My career has focused on deep process optimization, lean manufacturing, and enterprise transformation. Having steered multi-million dollar platforms, I understand how data-driven process intelligence drives bottom-line margin expansion.";
-  } else if (compLower.includes("notion")) {
-    domainFocus = "Throughout my leadership career—both as Founder & MD commercializing platforms with Amul, Defence Forces, and Emirates Flight Catering, and as Chief of Staff at Vega Aviation—I specialize in cross-functional alignment, GTM execution, and operational clarity.";
+  if (roleLower.includes("ai") || roleLower.includes("machine learning") || roleLower.includes("architect") || roleLower.includes("engineer")) {
+    roleType = "AI & Technology Leadership";
+    domainFocus = `At Vega Aviation, I architected and deployed distributed multi-agent autonomous AI systems across a 50+ person engineering team, realizing an immediate 40% operational efficiency surge. My technical leadership spans autonomous agent orchestration, scalable LLM pipelines, and high-assurance systems where reliability is paramount.`;
+  } else if (roleLower.includes("vc") || roleLower.includes("venture") || roleLower.includes("investment") || roleLower.includes("portfolio")) {
+    roleType = "Venture Capital & Investment Strategy";
+    domainFocus = `As Founder & MD at HeatBolt and strategic advisor to board chairs, I have structured cross-border commercial partnerships, led deep-tech techno-commercial due diligence, and evaluated early-stage to growth-stage investments with institutional clients including FMCG conglomerates, aviation catering, and defence entities.`;
+  } else if (roleLower.includes("product") || roleLower.includes("growth")) {
+    roleType = "Product & GTM Growth Leadership";
+    domainFocus = `Having brought deep-tech hardware and enterprise software platforms from lab research to commercial contracts with global institutional clients, I excel at product-market fit calibration, cross-functional engineering alignment, and rapid customer acquisition loops.`;
+  } else if (roleLower.includes("chief of staff") || roleLower.includes("strategy") || roleLower.includes("operations") || roleLower.includes("coo")) {
+    roleType = "Executive Strategy & Operations";
+    domainFocus = `Serving as Chief of Staff at Vega Aviation and Founder & MD across high-growth ventures, I specialize in translating board-level vision into operational execution, unblocking mission-critical bottlenecks, and aligning cross-functional teams with rigorous metrics.`;
   } else {
-    domainFocus = "With 10+ years of high-impact leadership spanning enterprise strategy, autonomous AI orchestration, deep-tech commercialization, and operational turnarounds, I thrive in high-stakes roles where strategy translates directly into frontline execution.";
+    roleType = "Executive Leadership";
+    domainFocus = `With 10+ years of high-impact leadership spanning enterprise strategy, deep-tech commercialization, and operational scale, I thrive in high-stakes environments where strategic vision translates directly into bottom-line execution.`;
   }
 
-  return `Dear ${company} Leadership & Talent Team,
+  const plain = `Dear ${company} Leadership & Hiring Team,
 
-I am writing to submit my executive application for the ${role} position at ${company}.
+I am writing to express my strong interest in the ${role} position at ${company}.
 
 ${domainFocus}
 
-KEY LEADERSHIP HIGHLIGHTS:
-• Chief of Staff & AI Strategist (Vega Aviation): Deployed enterprise multi-agent autonomous AI systems across a 50+ person engineering division, generating an immediate 40% operational efficiency surge. Secured aviation certifications 3 months ahead of schedule.
-• Founder & Managing Director (HeatBolt / Parshwa Power): Commercialized breakthrough thermal engineering platforms; negotiated institutional partnerships across FMCG conglomerates, Aviation Catering, and Defence Forces.
-• Strategic Advisor to CEOs & Board Chairs: Guided executive decision-making across regulated aviation, green hydrogen (advanced research at Indian Institute of Science, IISc Bangalore), energy, and enterprise technology.
-• Remote & Cross-Functional Governance: Experienced in leading distributed teams with clear OKRs, transparent asynchronous communication, and rigorous accountability.
+KEY EXECUTIVE HIGHLIGHTS:
+• Chief of Staff & AI Strategist (Vega Aviation): Deployed enterprise multi-agent autonomous AI systems, boosting engineering productivity by 40% while accelerating regulatory certifications 3 months ahead of schedule.
+• Founder & Managing Director (HeatBolt / Parshwa Power): Spearheaded end-to-end commercialization of proprietary thermal platforms; negotiated strategic agreements with enterprise accounts across FMCG, Defence Forces, and Aviation.
+• Advanced Research & Strategic Advisory: Conducted advanced research at the Indian Institute of Science (IISc Bangalore); advised executive boards on clean energy, aviation, and high-assurance software architectures.
+• Global & Remote Governance: Proven track record of leading distributed teams with transparent asynchronous communication, clear OKRs, and rigorous accountability.
 
-My resume is attached for your review. I would welcome a conversation to explore how my strategic leadership can drive measurable impact for ${company}.
+My executive resume is attached for your review. I would welcome the opportunity to discuss how my background can deliver immediate, measurable impact for ${company}.
 
 Warm regards,
 
 Dr. Kumarpal Porwal
 +91 73533 19757 | founder.heatbolt@gmail.com
-LinkedIn: linkedin.com/in/kumarpal-porwal`;
+LinkedIn: https://www.linkedin.com/in/kumarpal-porwal`;
+
+  const html = `<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #1e293b; background-color: #ffffff; margin: 0; padding: 20px; }
+    .container { max-width: 650px; margin: 0 auto; border: 1px solid #e2e8f0; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05); }
+    .header { background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #ffffff; padding: 28px 32px; }
+    .header h1 { margin: 0; font-size: 22px; font-weight: 700; letter-spacing: -0.02em; color: #f8fafc; }
+    .header .subtitle { margin: 6px 0 0 0; font-size: 14px; color: #94a3b8; font-weight: 400; }
+    .badge { display: inline-block; background-color: #38bdf8; color: #0f172a; padding: 3px 10px; border-radius: 9999px; font-size: 11px; font-weight: 700; text-transform: uppercase; margin-bottom: 12px; letter-spacing: 0.05em; }
+    .content { padding: 32px; background-color: #ffffff; }
+    .greeting { font-size: 16px; font-weight: 600; color: #0f172a; margin-bottom: 16px; }
+    .lead-text { font-size: 15px; color: #334155; margin-bottom: 16px; }
+    .focus-box { background-color: #f8fafc; border-left: 4px solid #0284c7; padding: 16px 20px; border-radius: 0 6px 6px 0; margin: 20px 0; font-size: 14.5px; color: #1e293b; }
+    .highlights-title { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: #475569; margin: 24px 0 12px 0; }
+    .highlight-item { display: flex; margin-bottom: 12px; font-size: 14px; color: #334155; }
+    .highlight-item strong { color: #0f172a; }
+    .bullet { color: #0284c7; font-weight: bold; margin-right: 10px; }
+    .footer { padding: 24px 32px; background-color: #f8fafc; border-top: 1px solid #e2e8f0; font-size: 13.5px; color: #475569; }
+    .signature { font-size: 16px; font-weight: 700; color: #0f172a; margin-bottom: 4px; }
+    .contact-line { font-size: 13px; color: #64748b; margin-top: 6px; }
+    .contact-line a { color: #0284c7; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <span class="badge">${roleType}</span>
+      <h1>Executive Application: ${role}</h1>
+      <p class="subtitle">${company} &bull; Candidate: Dr. Kumarpal Porwal</p>
+    </div>
+    <div class="content">
+      <div class="greeting">Dear ${company} Leadership & Hiring Team,</div>
+      <p class="lead-text">I am writing to submit my candidacy for the <strong>${role}</strong> opportunity at <strong>${company}</strong>.</p>
+      
+      <div class="focus-box">
+        ${domainFocus}
+      </div>
+
+      <div class="highlights-title">Core Leadership Track Record</div>
+      <div class="highlight-item"><span class="bullet">&bull;</span><div><strong>Chief of Staff & AI Strategist (Vega Aviation):</strong> Spearheaded enterprise multi-agent AI workflows across a 50+ person engineering division, generating an immediate 40% efficiency boost and accelerating regulatory certifications 3 months ahead of schedule.</div></div>
+      <div class="highlight-item"><span class="bullet">&bull;</span><div><strong>Founder & Managing Director (HeatBolt / Parshwa Power):</strong> Led full-cycle commercialization of deep-tech thermal platforms; structured enterprise agreements across FMCG, Defence, and Aviation Catering sectors.</div></div>
+      <div class="highlight-item"><span class="bullet">&bull;</span><div><strong>Strategic Board Advisory & Research:</strong> Conducted advanced scientific research at the Indian Institute of Science (IISc Bangalore); advised executive boards on clean energy, aviation technology, and high-assurance architectures.</div></div>
+      <div class="highlight-item"><span class="bullet">&bull;</span><div><strong>Global Remote Governance:</strong> Expert in leading distributed teams with transparent asynchronous communication, clear OKR alignment, and high-cadence execution.</div></div>
+
+      <p class="lead-text" style="margin-top: 24px;">My executive resume is attached for your review. I would welcome a conversation to explore how my strategic and operational leadership can drive measurable impact for ${company}.</p>
+    </div>
+    <div class="footer">
+      <div class="signature">Dr. Kumarpal Porwal</div>
+      <div>Strategic Advisor &bull; Former Chief of Staff &bull; Deep-Tech Founder</div>
+      <div class="contact-line">+91 73533 19757 &bull; <a href="mailto:founder.heatbolt@gmail.com">founder.heatbolt@gmail.com</a> &bull; <a href="https://www.linkedin.com/in/kumarpal-porwal">LinkedIn Profile</a></div>
+    </div>
+  </div>
+</body>
+</html>`;
+
+  return { plain, html };
 }
 
 function httpGet(url) {
@@ -405,7 +471,8 @@ msg = EmailMessage()
 msg['From'] = f"Dr. Kumarpal Porwal <{sender['user']}>"
 msg['To'] = '${targetEmail}'
 msg['Subject'] = ${JSON.stringify(subject)}
-msg.set_content(${JSON.stringify(coverLetter)})
+msg.set_content(${JSON.stringify(coverLetter.plain)})
+msg.add_alternative(${JSON.stringify(coverLetter.html)}, subtype='html')
 
 # Attach Resume PDF
 resume_path = '${resumePath.replace(/\\/g, '/')}'
