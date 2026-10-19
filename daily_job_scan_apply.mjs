@@ -158,10 +158,15 @@ const HIGH_PAYING_EXECUTIVE_NEGATIVE_FILTERS = [
   "Telemarketing", "Sales Development Representative",
 ];
 
-function isRelevantTitle(title) {
+function isRelevantTitle(title, source = '') {
   const lower = title.toLowerCase();
   if (HIGH_PAYING_EXECUTIVE_NEGATIVE_FILTERS.some(n => lower.includes(n.toLowerCase()))) return false;
   
+  // Any job explicitly flagged as Remote or coming from global remote feeds qualifies
+  if (lower.includes('remote') || source.toLowerCase().includes('remote') || source.toLowerCase().includes('jobicy') || source.toLowerCase().includes('remotive')) {
+    return true;
+  }
+
   return TARGET_ROLES.some(r => {
     const roleLower = r.toLowerCase();
     // For short acronyms (CEO, MD, COO, EIR, CCO, VC), enforce whole-word matching
@@ -529,7 +534,7 @@ function runAutonomousApplications(jobs) {
   console.log(`  Using resume: ${resumePath}`);
 
   const appliedList = [];
-  const MAX_PER_RUN = 20; // Increased to 20 per run for global remote coverage
+  const MAX_PER_RUN = 40; // High-throughput batch for all remote jobs
   const toProcess = jobs.slice(0, MAX_PER_RUN);
 
   for (let i = 0; i < toProcess.length; i++) {
