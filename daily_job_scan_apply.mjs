@@ -67,8 +67,11 @@ const TARGET_ROLES = [
   "Consulting Partner", "Principal Consultant", "Business Consultant",
   "AI Consultant", "Operations Consultant", "Transformation Consultant",
   "Freelance Strategist", "Growth Advisor", "Commercial Advisor",
-  "Remote", "Global Remote", "Worldwide Remote",
-  "Remote Intern", "AI Intern", "Venture Intern", "Strategy Intern", "Research Intern", "Software Intern",
+  "Remote", "Global Remote", "Worldwide Remote", "Work From Anywhere",
+  "Corporate Strategy", "Corporate Development", "Head of Corporate", "Corporate Affairs", "Corporate Manager",
+  "Travel Manager", "Head of Travel", "Travel Operations", "Hospitality Strategy", "Global Travel",
+  "Startup Mentor", "Startup Mentoring", "Venture Mentor", "Incubator Mentor", "Accelerator Lead",
+  "Remote Intern", "AI Intern", "Venture Intern", "Strategy Intern", "Research Intern", "Software Intern", "Operations Intern", "Product Intern", "Business Intern", "Intern",
 ];
 
 const NEGATIVE_FILTERS = [
