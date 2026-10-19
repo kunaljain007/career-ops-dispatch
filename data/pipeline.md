@@ -2567,3 +2567,18 @@ Christ Church Barbados
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8438791002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8647670002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Retail
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8769768002 | Databricks | Sr. Solutions Architect
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/5009506101 | Parloa | Manager, Forward Deployed Engineering
+- [ ] https://sumup.com/careers/positions/8878886002?gh_jid=8878886002 | SumUp | Experienced Field Sales Consultant
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8860663002 | Databricks | Delivery Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8899463002 | Databricks | Delivery Solutions Architect - Public Sector (Defense Industrial Base) 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8899461002 | Databricks | Delivery Solutions Architect - Public Sector (DOJ)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8899462002 | Databricks | Delivery Solutions Architect - Public Sector (DOW, DHS, Intelligence Community)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8899464002 | Databricks | Delivery Solutions Architect - Public Sector (Federal) 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8899465002 | Databricks | Delivery Solutions Architect - Public Sector (SLED)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8801077002 | Databricks | Solutions Architect
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8514430002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8461219002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Financial Services
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8720995002 | Databricks | Sr. Solutions Architect
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8299781 | Reddit | Machine Learning Engineer, Answers Relevance
