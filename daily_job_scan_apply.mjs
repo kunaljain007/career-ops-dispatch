@@ -72,6 +72,18 @@ const TARGET_ROLES = [
   "Travel Manager", "Head of Travel", "Travel Operations", "Hospitality Strategy", "Global Travel",
   "Startup Mentor", "Startup Mentoring", "Venture Mentor", "Incubator Mentor", "Accelerator Lead",
   "Remote Intern", "AI Intern", "Venture Intern", "Strategy Intern", "Research Intern", "Software Intern", "Operations Intern", "Product Intern", "Business Intern", "Intern",
+  // Teaching, Academic & Faculty
+  "Professor", "Adjunct Faculty", "Guest Lecturer", "Visiting Faculty", "Academic Mentor",
+  "Teaching", "Lecturer", "Instructor", "Research Fellow", "Postdoctoral",
+  "Faculty", "Teaching Assistant", "Academic Director", "Dean", "Department Head",
+  // Corporate Executive expanded
+  "Vice President Corporate", "Director Corporate", "Corporate Lead", "Corporate Executive",
+  "Business Director", "Commercial Director", "Revenue Officer", "Chief Revenue Officer",
+  // Additional high-paying remote roles
+  "Technical Director", "Engineering Manager", "Staff Engineer", "Principal Engineer",
+  "Data Science Lead", "Head of Data", "Analytics Director", "Platform Lead",
+  "DevOps Lead", "Site Reliability", "SRE Manager", "Cloud Architect",
+  "Program Director", "Transformation Lead", "Digital Transformation",
 ];
 
 const NEGATIVE_FILTERS = [
