@@ -21,7 +21,7 @@ FOLLOWUP_TRACKER = os.path.join(DATA_DIR, "followup_tracker.json")
 
 os.makedirs(LOGS_DIR, exist_ok=True)
 
-MAX_PER_SMTP = 80
+MAX_PER_SMTP = 20
 
 RAW_PRIORITY = [
     "rnt@rntassociates.com",
@@ -1732,7 +1732,10 @@ for idx, (item_type, target_email, seq) in enumerate(today_batch, 1):
             json.dump(failed_records, f, indent=2)
     
     current_smtp_idx = (current_smtp_idx + 1) % len(smtp_pool)
-    delay = random.uniform(35, 60)
+    # ZERO-THROTTLING PACING:
+    # Round-robin distributes across 16 inboxes (each inbox rests ~18-25 mins between sends).
+    # Inter-email spacing randomized between 65s and 110s to simulate natural human transmission.
+    delay = random.uniform(65, 110)
     print(f"Pacing: resting {delay:.1f}s before next send...", flush=True)
     time.sleep(delay)
 
