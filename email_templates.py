@@ -27,7 +27,9 @@ SMTP_PORT = 587
 SUBJECT = "If This Journey Has a Purpose, I Believe It Begins with You"
 
 def build_plain_body(first_name: str, full_name: str, org: str, division: str, category: str) -> str:
-    return f"""Dear {first_name},
+    return f"""Jai Jinendra,
+
+Dear {first_name},
 
 Recently, we also connected with the PMO office and various ministries regarding the potential implementation of HeatBolt across relevant sectors.
 
@@ -162,6 +164,7 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
   <div class="badge">Heatbolt | Sustainable Deep-Tech Platform</div>
   <h1>If This Journey Has a Purpose, I Believe It Begins with You</h1>
   
+  <p>Jai Jinendra,</p>
   <p>Dear {first_name},</p>
   
   <div style="background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; font-size: 14px; color: #065f46; font-weight: 500;">
