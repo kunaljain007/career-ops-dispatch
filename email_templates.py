@@ -1,24 +1,8 @@
-﻿"""
-Heatbolt Mass Mail-Merge Script
-================================
+"""
+Heatbolt Mass Mail-Merge Script & Template Engine
+================================================
 Sends personalized outreach emails to all contacts from founder.heatbolt@gmail.com
 CC: team.heatbolt@gmail.com
-
-BEFORE RUNNING:
-  1. Generate a Gmail App Password:
-     ??? Go to https://myaccount.google.com/apppasswords
-     ??? Create an app password for "Mail"
-     ??? Copy the 16-character password
-  2. Set it as an environment variable:
-       set GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx
-  3. Run:  python send_heatbolt_emails.py
-     Or dry-run first:  python send_heatbolt_emails.py --dry-run
-
-Usage:
-  python send_heatbolt_emails.py              # send all emails
-  python send_heatbolt_emails.py --dry-run    # preview without sending
-  python send_heatbolt_emails.py --test       # send 1 test to founder.heatbolt@gmail.com
-  python send_heatbolt_emails.py --batch 10   # send in batches of 10 with 30s pause
 """
 
 import smtplib
@@ -36,9 +20,6 @@ try:
 except ImportError:
     CONTACTS = []
 
-# ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
-# CONFIGURATION
-# ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
 SENDER_EMAIL = "founder.heatbolt@gmail.com"
 CC_EMAIL = "team.heatbolt@gmail.com"
 SMTP_HOST = "smtp.gmail.com"
@@ -48,11 +29,13 @@ SUBJECT = "If This Journey Has a Purpose, I Believe It Begins with You"
 def build_plain_body(first_name: str, full_name: str, org: str, division: str, category: str) -> str:
     return f"""Dear {first_name},
 
+Recently, we also connected with the PMO office and various ministries regarding the potential implementation of HeatBolt across relevant sectors.
+
 I hope this message finds you in good health and high spirits.
 
 We have successfully concluded our high-level meetings in Delhi with the Ministry of Defence, Ministry of Home Affairs, Ministry of Railways, and several other stakeholders, receiving encouraging responses regarding HeatBolt’s potential applications.
 
-We are also seeing growing international interest, with Nestlé exploring potential introduction across 192 countries and Barilla Group across 100 countries, alongside discussions with other global industry leaders.
+We are also seeing growing international interest, with Nestlé exploring potential introduction across 192 countries, Barilla Group across 100 countries, and Mondelēz across 150 countries, alongside discussions with other global industry leaders.
 
 Today, I am writing to you not merely as the Founder of Heatbolt, but as an entrepreneur whose journey has been shaped by a deeply personal purpose.
 
@@ -89,9 +72,19 @@ Those questions led to the creation of Heatbolt.
 
 HEATBOLT
 Portable Thermal Infrastructure | Self-Heating Packaging | Sustainable Innovation
-Heatbolt is a proprietary portable thermal platform capable of generating temperatures of up to 100°C using only water, without requiring Electricity, LPG or Gas, Batteries, Open Flame, or External Heating Infrastructure.
+Heatbolt is a proprietary portable thermal platform capable of generating temperatures of up to 100°C using only water, without requiring:
+- Electricity
+- LPG or Gas
+- Batteries
+- Open Flame
+- External Heating Infrastructure
+
+The technology integrates directly into cups, bowls, trays, pouches, lunch boxes, containers, and customized packaging, enabling consumers to enjoy freshly heated food and beverages anytime, anywhere.
+
+But Heatbolt is more than a self-heating solution. It is a new category of portable thermal infrastructure with applications across multiple industries and geographies.
 
 More Than Heat — A New Packaging Ecosystem
+Perhaps the most exciting aspect of Heatbolt is not the heat itself. It is the packaging.
 Our integrated packaging platform has the potential to provide up to one year of shelf life for selected ready-to-eat foods, beverages, nutritional products, and wellness solutions.
 
 This can help:
@@ -102,23 +95,34 @@ This can help:
 - Enable more sustainable packaging formats.
 - Create export-ready solutions for global markets.
 
+Rather than solving a single problem, Heatbolt aims to address multiple interconnected challenges through one integrated platform.
+
 Current Momentum & Execution
-The response to Heatbolt has been highly encouraging:
+The response to Heatbolt has been highly encouraging. Today, we have achieved:
 - 60,000+ stakeholder engagements across India and international markets.
 - 1,000+ inbound calls and emails every day from corporates, government organizations, institutions, and international partners.
 - Active engagements with leading global companies including Barilla, Nestlé, Mondelēz, Unilever, PepsiCo, Kraft Heinz, Mars, General Mills, Ajinomoto, Campbell's, The Coca-Cola Company, Starbucks, Yum! Brands, and McDonald's.
 - Ongoing discussions across Indian Railways, airlines, defence, healthcare, pharmaceuticals, hospitality, food delivery, religious institutions, disaster relief, and industrial sectors.
-- Promoted by Startup India and Invest India, currently trending virally.
-- Commercial enquiries indicate potential to support manufacturing volumes exceeding 20 billion Heatbolt-enabled units annually.
+- Heatbolt has also been recently promoted by Startup India and Invest India, and is currently trending virally on the internet.
+- Commercial enquiries and market assessments indicate the potential to support manufacturing volumes exceeding 20 billion Heatbolt-enabled units annually, with demand continuing to grow across domestic and international markets.
+
+Over the years, I have assembled a multidisciplinary team comprising scientists, food technologists, packaging specialists, manufacturing leaders, and domain specialists with decades of experience.
+Together, we are building not only a product, but an organization capable of delivering this vision at global scale.
+
+LinkedIn Video Links:
+- Urgent Need to Solve the Problem: https://www.linkedin.com/posts/kumarpal-porwal_heatbolt-makeinindia-innovation-activity-7486186134474207232-dmlc
+- We Have the Solution: https://www.linkedin.com/posts/rohansachdeva20_makeinindia-innovation-foodtech-share-7483541963657605120-TCKs
 
 A Humble Request
-Given your organization’s track record in scaling transformative technology platforms globally, I believe Heatbolt’s integrated portable thermal and packaging ecosystem presents a category-defining opportunity that aligns with your mandate.
+Given Your Organization's track record in scaling transformative technology platforms globally, I believe Heatbolt's integrated portable thermal and packaging ecosystem—with demand indicators pointing to 20 billion+ units annually—presents the kind of category-defining opportunity that aligns with Your Organization's growth capital mandate.
 
-Whether through strategic investment, manufacturing collaboration, commercialization partnerships, technology licensing, or market access, we believe Heatbolt has the potential to become one of India’s next globally recognized technology platforms.
+We are seeking strategic partners who believe that meaningful innovation can create commercial value while addressing important global challenges.
+
+Whether through strategic investment, manufacturing collaboration, commercialization partnerships, technology licensing, or market access, we believe Heatbolt has the potential to become one of India's next globally recognized technology platforms.
 
 I would be deeply honoured to present our technology, commercialization roadmap, and long-term vision in a brief 15-minute meeting at your convenience.
 
-Thank you very much for your valuable time and consideration.
+Thank you very much for your valuable time and consideration. I sincerely look forward to the opportunity to connect and explore how we can build this journey together.
 
 With warm regards,
 
@@ -146,6 +150,8 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
   .highlight-box {{ background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 8px; padding: 18px 20px; margin: 20px 0; font-size: 14px; color: #0369a1; }}
   ul {{ padding-left: 20px; margin: 12px 0; }}
   li {{ font-size: 14px; color: #4b5563; margin-bottom: 6px; }}
+  .video-btn {{ display: inline-block; background: #2563eb; color: #ffffff !important; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 13.5px; font-weight: 600; margin-right: 10px; margin-top: 8px; }}
+  .video-btn-secondary {{ display: inline-block; background: #0f172a; color: #ffffff !important; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 13.5px; font-weight: 600; margin-top: 8px; }}
   .quote-box {{ border-left: 3px solid #e2e8f0; padding-left: 14px; font-style: italic; color: #64748b; margin: 22px 0; font-size: 13.5px; }}
   .footer {{ margin-top: 36px; padding-top: 24px; border-top: 1px solid #e5e7eb; font-size: 13.5px; color: #6b7280; }}
   .footer strong {{ color: #111827; }}
@@ -157,11 +163,16 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
   <h1>If This Journey Has a Purpose, I Believe It Begins with You</h1>
   
   <p>Dear {first_name},</p>
+  
+  <div style="background: #ecfdf5; border: 1px solid #a7f3d0; border-radius: 8px; padding: 14px 18px; margin: 16px 0; font-size: 14px; color: #065f46; font-weight: 500;">
+    <strong>National Validation:</strong> Recently, we also connected with the PMO office and various ministries regarding the potential implementation of HeatBolt across relevant sectors.
+  </div>
+
   <p>I hope this message finds you in good health and high spirits.</p>
   
   <p>We have successfully concluded our high-level meetings in Delhi with the <strong>Ministry of Defence, Ministry of Home Affairs, Ministry of Railways</strong>, and several other key stakeholders, receiving encouraging responses regarding HeatBolt&rsquo;s potential applications.</p>
   
-  <p>We are also seeing growing international interest, with <strong>Nestl&eacute;</strong> exploring potential introduction across 192 countries and <strong>Barilla Group</strong> across 100 countries, alongside discussions with other global industry leaders.</p>
+  <p>We are also seeing growing international interest, with <strong>Nestl&eacute;</strong> exploring potential introduction across 192 countries, <strong>Barilla Group</strong> across 100 countries, and <strong>Mondel&emsp;z</strong> across 150 countries, alongside discussions with other global industry leaders.</p>
   
   <p>Today, I am writing to you not merely as the Founder of Heatbolt, but as an entrepreneur whose journey has been shaped by a deeply personal purpose.</p>
   
@@ -205,6 +216,9 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
     </div>
   </div>
 
+  <p>The technology integrates directly into cups, bowls, trays, pouches, lunch boxes, containers, and customized packaging, enabling consumers to enjoy freshly heated food and beverages anytime, anywhere.</p>
+  <p>Heatbolt is more than a self-heating solution &mdash; it is a new category of portable thermal infrastructure with applications across multiple industries and geographies.</p>
+
   <h2>More Than Heat &mdash; A New Packaging Ecosystem</h2>
   <p>Our integrated packaging platform has the potential to provide up to <strong>one year of shelf life</strong> for selected ready-to-eat foods, beverages, nutritional products, and wellness solutions.</p>
   <ul>
@@ -223,10 +237,18 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
     <li>Ongoing discussions across Indian Railways, airlines, defence, healthcare, hospitality, and disaster relief.</li>
     <li>Promoted by <strong>Startup India</strong> and <strong>Invest India</strong>.</li>
     <li>Commercial assessments indicate support for manufacturing volumes exceeding <strong>20 billion units annually</strong>.</li>
+    <li>Multidisciplinary team comprising scientists, food technologists, packaging specialists, and manufacturing leaders.</li>
   </ul>
 
+  <div style="margin: 22px 0;">
+    <p style="font-weight: 600; margin-bottom: 8px; color: #0f172a;">Executive Demonstrations on LinkedIn:</p>
+    <a href="https://www.linkedin.com/posts/kumarpal-porwal_heatbolt-makeinindia-innovation-activity-7486186134474207232-dmlc" class="video-btn" target="_blank">▶ Urgent Need to Solve the Problem</a>
+    <a href="https://www.linkedin.com/posts/rohansachdeva20_makeinindia-innovation-foodtech-share-7483541963657605120-TCKs" class="video-btn-secondary" target="_blank">▶ We Have the Solution</a>
+  </div>
+
   <h2>A Humble Request</h2>
-  <p>Given your organization&rsquo;s track record in scaling transformative platforms, I believe Heatbolt&rsquo;s integrated thermal and packaging ecosystem presents a category-defining opportunity that aligns with your mandate.</p>
+  <p>Given Your Organization&rsquo;s track record in scaling transformative platforms, I believe Heatbolt&rsquo;s integrated thermal and packaging ecosystem &mdash; with demand indicators pointing to 20 billion+ units annually &mdash; presents a category-defining opportunity that aligns with your growth capital mandate.</p>
+  <p>We are seeking strategic partners who believe that meaningful innovation can create commercial value while addressing important global challenges.</p>
   <p>Whether through strategic investment, manufacturing collaboration, commercialization partnerships, technology licensing, or market access, we believe Heatbolt has the potential to become one of India&rsquo;s next globally recognized technology platforms.</p>
   <p>I would be deeply honoured to present our technology, commercialization roadmap, and long-term vision in a brief 15-minute meeting at your convenience.</p>
 
