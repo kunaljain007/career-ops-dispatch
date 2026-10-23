@@ -1,0 +1,18 @@
+[
+  {
+    "email": "pepsicocomplianceandethics@pepsico.com",
+    "first": "Compliance & Ethics Team",
+    "full": "Compliance & Ethics Team",
+    "org": "PepsiCo",
+    "div": "Compliance",
+    "cat": "Strategic"
+  },
+  {
+    "email": "pepsicolabs@pepsico.com",
+    "first": "PepsiCo Labs Team",
+    "full": "PepsiCo Labs Innovation Team",
+    "org": "PepsiCo Labs",
+    "div": "Tech Innovation & Partnerships",
+    "cat": "Strategic"
+  }
+]

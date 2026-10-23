@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Deepika Padukone",
+    "brand": "82\u00b0E",
+    "category": "Skincare",
+    "emails": [
+      "deepika@82e.com",
+      "deepika.padukone@82e.com",
+      "manager@82e.com",
+      "secretary@82e.com",
+      "contact@82e.com",
+      "info@82e.com"
+    ]
+  },
+  {
+    "name": "Katrina Kaif",
+    "brand": "Kay Beauty",
+    "category": "Beauty & Cosmetics",
+    "emails": [
+      "katrina@kaybeauty.com",
+      "katrina.kaif@kaybeauty.com",
+      "manager@kaybeauty.com",
+      "secretary@kaybeauty.com",
+      "contact@kaybeauty.com",
+      "info@kaybeauty.com",
+      "press@kaybeauty.com",
+      "info@matrixiec.com"
+    ]
+  },
+  {
+    "name": "Alia Bhatt",
+    "brand": "Ed-a-Mamma",
+    "category": "Apparel & Kids",
+    "emails": [
+      "alia@edamamma.com",
+      "alia.bhatt@edamamma.com",
+      "manager@edamamma.com",
+      "secretary@edamamma.com",
+      "contact@edamamma.com",
+      "info@edamamma.com",
+      "info@matrixiec.com"
+    ]
+  },
+  {
+    "name": "Salman Khan",
+    "brand": "Being Human",
+    "category": "Apparel & Foundation",
+    "emails": [
+      "salman@beinghuman.com",
+      "salman.khan@beinghuman.com",
+      "manager@beinghuman.com",
+      "secretary@beinghuman.com",
+      "contact@beinghuman.com",
+      "info@beinghuman.com"
+    ]
+  },
+  {
+    "name": "Hrithik Roshan",
+    "brand": "HRX",
+    "category": "Athleisure & Fitness",
+    "emails": [
+      "hrithik@hrxbrand.com",
+      "hrithik.roshan@hrxbrand.com",
+      "manager@hrxbrand.com",
+      "secretary@hrxbrand.com",
+      "contact@hrxbrand.com",
+      "info@hrxbrand.com"
+    ]
+  },
+  {
+    "name": "Virat Kohli",
+    "brand": "one8",
+    "category": "Athleisure & Lifestyle",
+    "emails": [
+      "virat@one8.com",
+      "virat.kohli@one8.com",
+      "manager@one8.com",
+      "secretary@one8.com",
+      "contact@one8.com",
+      "info@one8.com",
+      "manager.virat@cornerstone.in",
+      "talent@cornerstone.in"
+    ]
+  },
+  {
+    "name": "MS Dhoni",
+    "brand": "Seven",
+    "category": "Footwear & Activewear",
+    "emails": [
+      "dhoni@seven.com",
+      "ms.dhoni@seven.com",
+      "manager@seven.com",
+      "secretary@seven.com",
+      "contact@seven.com",
+      "info@seven.com"
+    ]
+  },
+  {
+    "name": "Priyanka Chopra",
+    "brand": "Anomaly Haircare",
+    "category": "Personal Care",
+    "emails": [
+      "priyanka@anomalyhaircare.com",
+      "manager@anomalyhaircare.com",
+      "secretary@anomalyhaircare.com",
+      "contact@anomalyhaircare.com",
+      "info@anomalyhaircare.com"
+    ]
+  },
+  {
+    "name": "Anushka Sharma",
+    "brand": "Clean Slate Filmz",
+    "category": "Production & Lifestyle",
+    "emails": [
+      "anushka@cleanslatefilmz.com",
+      "manager@cleanslatefilmz.com",
+      "secretary@cleanslatefilmz.com",
+      "contact@cleanslatefilmz.com",
+      "info@cleanslatefilmz.com"
+    ]
+  },
+  {
+    "name": "Sunny Leone",
+    "brand": "StarStruck",
+    "category": "Cosmetics",
+    "emails": [
+      "sunny@starstruck.co",
+      "manager@starstruck.co",
+      "secretary@starstruck.co",
+      "contact@starstruck.co",
+      "info@starstruck.co"
+    ]
+  },
+  {
+    "name": "Ranbir Kapoor",
+    "brand": "ARKS",
+    "category": "Lifestyle Apparel",
+    "emails": [
+      "ranbir@arks.com",
+      "ranbir.kapoor@arks.com",
+      "manager@arks.com",
+      "secretary@arks.com",
+      "contact@arks.com",
+      "info@arks.com"
+    ]
+  },
+  {
+    "name": "Shilpa Shetty",
+    "brand": "Iosis Spa",
+    "category": "Wellness & Spa",
+    "emails": [
+      "shilpa@iosisspa.com",
+      "shilpa.shetty@iosisspa.com",
+      "manager@iosisspa.com",
+      "secretary@iosisspa.com",
+      "contact@iosisspa.com",
+      "info@iosisspa.com"
+    ]
+  },
+  {
+    "name": "Tiger Shroff",
+    "brand": "MMA Matrix",
+    "category": "Fitness & Martial Arts",
+    "emails": [
+      "tiger@mmamatrix.com",
+      "tiger.shroff@mmamatrix.com",
+      "manager@mmamatrix.com",
+      "secretary@mmamatrix.com",
+      "contact@mmamatrix.com",
+      "info@mmamatrix.com"
+    ]
+  },
+  {
+    "name": "Kriti Sanon",
+    "brand": "Hyphen",
+    "category": "Skincare",
+    "emails": [
+      "kriti.sanon@letshyphen.com",
+      "manager@letshyphen.com",
+      "secretary@letshyphen.com",
+      "contact@letshyphen.com",
+      "info@letshyphen.com"
+    ]
+  },
+  {
+    "name": "Shah Rukh Khan",
+    "brand": "Red Chillies Entertainment",
+    "category": "Film Production & Media",
+    "emails": [
+      "srk.office@redchillies.com",
+      "manager@redchillies.com",
+      "secretary@redchillies.com",
+      "contact@redchillies.com",
+      "info@redchillies.com"
+    ]
+  },
+  {
+    "name": "Sonakshi Sinha",
+    "brand": "SOEZI",
+    "category": "Beauty & Nails",
+    "emails": [
+      "sonakshi@soezi.in",
+      "manager@soezi.in",
+      "secretary@soezi.in",
+      "contact@soezi.in",
+      "info@soezi.in"
+    ]
+  },
+  {
+    "name": "Saif Ali Khan",
+    "brand": "House of Pataudi",
+    "category": "Ethnic Apparel",
+    "emails": [
+      "saif@houseofpataudi.com",
+      "manager@houseofpataudi.com",
+      "secretary@houseofpataudi.com",
+      "info@houseofpataudi.com"
+    ]
+  },
+  {
+    "name": "Akshay Kumar",
+    "brand": "Force IX",
+    "category": "Athleisure Apparel",
+    "emails": [
+      "akshay@forceix.com",
+      "manager@forceix.com",
+      "secretary@forceix.com",
+      "support@forceix.com",
+      "info@forceix.com"
+    ]
+  },
+  {
+    "name": "Shahid Kapoor",
+    "brand": "Skult",
+    "category": "Athleisure",
+    "emails": [
+      "shahid.kapoor@skult.in",
+      "manager@skult.in",
+      "secretary@skult.in",
+      "contact@skult.in",
+      "info@skult.in"
+    ]
+  },
+  {
+    "name": "Masaba Gupta",
+    "brand": "LoveChild by Masaba",
+    "category": "Cosmetics",
+    "emails": [
+      "masaba@lovechild.in",
+      "manager@lovechild.in",
+      "secretary@lovechild.in",
+      "support@lovechild.in",
+      "info@lovechild.in"
+    ]
+  },
+  {
+    "name": "Aryan Khan",
+    "brand": "D'Yavol",
+    "category": "Luxury Streetwear",
+    "emails": [
+      "aryan@dyavol.com",
+      "manager@dyavol.com",
+      "secretary@dyavol.com",
+      "info@dyavol.com"
+    ]
+  },
+  {
+    "name": "Ranveer Singh",
+    "brand": "SuperYou",
+    "category": "Packaged Nutrition & Snacks",
+    "emails": [
+      "ranveer@superyou.in",
+      "manager@superyou.in",
+      "secretary@superyou.in",
+      "contact@superyou.in",
+      "info@superyou.in"
+    ]
+  },
+  {
+    "name": "Samantha Ruth Prabhu",
+    "brand": "Saaki",
+    "category": "Ethnic Fashion",
+    "emails": [
+      "samantha@saaki.co",
+      "manager@saaki.co",
+      "secretary@saaki.co",
+      "support@saaki.co",
+      "info@saaki.co"
+    ]
+  },
+  {
+    "name": "Nayanthara",
+    "brand": "9Skin",
+    "category": "Skincare & Beauty",
+    "emails": [
+      "nayanthara@9skin.in",
+      "manager@9skin.in",
+      "secretary@9skin.in",
+      "contact@9skin.in",
+      "info@9skin.in"
+    ]
+  },
+  {
+    "name": "Triptii Dimri",
+    "brand": "Peep Beauty",
+    "category": "Beauty & Cosmetics",
+    "emails": [
+      "tripti@peepbeauty.com",
+      "manager@peepbeauty.com",
+      "secretary@peepbeauty.com",
+      "info@peepbeauty.com"
+    ]
+  },
+  {
+    "name": "Vijay Deverakonda",
+    "brand": "UN HYPE",
+    "category": "Apparel & Lifestyle",
+    "emails": [
+      "vijay@unhype.com",
+      "manager@unhype.com",
+      "secretary@unhype.com",
+      "support@unhype.com",
+      "info@unhype.com"
+    ]
+  },
+  {
+    "name": "Sonam Kapoor",
+    "brand": "Rheson",
+    "category": "Contemporary Fashion",
+    "emails": [
+      "sonam@rheson.in",
+      "manager@rheson.in",
+      "secretary@rheson.in",
+      "info@rheson.in"
+    ]
+  },
+  {
+    "name": "Suniel Shetty",
+    "brand": "Aquatein / H2O",
+    "category": "Beverages & Nutrition",
+    "emails": [
+      "suniel.shetty@aquatein.com",
+      "manager@aquatein.com",
+      "secretary@aquatein.com",
+      "info@aquatein.com"
+    ]
+  },
+  {
+    "name": "Lara Dutta",
+    "brand": "Arias",
+    "category": "Clean Skincare",
+    "emails": [
+      "lara@ariasskincare.com",
+      "manager@ariasskincare.com",
+      "secretary@ariasskincare.com",
+      "info@ariasskincare.com"
+    ]
+  },
+  {
+    "name": "Bhuvan Bam",
+    "brand": "Youthiapa",
+    "category": "Streetwear & Merch",
+    "emails": [
+      "bhuvan@youthiapa.com",
+      "manager@youthiapa.com",
+      "secretary@youthiapa.com",
+      "support@youthiapa.com"
+    ]
+  },
+  {
+    "name": "KL Rahul",
+    "brand": "1DER",
+    "category": "Streetwear Athleisure",
+    "emails": [
+      "kl.rahul@1derbrand.com",
+      "manager@1derbrand.com",
+      "secretary@1derbrand.com",
+      "contact@1derbrand.com",
+      "info@1derbrand.com"
+    ]
+  },
+  {
+    "name": "Tamannaah Bhatia",
+    "brand": "Wysa",
+    "category": "Wellness & Healthtech",
+    "emails": [
+      "tamannaah@wysa.io",
+      "manager@wysa.io",
+      "secretary@wysa.io",
+      "support@wysa.io",
+      "info@wysa.io"
+    ]
+  },
+  {
+    "name": "Sania Mirza",
+    "brand": "SMTA",
+    "category": "Sports & Academy",
+    "emails": [
+      "sania@smta.in",
+      "manager@smta.in",
+      "secretary@smta.in",
+      "contact@smta.in",
+      "info@smta.in"
+    ]
+  },
+  {
+    "name": "Yuvraj Singh",
+    "brand": "YouWeCan",
+    "category": "Foundations & Apparel",
+    "emails": [
+      "yuvraj@youwecan.org",
+      "manager@youwecan.org",
+      "secretary@youwecan.org",
+      "info@youwecan.org"
+    ]
+  },
+  {
+    "name": "Rakul Preet Singh",
+    "brand": "New You",
+    "category": "Fitness Franchises",
+    "emails": [
+      "rakul@newyou.in",
+      "manager@newyou.in",
+      "secretary@newyou.in",
+      "info@newyou.in"
+    ]
+  }
+]
