@@ -11833,5 +11833,405 @@
     "recipientEmail": "jobs@databricks.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-24T10:23:09.138Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592908002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:19.401Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720995002",
+    "company": "Databricks",
+    "title": "Sr. Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:36.895Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8299781",
+    "company": "Reddit",
+    "title": "Machine Learning Engineer, Answers Relevance",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@reddit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:39.609Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
+    "company": "Anthropic",
+    "title": "Applied AI Demo Engineer",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@anthropic.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:41.493Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456581008",
+    "company": "Anthropic",
+    "title": "Manager of Applied AI Architecture, Industries",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@anthropic.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:43.998Z"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/elevenlabs/a0389dc2-77d8-439b-960b-2acb8712991e",
+    "company": "ElevenLabs",
+    "title": "Enterprise Deployment - Chief of Staff",
+    "platform": "ashby",
+    "source": "portal-scan",
+    "recipientEmail": "careers@elevenlabs.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:46.677Z"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/n8n/2ac306a9-1d24-4b19-8261-32902b7dd423",
+    "company": "n8n",
+    "title": "Engineering Manager | Remote | Europe",
+    "platform": "ashby",
+    "source": "portal-scan",
+    "recipientEmail": "careers@n8n.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:49.836Z"
+  },
+  {
+    "url": "https://jobs.ashbyhq.com/DeepL/22c4e48d-09ed-446d-bf74-4a546db31e8c",
+    "company": "DeepL",
+    "title": "Senior Machine Learning Engineering Manager",
+    "platform": "ashby",
+    "source": "portal-scan",
+    "recipientEmail": "careers@deepl.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:52.850Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7742474003?gh_jid=7742474003",
+    "company": "Celonis",
+    "title": "AI and Value Transformation Consultant",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@celonis.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:56.122Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8010181003?gh_jid=8010181003",
+    "company": "Celonis",
+    "title": "Applied AI Value Architect",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@celonis.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:15:58.757Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7989895003?gh_jid=7989895003",
+    "company": "Celonis",
+    "title": "Intern Applied AI Engineering / Strategic Consulting (CoE Tiger Team)",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@celonis.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:01.379Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8014366003?gh_jid=8014366003",
+    "company": "Celonis",
+    "title": "Intern Applied AI Solution Consulting (Italy)",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@celonis.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:03.708Z"
+  },
+  {
+    "url": "https://www.scandit.com/careers/job-description/?gh_jid=8300273",
+    "company": "Scandit",
+    "title": "Senior Machine Learning Engineer - Video Understanding",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "careers@scandit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:05.964Z"
+  },
+  {
+    "url": "https://stripe.com/jobs/search?gh_jid=8267857",
+    "company": "Stripe",
+    "title": "Country Manager, Israel",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "careers@stripe.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:10.972Z"
+  },
+  {
+    "url": "https://stripe.com/jobs/search?gh_jid=8064171",
+    "company": "Stripe",
+    "title": "Solutions Architect Manager, Platforms (APAC)",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "careers@stripe.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:14.018Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8575046002",
+    "company": "Databricks",
+    "title": "Delivery Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:16.553Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002",
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer, FDE (L4)",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:21.725Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885043002",
+    "company": "Databricks",
+    "title": "Lead Solutions Architect – MedTech (Strategic Account)",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:23.931Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899736002",
+    "company": "Databricks",
+    "title": "Manager, Forward Deployed Engineering",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:25.666Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8876680002",
+    "company": "Databricks",
+    "title": "Senior Forward Deployed Engineer, Sr FDE (L5)",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:27.739Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8885049002",
+    "company": "Databricks",
+    "title": "Senior Solutions Architect - Digital Natives",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:29.817Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8795446002",
+    "company": "Databricks",
+    "title": "Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:32.279Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893716002",
+    "company": "Databricks",
+    "title": "Solutions Architect - Adtech",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:35.353Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8900134002",
+    "company": "Databricks",
+    "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:38.068Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893782002",
+    "company": "Databricks",
+    "title": "Solutions Architect- Public Sector (Federal Healthcare)",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:40.586Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002",
+    "company": "Databricks",
+    "title": "Solutions Architect - Telco",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:42.340Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739458002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:57.077Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8461239002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Communications, Media, Entertainment & Games",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:16:59.255Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592937002",
+    "company": "Databricks",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:01.408Z"
+  },
+  {
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614977002",
+    "company": "Databricks",
+    "title": "Sr. Solutions Architect",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:04.299Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4735665005",
+    "company": "Scale AI",
+    "title": "Machine Learning Research Intern (Summer 2027)",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@scale.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:06.662Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8301736",
+    "company": "Reddit",
+    "title": "Lead Forward Deployed Engineer (AI Enablement)",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@reddit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:09.088Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8301784",
+    "company": "Reddit",
+    "title": "Senior Forward Deployed Engineer (AI Enablement)",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@reddit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:11.838Z"
+  },
+  {
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
+    "company": "Reddit",
+    "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
+    "platform": "greenhouse",
+    "source": "portal-scan",
+    "recipientEmail": "careers@reddit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:14.398Z"
+  },
+  {
+    "url": "https://jobs.lever.co/spotify/6af8894a-752f-4485-be70-a6685e5fd696",
+    "company": "Spotify",
+    "title": "Staff Machine Learning Engineer, Home Surfaces",
+    "platform": "lever",
+    "source": "portal-scan",
+    "recipientEmail": "careers@spotify.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:16.021Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/156719-senior-partner-solutions-architect-pan-emea-gsi",
+    "company": "Datadog",
+    "title": "Senior Partner Solutions Architect (Pan-EMEA GSI)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:17.744Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/156720-principal-regional-partner-programs",
+    "company": "Zscaler",
+    "title": "Principal, Regional Partner Programs",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:19.912Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/156711-partner-solutions-architect-emea",
+    "company": "Datadog",
+    "title": "Partner Solutions Architect (EMEA)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:23.619Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/156707-public-sector-partnerships-lead-europe",
+    "company": "Elevenlabs",
+    "title": "Public Sector Partnerships Lead - Europe",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:25.952Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/156695-senior-performance-marketer-full-remote-ukraine",
+    "company": "EverAI",
+    "title": "Senior Performance Marketer (Full Remote - Ukraine)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-24T14:17:28.823Z"
   }
 ]
