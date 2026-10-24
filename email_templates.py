@@ -26,7 +26,15 @@ SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
 SUBJECT = "If This Journey Has a Purpose, I Believe It Begins with You"
 
-def build_plain_body(first_name: str, full_name: str, org: str, division: str, category: str) -> str:
+def build_plain_body(first_name: str, full_name: str, org: str, division: str, category: str, recipient_email: str = "") -> str:
+    is_nestle = "nestle" in (recipient_email or "").lower() or "nestle" in (org or "").lower()
+    if is_nestle:
+        international_interest_plain = "We are also seeing growing international interest, with Barilla Group exploring potential introduction across 100 countries and Mondelēz across 150 countries, alongside discussions with other global industry leaders."
+        multinational_bullet_plain = "- Active engagements with leading global companies including Barilla, Mondelēz, Unilever, PepsiCo, Kraft Heinz, and other market leaders."
+    else:
+        international_interest_plain = "We are also seeing growing international interest, with Nestlé exploring potential introduction across 192 countries, Barilla Group across 100 countries, and Mondelēz across 150 countries, alongside discussions with other global industry leaders."
+        multinational_bullet_plain = "{multinational_bullet_plain}"
+
     return f"""Jai Jinendra,
 
 Dear {first_name},
@@ -37,7 +45,7 @@ I hope this message finds you in good health and high spirits.
 
 We have successfully concluded our high-level meetings in Delhi with the Ministry of Defence, Ministry of Home Affairs, Ministry of Railways, and several other stakeholders, receiving encouraging responses regarding HeatBolt’s potential applications.
 
-We are also seeing growing international interest, with Nestlé exploring potential introduction across 192 countries, Barilla Group across 100 countries, and Mondelēz across 150 countries, alongside discussions with other global industry leaders.
+{international_interest_plain}
 
 Today, I am writing to you not merely as the Founder of Heatbolt, but as an entrepreneur whose journey has been shaped by a deeply personal purpose.
 
@@ -103,7 +111,7 @@ Current Momentum & Execution
 The response to Heatbolt has been highly encouraging. Today, we have achieved:
 - 60,000+ stakeholder engagements across India and international markets.
 - 1,000+ inbound calls and emails every day from corporates, government organizations, institutions, and international partners.
-- Active engagements with leading global companies including Barilla, Nestlé, Mondelēz, Unilever, PepsiCo, Kraft Heinz, Mars, General Mills, Ajinomoto, Campbell's, The Coca-Cola Company, Starbucks, Yum! Brands, and McDonald's.
+{multinational_bullet_plain}
 - Ongoing discussions across Indian Railways, airlines, defence, healthcare, pharmaceuticals, hospitality, food delivery, religious institutions, disaster relief, and industrial sectors.
 - Heatbolt has also been recently promoted by Startup India and Invest India, and is currently trending virally on the internet.
 - Commercial enquiries and market assessments indicate the potential to support manufacturing volumes exceeding 20 billion Heatbolt-enabled units annually, with demand continuing to grow across domestic and international markets.
@@ -137,7 +145,15 @@ founder.heatbolt@gmail.com
 "The future of convenience is not just portable food and beverages — it is portable heat."
 """
 
-def build_html_body(first_name: str, full_name: str, org: str, division: str, category: str) -> str:
+def build_html_body(first_name: str, full_name: str, org: str, division: str, category: str, recipient_email: str = "") -> str:
+    is_nestle = "nestle" in (recipient_email or "").lower() or "nestle" in (org or "").lower()
+    if is_nestle:
+        international_interest_html = "<p>We are also seeing growing international interest, with <strong>Barilla Group</strong> exploring potential introduction across 100 countries and <strong>Mondelēz</strong> across 150 countries, alongside discussions with other global industry leaders.</p>"
+        multinational_bullet_html = "<li>Active engagements with Barilla, Mondelēz, Unilever, PepsiCo, Kraft Heinz, and other market leaders.</li>"
+    else:
+        international_interest_html = "<p>We are also seeing growing international interest, with <strong>Nestl&eacute;</strong> exploring potential introduction across 192 countries, <strong>Barilla Group</strong> across 100 countries, and <strong>Mondelēz</strong> across 150 countries, alongside discussions with other global industry leaders.</p>"
+        multinational_bullet_html = "{multinational_bullet_html}"
+
     return f"""<!DOCTYPE html>
 <html>
 <head>
@@ -175,7 +191,7 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
   
   <p>We have successfully concluded our high-level meetings in Delhi with the <strong>Ministry of Defence, Ministry of Home Affairs, Ministry of Railways</strong>, and several other key stakeholders, receiving encouraging responses regarding HeatBolt&rsquo;s potential applications.</p>
   
-  <p>We are also seeing growing international interest, with <strong>Nestl&eacute;</strong> exploring potential introduction across 192 countries, <strong>Barilla Group</strong> across 100 countries, and <strong>Mondel&emsp;z</strong> across 150 countries, alongside discussions with other global industry leaders.</p>
+  {international_interest_html}
   
   <p>Today, I am writing to you not merely as the Founder of Heatbolt, but as an entrepreneur whose journey has been shaped by a deeply personal purpose.</p>
   
@@ -236,7 +252,7 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
   <ul>
     <li><strong>60,000+</strong> stakeholder engagements across India and international markets.</li>
     <li><strong>1,000+</strong> inbound calls and emails daily from corporates, government bodies, and international partners.</li>
-    <li>Active engagements with Barilla, Nestl&eacute;, Mondelēz, Unilever, PepsiCo, Kraft Heinz, Mars, General Mills, Ajinomoto, Campbell&rsquo;s, The Coca-Cola Company, Starbucks, Yum! Brands, and McDonald&rsquo;s.</li>
+    {multinational_bullet_html}
     <li>Ongoing discussions across Indian Railways, airlines, defence, healthcare, hospitality, and disaster relief.</li>
     <li>Promoted by <strong>Startup India</strong> and <strong>Invest India</strong>.</li>
     <li>Commercial assessments indicate support for manufacturing volumes exceeding <strong>20 billion units annually</strong>.</li>
