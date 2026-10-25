@@ -1,0 +1,44 @@
+name: Cloud Render Maa Kaali Cinematic Movie Trailer
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'render_cloud_trailer.py'
+      - '.github/workflows/render_maa_kaali_trailer.yml'
+
+jobs:
+  render-trailer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install System Dependencies (FFmpeg & Fonts)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-dejavu-core fonts-freefont-ttf
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install gTTS Pillow numpy
+
+      - name: Execute Cloud Video & Motion Audio Rendering
+        run: |
+          python render_cloud_trailer.py
+
+      - name: Upload Final Rendered 1080p Movie Trailer Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Maa-Kaali-Epic-Cinematic-Trailer-1080p
+          path: cloud_output/*.mp4
+          retention-days: 30
