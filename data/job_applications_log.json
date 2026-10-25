@@ -12493,5 +12493,75 @@
     "recipientEmail": "careers@arbeitnow.ch",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-25T05:42:43.758Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154059-enterprise-solutions-architect",
+    "company": "TripActions",
+    "title": "Enterprise Solutions Architect",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-25T10:47:16.100Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154053-business-travel-consultant-english-remote-portugal",
+    "company": "TripActions",
+    "title": "Business Travel Consultant - English - Remote Portugal",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-25T10:47:21.075Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154041-account-manager-remote-mexico",
+    "company": "Housecall Pro",
+    "title": "Account Manager (Remote - Mexico)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-25T10:47:23.219Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154016-international-data-acquisition-manager",
+    "company": "Socure",
+    "title": "International Data Acquisition Manager",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-25T10:47:26.170Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/149521-engineering-manager-mlops-analytics",
+    "company": "Canonical",
+    "title": "Engineering Manager - MLOps & Analytics",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-25T10:47:30.886Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/149554-support-engineering-manager",
+    "company": "Canonical",
+    "title": "Support Engineering Manager",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-25T10:47:35.871Z"
+  },
+  {
+    "url": "https://www.arbeitnow.nl/jobs/companies/your-software-supplier/data-scientist-kaggle-drivendata-remote-worldwide-amsterdam-169939",
+    "company": "Your Software Supplier",
+    "title": "Data Scientist (Kaggle/DrivenData) (Remote-Worldwide)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.nl",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-25T10:47:41.077Z"
   }
 ]
