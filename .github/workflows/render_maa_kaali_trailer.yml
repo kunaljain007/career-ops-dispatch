@@ -6,6 +6,7 @@ on:
     paths:
       - 'render_cloud_trailer.py'
       - '.github/workflows/render_maa_kaali_trailer.yml'
+      - 'requirements_trailer.txt'
 
 jobs:
   render-trailer:
@@ -20,7 +21,6 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install System Dependencies (FFmpeg & Fonts)
         run: |
@@ -30,7 +30,7 @@ jobs:
       - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install gTTS Pillow numpy
+          pip install -r requirements_trailer.txt
 
       - name: Execute Cloud Video & Motion Audio Rendering
         run: |
