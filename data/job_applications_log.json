@@ -12653,5 +12653,85 @@
     "recipientEmail": "careers@jobicy.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-25T21:27:15.992Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157066-strategic-partnerships",
+    "company": "Abby Care",
+    "title": "Strategic Partnerships",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:44:44.894Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157039-engineering-manager-notifications-platform",
+    "company": "Reddit",
+    "title": "Engineering Manager, Notifications Platform",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@reddit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:44:47.342Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157033-engineering-manager-notifications-2",
+    "company": "Discord",
+    "title": "Engineering Manager, Notifications",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:44:49.046Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154084-staff-engineer-full-stack-trust-safety-risk",
+    "company": "Phantom",
+    "title": "Staff Engineer, Full Stack (Trust, Safety & Risk)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:44:51.051Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/151605-principal-value-realization",
+    "company": "League",
+    "title": "Principal, Value Realization",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:44:53.925Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/151633-engineering-manager-canada",
+    "company": "Ashby",
+    "title": "Engineering Manager - Canada",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:44:56.622Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/vollzeit-buchhalterin-remote-monheim-am-rhein-456823",
+    "company": "Simplyright GmbH",
+    "title": "Vollzeit Buchhalter*in (m/w/d) Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:44:59.160Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/kundenbetreuerin-beschwerdemanagement-remote-telefon-monheim-am-rhein-19874",
+    "company": "Simplyright GmbH",
+    "title": "Kundenbetreuer:in Beschwerdemanagement (Remote, Telefon)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-26T09:45:02.047Z"
   }
 ]
