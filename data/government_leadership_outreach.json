@@ -1,0 +1,74 @@
+﻿[
+    {
+        "email":  "secy.president@rb.nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.6270925+05:30",
+        "role":  "Secretary to President"
+    },
+    {
+        "email":  "kumarsamresh@rb.nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9804105+05:30",
+        "role":  "PRO Museum (President Secretariat)"
+    },
+    {
+        "email":  "vmc@rb.nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9814343+05:30",
+        "role":  "PRO Main Building (President Secretariat)"
+    },
+    {
+        "email":  "secyvp@nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9814343+05:30",
+        "role":  "Secretary to Vice-President"
+    },
+    {
+        "email":  "pscell-vps@nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9814343+05:30",
+        "role":  "Appointment Cell VP"
+    },
+    {
+        "email":  "pkmishra.pmo@gov.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9824322+05:30",
+        "role":  "Principal Secretary to PM (PMO)"
+    },
+    {
+        "email":  "cabinet@nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9824322+05:30",
+        "role":  "Cabinet Secretariat"
+    },
+    {
+        "email":  "cabinetsy@nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9834327+05:30",
+        "role":  "Cabinet Secretary (Shri T.V. Somanathan)"
+    },
+    {
+        "email":  "hshso@nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9834327+05:30",
+        "role":  "Union Home Secretary (Shri Govind Mohan)"
+    },
+    {
+        "email":  "psfs@mea.gov.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9834327+05:30",
+        "role":  "Foreign Secretary (Shri Vikram Misri)"
+    },
+    {
+        "email":  "defsecy@nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9844321+05:30",
+        "role":  "Defence Secretary (Shri Rajesh Kumar Singh)"
+    },
+    {
+        "email":  "functioncell-vps@nic.in",
+        "status":  "SENT",
+        "timestamp":  "2026-10-30T18:16:21.9844321+05:30",
+        "role":  "VP Function Cell"
+    }
+]
