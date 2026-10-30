@@ -13383,5 +13383,915 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-27T23:30:11.442Z"
+  },
+  {
+    "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+    "company": "Lemon.io",
+    "title": "Head of Engineering",
+    "platform": "remotive",
+    "source": "Remotive API",
+    "recipientEmail": "careers@lemonio.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:00.096Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154104-business-consultant-6-months-contract-with-possible-extension",
+    "company": "Bloomreach",
+    "title": "Business Consultant (6 months contract with possible extension)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:05.008Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154108-engineering-manager-feegow-100-remote-within-brazil",
+    "company": "Docplanner",
+    "title": "Engineering Manager - Feegow (100% Remote within Brazil)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:07.409Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154105-senior-product-designer-feegow-100-remote-friendly-in-brazil",
+    "company": "Docplanner",
+    "title": "Senior Product Designer - Feegow (100% remote friendly in Brazil)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:09.703Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence",
+    "company": "WorkWave",
+    "title": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:12.409Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/151911-principal-consultant-sales-effectiveness",
+    "company": "Forma.ai",
+    "title": "Principal Consultant, Sales Effectiveness",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:15.080Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/151832-forward-deployed-product-manager-ai-agent-emea",
+    "company": "Cresta",
+    "title": "Forward Deployed Product Manager - AI Agent (EMEA)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:17.704Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/151794-full-time-remote-telemedicine-physician-ca-and-imlc-license-required",
+    "company": "Wheel",
+    "title": "Full Time Remote Telemedicine Physician - (CA and IMLC license required)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:20.420Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/151790-full-time-remote-telemedicine-physician-40-state-licenses",
+    "company": "Wheel",
+    "title": "Full Time Remote Telemedicine Physician - (40+ State Licenses)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:23.688Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/remote-partner-solution-architect-sai-333763",
+    "company": "veeamsoftware",
+    "title": "Partner Solution Architect - SAI",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T10:59:25.922Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157591-senior-performance-marketer-full-remote-brazil",
+    "company": "EverAI",
+    "title": "Senior Performance Marketer (Full Remote - Brazil)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:11.838Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157581-senior-performance-marketer-full-remote-argentina",
+    "company": "EverAI",
+    "title": "Senior Performance Marketer (Full Remote - Argentina)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:16.467Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157560-sr-partner-manager",
+    "company": "Veeam Software",
+    "title": "Sr Partner Manager",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:19.610Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157558-principal-senior-clinical-data-scientist",
+    "company": "Precision Medicine Group",
+    "title": "Principal/Senior Clinical Data Scientist",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:22.116Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157557-partner-solution-architect-sai",
+    "company": "Veeam Software",
+    "title": "Partner Solution Architect - SAI",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:25.510Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157553-principal-biostatistician",
+    "company": "Precision Medicine Group",
+    "title": "Principal Biostatistician",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:29.173Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157532-partnerships-private-equity",
+    "company": "Elevenlabs",
+    "title": "Partnerships - Private Equity",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:33.506Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/hurracom/freelance-full-stack-developer-django-ai-products-python-llm-integration-remote-100-stuttgart-200558",
+    "company": "hurra.com",
+    "title": "Freelance Full-Stack Developer | Django | AI Products | Python & LLM Integration | Remote 100%",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:37.368Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/gfn-gmbh/trainer-dozen-fur-ki-im-buro-automatisierung-und-digitalisierung-remote-heidelberg-405176",
+    "company": "GFN GmbH",
+    "title": "Trainer/Dozen (m/w/x) für KI im Büro - Automatisierung und Digitalisierung (remote)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:40.639Z"
+  },
+  {
+    "url": "https://www.arbeitnow.fr/jobs/companies/emailclub/ccrm-retention-manager-bilingue-francais-anglais-100-remote-paris-182110",
+    "company": "EmailClub",
+    "title": "CCRM & Retention Manager (Bilingue Français/Anglais - 100% Remote)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.fr",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T17:06:42.939Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157688-senior-product-marketing-manager-sweden-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Product Marketing Manager | Sweden | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:03.264Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157687-senior-product-marketing-manager-spain-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Product Marketing Manager | Spain | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:08.254Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157686-senior-product-marketing-manager-ireland-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Product Marketing Manager | Ireland | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:10.685Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157685-senior-product-marketing-manager-germany-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Product Marketing Manager | Germany | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:12.973Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157684-senior-engineering-manager-grafana-frontend-united-kingdom-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:17.297Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157681-senior-engineering-manager-grafana-frontend-sweden-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Engineering Manager, Grafana Frontend | Sweden | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:20.661Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157679-principal-software-architect-2",
+    "company": "Testlio",
+    "title": "Principal Software Architect",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:26.098Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157676-senior-engineering-manager-grafana-frontend-spain-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Engineering Manager, Grafana Frontend | Spain | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:31.300Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157674-freelance-software-tester-for-payments-testing-remote-in-germany-the-netherlands",
+    "company": "Testlio",
+    "title": "Freelance Software Tester for Payments testing (Remote in Germany & the Netherlands)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:36.934Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157670-senior-engineering-manager-grafana-frontend-ireland-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Engineering Manager, Grafana Frontend | Ireland | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:39.483Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157664-engineering-manager-product-catalogs",
+    "company": "Reddit",
+    "title": "Engineering Manager, Product Catalogs",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@reddit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:43.212Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157656-field-marketing-intern-summer-2027",
+    "company": "Veeam Software",
+    "title": "Field Marketing Intern - Summer 2027",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:45.829Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157641-staff-software-engineer-machine-learning-consumer-revenue",
+    "company": "Discord",
+    "title": "Staff Software Engineer, Machine Learning (Consumer Revenue)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-28T22:13:50.561Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157761-solutions-architect-strategic-high-tech",
+    "company": "Databricks",
+    "title": "Solutions Architect - Strategic High Tech",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:05.114Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157758-solutions-architect-retail-consumer-goods-travel-hospitality",
+    "company": "Databricks",
+    "title": "Solutions Architect - Retail, Consumer Goods, Travel & Hospitality",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:08.736Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157755-solutions-architect-public-sector-sled",
+    "company": "Databricks",
+    "title": "Solutions Architect - Public Sector (SLED)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:10.345Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157752-solutions-architect-manufacturing",
+    "company": "Databricks",
+    "title": "Solutions Architect - Manufacturing",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:12.058Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157749-solutions-architect-healthcare-life-sciences-team-hls",
+    "company": "Databricks",
+    "title": "Solutions Architect - Healthcare/Life Sciences Team (HLS)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:14.666Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157746-solutions-architect-digital-native-business-named-accounts",
+    "company": "Databricks",
+    "title": "Solutions Architect - Digital Native Business, Named Accounts",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:16.716Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157743-solutions-architect-digital-native-business-healthtech",
+    "company": "Databricks",
+    "title": "Solutions Architect - Digital Native Business (Healthtech)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:19.080Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157740-solutions-architect-digital-native-business-fintech",
+    "company": "Databricks",
+    "title": "Solutions Architect - Digital Native Business (Fintech)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:21.478Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157737-solutions-architect-communications-media-entertainment-and-games",
+    "company": "Databricks",
+    "title": "Solutions Architect - Communications, Media, Entertainment and Games",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:24.414Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157718-principal-product-analytics",
+    "company": "Synthesia",
+    "title": "Principal, Product Analytics",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@synthesia.io",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:26.080Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/online-marketing-manager-sea-social-ads-remote-monheim-am-rhein-498452",
+    "company": "Simplyright GmbH",
+    "title": "Online Marketing Manager (m/w/d) SEA & Social Ads | Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:28.976Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/google-ads-manager-vollzeit-100-remote-monheim-am-rhein-296878",
+    "company": "Simplyright GmbH",
+    "title": "Google Ads Manager (m/w/d) | Vollzeit | 100 % Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:30.906Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/performance-marketing-manager-google-ads-meta-tiktok-100-remote-monheim-am-rhein-442339",
+    "company": "Simplyright GmbH",
+    "title": "Performance Marketing Manager (m/w/d) – Google Ads, Meta & TikTok | 100 % Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:33.077Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/vollzeit-buchhalterin-remote-monheim-am-rhein-245900",
+    "company": "Simplyright GmbH",
+    "title": "Vollzeit Buchhalter*in (m/w/d) Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:35.574Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/kundenbetreuerin-beschwerdemanagement-remote-telefon-monheim-am-rhein-86954",
+    "company": "Simplyright GmbH",
+    "title": "Kundenbetreuer:in Beschwerdemanagement (Remote, Telefon)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T09:23:38.227Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157834-senior-software-engineer-security-assurance-uk-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Software Engineer, Security Assurance | UK | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:36:55.434Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157832-public-sector-partnerships-lead-france",
+    "company": "Elevenlabs",
+    "title": "Public Sector Partnerships Lead - France",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:36:58.287Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157829-senior-software-engineer-security-assurance-sweden-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Software Engineer, Security Assurance | Sweden | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:00.799Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157824-senior-software-engineer-security-assurance-spain-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Software Engineer, Security Assurance | Spain | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:03.426Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157822-site-reliability-engineer-in-hardware-infrastructure",
+    "company": "Nebius",
+    "title": "Site Reliability Engineer in Hardware Infrastructure",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:06.437Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157821-engineering-director-100-remote-within-poland",
+    "company": "Docplanner",
+    "title": "Engineering Director (100% Remote within Poland)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:09.379Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157819-senior-technical-program-manager-new-data-center-launches",
+    "company": "Nebius",
+    "title": "Senior Technical Program Manager - New Data Center Launches",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:12.207Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157816-senior-product-manager-panel-remote-eu-uk",
+    "company": "Maze",
+    "title": "Senior Product Manager, Panel (Remote, EU/UK)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:16.074Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157809-sr-hr-business-partner",
+    "company": "Thumbtack",
+    "title": "Sr. HR Business Partner",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:19.507Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157807-partner-account-manager",
+    "company": "Apollo.io",
+    "title": "Partner Account Manager",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:21.747Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157805-principal-engineer-applied-ai-fullstack-backend",
+    "company": "hims &#038; hers",
+    "title": "Principal Engineer, Applied AI (Fullstack/Backend)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:24.789Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157800-head-of-partner-programs-strategy-and-operations",
+    "company": "Apollo.io",
+    "title": "Head of Partner Programs, Strategy and Operations",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:27.272Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157782-principal-technical-consultant",
+    "company": "Ping Identity",
+    "title": "Principal Technical Consultant",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:30.686Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157778-senior-international-payroll-analyst",
+    "company": "Twilio",
+    "title": "Senior International Payroll Analyst",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:33.729Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157774-senior-software-engineer-security-assurance-ireland-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Software Engineer, Security Assurance | Ireland | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:36.903Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157770-senior-software-engineer-security-assurance-germany-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Software Engineer, Security Assurance | Germany | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:40.007Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157766-engineering-manager-architecture-engineering-async",
+    "company": "GitLab",
+    "title": "Engineering Manager, Architecture Engineering: Async",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:42.479Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157765-senior-product-marketing-manager-uk-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Product Marketing Manager | UK | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:44.851Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/demv-systems-gmbh/produktmanager-in-hamburg-oder-remote-195394",
+    "company": "DEMV Systems Gmbh",
+    "title": "Produktmanager (m/w/d) in Hamburg oder Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:46.949Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/easybill-gmbh/senior-software-engineer-ruby-on-rails-100-remote-berlin-362971",
+    "company": "easybill GmbH",
+    "title": "Senior Software Engineer Ruby on Rails 100 % remote (m/w/d)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:49.098Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/stenon-gmbh/senior-principal-data-scientist-berlin-25961",
+    "company": "Stenon GmbH",
+    "title": "Senior/Principal Data Scientist (m/f/d)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:51.467Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/co-ship-consult-gmbh/vertriebsingenieur-international-berlin-282110",
+    "company": "Co-ship consult GmbH",
+    "title": "Vertriebsingenieur International (m/w/d)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T16:37:53.896Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157912-sr-director-of-machine-learning",
+    "company": "hims &#038; hers",
+    "title": "Sr. Director of Machine Learning",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:26.280Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157901-senior-solutions-engineer-uk-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Engineer | UK | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:29.958Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157899-senior-solutions-engineer-sweden-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Engineer | Sweden | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:32.221Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157897-senior-solutions-engineer-spain-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Engineer | Spain | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:34.572Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157895-senior-solutions-engineer-spain-arabic-speaker-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Engineer | Spain | Arabic Speaker | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:36.808Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157893-senior-solutions-engineer-israel-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Engineer | Israel | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:39.955Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157891-senior-solutions-engineer-france-arabic-speaker-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Engineer | France | Arabic Speaker | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:42.398Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157890-principal-site-reliability-engineer-platform-engineering-dedicated",
+    "company": "GitLab",
+    "title": "Principal Site Reliability Engineer, Platform Engineering: Dedicated",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:45.435Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157889-senior-solutions-architect-uk-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Architect | UK | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:48.742Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157887-principal-security-researcher",
+    "company": "GitLab",
+    "title": "Principal Security Researcher",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:50.487Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157886-senior-solutions-architect-spain-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Architect | Spain | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:52.804Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157884-principal-engineer-duo-agent-platform",
+    "company": "GitLab",
+    "title": "Principal Engineer, Duo Agent Platform",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:55.144Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157883-senior-solutions-architect-netherlands-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Architect | Netherlands | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:32:57.401Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157877-senior-solutions-architect-germany-remote",
+    "company": "Grafana Labs",
+    "title": "Senior Solutions Architect | Germany | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:33:00.449Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157874-principal-machine-learning-engineer",
+    "company": "Ping Identity",
+    "title": "Principal Machine Learning Engineer",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:33:03.541Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157863-principal-data-engineer",
+    "company": "hims &#038; hers",
+    "title": "Principal Data Engineer",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:33:06.513Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/linux-administrator-consultant-remote-berlin-212302",
+    "company": "Pont Connects e.K.",
+    "title": "Linux Administrator/Consultant (m/w/d) REMOTE",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-29T21:33:08.828Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157913-public-sector-partnerships-australia",
+    "company": "Elevenlabs",
+    "title": "Public Sector Partnerships - Australia",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:33:55.334Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-118440",
+    "company": "Evolve Digital GmbH",
+    "title": "Werkstudent Marketing (m/w/d)  · Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:34:00.276Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-engineering-manager-sscs-supply-chain-104076",
+    "company": "gitlab",
+    "title": "Engineering Manager, SSCS: Supply Chain",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:34:02.689Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-engineering-manager-architecture-engineering-async-123749",
+    "company": "gitlab",
+    "title": "Engineering Manager, Architecture Engineering: Async",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:34:05.299Z"
   }
 ]
