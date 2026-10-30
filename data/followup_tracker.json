@@ -40085,9 +40085,14 @@
     "status": "sent"
   },
   "foundation@infosys.com": {
-    "last_sent": "2026-09-14T05:13:54.754740",
-    "seq": 1,
-    "status": "sent"
+    "initial_sent_at": "2026-10-30T13:50:30.218944+00:00",
+    "followup_1_due": "2026-10-30",
+    "followup_1_sent_at": null,
+    "followup_2_sent_at": null,
+    "status": "active",
+    "sender": "team.heatbolt@gmail.com",
+    "recipient_name": "Infosys Foundation Leadership",
+    "org": "Infosys Foundation"
   },
   "alessandro.ruggeri@barillagroup.com": {
     "last_sent": "2026-09-14T05:14:30.577740",
