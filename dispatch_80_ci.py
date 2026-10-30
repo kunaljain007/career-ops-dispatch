@@ -1544,9 +1544,9 @@ for email_addr, f_info in list(followup_tracker.items()):
         last_dt = datetime.fromisoformat(f_info.get("last_sent", "2000-01-01T00:00:00"))
         seq = f_info.get("seq", 1)
         days_passed = (now_dt - last_dt).total_seconds() / 86400.0
-        if seq == 1 and days_passed >= 4.0:
+        if seq == 1 and days_passed >= 7.0:
             due_followups.append((email_addr, 2))
-        elif seq == 2 and days_passed >= 7.0:
+        elif seq == 2 and days_passed >= 14.0:
             due_followups.append((email_addr, 3))
     except Exception:
         pass
