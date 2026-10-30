@@ -79,5 +79,35 @@
       "platform": "remoteok",
       "source": "RemoteOK API"
     }
+  ],
+  "activeCustomerSupport": [
+    {
+      "company": "Automattic (WordPress)",
+      "title": "Happiness Engineer (Customer Support - 100% Remote Global)",
+      "url": "https://automattic.com/work-with-us/happiness-engineer/",
+      "platform": "greenhouse",
+      "type": "customer_support"
+    },
+    {
+      "company": "Zapier",
+      "title": "Customer Support Specialist (Global Remote)",
+      "url": "https://zapier.com/jobs/",
+      "platform": "ashby",
+      "type": "customer_support"
+    },
+    {
+      "company": "GitLab",
+      "title": "Support Engineer / Customer Support Operations (Remote)",
+      "url": "https://about.gitlab.com/jobs/all-jobs/",
+      "platform": "greenhouse",
+      "type": "customer_support"
+    },
+    {
+      "company": "Buffer",
+      "title": "Customer Support Hero (International Remote)",
+      "url": "https://buffer.com/journey",
+      "platform": "ashby",
+      "type": "customer_support"
+    }
   ]
 }
