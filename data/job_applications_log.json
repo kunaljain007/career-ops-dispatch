@@ -14253,5 +14253,45 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-29T21:33:08.828Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157913-public-sector-partnerships-australia",
+    "company": "Elevenlabs",
+    "title": "Public Sector Partnerships - Australia",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:33:55.334Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/werkstudent-marketing-remote-118440",
+    "company": "Evolve Digital GmbH",
+    "title": "Werkstudent Marketing (m/w/d)  · Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:34:00.276Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-engineering-manager-sscs-supply-chain-104076",
+    "company": "gitlab",
+    "title": "Engineering Manager, SSCS: Supply Chain",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:34:02.689Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-engineering-manager-architecture-engineering-async-123749",
+    "company": "gitlab",
+    "title": "Engineering Manager, Architecture Engineering: Async",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-30T01:34:05.299Z"
   }
 ]
