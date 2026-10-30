@@ -382,5 +382,1445 @@
     "seq": 2,
     "timestamp": "2026-10-30T03:12:31.104360",
     "status": "SENT"
+  },
+  {
+    "recipient": "prasanfirodia@gmail.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:25.881261",
+    "status": "SENT"
+  },
+  {
+    "recipient": "pfirodia@forcemotors.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:29.055361",
+    "status": "SENT"
+  },
+  {
+    "recipient": "sunanda@pinnacleindustries.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:32.120426",
+    "status": "SENT"
+  },
+  {
+    "recipient": "jyoti.malhotra@volvocars.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:35.223200",
+    "status": "SENT"
+  },
+  {
+    "recipient": "j_malhotraa@yahoo.co.in",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:38.579720",
+    "status": "SENT"
+  },
+  {
+    "recipient": "brarhardeep@gmail.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:41.670430",
+    "status": "SENT"
+  },
+  {
+    "recipient": "hardeep.brar@bmw.in",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:44.861188",
+    "status": "SENT"
+  },
+  {
+    "recipient": "shweta.agarwal@bmw-bavariamotors.in",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:48.018144",
+    "status": "SENT"
+  },
+  {
+    "recipient": "manu.saale@mercedes-benz.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:51.206189",
+    "status": "SENT"
+  },
+  {
+    "recipient": "manu.saale@gmail.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:54.307153",
+    "status": "SENT"
+  },
+  {
+    "recipient": "kamal.bali@volvo.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:17:57.422887",
+    "status": "SENT"
+  },
+  {
+    "recipient": "geetanjalikirloskarofficial@gmail.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:18:00.392063",
+    "status": "SENT"
+  },
+  {
+    "recipient": "geetanjali@ttibi.co.in",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:18:03.530392",
+    "status": "SENT"
+  },
+  {
+    "recipient": "viraj@zerodha.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:18:06.553182",
+    "status": "SENT"
+  },
+  {
+    "recipient": "koinvestorrelations@coca-cola.com",
+    "sender": "techxp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:18:09.714112",
+    "status": "SENT"
+  },
+  {
+    "recipient": "dinesh.pai@zerodha.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:14.621896",
+    "status": "SENT"
+  },
+  {
+    "recipient": "asktheboard@coca-cola.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:17.945066",
+    "status": "SENT"
+  },
+  {
+    "recipient": "david.weinberg@coca-cola.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:21.091163",
+    "status": "SENT"
+  },
+  {
+    "recipient": "max.levchin@coca-cola.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:24.289254",
+    "status": "SENT"
+  },
+  {
+    "recipient": "gordon.allison@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:27.346959",
+    "status": "SENT"
+  },
+  {
+    "recipient": "stefanie.holland@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:31.281569",
+    "status": "SENT"
+  },
+  {
+    "recipient": "amanda.tolleson@target.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:34.514752",
+    "status": "SENT"
+  },
+  {
+    "recipient": "john.hulbert@target.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:37.964965",
+    "status": "SENT"
+  },
+  {
+    "recipient": "david.guggina@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:41.280998",
+    "status": "SENT"
+  },
+  {
+    "recipient": "latriece.watkins@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:44.444507",
+    "status": "SENT"
+  },
+  {
+    "recipient": "seth.dallaire@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:47.754521",
+    "status": "SENT"
+  },
+  {
+    "recipient": "daniel.danker@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:50.903907",
+    "status": "SENT"
+  },
+  {
+    "recipient": "kathleen.mclaughlin@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:54.203437",
+    "status": "SENT"
+  },
+  {
+    "recipient": "jerry.geisler@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:18:57.498340",
+    "status": "SENT"
+  },
+  {
+    "recipient": "randall.stephenson@walmart.com",
+    "sender": "cofounder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:19:00.846745",
+    "status": "SENT"
+  },
+  {
+    "recipient": "cesar.conde@walmart.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:05.229164",
+    "status": "SENT"
+  },
+  {
+    "recipient": "carla.harris@walmart.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:08.228818",
+    "status": "SENT"
+  },
+  {
+    "recipient": "tom.horton@walmart.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:11.134614",
+    "status": "SENT"
+  },
+  {
+    "recipient": "shishir.mehrotra@walmart.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:14.120401",
+    "status": "SENT"
+  },
+  {
+    "recipient": "adrienne.costanzo@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:17.031699",
+    "status": "SENT"
+  },
+  {
+    "recipient": "kiera.fernandez@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:20.028942",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mark.weinstein@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:23.044669",
+    "status": "SENT"
+  },
+  {
+    "recipient": "david.abney@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:25.981350",
+    "status": "SENT"
+  },
+  {
+    "recipient": "george.barrett@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:28.992167",
+    "status": "SENT"
+  },
+  {
+    "recipient": "gail.boudreaux@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:31.931566",
+    "status": "SENT"
+  },
+  {
+    "recipient": "robert.edwards@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:34.871412",
+    "status": "SENT"
+  },
+  {
+    "recipient": "john.hoke@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:37.818992",
+    "status": "SENT"
+  },
+  {
+    "recipient": "stephen.bratspies@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:40.816990",
+    "status": "SENT"
+  },
+  {
+    "recipient": "joe.depinto@target.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:43.718525",
+    "status": "SENT"
+  },
+  {
+    "recipient": "doug.mcmillon@walmart.com",
+    "sender": "git.kumarpalporwal98@gmail.com",
+    "timestamp": "2026-10-30T13:19:46.598348",
+    "status": "SENT"
+  },
+  {
+    "recipient": "john.rainey@walmart.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:19:50.941628",
+    "status": "SENT"
+  },
+  {
+    "recipient": "chris.nicholas@walmart.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:19:54.417139",
+    "status": "SENT"
+  },
+  {
+    "recipient": "kathryn.mclay@walmart.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:19:57.651841",
+    "status": "SENT"
+  },
+  {
+    "recipient": "donna.morris@walmart.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:00.458489",
+    "status": "SENT"
+  },
+  {
+    "recipient": "gregory.penner@walmart.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:03.495038",
+    "status": "SENT"
+  },
+  {
+    "recipient": "steuart.walton@walmart.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:06.429111",
+    "status": "SENT"
+  },
+  {
+    "recipient": "seth.waugh@walmart.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:09.342303",
+    "status": "SENT"
+  },
+  {
+    "recipient": "brian.cornell@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:12.364974",
+    "status": "SENT"
+  },
+  {
+    "recipient": "michael.fiddelke@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:15.306587",
+    "status": "SENT"
+  },
+  {
+    "recipient": "jim.lee@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:18.259862",
+    "status": "SENT"
+  },
+  {
+    "recipient": "rick.gomez@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:21.117158",
+    "status": "SENT"
+  },
+  {
+    "recipient": "cara.sylvester@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:24.385967",
+    "status": "SENT"
+  },
+  {
+    "recipient": "melissa.kremer@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:27.310801",
+    "status": "SENT"
+  },
+  {
+    "recipient": "matt.zabel@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:30.364199",
+    "status": "SENT"
+  },
+  {
+    "recipient": "monica.lozano@target.com",
+    "sender": "team.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:33.350898",
+    "status": "SENT"
+  },
+  {
+    "recipient": "douglas.baker@target.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:38.367923",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ankur.verma@tata.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:41.701209",
+    "status": "SENT"
+  },
+  {
+    "recipient": "portfolio@letsventure.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:44.881847",
+    "status": "SENT"
+  },
+  {
+    "recipient": "startups@letsventure.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:48.076520",
+    "status": "SENT"
+  },
+  {
+    "recipient": "anandsurana@microlabs.in",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:51.356146",
+    "status": "SENT"
+  },
+  {
+    "recipient": "lpage@premier-brands.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:54.490290",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@saccindia.org",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:20:57.702331",
+    "status": "SENT"
+  },
+  {
+    "recipient": "devendra@dextercapital.in",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:00.971113",
+    "status": "SENT"
+  },
+  {
+    "recipient": "nithin@zerodha.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:04.585919",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ishaan@mettlecap.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:08.055740",
+    "status": "SENT"
+  },
+  {
+    "recipient": "juneyaobm@126.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:11.442269",
+    "status": "SENT"
+  },
+  {
+    "recipient": "liz.mascolo@genmills.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:14.567487",
+    "status": "SENT"
+  },
+  {
+    "recipient": "jonathan.ness@genmills.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:17.773544",
+    "status": "SENT"
+  },
+  {
+    "recipient": "lanette.werner@genmills.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:21.115358",
+    "status": "SENT"
+  },
+  {
+    "recipient": "pankaj.sharma@genmills.com",
+    "sender": "marketing.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:21:24.535635",
+    "status": "SENT"
+  },
+  {
+    "recipient": "karen.thissen@genmills.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:29.452744",
+    "status": "SENT"
+  },
+  {
+    "recipient": "scott.main@wkkellogg.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:32.657709",
+    "status": "SENT"
+  },
+  {
+    "recipient": "nicole.plunkett@wkkellogg.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:35.916859",
+    "status": "SENT"
+  },
+  {
+    "recipient": "jessica.smith@wkkellogg.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:39.221193",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mohit.anand@wkkellogg.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:42.501690",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@mcdonalds.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:45.822716",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media.relations@mcdonalds.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:49.064818",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ir@yum.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:52.282581",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@yum.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:55.651598",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@rbi.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:21:59.060998",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@rbi.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:02.373751",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@subway.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:05.600969",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@subway.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:08.795113",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@wendys.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:12.081353",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@wendys.com",
+    "sender": "founder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:15.331535",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@dominos.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:22.113309",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mediarelations@dominos.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:25.308070",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investors@darden.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:30.464627",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@cmg.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:33.760459",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mediarelations@chipotle.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:37.007901",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@jollibee.com.ph",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:40.211835",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor_relations@jollibee.com.ph",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:43.381265",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@pepsico.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:47.649595",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@pepsico.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:51.789752",
+    "status": "SENT"
+  },
+  {
+    "recipient": "shareholder@coca-cola.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:56.376225",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@danone.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:22:59.508328",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press.office@danone.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:04.661768",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@mdlz.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:07.860879",
+    "status": "SENT"
+  },
+  {
+    "recipient": "news@mdlz.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:11.139109",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media.relations@unilever.com",
+    "sender": "cofounder.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:14.487800",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investors@generalmills.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:20.258696",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media.line@genmills.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:23.455725",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ir@kellanova.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:26.715323",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@kellanova.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:29.900671",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@campbells.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:33.107560",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@heineken.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:36.340394",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@ab-inbev.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:39.637256",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@pernod-ricard.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:42.926288",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@carlsberggroup.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:46.211334",
+    "status": "SENT"
+  },
+  {
+    "recipient": "contact@redbull.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:49.299851",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@redbull.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:52.366897",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@monsterenergy.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:55.556527",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@lockheedmartin.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:23:58.689003",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media.relations@lockheedmartin.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:24:01.834930",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@rtx.com",
+    "sender": "cofounder1.parshwapower@gmail.com",
+    "timestamp": "2026-10-30T13:24:05.015243",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@rtx.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:11.263336",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@northropgrumman.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:14.947368",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@ngc.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:18.342592",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@gd.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:21.672985",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mediarelations@generaldynamics.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:24.998838",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investors@boeing.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:28.478990",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@boeing.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:31.940656",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investors@baesystems.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:36.007014",
+    "status": "SENT"
+  },
+  {
+    "recipient": "baesystemsbusinessdefence@baesystems.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:39.503736",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@thalesgroup.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:42.838602",
+    "status": "SENT"
+  },
+  {
+    "recipient": "pressroom@thalesgroup.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:46.554340",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor_relations@leonardo.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:49.906605",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mediarelations@leonardo.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:53.264791",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@saabgroup.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:56.562672",
+    "status": "SENT"
+  },
+  {
+    "recipient": "presscentre@saabgroup.com",
+    "sender": "kumarpalporwal8@gmail.com",
+    "timestamp": "2026-10-30T13:24:59.880387",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@rheinmetall.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:04.673570",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@rheinmetall.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:07.672852",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@elbitsystems.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:10.779012",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@alstomgroup.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:13.988830",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@alstomgroup.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:17.075685",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@siemens.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:20.147782",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@siemens.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:23.209699",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@stadlerrail.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:26.267047",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ir@crrcgc.cc",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:29.331732",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@wabtec.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:32.386531",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mediarelations@wabtec.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:35.326745",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@hitachirail.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:38.280848",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@caf.net",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:41.449619",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@knorr-bremse.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:44.424529",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor_relations@vfc.com",
+    "sender": "techhp.kunaljain@gmail.com",
+    "timestamp": "2026-10-30T13:25:47.433208",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press_office@vfc.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:25:52.874949",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@columbia.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:25:56.051241",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@columbia.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:25:59.193988",
+    "status": "SENT"
+  },
+  {
+    "recipient": "contact@patagonia.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:02.470365",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@patagonia.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:06.438358",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@arcteryx.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:10.474172",
+    "status": "SENT"
+  },
+  {
+    "recipient": "corporate@mammut.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:15.210066",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@salewa.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:18.373294",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@blackdiamondequipment.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:21.456022",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@blackdiamondequipment.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:24.547580",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@osprey.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:27.623869",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@yeti.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:30.696594",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@yeti.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:33.963623",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@deuter.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:37.737741",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@jack-wolfskin.com",
+    "sender": "teambrandvibes@gmail.com",
+    "timestamp": "2026-10-30T13:26:40.919131",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@bookingholdings.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:26:45.427436",
+    "status": "SENT"
+  },
+  {
+    "recipient": "mediarelations@bookingholdings.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:26:48.448750",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ir@expediagroup.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:26:51.391283",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press@expediagroup.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:26:55.165675",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@tripadvisor.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:26:58.234642",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@delta.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:01.019085",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@united.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:03.928460",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@aa.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:07.010862",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@lufthansa.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:09.848815",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investor.relations@airfranceklm.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:12.711039",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@singaporeair.com.sg",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:16.087461",
+    "status": "SENT"
+  },
+  {
+    "recipient": "media@emirates.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:18.991903",
+    "status": "SENT"
+  },
+  {
+    "recipient": "corporate@qatarairways.com.qa",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:21.909643",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investors@tui.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:24.741141",
+    "status": "SENT"
+  },
+  {
+    "recipient": "press.office@tui.com",
+    "sender": "superreachconsultant@gmail.com",
+    "timestamp": "2026-10-30T13:27:27.575441",
+    "status": "SENT"
+  },
+  {
+    "recipient": "sundar@google.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:31.775247",
+    "status": "SENT"
+  },
+  {
+    "recipient": "jensen.huang@nvidia.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:34.812935",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ted.sarandos@netflix.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:37.776581",
+    "status": "SENT"
+  },
+  {
+    "recipient": "greg.peters@netflix.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:40.602550",
+    "status": "SENT"
+  },
+  {
+    "recipient": "bob.iger@disney.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:43.418829",
+    "status": "SENT"
+  },
+  {
+    "recipient": "hugh.johnston@disney.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:46.385806",
+    "status": "SENT"
+  },
+  {
+    "recipient": "david.zaslav@wbd.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:49.178852",
+    "status": "SENT"
+  },
+  {
+    "recipient": "shari.redstone@paramount.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:52.159274",
+    "status": "SENT"
+  },
+  {
+    "recipient": "henry.kravis@kkr.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:55.178460",
+    "status": "SENT"
+  },
+  {
+    "recipient": "george.roberts@kkr.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:27:58.114133",
+    "status": "SENT"
+  },
+  {
+    "recipient": "joe.bae@kkr.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:28:01.279510",
+    "status": "SENT"
+  },
+  {
+    "recipient": "scott.nuttall@kkr.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:28:04.555564",
+    "status": "SENT"
+  },
+  {
+    "recipient": "bruce.flatt@brookfield.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:28:07.510490",
+    "status": "SENT"
+  },
+  {
+    "recipient": "david.rubenstein@carlyle.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:28:10.460983",
+    "status": "SENT"
+  },
+  {
+    "recipient": "josh.harris@apollo.com",
+    "sender": "hydronext6@gmail.com",
+    "timestamp": "2026-10-30T13:28:13.406209",
+    "status": "SENT"
+  },
+  {
+    "recipient": "nir.bar-dea@bridgewater.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:18.566287",
+    "status": "SENT"
+  },
+  {
+    "recipient": "bill.ackman@pershingsquare.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:21.974057",
+    "status": "SENT"
+  },
+  {
+    "recipient": "dan.loeb@thirdpoint.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:25.471843",
+    "status": "SENT"
+  },
+  {
+    "recipient": "stan.druckenmiller@duquesne.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:28.732887",
+    "status": "SENT"
+  },
+  {
+    "recipient": "carl.icahn@icahncapital.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:32.288979",
+    "status": "SENT"
+  },
+  {
+    "recipient": "contact@adqu.ae",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:35.860743",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investments@mubadala.gov.ae",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:40.692084",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@qia.qa",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:44.027952",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investorrelations@kia.gov.kw",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:47.513484",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@nbim.no",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:50.708473",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@cppib.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:55.738271",
+    "status": "SENT"
+  },
+  {
+    "recipient": "contact@otpp.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:28:59.322674",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@cdpq.com",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:29:02.768675",
+    "status": "SENT"
+  },
+  {
+    "recipient": "contact@futurefund.gov.au",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:29:06.181236",
+    "status": "SENT"
+  },
+  {
+    "recipient": "investments@temasek.com.sg",
+    "sender": "jainakshita876@gmail.com",
+    "timestamp": "2026-10-30T13:29:09.527695",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@nzsuperfund.co.nz",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:14.439708",
+    "status": "SENT"
+  },
+  {
+    "recipient": "info@bpi.fr",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:17.862243",
+    "status": "SENT"
+  },
+  {
+    "recipient": "antonio.belloni@lvmh.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:20.981889",
+    "status": "SENT"
+  },
+  {
+    "recipient": "francois-henri.pinault@kering.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:24.415164",
+    "status": "SENT"
+  },
+  {
+    "recipient": "axel.dumas@hermes.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:27.568569",
+    "status": "SENT"
+  },
+  {
+    "recipient": "amancio.ortega@inditex.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:32.047686",
+    "status": "SENT"
+  },
+  {
+    "recipient": "marta.ortega@inditex.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:35.570160",
+    "status": "SENT"
+  },
+  {
+    "recipient": "oscar.garcia@inditex.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:39.233458",
+    "status": "SENT"
+  },
+  {
+    "recipient": "lapo.elkann@stellantis.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:42.768198",
+    "status": "SENT"
+  },
+  {
+    "recipient": "john.elkann@exor.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:46.243237",
+    "status": "SENT"
+  },
+  {
+    "recipient": "carlos.tavares@stellantis.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:49.699840",
+    "status": "SENT"
+  },
+  {
+    "recipient": "oliver.zipse@bmw.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:53.248840",
+    "status": "SENT"
+  },
+  {
+    "recipient": "ola.kaellenius@mercedes-benz.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:56.628520",
+    "status": "SENT"
+  },
+  {
+    "recipient": "oliver.blume@volkswagen.de",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:29:59.912701",
+    "status": "SENT"
+  },
+  {
+    "recipient": "wolfgang.porsche@porsche-se.com",
+    "sender": "founder.heatbolt@gmail.com",
+    "timestamp": "2026-10-30T13:30:03.115191",
+    "status": "SENT"
+  },
+  {
+    "recipient": "niklas.zennstrom@atomico.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:08.322204",
+    "status": "SENT"
+  },
+  {
+    "recipient": "jim.ratcliffe@ineos.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:11.535839",
+    "status": "SENT"
+  },
+  {
+    "recipient": "charlie.nunn@lloydsbanking.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:16.841389",
+    "status": "SENT"
+  },
+  {
+    "recipient": "paul.thwaite@natwest.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:20.359719",
+    "status": "SENT"
+  },
+  {
+    "recipient": "noel.quinn@hsbc.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:24.125337",
+    "status": "SENT"
+  },
+  {
+    "recipient": "georges.elhedery@hsbc.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:27.763884",
+    "status": "SENT"
+  },
+  {
+    "recipient": "tadashi.yanai@fastretailing.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:31.283955",
+    "status": "SENT"
+  },
+  {
+    "recipient": "shunsaku.sasaki@mitsubishi.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:35.021012",
+    "status": "SENT"
+  },
+  {
+    "recipient": "masahiro.ouchi@mitsui.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:38.247888",
+    "status": "SENT"
+  },
+  {
+    "recipient": "hiromi.yamaji@jpx.co.jp",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:41.745812",
+    "status": "SENT"
+  },
+  {
+    "recipient": "kyung.kye-hyun@samsung.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:45.792093",
+    "status": "SENT"
+  },
+  {
+    "recipient": "chey.tae-won@sk.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:51.551889",
+    "status": "SENT"
+  },
+  {
+    "recipient": "chung.euisun@hyundai.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:54.910602",
+    "status": "SENT"
+  },
+  {
+    "recipient": "andrew.forrest@fortescue.com",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:30:58.514607",
+    "status": "SENT"
+  },
+  {
+    "recipient": "president@whitehouse.gov",
+    "sender": "trillionmemberclub@gmail.com",
+    "timestamp": "2026-10-30T13:31:02.104768",
+    "status": "SENT"
   }
 ]
