@@ -77113,5 +77113,15 @@
     "last_sent": "2026-10-28T07:28:05.632592",
     "seq": 1,
     "status": "sent"
+  },
+  "sevainnovation@mssu.ac.in": {
+    "initial_sent_at": "2026-10-30T14:51:49.292386+00:00",
+    "followup_1_due": "2026-10-30",
+    "followup_1_sent_at": null,
+    "followup_2_sent_at": null,
+    "status": "active",
+    "sender": "team.heatbolt@gmail.com",
+    "recipient_name": "Seva Innovation Directorate",
+    "org": "MSSU Innovation Center"
   }
 }
