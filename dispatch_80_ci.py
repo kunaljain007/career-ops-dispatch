@@ -21,7 +21,7 @@ FOLLOWUP_TRACKER = os.path.join(DATA_DIR, "followup_tracker.json")
 
 os.makedirs(LOGS_DIR, exist_ok=True)
 
-MAX_PER_SMTP = 20
+MAX_PER_SMTP = 18
 
 RAW_PRIORITY = [
     "rnt@rntassociates.com",

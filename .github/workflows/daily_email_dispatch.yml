@@ -1,4 +1,4 @@
-name: Daily 4:00 AM IST Email Dispatch (15/SMTP Warmup - 240 Total)
+name: Daily 4:00 AM IST Email Dispatch (18/SMTP Quota - 288 Total)
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Execute 80/SMTP Dispatch
+      - name: Execute 18/SMTP Dispatch
         env:
           SMTP_POOL_JSON: ${{ secrets.SMTP_POOL_JSON }}
         run: |
