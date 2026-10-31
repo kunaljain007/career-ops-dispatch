@@ -14415,393 +14415,93 @@
     "appliedAt": "2026-10-30T08:06:08.880Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157985-principal-solutions-architect-south-korea",
-    "company": "Nebius",
-    "title": "Principal Solutions Architect, South Korea",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:33:43.578Z"
+    "company": "Celonis",
+    "role": "Chief Of Staff",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8000413003?gh_jid=8000413003",
+    "platform": "greenhouse",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked, confirmation text pending.",
+    "timestamp": "2026-10-31T06:01:58.513Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157981-principal-solutions-architect-japan",
-    "company": "Nebius",
-    "title": "Principal Solutions Architect, Japan",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:33:46.432Z"
+    "company": "Notion",
+    "role": "Chief of Staff, Sales",
+    "url": "https://jobs.ashbyhq.com/notion/c5c69246-74db-4960-a0e0-7945be6c30ae",
+    "platform": "ashby",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked on Ashby form.",
+    "timestamp": "2026-10-31T06:02:11.943Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157978-commercial-counsel-partnerships",
-    "company": "Elevenlabs",
-    "title": "Commercial Counsel - Partnerships",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:33:48.939Z"
+    "company": "Scale AI",
+    "role": "Chief of Staff, Public Sector Engineering & Security",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720163005",
+    "platform": "greenhouse",
+    "status": "form-filled",
+    "details": "Form pre-filled and validated.",
+    "timestamp": "2026-10-31T06:02:16.970Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157969-software-engineer-remote-contractor",
-    "company": "Masabi",
-    "title": "Software Engineer (Remote - Contractor)",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:33:51.832Z"
+    "company": "Reddit",
+    "role": "Chief of Staff, Global Sales",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8187521",
+    "platform": "greenhouse",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked, confirmation text pending.",
+    "timestamp": "2026-10-31T06:02:27.878Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157964-technical-partnerships-manager",
-    "company": "Apaleo",
-    "title": "Technical Partnerships Manager",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:33:55.208Z"
+    "company": "Cohere",
+    "role": "Marketing Chief of Staff",
+    "url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+    "platform": "ashby",
+    "status": "form-filled",
+    "details": "Form fields populated.",
+    "timestamp": "2026-10-31T06:02:32.555Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157960-engineering-manager-15",
-    "company": "infisical",
-    "title": "Engineering Manager",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:33:57.896Z"
+    "company": "Cohere",
+    "role": "Chief of Staff",
+    "url": "https://jobs.ashbyhq.com/cohere/5139acd7-3429-483e-9984-040bd799e8a0",
+    "platform": "ashby",
+    "status": "form-filled",
+    "details": "Form fields populated.",
+    "timestamp": "2026-10-31T06:02:37.233Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157954-staff-product-manager-enterprise-deployment-solutions-uk-remote",
-    "company": "Grafana Labs",
-    "title": "Staff Product Manager, Enterprise Deployment Solutions | UK | Remote",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:01.071Z"
+    "company": "Cohere",
+    "role": "Chief of Staff (Technical)",
+    "url": "https://jobs.ashbyhq.com/cohere/81450c5f-8495-439b-a1b3-ce7ef9739437",
+    "platform": "ashby",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked on Ashby form.",
+    "timestamp": "2026-10-31T06:02:49.681Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157951-staff-product-manager-enterprise-deployment-solutions-sweden-remote",
-    "company": "Grafana Labs",
-    "title": "Staff Product Manager, Enterprise Deployment Solutions | Sweden | Remote",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:04.496Z"
+    "company": "Reddit",
+    "role": "Chief of Staff, Global Sales Ops",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8249259",
+    "platform": "greenhouse",
+    "status": "submitted-pending-verification",
+    "details": "Submit clicked, confirmation text pending.",
+    "timestamp": "2026-10-31T06:03:00.212Z"
   },
   {
-    "url": "https://jobicy.com/jobs/157948-staff-product-manager-enterprise-deployment-solutions-spain-remote",
-    "company": "Grafana Labs",
-    "title": "Staff Product Manager, Enterprise Deployment Solutions | Spain | Remote",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:07.841Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/157946-staff-site-reliability-engineer-tools-systems",
-    "company": "Mozilla",
-    "title": "Staff Site Reliability Engineer, Tools & Systems",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:10.434Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/157945-staff-product-manager-enterprise-deployment-solutions-ireland-remote",
-    "company": "Grafana Labs",
-    "title": "Staff Product Manager, Enterprise Deployment Solutions | Ireland | Remote",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:13.794Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/157942-staff-product-manager-enterprise-deployment-solutions-germany-remote",
-    "company": "Grafana Labs",
-    "title": "Staff Product Manager, Enterprise Deployment Solutions | Germany | Remote",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:16.170Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/157939-staff-backend-engineer-grafana-alerting-uk-remote",
-    "company": "Grafana Labs",
-    "title": "Staff Backend Engineer - Grafana Alerting | UK | Remote",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:19.363Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/tarebase/founding-engineer-remote-or-hybrid-eea-uk-berlin-43150",
-    "company": "Tarebase",
-    "title": "Founding Engineer (Remote or Hybrid - EEA/UK)",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:23.347Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/promantis-gmbh/senior-sap-analytics-ai-consultant-berlin-374956",
-    "company": "promantis GmbH",
-    "title": "Senior SAP Analytics & AI Consultant (m/w/d)",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T15:34:26.861Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158062-senior-lead-lifecycle-marketing-manager-full-remote-spain",
-    "company": "EverAI",
-    "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Spain)",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:00.267Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158060-senior-lead-lifecycle-marketing-manager-full-remote-poland",
-    "company": "EverAI",
-    "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Poland)",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:02.981Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158055-senior-lead-lifecycle-marketing-manager-full-remote-cyprus",
-    "company": "EverAI",
-    "title": "Senior/Lead Lifecycle Marketing Manager (Full Remote - Cyprus)",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:04.933Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158041-principal-sales-systems-engineer",
-    "company": "Veeam Software",
-    "title": "Principal Sales Systems Engineer",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:06.795Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158037-people-partner-director-engineering-remote-us-west-coast-preferred",
-    "company": "Veeam Software",
-    "title": "People Partner Director, Engineering (REMOTE US- West Coast Preferred)",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:09.188Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158032-kasten-engineering-intern-summer-2027",
-    "company": "Veeam Software",
-    "title": "Kasten Engineering Intern - Summer 2027",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:11.469Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158022-sales-engineering-manager-core-mainland-europe",
-    "company": "Samsara",
-    "title": "Sales Engineering Manager Core - Mainland Europe",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:13.992Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/primion-technology-gmbh/working-student-digital-marketing-website-management-remote-nationwide-148101",
-    "company": "Primion Technology GmbH",
-    "title": "Working Student (m/f/d) Digital Marketing & Website Management (Remote)",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:16.595Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/senior-google-ads-manager-ai-first-performance-marketing-remote-84863",
-    "company": "Evolve Digital GmbH",
-    "title": "(Senior) Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:19.219Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-engineer-llms-rag-ai-agents-berlin-364158",
-    "company": "AgentixLake GmbH",
-    "title": "Working Student AI Engineer – LLMs, RAG & AI Agents",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:20.938Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/pont-connects-ek/senior-projektleiter-softwaredevelopment-remote-berlin-454942",
-    "company": "Pont Connects e.K.",
-    "title": "Senior Projektleiter (m/w/d) Softwaredevelopment // REMOTE",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:23.332Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/agentixlake-gmbh/working-student-ai-solutions-architect-generative-ai-data-platforms-berlin-283450",
-    "company": "AgentixLake GmbH",
-    "title": "Working Student AI Solutions Architect – Generative AI & Data Platforms",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:25.188Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/pentadoc-gruppe/working-student-ai-engineering-wurzburg-474175",
-    "company": "Pentadoc Gruppe",
-    "title": "Working Student (m/f/d) - AI Engineering",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:27.810Z"
-  },
-  {
-    "url": "https://www.arbeitnow.com/jobs/companies/lotaro/head-of-lead-generation-remote-munich-45164",
-    "company": "LOTARO",
-    "title": "Head of Lead Generation | Remote (m/w/d)",
-    "platform": "arbeitnow",
-    "source": "Arbeitnow API",
-    "recipientEmail": "careers@arbeitnow.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-30T20:25:30.442Z"
-  },
-  {
-    "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
-    "company": "Polaroid",
-    "title": "Country Manager Canada",
+    "company": "Leverage Live Local",
+    "role": "Head of Operations (Remote)",
+    "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
     "platform": "remoteok",
-    "source": "RemoteOK API",
-    "recipientEmail": "careers@polaroid.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T00:24:10.066Z"
+    "status": "discovered-apply-link",
+    "details": "External link resolved: /l/1137461",
+    "timestamp": "2026-10-31T06:03:06.037Z"
   },
   {
-    "url": "https://jobicy.com/jobs/158128-marketing-analytics-director-united-states-remote",
-    "company": "Grafana Labs",
-    "title": "Marketing Analytics Director | United States | Remote",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T00:24:12.809Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158114-site-reliability-engineer-5",
-    "company": "MaintainX",
-    "title": "Site Reliability Engineer",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T00:24:14.766Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158101-coo",
-    "company": "Airtm",
-    "title": "COO",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T00:24:16.990Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/158097-principal-product-manager-crown-and-bridge",
-    "company": "Dandy",
-    "title": "Principal Product Manager, Crown and Bridge",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T00:24:19.281Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/152064-business-travel-consultant-berlin-or-remote-geschaftsreiseexperte",
-    "company": "TripActions",
-    "title": "Business Travel Consultant (Berlin or Remote) (Geschäftsreiseexperte)",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T06:38:45.231Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/154244-software-engineer-new-grad-machine-learning-platform-quora",
-    "company": "Quora",
-    "title": "Software Engineer New Grad, Machine Learning Platform - Quora",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T06:38:47.636Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/152044-engineering-manager-5",
-    "company": "Enode",
-    "title": "Engineering Manager",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T06:38:49.735Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/147852-principal-analyst-data-integration",
-    "company": "H1",
-    "title": "Principal Analyst, Data Integration",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T06:38:51.954Z"
-  },
-  {
-    "url": "https://jobicy.com/jobs/144774-senior-business-analyst-health-insurance-fully-remote",
-    "company": "CoverGo",
-    "title": "Senior Business Analyst - Health Insurance (Fully Remote)",
-    "platform": "jobicy",
-    "source": "Jobicy Global Remote API",
-    "recipientEmail": "careers@jobicy.com",
-    "status": "100% Submitted via Direct Executive Email",
-    "appliedAt": "2026-10-31T06:38:54.271Z"
+    "company": "ExtraHop",
+    "role": "Sr Solutions Architect (Remote)",
+    "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
+    "platform": "remoteok",
+    "status": "discovered-apply-link",
+    "details": "External link resolved: /l/1137394",
+    "timestamp": "2026-10-31T06:03:12.502Z"
   }
 ]
