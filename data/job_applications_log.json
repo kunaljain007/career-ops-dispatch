@@ -14703,5 +14703,55 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-30T20:25:30.442Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
+    "company": "Polaroid",
+    "title": "Country Manager Canada",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@polaroid.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T00:24:10.066Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158128-marketing-analytics-director-united-states-remote",
+    "company": "Grafana Labs",
+    "title": "Marketing Analytics Director | United States | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T00:24:12.809Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158114-site-reliability-engineer-5",
+    "company": "MaintainX",
+    "title": "Site Reliability Engineer",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T00:24:14.766Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158101-coo",
+    "company": "Airtm",
+    "title": "COO",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T00:24:16.990Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158097-principal-product-manager-crown-and-bridge",
+    "company": "Dandy",
+    "title": "Principal Product Manager, Crown and Bridge",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T00:24:19.281Z"
   }
 ]
