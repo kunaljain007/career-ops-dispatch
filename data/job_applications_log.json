@@ -14503,5 +14503,105 @@
     "status": "discovered-apply-link",
     "details": "External link resolved: /l/1137394",
     "timestamp": "2026-10-31T06:03:12.502Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-country-manager-canada-polaroid-1137602",
+    "company": "Polaroid",
+    "title": "Country Manager Canada",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@polaroid.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:19:32.111Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158183-engineering-manager-bank-accounts",
+    "company": "Mercury",
+    "title": "Engineering Manager - Bank Accounts",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:19:37.299Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158179-partner-programs-manager-edu",
+    "company": "CrossFit",
+    "title": "Partner Programs Manager, EDU",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:19:39.941Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158170-recruiting-operations-consultant",
+    "company": "Ashby",
+    "title": "Recruiting Operations Consultant",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:19:43.290Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158161-principal-design-program-manager-international-packaging",
+    "company": "hims &#038; hers",
+    "title": "Principal Design Program Manager, International Packaging",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:19:48.161Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158158-senior-partner-manager-data-ai-security",
+    "company": "Veeam Software",
+    "title": "Senior Partner Manager, Data & AI Security",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:19:52.473Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158146-vice-president-international",
+    "company": "Toptal",
+    "title": "Vice President, International",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:19:57.229Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158143-americas-sales-business-partner-manager",
+    "company": "Twilio",
+    "title": "Americas Sales Business Partner Manager",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:20:01.772Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/zep-gmbh/marketing-lead-b2b-demand-generation-growth-remote-berlin-78700",
+    "company": "ZEP GmbH",
+    "title": "Marketing Lead - B2B Demand Generation & Growth (m/w/d) - Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:20:07.271Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/digital-evolution/social-media-manager-mit-weiterbildung-remote-moglich-berlin-123349",
+    "company": "Digital Evolution",
+    "title": "Social Media Manager (m/w/d) mit Weiterbildung - Remote möglich",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T13:20:09.795Z"
   }
 ]
