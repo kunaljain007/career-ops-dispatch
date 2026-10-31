@@ -14603,5 +14603,25 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-31T13:20:09.795Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606",
+    "company": "Cloudary SAS",
+    "title": "AWS Cloud Solutions Architect",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@cloudarysas.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T18:12:06.122Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158213-director-internal-ai-operations",
+    "company": "LaunchDarkly",
+    "title": "Director, Internal AI Operations",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T18:12:09.405Z"
   }
 ]
