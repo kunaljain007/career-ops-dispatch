@@ -14623,5 +14623,65 @@
     "recipientEmail": "careers@jobicy.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-10-31T18:12:09.405Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158258-solutions-architect-iii",
+    "company": "ExtraHop",
+    "title": "Solutions Architect III",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@extrahop.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T22:12:37.822Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158257-executive-business-partner",
+    "company": "Twilio",
+    "title": "Executive Business Partner",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T22:12:44.814Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158252-senior-solutions-architect-4",
+    "company": "ExtraHop",
+    "title": "Senior Solutions Architect",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@extrahop.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T22:12:46.965Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158242-ai-engineer",
+    "company": "Phantom",
+    "title": "AI Engineer",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T22:12:48.988Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158229-senior-security-solutions-architect",
+    "company": "ExtraHop",
+    "title": "Senior Security Solutions Architect",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@extrahop.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T22:12:53.584Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/evolve-digital-gmbh/google-ads-manager-ai-first-performance-marketing-remote-59473",
+    "company": "Evolve Digital GmbH",
+    "title": "Google Ads Manager – AI-First Performance Marketing (m/w/d) · Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-10-31T22:12:58.486Z"
   }
 ]
