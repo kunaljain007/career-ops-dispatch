@@ -1577,52 +1577,101 @@ REPLY_TO = "founder.heatbolt@gmail.com"
 CC       = "team.heatbolt@gmail.com"
 
 def build_followup_body(name_clean, seq):
+    f1_html_path = os.path.join(DATA_DIR, "heatbolt_followup1_aesthetic.html")
+    f2_html_path = os.path.join(DATA_DIR, "heatbolt_followup2_aesthetic.html")
+
     if seq == 2:
         subj = f"Re: {SUBJECT}"
         plain = (
-            f"Dear {name_clean},\n\n"
-            f"I wanted to follow up briefly on my previous note regarding Heatbolt's patented zero-electricity thermal activation technology.\n\n"
-            f"Since my last email, our defense-validated thermal infrastructure has continued expanding into civilian, logistics, and industrial sectors where electricity-free, instant heating is mission critical.\n\n"
-            f"Given your leadership in strategic investments and institutional growth, I wanted to ensure our executive overview didn't get buried in your inbox.\n\n"
-            f"Would you be open to a brief 10-minute introductory conversation next week?\n\n"
-            f"Best regards,\n"
-            f"Dr. Kumarpal Porwal\n"
-            f"Founder & MD, Heatbolt\n"
-            f"PhD in Green Hydrogen (IISc Bangalore)\n"
+            f"Jai Jinendra!
+
+"
+            f"Dear {name_clean},
+
+"
+            f"I wanted to personally follow up on my earlier note and reiterate our sincere interest in building a meaningful, long-term association with your esteemed leadership team.
+
+"
+            f"HeatBolt represents six years of continuous R&D, deep-tech innovation, and operational execution. What started as an ambitious vision is now accelerating into a category-defining market opportunity.
+
+"
+            f"Following recent engagements with the Prime Minister's Office (PMO) and key Union Ministries (Defence, Home Affairs, Railways), our international discussions with Nestlé (192 countries), Barilla Group (100 countries), Mondelēz (150 countries), and Godrej (80+ countries) have further affirmed our planetary-scale trajectory.
+
+"
+            f"Strategic Exploration Focus:
+"
+            f"- Growth Capital: Strategic investment aligned with high-impact ESG & deep-tech mandates.
+"
+            f"- Industrial Scale: Turnkey manufacturing partnerships & automated production.
+"
+            f"- Global Distribution: International commercialization & enterprise supply chain integration.
+
+"
+            f"Would you be available for a brief 10-15 minute introductory call next week?
+
+"
+            f"Warm regards,
+"
+            f"Dr. Kumarpal Porwal
+"
+            f"Founder & MD, HeatBolt
+"
+            f"Ph.D., Green Hydrogen (IISc Bangalore)
+"
+            f"Mentored by Shri Ratan Tata | Validated by Indian Defence Forces
+"
+            f"founder.heatbolt@gmail.com | +91 7353319757
+"
         )
-        html = (
-            f"<div style=\"font-family:'Segoe UI',Arial,sans-serif;line-height:1.7;color:#222;max-width:680px;\">"
-            f"<p>Dear <b>{name_clean}</b>,</p>"
-            f"<p>I wanted to follow up briefly on my previous note regarding <b>Heatbolt's</b> patented zero-electricity thermal activation technology.</p>"
-            f"<p>Since my last email, our defense-validated thermal infrastructure (rigorously tested at Siachen Glacier under -60°C conditions) has continued expanding into commercial and industrial sectors where electricity-free, instant heating is mission critical.</p>"
-            f"<p>Given your leadership in strategic investments and institutional asset allocation, I wanted to make sure our brief introduction didn't get lost in the shuffle.</p>"
-            f"<p>Would you be open to a brief 10-minute introductory conversation next week to see how Heatbolt fits your strategic vision?</p>"
-            f"<p style=\"margin-top:25px;\">Warm regards,<br>"
-            f"<b>Dr. Kumarpal Porwal</b><br>"
-            f"<span style=\"color:#555;\">Founder & MD, Heatbolt</span><br>"
-            f"<span style=\"color:#777;font-size:12px;\">PhD in Green Hydrogen, IISc Bangalore | Recipient of Indian Defence Validations</span></p>"
-            f"</div>"
-        )
+        if os.path.exists(f1_html_path):
+            with open(f1_html_path, "r", encoding="utf-8-sig") as f:
+                raw_html = f.read()
+            html = raw_html.replace("Dear Partner,", f"Dear {name_clean},")
+        else:
+            html = f"<div style=\"font-family:'Segoe UI',Arial,sans-serif;line-height:1.7;color:#222;max-width:680px;\"><p>Dear <b>{name_clean}</b>,</p><p>I wanted to follow up on my earlier note regarding HeatBolt.</p></div>"
     else:
-        subj = f"Checking in / Heatbolt Strategic Infrastructure Update"
+        subj = "Building a Long-Term Association with HeatBolt | Executive Briefing & Technical Roadmap"
         plain = (
-            f"Dear {name_clean},\n\n"
-            f"I'm following up one last time to share a brief update. We are currently finalizing our institutional technical roadmap and expanding pilot deployments.\n\n"
-            f"If off-grid, electricity-free thermal resilience aligns with your current investment thesis, I would be delighted to share our updated technical data room.\n\n"
-            f"Best regards,\n"
-            f"Dr. Kumarpal Porwal\n"
-            f"Founder & MD, Heatbolt\n"
+            f"Jai Jinendra!
+
+"
+            f"Dear {name_clean},
+
+"
+            f"I am following up to share our finalized strategic brief and institutional milestone roadmap for HeatBolt.
+
+"
+            f"Our zero-electricity, Siachen Glacier-validated thermal technology is unlocking zero-carbon, flameless heating across defence, remote disaster response, and ready-to-eat FMCG logistics across 100+ nations.
+
+"
+            f"Key Milestones & Validation Highlights:
+"
+            f"- Validated by the Indian Armed Forces (-60°C tactical deployment).
+"
+            f"- Mentored by Late Shri Ratan Tata; Ph.D. in Green Hydrogen from IISc Bangalore.
+"
+            f"- Active commercialization dialogues with top global conglomerates.
+
+"
+            f"If your investment thesis or corporate development mandate covers deep-tech, energy transition, or sustainable logistics, I would welcome the opportunity to share our comprehensive technical data room.
+
+"
+            f"Warm regards,
+"
+            f"Dr. Kumarpal Porwal
+"
+            f"Founder & MD, HeatBolt
+"
+            f"founder.heatbolt@gmail.com | +91 7353319757
+"
         )
-        html = (
-            f"<div style=\"font-family:'Segoe UI',Arial,sans-serif;line-height:1.7;color:#222;max-width:680px;\">"
-            f"<p>Dear <b>{name_clean}</b>,</p>"
-            f"<p>I'm following up one last time to share a brief update. We are currently finalizing our institutional technical roadmap and expanding commercial pilot deployments.</p>"
-            f"<p>If off-grid, electricity-free thermal resilience aligns with your current investment thesis or strategic initiatives, I would be delighted to share our updated technical data room and field validation data.</p>"
-            f"<p style=\"margin-top:25px;\">Best regards,<br>"
-            f"<b>Dr. Kumarpal Porwal</b><br>"
-            f"<span style=\"color:#555;\">Founder & MD, Heatbolt</span></p>"
-            f"</div>"
-        )
+        if os.path.exists(f2_html_path):
+            with open(f2_html_path, "r", encoding="utf-8-sig") as f:
+                raw_html = f.read()
+            html = raw_html.replace("Dear Partner,", f"Dear {name_clean},")
+        else:
+            html = f"<div style=\"font-family:'Segoe UI',Arial,sans-serif;line-height:1.7;color:#222;max-width:680px;\"><p>Dear <b>{name_clean}</b>,</p><p>Following up on HeatBolt's institutional milestones.</p></div>"
+
     return subj, plain, html
 
 def send_one(smtp_user, smtp_pass, to_addr, item_type="fresh", seq=1):
