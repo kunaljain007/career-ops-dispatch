@@ -15233,5 +15233,65 @@
     "recipientEmail": "careers@arbeitnow.nl",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-02T17:50:40.182Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158575-solutions-architect-retail",
+    "company": "Databricks",
+    "title": "Solutions Architect - Retail",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "jobs@databricks.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-03T00:33:04.852Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158572-freelance-software-tester-remote-in-martinique",
+    "company": "Testlio",
+    "title": "Freelance Software Tester (Remote in Martinique)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-03T00:33:09.918Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158568-talent-growth-and-inclusion-intern-summer-2027",
+    "company": "Veeam Software",
+    "title": "Talent Growth and Inclusion Intern- Summer 2027",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-03T00:33:13.196Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158561-principal-software-engineer-product-engineering",
+    "company": "Dropbox",
+    "title": "Principal Software Engineer, Product Engineering",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-03T00:33:15.498Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/hey-contact-heroes-gmbh/manager-steuerung-planung-100-remote-hamburg-390744",
+    "company": "hey contact heroes GmbH",
+    "title": "Manager Steuerung & Planung (m/w/d) | 100 % remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-03T00:33:18.504Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-principal-engineer-duo-agent-platform-157881",
+    "company": "gitlab",
+    "title": "Principal Engineer, Duo Agent Platform",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-03T00:33:23.613Z"
   }
 ]
