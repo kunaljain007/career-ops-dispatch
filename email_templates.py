@@ -33,7 +33,7 @@ def build_plain_body(first_name: str, full_name: str, org: str, division: str, c
         multinational_bullet_plain = "- Active engagements with leading global companies including Barilla, Mondelēz, Unilever, PepsiCo, Kraft Heinz, and other market leaders."
     else:
         international_interest_plain = "We are also seeing growing international interest, with Nestlé exploring potential introduction across 192 countries, Barilla Group across 100 countries, and Mondelēz across 150 countries, alongside discussions with other global industry leaders."
-        multinational_bullet_plain = "{multinational_bullet_plain}"
+        multinational_bullet_plain = "- Active engagements with leading global companies including Nestlé, Barilla, Mondelēz, Unilever, PepsiCo, Kraft Heinz, and other market leaders."
 
     return f"""Jai Jinendra,
 
@@ -120,8 +120,8 @@ Over the years, I have assembled a multidisciplinary team comprising scientists,
 Together, we are building not only a product, but an organization capable of delivering this vision at global scale.
 
 LinkedIn Video Links:
-- Urgent Need to Solve the Problem: https://www.linkedin.com/posts/kumarpal-porwal_heatbolt-makeinindia-innovation-activity-7486186134474207232-dmlc
-- We Have the Solution: https://www.linkedin.com/posts/rohansachdeva20_makeinindia-innovation-foodtech-share-7483541963657605120-TCKs
+- Urgent Need to Solve the Problem: https://shareitly.com/click?redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarpal-porwal_heatbolt-makeinindia-innovation-activity-7486186134474207232-dmlc&dID=1793626864381&hashId=7e76250ddbd964aa3edd55f5b6ea1a11f7a48cd307461c2b1c5869b8fa82dfcef26ec5&linkName=%20Urgent%20Need%20to%20Solve%20the%20Problem
+- We Have the Solution: https://shareitly.com/click?redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frohansachdeva20_makeinindia-innovation-foodtech-share-7483541963657605120-TCKs&dID=1793626864381&hashId=7e76250ddbd964aa3edd55f5b6ea1a11f7a48cd307461c2b1c5869b8fa82dfcef26ec5&linkName=%20We%20Have%20the%20Solution
 
 A Humble Request
 Given Your Organization's track record in scaling transformative technology platforms globally, I believe Heatbolt's integrated portable thermal and packaging ecosystem—with demand indicators pointing to 20 billion+ units annually—presents the kind of category-defining opportunity that aligns with Your Organization's growth capital mandate.
@@ -152,7 +152,7 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
         multinational_bullet_html = "<li>Active engagements with Barilla, Mondelēz, Unilever, PepsiCo, Kraft Heinz, and other market leaders.</li>"
     else:
         international_interest_html = "<p>We are also seeing growing international interest, with <strong>Nestl&eacute;</strong> exploring potential introduction across 192 countries, <strong>Barilla Group</strong> across 100 countries, and <strong>Mondelēz</strong> across 150 countries, alongside discussions with other global industry leaders.</p>"
-        multinational_bullet_html = "{multinational_bullet_html}"
+        multinational_bullet_html = "<li>Active engagements with leading global companies including <strong>Nestlé</strong>, <strong>Barilla</strong>, <strong>Mondelēz</strong>, <strong>Unilever</strong>, <strong>PepsiCo</strong>, <strong>Kraft Heinz</strong>, and other market leaders.</li>"
 
     return f"""<!DOCTYPE html>
 <html>
@@ -261,8 +261,8 @@ def build_html_body(first_name: str, full_name: str, org: str, division: str, ca
 
   <div style="margin: 22px 0;">
     <p style="font-weight: 600; margin-bottom: 8px; color: #0f172a;">Executive Demonstrations on LinkedIn:</p>
-    <a href="https://www.linkedin.com/posts/kumarpal-porwal_heatbolt-makeinindia-innovation-activity-7486186134474207232-dmlc" class="video-btn" target="_blank">▶ Urgent Need to Solve the Problem</a>
-    <a href="https://www.linkedin.com/posts/rohansachdeva20_makeinindia-innovation-foodtech-share-7483541963657605120-TCKs" class="video-btn-secondary" target="_blank">▶ We Have the Solution</a>
+    <a href="https://shareitly.com/click?redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fkumarpal-porwal_heatbolt-makeinindia-innovation-activity-7486186134474207232-dmlc&dID=1793626864381&hashId=7e76250ddbd964aa3edd55f5b6ea1a11f7a48cd307461c2b1c5869b8fa82dfcef26ec5&linkName=%20Urgent%20Need%20to%20Solve%20the%20Problem" class="video-btn" target="_blank">▶ Urgent Need to Solve the Problem</a>
+    <a href="https://shareitly.com/click?redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Frohansachdeva20_makeinindia-innovation-foodtech-share-7483541963657605120-TCKs&dID=1793626864381&hashId=7e76250ddbd964aa3edd55f5b6ea1a11f7a48cd307461c2b1c5869b8fa82dfcef26ec5&linkName=%20We%20Have%20the%20Solution" class="video-btn-secondary" target="_blank">▶ We Have the Solution</a>
   </div>
 
   <h2>A Humble Request</h2>

@@ -1592,7 +1592,7 @@ def build_followup_body(name_clean, seq):
             f"I wanted to personally follow up on my earlier note and reiterate our sincere interest in building a meaningful, long-term association with your esteemed leadership team.
 
 "
-            f"HeatBolt represents six years of continuous R&D, deep-tech innovation, and operational execution. What started as an ambitious vision is now accelerating into a category-defining market opportunity.
+            f"HeatBolt represents a journey of six years of continuous R&D, deep-tech innovation, and operational execution. What started as an ambitious vision is now accelerating into a category-defining market opportunity.
 
 "
             f"Following recent engagements with the Prime Minister's Office (PMO) and key Union Ministries (Defence, Home Affairs, Railways), our international discussions with Nestlé (192 countries), Barilla Group (100 countries), Mondelēz (150 countries), and Godrej (80+ countries) have further affirmed our planetary-scale trajectory.
@@ -1638,29 +1638,17 @@ def build_followup_body(name_clean, seq):
             f"Dear {name_clean},
 
 "
-            f"I am following up to share our finalized strategic brief and institutional milestone roadmap for HeatBolt.
+            f"I am writing to respectfully follow up on our earlier discussions regarding HeatBolt and to share recent progress across our national and international pipeline.
 
 "
-            f"Our zero-electricity, Siachen Glacier-validated thermal technology is unlocking zero-carbon, flameless heating across defence, remote disaster response, and ready-to-eat FMCG logistics across 100+ nations.
-
-"
-            f"Key Milestones & Validation Highlights:
-"
-            f"- Validated by the Indian Armed Forces (-60°C tactical deployment).
-"
-            f"- Mentored by Late Shri Ratan Tata; Ph.D. in Green Hydrogen from IISc Bangalore.
-"
-            f"- Active commercialization dialogues with top global conglomerates.
-
-"
-            f"If your investment thesis or corporate development mandate covers deep-tech, energy transition, or sustainable logistics, I would welcome the opportunity to share our comprehensive technical data room.
-
-"
-            f"Warm regards,
-"
-            f"Dr. Kumarpal Porwal
-"
-            f"Founder & MD, HeatBolt
+            f"60,000+ Stakeholder Engagements | 1,000+ Daily Inbound Leads | 20B+ Units Manufacturing Potential\r\n\r\n"
+            f"Key Milestone Highlights:\r\n"
+            f"- Institutional Mandates: Progressing strategic integration with Indian Railways, Defence, and Disaster Management agencies.\r\n"
+            f"- FMCG Multinational Reach: Deepening technical discussions across global FMCG giants including Nestle, Barilla, and Mondelez.\r\n"
+            f"- Packaging Innovation: Zero-electricity thermal technology extending ready-to-eat shelf life up to 1 year without refrigeration.\r\n\r\n"
+            f"We are looking to partner with a visionary organization capable of co-scaling this platform globally through capital, manufacturing scale, and distribution synergies.\r\n\r\n"
+            f"I would deeply value the opportunity to present our progress and business roadmap in a brief 15-minute executive meeting.\r\n\r\n"
+            f"Founder & CEO | HeatBolt Technologies\r\n"
 "
             f"founder.heatbolt@gmail.com | +91 7353319757
 "
