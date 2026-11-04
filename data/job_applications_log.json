@@ -15643,5 +15643,65 @@
     "recipientEmail": "careers@arbeitnow.co.uk",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-03T21:30:13.599Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158831-principal-partner-solutions-consultant",
+    "company": "Cresta",
+    "title": "Principal Partner Solutions Consultant",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-04T01:54:24.965Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158827-partner-success-director",
+    "company": "Cresta",
+    "title": "Partner Success Director",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-04T01:54:27.688Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/158826-partner-solutions-architect-ai-builder",
+    "company": "Supabase",
+    "title": "Partner Solutions Architect , AI Builder",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-04T01:54:31.779Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-head-of-engineering-xpate-490630",
+    "company": "Hirehire",
+    "title": "Head of Engineering | xpate",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-04T01:54:34.145Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/itze-bits-gmbh/full-stack-entwicklerin-nextjs-remote-berlin-336824",
+    "company": "Itze-Bits GmbH",
+    "title": "Full-Stack-Entwickler*in (Next.js) – Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-04T01:54:36.541Z"
+  },
+  {
+    "url": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-servicenow-ai-architect-zurich-237261",
+    "company": "SwissPeak Partners GmbH",
+    "title": "ServiceNow AI Architect",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.ch",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-04T01:54:39.308Z"
   }
 ]
