@@ -1583,45 +1583,25 @@ def build_followup_body(name_clean, seq):
     if seq == 2:
         subj = f"Re: {SUBJECT}"
         plain = (
-            f"Jai Jinendra!
-
-"
-            f"Dear {name_clean},
-
-"
-            f"I wanted to personally follow up on my earlier note and reiterate our sincere interest in building a meaningful, long-term association with your esteemed leadership team.
-
-"
-            f"HeatBolt represents a journey of six years of continuous R&D, deep-tech innovation, and operational execution. What started as an ambitious vision is now accelerating into a category-defining market opportunity.
-
-"
-            f"Following recent engagements with the Prime Minister's Office (PMO) and key Union Ministries (Defence, Home Affairs, Railways), our international discussions with Nestlé (192 countries), Barilla Group (100 countries), Mondelēz (150 countries), and Godrej (80+ countries) have further affirmed our planetary-scale trajectory.
-
-"
-            f"Strategic Exploration Focus:
-"
-            f"- Growth Capital: Strategic investment aligned with high-impact ESG & deep-tech mandates.
-"
-            f"- Industrial Scale: Turnkey manufacturing partnerships & automated production.
-"
-            f"- Global Distribution: International commercialization & enterprise supply chain integration.
-
-"
-            f"Would you be available for a brief 10-15 minute introductory call next week?
-
-"
-            f"Warm regards,
-"
-            f"Dr. Kumarpal Porwal
-"
-            f"Founder & MD, HeatBolt
-"
-            f"Ph.D., Green Hydrogen (IISc Bangalore)
-"
-            f"Mentored by Shri Ratan Tata | Validated by Indian Defence Forces
-"
-            f"founder.heatbolt@gmail.com | +91 7353319757
-"
+            f"Jai Jinendra!\n\n"
+            f"Dear {name_clean},\n\n"
+            f"I wanted to personally follow up on my earlier note and reiterate our sincere interest in building a meaningful, long-term association with your esteemed leadership team.\n\n"
+            f"HeatBolt represents a journey of six years of continuous R&D, deep-tech innovation, and operational execution. What started as an ambitious vision is now accelerating into a category-defining market opportunity.\n\n"
+            f"National & Global Validation:\n"
+            f"Following recent engagements with the Prime Minister's Office (PMO) and key Union Ministries (Defence, Home Affairs, Railways), our international discussions with Nestlé (192 countries), Barilla Group (100 countries), Mondelēz (150 countries), and Godrej (80+ countries) have further affirmed our planetary-scale trajectory.\n\n"
+            f"Strategic Exploration Focus:\n"
+            f"• Growth Capital: Strategic investment aligned with high-impact ESG & deep-tech mandates.\n"
+            f"• Industrial Scale: Turnkey manufacturing partnerships & automated production.\n"
+            f"• Global Distribution: International commercialization & enterprise supply chain integration.\n"
+            f"• Technology Licensing: Deploying self-heating systems across regional FMCG product suites.\n\n"
+            f"Would you be available for a brief 10–15 minute introductory call next week?\n\n"
+            f"Warm regards,\n"
+            f"Dr. Kumarpal Porwal\n"
+            f"Founder & MD, HeatBolt Technologies\n"
+            f"Ph.D., Green Hydrogen (IISc Bangalore) | Mentored by Late Shri Ratan Tata\n"
+            f"Validated by Indian Defence Forces\n"
+            f"Direct / WhatsApp: +91 73533 19757 | +91 88672 94189\n"
+            f"Email: founder.heatbolt@gmail.com\n"
         )
         if os.path.exists(f1_html_path):
             with open(f1_html_path, "r", encoding="utf-8-sig") as f:
@@ -1632,26 +1612,21 @@ def build_followup_body(name_clean, seq):
     else:
         subj = "Building a Long-Term Association with HeatBolt | Executive Briefing & Technical Roadmap"
         plain = (
-            f"Jai Jinendra!
-
-"
-            f"Dear {name_clean},
-
-"
-            f"I am writing to respectfully follow up on our earlier discussions regarding HeatBolt and to share recent progress across our national and international pipeline.
-
-"
-            f"60,000+ Stakeholder Engagements | 1,000+ Daily Inbound Leads | 20B+ Units Manufacturing Potential\r\n\r\n"
-            f"Key Milestone Highlights:\r\n"
-            f"- Institutional Mandates: Progressing strategic integration with Indian Railways, Defence, and Disaster Management agencies.\r\n"
-            f"- FMCG Multinational Reach: Deepening technical discussions across global FMCG giants including Nestle, Barilla, and Mondelez.\r\n"
-            f"- Packaging Innovation: Zero-electricity thermal technology extending ready-to-eat shelf life up to 1 year without refrigeration.\r\n\r\n"
-            f"We are looking to partner with a visionary organization capable of co-scaling this platform globally through capital, manufacturing scale, and distribution synergies.\r\n\r\n"
-            f"I would deeply value the opportunity to present our progress and business roadmap in a brief 15-minute executive meeting.\r\n\r\n"
-            f"Founder & CEO | HeatBolt Technologies\r\n"
-"
-            f"founder.heatbolt@gmail.com | +91 7353319757
-"
+            f"Jai Jinendra!\n\n"
+            f"Dear {name_clean},\n\n"
+            f"I am writing to respectfully follow up on our earlier discussions regarding HeatBolt and to share recent progress across our national and international pipeline:\n\n"
+            f"60,000+ Stakeholder Engagements | 1,000+ Daily Inbound Leads | 20B+ Units Manufacturing Potential\n\n"
+            f"Key Milestone Highlights:\n"
+            f"• Institutional Mandates: Progressing strategic integration with Indian Railways, Defence, and Disaster Management agencies.\n"
+            f"• FMCG Multinational Reach: Deepening technical discussions across global FMCG giants including Nestlé, Barilla, and Mondelēz.\n"
+            f"• Packaging Innovation: Zero-electricity thermal technology extending ready-to-eat shelf life up to 1 year without refrigeration.\n\n"
+            f"We are looking to partner with a visionary organization capable of co-scaling this platform globally through capital, manufacturing scale, and distribution synergies.\n\n"
+            f"I would deeply value the opportunity to present our progress and business roadmap in a brief 15-minute executive meeting.\n\n"
+            f"Warm regards,\n"
+            f"Dr. Kumarpal Porwal\n"
+            f"Founder & CEO | HeatBolt Technologies\n"
+            f"Direct / WhatsApp: +91 73533 19757 | +91 88672 94189\n"
+            f"Email: founder.heatbolt@gmail.com\n"
         )
         if os.path.exists(f2_html_path):
             with open(f2_html_path, "r", encoding="utf-8-sig") as f:
