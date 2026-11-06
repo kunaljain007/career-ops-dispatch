@@ -11,6 +11,7 @@ DATA_DIR    = os.path.join(BASE_DIR, "data")
 LOGS_DIR    = os.path.join(DATA_DIR, "logs")
 
 SMTP_FILE   = os.path.join(DATA_DIR, "smtp_pool.json")
+TATA_FILE   = os.path.join(DATA_DIR, "tata_target_inboxes.json")
 QUEUE_FILE  = os.path.join(DATA_DIR, "all_unsent_emails.json")
 MASTER_SENT = os.path.join(LOGS_DIR, "master_all_sent.json")
 
@@ -1513,12 +1514,32 @@ def is_blacklisted(email):
     email_lower = email.lower()
     return any(b in email_lower for b in BLACKLIST_DOMAINS)
 
+# Absolute First Priority: 352 Tata Targets
+tata_priority_emails = []
+if os.path.exists(TATA_FILE):
+    try:
+        with open(TATA_FILE, "r", encoding="utf-8") as f:
+            for item in json.load(f):
+                if isinstance(item, str) and "@" in item:
+                    tata_priority_emails.append(item.strip().lower())
+        print(f"[PRIORITY] Loaded {len(tata_priority_emails)} Tata targets on ABSOLUTE HIGHEST priority")
+    except Exception as ex:
+        print(f"[TATA] Error reading Tata priority targets: {ex}")
+
+for e in tata_priority_emails:
+    e_clean = e.strip().lower()
+    if "@" in e_clean and e_clean not in seen and not is_blacklisted(e_clean):
+        seen.add(e_clean)
+        all_pending.append(e_clean)
+
+# Second Priority: Raw Priority
 for e in RAW_PRIORITY:
     e_clean = e.strip().lower()
     if "@" in e_clean and e_clean not in seen and not is_blacklisted(e_clean):
         seen.add(e_clean)
         all_pending.append(e_clean)
 
+# Third Priority: Remaining Unsent Queue
 for e in queue_emails:
     e_clean = e.strip().lower()
     if "@" in e_clean and e_clean not in seen and not is_blacklisted(e_clean):
