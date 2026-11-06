@@ -16423,5 +16423,95 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-06T00:46:24.376Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/150121-engineering-manager-python-and-k8s",
+    "company": "Canonical",
+    "title": "Engineering Manager - Python and K8s",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:26.196Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154715-school-of-product-management-accelerator-mentor",
+    "company": "Udacity",
+    "title": "School of Product Management - Accelerator Mentor",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:28.754Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154706-crm-marketing-intern",
+    "company": "Catawiki",
+    "title": "CRM Marketing Intern",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:30.414Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/154703-senior-software-engineering-manager-managed-gateways-sres",
+    "company": "Kong Inc.",
+    "title": "Senior Software Engineering Manager, Managed Gateways SREs",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:32.289Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/152543-strategic-partnerships-director",
+    "company": "Demandbase, Inc.",
+    "title": "Strategic Partnerships Director",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:35.009Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/152510-partner-consultant-accounting",
+    "company": "Ramp",
+    "title": "Partner Consultant, Accounting",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:37.272Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/152541-director-of-strategy-analytics",
+    "company": "Beyond Finance",
+    "title": "Director of Strategy & Analytics",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:39.459Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/simplyright-gmbh/vollzeit-buchhalterin-remote-monheim-am-rhein-237989",
+    "company": "Simplyright GmbH",
+    "title": "Vollzeit Buchhalter*in (m/w/d) Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:41.654Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-110950",
+    "company": "Makersite GmbH",
+    "title": "Senior Site Reliability Engineer (SRE) m/f/x",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-06T07:40:44.066Z"
   }
 ]
