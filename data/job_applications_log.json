@@ -17063,5 +17063,35 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-07T15:26:43.338Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/159648-staff-machine-learning-engineer-home-surfaces",
+    "company": "Spotify",
+    "title": "Staff Machine Learning Engineer, Home Surfaces",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-07T19:53:25.300Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/159640-1-on-1-amc-10-tutor-remote-in-us",
+    "company": "Think Academy US",
+    "title": "1 on 1 AMC 10 Tutor (Remote in US)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-07T19:53:28.822Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/spring-health/remote-vice-president-product-marketing-154707",
+    "company": "Spring Health",
+    "title": "Vice President, Product Marketing",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-07T19:53:31.131Z"
   }
 ]
