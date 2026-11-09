@@ -50098,5 +50098,45 @@
     "schedule_date": "2026-11-10",
     "added_at": "2026-11-09T13:00:29.749134",
     "tier": 1
+  },
+  {
+    "email": "ankit@infoedgeventures.com",
+    "name": "Ankit Garg",
+    "organization": "Info Edge Ventures",
+    "designation": "Principal, Tech Investing",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:04:31.637590",
+    "tier": 1
+  },
+  {
+    "email": "rishabh@infoedgeventures.com",
+    "name": "Rishabh Katiyar",
+    "organization": "Info Edge Ventures",
+    "designation": "Partner, Info Edge Growth",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:04:31.699340",
+    "tier": 1
+  },
+  {
+    "email": "connect@infoedgeventures.com",
+    "name": "Info Edge Ventures Shared Pipeline",
+    "organization": "Info Edge Ventures",
+    "designation": "Shared Deal Pipeline Inbox",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:04:31.699340",
+    "tier": 1
+  },
+  {
+    "email": "investors@bajajfinserv.in",
+    "name": "Bajaj Finserv Inbound Investments",
+    "organization": "Bajaj Finserv Limited",
+    "designation": "General Inbound Investment Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:04:31.699340",
+    "tier": 1
   }
 ]
