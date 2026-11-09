@@ -49008,5 +49008,205 @@
     "schedule_date": "2026-11-10",
     "added_at": "2026-11-09T12:48:13.733930",
     "tier": 1
+  },
+  {
+    "email": "info@pif.gov.sa",
+    "name": "Public Investment Fund (PIF)",
+    "organization": "Public Investment Fund (Saudi Arabia)",
+    "designation": "Technology Division / Investment Committee Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "info@mubadala.ae",
+    "name": "Mubadala Investment Company",
+    "organization": "Mubadala (UAE)",
+    "designation": "Investment & Partnership Proposals Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "investorrelations@kkr.com",
+    "name": "KKR Investor Relations",
+    "organization": "KKR (Kohlberg Kravis Roberts)",
+    "designation": "Global Private Equity Office",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "silverlake@silverlake.com",
+    "name": "Silver Lake Strategic Desk",
+    "organization": "Silver Lake Partners",
+    "designation": "Technology Private Equity Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "info@generalatlantic.com",
+    "name": "General Atlantic Global Desk",
+    "organization": "General Atlantic",
+    "designation": "Global Growth Equity Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "nseisplus@nse.co.in",
+    "name": "NSE Corporate Secretariat",
+    "organization": "National Stock Exchange of India (NSE)",
+    "designation": "Corporate & Secretarial Office",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 2
+  },
+  {
+    "email": "ignse@nse.co.in",
+    "name": "NSE Investor Services",
+    "organization": "National Stock Exchange of India (NSE)",
+    "designation": "Investor Services Hub",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 2
+  },
+  {
+    "email": "bseinvestor@bseindia.com",
+    "name": "BSE Investor Desk",
+    "organization": "BSE Limited",
+    "designation": "Corporate Secretarial Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 2
+  },
+  {
+    "email": "corp.relations@bseindia.com",
+    "name": "BSE Secretariat Compliance",
+    "organization": "BSE Limited",
+    "designation": "Secretariat Compliance Office",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 2
+  },
+  {
+    "email": "esther.finidori@se.com",
+    "name": "Esther Finidori",
+    "organization": "Schneider Electric",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "nmahon@estee.com",
+    "name": "Nancy Mahon",
+    "organization": "The Estée Lauder Companies",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "adelgadom@iberdrola.es",
+    "name": "Agustín Delgado Martín",
+    "organization": "Iberdrola",
+    "designation": "Chief Innovation & Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "alastair.child@effem.com",
+    "name": "Alastair Child",
+    "organization": "Mars Inc.",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "bertrand.conqueret@henkel.com",
+    "name": "Bertrand Conqueret",
+    "organization": "Henkel",
+    "designation": "Chief Procurement & Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "marisa.drew@sc.com",
+    "name": "Marisa Drew",
+    "organization": "Standard Chartered",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "pitches@paleblue.vc",
+    "name": "Pale Blue Dot Pitches",
+    "organization": "Pale Blue Dot",
+    "designation": "Direct Investment Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "hello@paleblue.vc",
+    "name": "Pale Blue Dot Operations",
+    "organization": "Pale Blue Dot",
+    "designation": "General Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "deals@eifund.com",
+    "name": "Ecosystem Integrity Fund Deals",
+    "organization": "Ecosystem Integrity Fund (EIF)",
+    "designation": "Venture Evaluation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "info@eifund.com",
+    "name": "Ecosystem Integrity Fund Team",
+    "organization": "Ecosystem Integrity Fund (EIF)",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
+  },
+  {
+    "email": "pitches@climatecapital.co",
+    "name": "Climate Capital Pitches",
+    "organization": "Climate Capital",
+    "designation": "Direct Deal Sourcing Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:50:20.481444",
+    "tier": 1
   }
 ]
