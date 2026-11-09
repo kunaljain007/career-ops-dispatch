@@ -50138,5 +50138,235 @@
     "schedule_date": "2026-11-10",
     "added_at": "2026-11-09T13:04:31.699340",
     "tier": 1
+  },
+  {
+    "email": "ruchi@southparkcommons.com",
+    "name": "Ruchi Sanghvi",
+    "organization": "South Park Commons",
+    "designation": "Founder & General Partner",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "aditya@southparkcommons.com",
+    "name": "Aditya Agarwal",
+    "organization": "South Park Commons",
+    "designation": "Founder & Managing Partner",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "finn@southparkcommons.com",
+    "name": "Finn Meeks",
+    "organization": "South Park Commons",
+    "designation": "General Partner",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "evan@southparkcommons.com",
+    "name": "Evan Tana",
+    "organization": "South Park Commons",
+    "designation": "Partner",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "prateek@southparkcommons.com",
+    "name": "Prateek Mehta",
+    "organization": "South Park Commons India",
+    "designation": "General Partner (India)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "ankit@southparkcommons.com",
+    "name": "Ankit Chowdhary",
+    "organization": "South Park Commons India",
+    "designation": "Partner (India)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "harshit@southparkcommons.com",
+    "name": "Harshit Madan",
+    "organization": "South Park Commons India",
+    "designation": "Visiting Partner (India)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "rohan@southparkcommons.com",
+    "name": "Rohan Choudhary",
+    "organization": "South Park Commons India",
+    "designation": "Visiting Partner (India)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "craig@southparkcommons.com",
+    "name": "Craig Stanton",
+    "organization": "South Park Commons",
+    "designation": "Investor Relations & Network",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "siddhant@southparkcommons.com",
+    "name": "Siddhant Jain Jaiswal",
+    "organization": "South Park Commons",
+    "designation": "Finance & Operations Manager",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "mlgodinot@bouygues.com",
+    "name": "Marie-Luce Godinot",
+    "organization": "Bouygues Group",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "thomas.becker@bmw.de",
+    "name": "Dr. Thomas Becker",
+    "organization": "BMW Group",
+    "designation": "Head of Sustainability & Mobility",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "amelie.oudea-castera@carrefour.com",
+    "name": "Amelie Oudea-Castera",
+    "organization": "Carrefour Group",
+    "designation": "Sustainability Steering & Retail Operations",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "preeti.bajaj@luminousindia.com",
+    "name": "Preeti Bajaj",
+    "organization": "Luminous Power Technologies",
+    "designation": "CEO & Managing Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "grace.fu@infrastructureasia.gov.sg",
+    "name": "Grace Fu",
+    "organization": "Infrastructure Asia",
+    "designation": "Global Infrastructure & Sustainability Advisory",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "david@sustainment.tech",
+    "name": "David Shillingford",
+    "organization": "Sustainment",
+    "designation": "Supply Chain Sustainability Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "pitches@keyframecapital.com",
+    "name": "Keyframe Capital Pitches",
+    "organization": "Keyframe Capital",
+    "designation": "Direct Submission Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "info@keyframecapital.com",
+    "name": "Keyframe Capital Team",
+    "organization": "Keyframe Capital",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "investments@galvanizeclimate.com",
+    "name": "Galvanize Climate Solutions",
+    "organization": "Galvanize Climate Solutions",
+    "designation": "Venture Evaluation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "hello@galvanizeclimate.com",
+    "name": "Galvanize Operations",
+    "organization": "Galvanize Climate Solutions",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "pitches@futurepositivecapital.com",
+    "name": "Future Positive Capital",
+    "organization": "Future Positive Capital",
+    "designation": "Direct Sourcing Desk (Deep Tech)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "dealflow@counterpart.vc",
+    "name": "Counterpart Ventures Dealflow",
+    "organization": "Counterpart Ventures",
+    "designation": "Direct Evaluation Desk (Packaging & Shipping)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
+  },
+  {
+    "email": "hello@counterpart.vc",
+    "name": "Counterpart Ventures General",
+    "organization": "Counterpart Ventures",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:07:26.364851",
+    "tier": 1
   }
 ]
