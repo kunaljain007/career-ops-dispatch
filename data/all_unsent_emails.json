@@ -48368,5 +48368,485 @@
     "status": "unsent",
     "added_at": "2026-11-09T11:54:04.130046",
     "tier": 1
+  },
+  {
+    "email": "melanie@microsoft.com",
+    "name": "Melanie Nakagawa",
+    "organization": "Microsoft",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "jim.andrew@pepsico.com",
+    "name": "Jim Andrew",
+    "organization": "PepsiCo",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "karahurs@amazon.com",
+    "name": "Kara Hurst",
+    "organization": "Amazon",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "michael.stewart@unilever.com",
+    "name": "Michael Stewart",
+    "organization": "Unilever",
+    "designation": "Chief Corporate Affairs & Global Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "kathleen.mclaughlin@walmart.com",
+    "name": "Kathleen McLaughlin",
+    "organization": "Walmart",
+    "designation": "Chief Sustainability Officer & EVP",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "pitches@lowercarboncapital.com",
+    "name": "Lowercarbon Inbound Dealflow",
+    "organization": "Lowercarbon Capital",
+    "designation": "Deal Flow & Technical Evaluation",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "hello@lowercarboncapital.com",
+    "name": "Lowercarbon Partners",
+    "organization": "Lowercarbon Capital",
+    "designation": "General Partner Team",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "info@breakthroughenergy.org",
+    "name": "Breakthrough Energy Team",
+    "organization": "Breakthrough Energy Ventures (BEV)",
+    "designation": "General Partner Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "deals@energyimpactpartners.com",
+    "name": "EIP Deal Sourcing",
+    "organization": "Energy Impact Partners",
+    "designation": "Direct Deal Sourcing Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "insights@energyimpactpartners.com",
+    "name": "EIP Enterprise Collaboration",
+    "organization": "Energy Impact Partners",
+    "designation": "Strategic Enterprise Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "pitch@worldfund.vc",
+    "name": "World Fund Pitch Desk",
+    "organization": "World Fund",
+    "designation": "Investment & Technical Pitch Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "hello@worldfund.vc",
+    "name": "World Fund General",
+    "organization": "World Fund",
+    "designation": "Partner Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:11.018199",
+    "tier": 1
+  },
+  {
+    "email": "kbrandt@google.com",
+    "name": "Kate Brandt",
+    "organization": "Google",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "kathleen.a.mcginty@jci.com",
+    "name": "Katie McGinty",
+    "organization": "Johnson Controls",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "sophia.mendelsohn@sap.com",
+    "name": "Sophia Mendelsohn",
+    "organization": "SAP",
+    "designation": "Chief Sustainability & Commercial Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "ann_tracy@colpal.com",
+    "name": "Ann Tracy",
+    "organization": "Colgate-Palmolive",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "emilio.tenuta@ecolab.com",
+    "name": "Emilio Tenuta",
+    "organization": "Ecolab",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "info@congruentvc.com",
+    "name": "Congruent Ventures Team",
+    "organization": "Congruent Ventures",
+    "designation": "Early-Stage Clean Tech Investment Team",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "investment@norrsken.vc",
+    "name": "Norrsken VC Deal Sourcing",
+    "organization": "Norrsken VC",
+    "designation": "Direct Deal Sourcing Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "hello@norrsken.vc",
+    "name": "Norrsken VC General",
+    "organization": "Norrsken VC",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "climate@sosv.com",
+    "name": "SOSV Climate Team",
+    "organization": "SOSV",
+    "designation": "Deep-Tech Climate Portfolio Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "contact@sosv.com",
+    "name": "SOSV Operations",
+    "organization": "SOSV",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "pitches@collabfund.com",
+    "name": "Collaborative Fund Pitches",
+    "organization": "Collaborative Fund",
+    "designation": "Direct Investment Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "hello@collabfund.com",
+    "name": "Collaborative Fund General",
+    "organization": "Collaborative Fund",
+    "designation": "General Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:44:34.774421",
+    "tier": 1
+  },
+  {
+    "email": "marie-claire.daveu@kering.com",
+    "name": "Marie-Claire Daveu",
+    "organization": "Kering (Gucci, YSL)",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "helias.v@pg.com",
+    "name": "Virginie Helias",
+    "organization": "Procter & Gamble (P&G)",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "velislava.ivanova@ey.com",
+    "name": "Velislava Ivanova",
+    "organization": "EY Global",
+    "designation": "Global Climate & Sustainability Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "pfrank@jnj.com",
+    "name": "Paulette Frank",
+    "organization": "Johnson & Johnson",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "chris.fox@hanes.com",
+    "name": "Chris Fox",
+    "organization": "Hanesbrands Inc.",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "pitches@preludeventures.com",
+    "name": "Prelude Ventures Deal Sourcing",
+    "organization": "Prelude Ventures",
+    "designation": "Direct Pitch Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "info@preludeventures.com",
+    "name": "Prelude Ventures Team",
+    "organization": "Prelude Ventures",
+    "designation": "General Inquiries",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "info@cleanenergyventures.com",
+    "name": "Clean Energy Ventures (CEV)",
+    "organization": "Clean Energy Ventures",
+    "designation": "Hard-Tech Climate Deal Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "pitches@50years.com",
+    "name": "50 Years Direct Pitch",
+    "organization": "50 Years",
+    "designation": "Deep Tech Deal Sourcing Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "hello@50years.com",
+    "name": "50 Years Team",
+    "organization": "50 Years",
+    "designation": "General Partner Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "investment@engineventures.com",
+    "name": "The Engine Ventures (MIT)",
+    "organization": "The Engine Ventures",
+    "designation": "Tough Tech Investment Evaluation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "hello@engineventures.com",
+    "name": "The Engine Ventures Operations",
+    "organization": "The Engine Ventures",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:45:43.375825",
+    "tier": 1
+  },
+  {
+    "email": "alice.de-brauer@renault.com",
+    "name": "Alice de Brauer",
+    "organization": "Renault Group",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "musimbi.kanyoro@unilever.com",
+    "name": "Musimbi Kanyoro",
+    "organization": "Unilever",
+    "designation": "Sustainability Advisory Board",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "pascal.brossard@solvay.com",
+    "name": "Pascal Brossard",
+    "organization": "Solvay",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "rebecca.schulz@henkel.com",
+    "name": "Rebecca Schulz",
+    "organization": "Henkel",
+    "designation": "Global Sustainability & Packaging Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "jesper.brodin@ikea.com",
+    "name": "Jesper Brodin",
+    "organization": "Ingka Group / IKEA",
+    "designation": "CEO & Corporate Steering",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "pitches@khoslaventures.com",
+    "name": "Khosla Ventures Pitches",
+    "organization": "Khosla Ventures",
+    "designation": "Direct Investment Desk (Climate)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "info@khoslaventures.com",
+    "name": "Khosla Ventures Team",
+    "organization": "Khosla Ventures",
+    "designation": "General Investment Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "pitches@obvious.com",
+    "name": "Obvious Ventures Pitches",
+    "organization": "Obvious Ventures",
+    "designation": "Deal Sourcing Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "hello@obvious.com",
+    "name": "Obvious Ventures Team",
+    "organization": "Obvious Ventures",
+    "designation": "General Partner Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "info@aiimpartners.com",
+    "name": "AiiM Partners Dealflow",
+    "organization": "AiiM Partners",
+    "designation": "Direct Submission Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "dealflow@g2vp.com",
+    "name": "G2 Venture Partners Dealflow",
+    "organization": "G2 Venture Partners",
+    "designation": "Venture Evaluation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
+  },
+  {
+    "email": "info@g2vp.com",
+    "name": "G2 Venture Partners Operations",
+    "organization": "G2 Venture Partners",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:47:23.067128",
+    "tier": 1
   }
 ]
