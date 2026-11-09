@@ -1,5 +1,101 @@
 [
   {
+    "name": "Jez / Climate VC Fund",
+    "role": "Direct Team Outreach Desk",
+    "organization": "Climate VC Fund (New Zealand / 2040 Ventures)",
+    "email": "jez@2040ventures.com",
+    "sector": "Oceania Climate Tech & Structural Hardware Fund",
+    "priority": "High"
+  },
+  {
+    "name": "Evergreen Climate Innovations Deal Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "Evergreen Climate Innovations",
+    "email": "dealflow@evergreeninno.org",
+    "sector": "Catalytic Seed Deep-Tech, Energy & Raw Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Nomadic Venture Partners Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Nomadic Venture Partners",
+    "email": "proposals@nomadicvp.com",
+    "sector": "Industrial Decarbonization & Clean Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Blackhorn Ventures Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Blackhorn Ventures",
+    "email": "investment@blackhornvc.com",
+    "sector": "Industrial Resource Efficiency & Clean Manufacturing VC",
+    "priority": "High"
+  },
+  {
+    "name": "Pangaea Ventures General Desk",
+    "role": "General Team Desk",
+    "organization": "Pangaea Ventures",
+    "email": "info@pangaeaventures.com",
+    "sector": "Advanced Materials Science, Chemical Transformation & Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Pangaea Ventures Submission Desk",
+    "role": "Direct Submission Desk",
+    "organization": "Pangaea Ventures",
+    "email": "pitches@pangaeaventures.com",
+    "sector": "Advanced Materials Science, Chemical Transformation & Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Prof. YEOH Lean Weng",
+    "role": "Chief Sustainability Officer",
+    "organization": "A*STAR (Singapore Agency for Science, Technology and Research)",
+    "email": "yeoh_lean_weng@a-star.edu.sg",
+    "sector": "Governmental Science Infrastructure & Deep-Tech Strategy / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Sean Jones",
+    "role": "Chief Sustainability Officer",
+    "organization": "Microsoft Germany",
+    "email": "sean.jones@microsoft.com",
+    "sector": "Carbon-Neutral Computing & Utility Grid Partnerships / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Jérôme Goulard",
+    "role": "Chief Sustainability Officer",
+    "organization": "Orange Business",
+    "email": "jerome.goulard@orange.com",
+    "sector": "Telecom Fleet Decarbonization & E-Waste Circularity / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Rinika Grover",
+    "role": "Head of Sustainability and CSR",
+    "organization": "Apollo Tyres",
+    "email": "rinika.grover@apollotyres.com",
+    "sector": "Industrial Supply Chain, Rubber & Manufacturing Waste / Head Sustainability",
+    "priority": "High"
+  },
+  {
+    "name": "Peggy Brannigan",
+    "role": "Head of Global Environmental Sustainability",
+    "organization": "LinkedIn",
+    "email": "pbrannigan@linkedin.com",
+    "sector": "Digital Infrastructure Grid Efficiency & Data Centers / Head Sustainability",
+    "priority": "High"
+  },
+  {
+    "name": "Matthew Bateson",
+    "role": "Chief Climate and Sustainability Officer",
+    "organization": "Aramco",
+    "email": "matthew.bateson@aramco.com",
+    "sector": "Energy Infrastructure Transitions & Carbon Abatement / Global CSO",
+    "priority": "High"
+  },
+  {
     "name": "Rita Srivastava",
     "role": "Executive Assistant to CMD / Office of the Chairman & MD",
     "organization": "Nestlé India",
