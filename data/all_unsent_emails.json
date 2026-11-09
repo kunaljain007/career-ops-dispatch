@@ -50368,5 +50368,235 @@
     "schedule_date": "2026-11-10",
     "added_at": "2026-11-09T13:07:26.364851",
     "tier": 1
+  },
+  {
+    "email": "benjordan@coca-cola.com",
+    "name": "Ben Jordan",
+    "organization": "The Coca-Cola Company",
+    "designation": "Senior Director of Packaging Sustainability",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "juha-pekka.chosak@neste.com",
+    "name": "Juha-Pekka Chosak",
+    "organization": "Neste",
+    "designation": "Head of Bio-Based Plastics & Renewable Scaling",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "elena.valenzuela@accor.com",
+    "name": "Elena Valenzuela",
+    "organization": "Accor Hotels Group",
+    "designation": "Global Sustainability & Supply Chain Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "david.king@marriott.com",
+    "name": "David King",
+    "organization": "Marriott International",
+    "designation": "Global Carbon Reductions & Sourcing Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "sconseiller@aigle.com",
+    "name": "Sandrine Conseiller",
+    "organization": "Aigle (MF Brands Group)",
+    "designation": "CEO & Eco-Packaging Steering",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "pitches@piva.vc",
+    "name": "Piva Capital Pitches",
+    "organization": "Piva Capital",
+    "designation": "Direct Submission Desk (Industrial Materials & Logistics)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "info@piva.vc",
+    "name": "Piva Capital Team",
+    "organization": "Piva Capital",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "proposals@carbon-13.com",
+    "name": "Carbon-13 Proposals",
+    "organization": "Carbon-13",
+    "designation": "Venture Team Desk (Deep Tech Systems)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "hello@carbon-13.com",
+    "name": "Carbon-13 General",
+    "organization": "Carbon-13",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "pitches@giant.vc",
+    "name": "Giant Ventures Pitches",
+    "organization": "Giant Ventures",
+    "designation": "Direct Sourcing Desk (Material Science & Hard Tech)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "hello@giant.vc",
+    "name": "Giant Ventures Team",
+    "organization": "Giant Ventures",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "investment@vsquared.vc",
+    "name": "Vsquared Ventures Investment",
+    "organization": "Vsquared Ventures",
+    "designation": "Deep Tech & Packaging Engineering Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "hello@vsquared.vc",
+    "name": "Vsquared Ventures Operations",
+    "organization": "Vsquared Ventures",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:09:55.469006",
+    "tier": 1
+  },
+  {
+    "email": "prajna.khanna@prosus.com",
+    "name": "Prajna Khanna",
+    "organization": "Prosus",
+    "designation": "Global Sustainability & ESG Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "scott.collick@dupont.com",
+    "name": "Scott Collick",
+    "organization": "DuPont",
+    "designation": "VP Sustainability & Regulatory Compliance",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "dries.lagerberg@rabobank.nl",
+    "name": "Dries Lagerberg",
+    "organization": "Rabobank",
+    "designation": "Sustainable Trade & Agri Finance Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "james.wilde@abrdn.com",
+    "name": "James Wilde",
+    "organization": "abrdn / Standard Life",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "amanda.wood@baesystems.com",
+    "name": "Amanda Wood",
+    "organization": "BAE Systems",
+    "designation": "Social Sustainability Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "pitches@fifthwall.com",
+    "name": "Fifth Wall Climate Tech Pitches",
+    "organization": "Fifth Wall",
+    "designation": "Direct Submission Desk (Built Environment & Real Estate)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "info@fifthwall.com",
+    "name": "Fifth Wall General",
+    "organization": "Fifth Wall",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "hello@elementalexcelerator.com",
+    "name": "Elemental Excelerator Team",
+    "organization": "Elemental Excelerator",
+    "designation": "Blended Finance & Commercial Scale-up Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "info@dblpartners.com",
+    "name": "DBL Partners Deals",
+    "organization": "DBL Partners",
+    "designation": "Venture Evaluation Desk (Double Bottom Line)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
+  },
+  {
+    "email": "investments@avaanacapital.com",
+    "name": "Avaana Capital Sourcing",
+    "organization": "Avaana Capital",
+    "designation": "Direct Sourcing Desk (APAC Climate Tech & Supply Chain)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:11:14.480946",
+    "tier": 1
   }
 ]
