@@ -48848,5 +48848,165 @@
     "schedule_date": "2026-11-10",
     "added_at": "2026-11-09T12:47:23.067128",
     "tier": 1
+  },
+  {
+    "email": "alexandra.palt@loreal.com",
+    "name": "Alexandra Palt",
+    "organization": "L'Oréal",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "sustainability@nestle.com",
+    "name": "Global CSO Desk",
+    "organization": "Nestlé Global",
+    "designation": "Global Sustainability & Packaging Transition",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "ezgi.barcenas@ab-inbev.com",
+    "name": "Ezgi Barcenas",
+    "organization": "AB InBev",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "catarina.midby@hm.com",
+    "name": "Catarina Midby",
+    "organization": "H&M Group",
+    "designation": "Sustainability Steering",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "jeff.turner@dsm-firmenich.com",
+    "name": "Jeff Turner",
+    "organization": "DSM-Firmenich",
+    "designation": "Global Sustainability Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "deals@closedlooppartners.com",
+    "name": "Closed Loop Partners Deals",
+    "organization": "Closed Loop Partners",
+    "designation": "Direct Investment Submission Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "info@closedlooppartners.com",
+    "name": "Closed Loop Partners Team",
+    "organization": "Closed Loop Partners",
+    "designation": "General Inquiries",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "pitches@primeimpactfund.com",
+    "name": "Prime Impact Fund Pitches",
+    "organization": "Prime Impact Fund",
+    "designation": "Direct Investment Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "info@primecoalition.org",
+    "name": "Prime Coalition General",
+    "organization": "Prime Coalition",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "submissions@emerald-ventures.com",
+    "name": "Emerald Technology Ventures Submissions",
+    "organization": "Emerald Technology Ventures",
+    "designation": "Venture Evaluation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "info@emerald-ventures.com",
+    "name": "Emerald Technology Ventures Team",
+    "organization": "Emerald Technology Ventures",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "mukesh.ambani@ril.com",
+    "name": "Mukesh Ambani",
+    "organization": "Reliance Industries (RIL)",
+    "designation": "Chairman & Managing Director (Pattern)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "zuckerberg@meta.com",
+    "name": "Mark Zuckerberg",
+    "organization": "Meta Platforms",
+    "designation": "Founder, Chairman & CEO",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "mark.zuckerberg@meta.com",
+    "name": "Mark Zuckerberg",
+    "organization": "Meta Platforms",
+    "designation": "Founder, Chairman & CEO (Alt)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "sundar@google.com",
+    "name": "Sundar Pichai",
+    "organization": "Google / Alphabet",
+    "designation": "CEO",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
+  },
+  {
+    "email": "pichais@google.com",
+    "name": "Sundar Pichai",
+    "organization": "Google / Alphabet",
+    "designation": "CEO (Alt)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:48:13.733930",
+    "tier": 1
   }
 ]
