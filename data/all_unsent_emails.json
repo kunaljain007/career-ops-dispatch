@@ -1,5 +1,725 @@
 [
   {
+    "name": "Investature Climate Dealflow Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "Investature (Climate Innovation Arm)",
+    "email": "dealflow@investature.com",
+    "sector": "Tough-Tech Asset Conversions & Circular Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Hamilton Clark Sustainable Capital Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Hamilton Clark Sustainable Capital",
+    "email": "proposals@hamiltonclark.com",
+    "sector": "Clean-Tech Infrastructure & Energy Hardware Investment Bank",
+    "priority": "High"
+  },
+  {
+    "name": "CleanTech Capital Group Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "CleanTech Capital Group",
+    "email": "investment@cleantechcapital.ch",
+    "sector": "Hard-Tech Platforms & Physical Recycling VC",
+    "priority": "High"
+  },
+  {
+    "name": "Climate 3nergy General Desk",
+    "role": "General Team Desk",
+    "organization": "Climate 3nergy Real Estate Partners",
+    "email": "hello@climate3nergy.com",
+    "sector": "Building Decarbonization & Energy Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Climate 3nergy Investment Desk",
+    "role": "Direct Investment Desk",
+    "organization": "Climate 3nergy Real Estate Partners",
+    "email": "pitches@climate3nergy.com",
+    "sector": "Building Decarbonization & Energy Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Pilar Cruz",
+    "role": "Chief Sustainability Officer",
+    "organization": "Cargill",
+    "email": "pilar_cruz@cargill.com",
+    "sector": "Global Agriculture, Raw Materials & Logistics / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Michael Okoroafor",
+    "role": "Chief Sustainability Officer",
+    "organization": "McCormick & Company",
+    "email": "michael_okoroafor@mccormick.com",
+    "sector": "Food Ingredients & Eco-Packaging Conversions / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Maria Watson",
+    "role": "Director of Sustainability",
+    "organization": "Solventum",
+    "email": "maria.watson@solventum.com",
+    "sector": "MedTech Value Chain & Product Waste Mitigation / Director",
+    "priority": "High"
+  },
+  {
+    "name": "Kelly Goodejohn",
+    "role": "Chief Sustainability and Social Impact Officer",
+    "organization": "Starbucks",
+    "email": "kgoodejo@starbucks.com",
+    "sector": "Food & Beverage, Agricultural Supply & Sustainable Stores / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Michele Baeten",
+    "role": "Vice President of Integrated Sustainability",
+    "organization": "Procter & Gamble (P&G)",
+    "email": "baeten.m@pg.com",
+    "sector": "Household Consumer Goods, Packaging Circularity / VP Sustainability",
+    "priority": "High"
+  },
+  {
+    "name": "Jaycee Pribulsky",
+    "role": "Partner & Chief Sustainability Officer",
+    "organization": "Apollo Global Management",
+    "email": "jpribulsky@apollo.com",
+    "sector": "Private Equity, Infrastructure & Institutional ESG / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Marin Sonoma Impact Ventures Dealflow Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "Marin Sonoma Impact Ventures",
+    "email": "dealflow@msiventerprises.com",
+    "sector": "Structural Climate & Impact Venture Capital",
+    "priority": "High"
+  },
+  {
+    "name": "ReGen Ventures Team Desk",
+    "role": "Main Operations Desk",
+    "organization": "ReGen Ventures",
+    "email": "hello@regen.vc",
+    "sector": "Biomaterials, Nature-Tech & Circular Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "ReGen Ventures Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "ReGen Ventures",
+    "email": "proposals@regen.vc",
+    "sector": "Biomaterials, Nature-Tech & Circular Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Liquid 2 Ventures Inquiries Desk",
+    "role": "General Inquiries Desk",
+    "organization": "Liquid 2 Ventures (Cleantech Arm)",
+    "email": "hello@liquid2.vc",
+    "sector": "Material Science Platforms & Logistical Automation VC",
+    "priority": "High"
+  },
+  {
+    "name": "Liquid 2 Ventures Cleantech Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Liquid 2 Ventures (Cleantech Arm)",
+    "email": "investment@liquid2.vc",
+    "sector": "Material Science Platforms & Logistical Automation VC",
+    "priority": "High"
+  },
+  {
+    "name": "Third Sphere Team Desk",
+    "role": "General Team Desk",
+    "organization": "Third Sphere",
+    "email": "hello@thirdsphere.com",
+    "sector": "Physical Manufacturing, Packaging & Clean Supply VC",
+    "priority": "High"
+  },
+  {
+    "name": "Third Sphere Pitch Desk",
+    "role": "Direct Submission Desk",
+    "organization": "Third Sphere",
+    "email": "pitches@thirdsphere.com",
+    "sector": "Physical Manufacturing, Packaging & Clean Supply VC",
+    "priority": "High"
+  },
+  {
+    "name": "Pratik Raval",
+    "role": "Global Head of Sustainability & ESG Advisory",
+    "organization": "Tata Consultancy Services (TCS)",
+    "email": "pratik.raval@tcs.com",
+    "sector": "Enterprise Climate Transformation & Digital ESG / Global Head",
+    "priority": "High"
+  },
+  {
+    "name": "Nira Johri",
+    "role": "Chief Sustainability Officer",
+    "organization": "KFC Global / Yum! Brands Group",
+    "email": "nira.johri@yum.com",
+    "sector": "QSR, Food Supply Chains & Circular Packaging / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Meaghan Muldoon",
+    "role": "Chief Sustainability Officer",
+    "organization": "BNY",
+    "email": "meaghan.muldoon@bny.com",
+    "sector": "Institutional Sustainable Finance & ESG Markets / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Tara Hemmer",
+    "role": "Senior VP & Chief Sustainability Officer",
+    "organization": "Waste Management (WM)",
+    "email": "themmer@wm.com",
+    "sector": "Circular Waste, Industrial Recycling & Energy Recovery / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Gayle Schueller",
+    "role": "Senior VP & Chief Sustainability Officer",
+    "organization": "3M",
+    "email": "gayle.schueller@mmm.com",
+    "sector": "Industrial Manufacturing, Materials Science & Circularity / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Lauren Riley",
+    "role": "Managing Director of Global Environmental Affairs & Chief Sustainability Officer",
+    "organization": "United Airlines",
+    "email": "lauren.riley@united.com",
+    "sector": "Aviation, Sustainable Logistics & Fuel Decarbonization / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Kira Ventures Dealflow Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Kira Ventures",
+    "email": "dealflow@kiraventures.com",
+    "sector": "Utility Asset Scaling & Clean Manufacturing Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Propeller VC Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Propeller VC",
+    "email": "proposals@propeller.vc",
+    "sector": "Deep Physical Engineering, Packaging Barriers & Ocean Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "Vireo Ventures Inquiries Desk",
+    "role": "General Inquiries Desk",
+    "organization": "Vireo Ventures",
+    "email": "hello@vireo.vc",
+    "sector": "Electrification, Clean Grid Storage & Mobile Energy VC",
+    "priority": "High"
+  },
+  {
+    "name": "Vireo Ventures Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Vireo Ventures",
+    "email": "investment@vireo.vc",
+    "sector": "Electrification, Clean Grid Storage & Mobile Energy VC",
+    "priority": "High"
+  },
+  {
+    "name": "CarbonDraw VC General Desk",
+    "role": "General Team Desk",
+    "organization": "CarbonDraw VC",
+    "email": "hello@carbondraw.vc",
+    "sector": "Physical Chemistry & Carbon Removal Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "CarbonDraw VC Submission Desk",
+    "role": "Direct Submission Desk",
+    "organization": "CarbonDraw VC",
+    "email": "pitches@carbondraw.vc",
+    "sector": "Physical Chemistry & Carbon Removal Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Dr. Rebecca Heaton",
+    "role": "Director of Sustainability",
+    "organization": "Lloyds Banking Group",
+    "email": "rebecca.heaton@lloydsbanking.com",
+    "sector": "Commercial Green Asset Finance & Transition Banking / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Chua Sock Koong",
+    "role": "Strategic Board Lead - Sustainability Advisory",
+    "organization": "Singtel Group",
+    "email": "sockkoong@singtel.com",
+    "sector": "Telecom Infrastructure Decarbonization & APAC Green Energy / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Jeffrey Hogue",
+    "role": "Chief Sustainability Officer",
+    "organization": "Levi Strauss & Co.",
+    "email": "jhogue@levi.com",
+    "sector": "Apparel, Circular Materials & Low-Emission Logistics / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Courtney Holm",
+    "role": "Vice President of Sustainable Futures",
+    "organization": "Capgemini UK",
+    "email": "courtney.holm@capgemini.com",
+    "sector": "Enterprise Supply Chain & Digital Carbon Ledger / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Marissa Pagnani McGowan",
+    "role": "Chief Sustainability Officer",
+    "organization": "L'Oréal North America",
+    "email": "marissa.mcgowan@loreal.com",
+    "sector": "Consumer Beauty, Bio-based Packaging & Retail / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "All Aboard Fund Dealflow Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "All Aboard Fund",
+    "email": "dealflow@allaboardfund.com",
+    "sector": "Commercial Plant Deployment & Clean Hardware Blended Finance",
+    "priority": "High"
+  },
+  {
+    "name": "Estari Group Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Estari Group",
+    "email": "proposals@estarigroup.com",
+    "sector": "Heavy Asset Logistics & Clean Growth Equity",
+    "priority": "High"
+  },
+  {
+    "name": "G-Force VC Inquiries Desk",
+    "role": "General Inquiries Desk",
+    "organization": "G-Force VC",
+    "email": "hello@gforce.vc",
+    "sector": "Clean Energy & Industrial Sustainability Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "G-Force VC Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "G-Force VC",
+    "email": "investment@gforce.vc",
+    "sector": "Clean Energy & Industrial Sustainability Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Asterion Ventures General Desk",
+    "role": "General Team Desk",
+    "organization": "Asterion Ventures",
+    "email": "hello@asterionventures.com",
+    "sector": "European Climate Hard-Tech & Infrastructure VC",
+    "priority": "High"
+  },
+  {
+    "name": "Asterion Ventures Pitch Desk",
+    "role": "Direct Submission Desk",
+    "organization": "Asterion Ventures",
+    "email": "pitches@asterionventures.com",
+    "sector": "European Climate Hard-Tech & Infrastructure VC",
+    "priority": "High"
+  },
+  {
+    "name": "Jennifer Guenther",
+    "role": "Chief Sustainability Officer",
+    "organization": "Tronox",
+    "email": "jennifer.guenther@tronox.com",
+    "sector": "Industrial Chemical Manufacturing & Minerals / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Elizabeth Grove",
+    "role": "Chief Sustainability Officer",
+    "organization": "Lubrizol",
+    "email": "elizabeth.grove@lubrizol.com",
+    "sector": "Green Chemical Synthesis & Industrial Additives / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Adam Brennan",
+    "role": "Chief Sustainability Officer",
+    "organization": "Thai Union Group",
+    "email": "adam.brennan@thaiunion.com",
+    "sector": "Food Packaging, Seafood Logistics & Decarbonization / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Andrew Boyd",
+    "role": "Chief Sustainability Officer",
+    "organization": "Perfetti Van Melle",
+    "email": "andrew.boyd@perfettivanmelle.com",
+    "sector": "Confectionery, Food Packaging & Raw Materials / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Adam Muellerweiss",
+    "role": "Chief Sustainability Officer",
+    "organization": "Clarios",
+    "email": "adam.muellerweiss@clarios.com",
+    "sector": "Advanced Energy Storage & Closed-Loop Recycling / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Ankur Capital Dealflow Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Ankur Capital",
+    "email": "dealflow@ankurcapital.com",
+    "sector": "Material Sciences, Bio-Packaging Innovations & Deep-Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "Planet A Ventures General Desk",
+    "role": "General Inquiries Desk",
+    "organization": "Planet A Ventures",
+    "email": "hello@planet-a.com",
+    "sector": "European Climate Hard Tech & Material Science VC",
+    "priority": "High"
+  },
+  {
+    "name": "Planet A Ventures Pitch Desk",
+    "role": "Direct Pitch Desk",
+    "organization": "Planet A Ventures",
+    "email": "pitches@planet-a.com",
+    "sector": "European Climate Hard Tech & Material Science VC",
+    "priority": "High"
+  },
+  {
+    "name": "Chevron Technology Ventures Deal Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Chevron Technology Ventures",
+    "email": "ctv@chevron.com",
+    "sector": "Carbon Engineering, Industrial Hydrogen & Hard-Tech Energy CVC",
+    "priority": "High"
+  },
+  {
+    "name": "Yumi Otsuka",
+    "role": "Chief Sustainability Officer",
+    "organization": "Toyota Motor Corporation",
+    "email": "yumi.otsuka@toyota.co.jp",
+    "sector": "Automotive, Hydrogen Supply & Closed-Loop Circularity / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Katharina Stenholm",
+    "role": "Chief Sustainability Officer",
+    "organization": "dsm-firmenich",
+    "email": "katharina.stenholm@dsm-firmenich.com",
+    "sector": "Bio-Nutritional Supply, Packaging Chemistry & Carbon Mitigation / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Mandi McReynolds",
+    "role": "Chief Sustainability Officer & VP Global ESG",
+    "organization": "Workiva",
+    "email": "mandi.mcreynolds@workiva.com",
+    "sector": "Enterprise ESG Compliance Software / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Sridhar N E",
+    "role": "Chief Sustainability Officer & Chief Ethics Counsellor",
+    "organization": "Titan Company Limited",
+    "email": "sridharne@titan.co.in",
+    "sector": "Lifestyle, Packaging & Corporate Climate Strategy / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Jackie Jung",
+    "role": "Chief Sustainability Officer & VP Global Operations Strategy",
+    "organization": "Western Digital",
+    "email": "jackie.jung@wdc.com",
+    "sector": "Electronics Manufacturing Decarbonization & Operations / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Cimarron Nix",
+    "role": "Chief Sustainability Officer",
+    "organization": "Nike",
+    "email": "cimarron.nix@nike.com",
+    "sector": "Apparel, Footwear & Sustainable Materials / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Inclimo Climate Tech Dealflow Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "Inclimo Climate Tech",
+    "email": "dealflow@inclimo.com",
+    "sector": "European Climate Tech & Industrial Decarbonization VC",
+    "priority": "High"
+  },
+  {
+    "name": "Endgame Capital Investment Desk",
+    "role": "Direct Investment Desk",
+    "organization": "Endgame Capital",
+    "email": "pitches@endgame.vc",
+    "sector": "Pre-Seed Hard Tech & Manufacturing Decarbonization VC",
+    "priority": "High"
+  },
+  {
+    "name": "Transition VC Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Transition VC",
+    "email": "proposals@transitionvc.com",
+    "sector": "Seed/Series A Clean Technology & Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Peak Sustainability Ventures Team Desk",
+    "role": "General Team Desk",
+    "organization": "Peak Sustainability Ventures",
+    "email": "info@peakventures.in",
+    "sector": "Deep-Tech Climate & Circular Material Chemistry VC",
+    "priority": "High"
+  },
+  {
+    "name": "Peak Sustainability Ventures Deal Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Peak Sustainability Ventures",
+    "email": "deals@peakventures.in",
+    "sector": "Deep-Tech Climate & Circular Material Chemistry VC",
+    "priority": "High"
+  },
+  {
+    "name": "Aleksandra Dobkowski-Joy",
+    "role": "Chief ESG & Sustainability Officer",
+    "organization": "Solventum",
+    "email": "aleksandra.dobkowski-joy@solventum.com",
+    "sector": "Healthcare Value Chains & Life-Sciences Packaging / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Kim Marotta",
+    "role": "Chief Environmental Sustainability Officer",
+    "organization": "Suntory Global Spirits",
+    "email": "kim.marotta@suntoryglobalspirits.com",
+    "sector": "Beverage Portfolios & Eco-Packaging / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Kathy Presto",
+    "role": "Chief Procurement and Sustainability Officer",
+    "organization": "HH Global",
+    "email": "kathy.presto@hhglobal.com",
+    "sector": "Marketing Supply Chains & Circular Materials / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Christina Shim",
+    "role": "Global Chief Sustainability Officer",
+    "organization": "IBM",
+    "email": "christina.shim@ibm.com",
+    "sector": "Enterprise Technology & Carbon Mapping / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Prajakta Verma",
+    "role": "Sustainability & Supply Chain Leadership",
+    "organization": "Godrej Consumer Products Ltd (GCPL)",
+    "email": "prajakta.verma@godrejcp.com",
+    "sector": "FMCG, Consumer Goods & Packaging Sustainability",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Carbon Ventures Dealflow Desk",
+    "role": "Direct Submission Desk",
+    "organization": "Carbon Ventures",
+    "email": "dealflow@carbonventures.com",
+    "sector": "Pure-play Deep Climate Hardware & Clean Chemistry VC",
+    "priority": "High"
+  },
+  {
+    "name": "Urban Us Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Urban Us",
+    "email": "proposals@urban.us",
+    "sector": "Tough Engineering & Urban Climate Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Anterra Capital Inquiries Desk",
+    "role": "General Inquiries Desk",
+    "organization": "Anterra Capital",
+    "email": "info@anterracapital.com",
+    "sector": "Deep-Tech Hardware, Biochemistry & Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Anterra Capital Investment Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Anterra Capital",
+    "email": "investment@anterracapital.com",
+    "sector": "Deep-Tech Hardware, Biochemistry & Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Omnivore Team Desk",
+    "role": "General Team Desk",
+    "organization": "Omnivore (Climate Smart Agriculture Fund)",
+    "email": "hello@omnivore.vc",
+    "sector": "Physical Agritech & Circular Food Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Omnivore Pitches Desk",
+    "role": "Direct Investment Desk",
+    "organization": "Omnivore (Climate Smart Agriculture Fund)",
+    "email": "pitches@omnivore.vc",
+    "sector": "Physical Agritech & Circular Food Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Elena Blanco",
+    "role": "Sustainability & Infrastructure Leadership",
+    "organization": "Enagás",
+    "email": "elena.blanco@enagas.es",
+    "sector": "Gas Grid & Industrial Decarbonization / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Thomas K. Richmond",
+    "role": "Sustainable Procurement Leadership",
+    "organization": "Archer Daniels Midland (ADM)",
+    "email": "thomas.richmond@adm.com",
+    "sector": "Global Agriculture, Food Packaging & Bio-materials",
+    "priority": "High"
+  },
+  {
+    "name": "Violaine Gouriou",
+    "role": "Corporate Sustainability Leadership",
+    "organization": "Moncler Group",
+    "email": "violaine.gouriou@moncler.com",
+    "sector": "Luxury Value Chain & Alternative Materials / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Dr. Sanjeev Kumar",
+    "role": "Clean Energy & Sustainability Office",
+    "organization": "Adani Group",
+    "email": "sanjeev.kumar@adani.com",
+    "sector": "Clean Energy, Green Hydrogen & Industrial Decarbonization",
+    "priority": "High"
+  },
+  {
+    "name": "Blue Ashva Capital General Desk",
+    "role": "General Inquiries Desk",
+    "organization": "Blue Ashva Capital",
+    "email": "contact@blueashva.com",
+    "sector": "Packaging Hardware, Material Science & Circular Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "Blue Ashva Capital Pitch Desk",
+    "role": "Direct Pitch Portal Desk",
+    "organization": "Blue Ashva Capital",
+    "email": "investment@blueashva.com",
+    "sector": "Packaging Hardware, Material Science & Circular Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "Blue Earth Capital Team Desk",
+    "role": "Main Operations Desk",
+    "organization": "Blue Earth Capital",
+    "email": "info@blueearth.capital",
+    "sector": "Deep-Tech Climate & Sustainable Manufacturing Impact PE/VC",
+    "priority": "High"
+  },
+  {
+    "name": "Blue Earth Capital Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Blue Earth Capital",
+    "email": "proposals@blueearth.capital",
+    "sector": "Deep-Tech Climate & Sustainable Manufacturing Impact PE/VC",
+    "priority": "High"
+  },
+  {
+    "name": "BlueOrchard Team Desk",
+    "role": "General Inquiries Desk",
+    "organization": "BlueOrchard (Climate Action Mobilisation Fund)",
+    "email": "info@blueorchard.com",
+    "sector": "Blended Finance & Structural Carbon Mitigation Impact Fund",
+    "priority": "High"
+  },
+  {
+    "name": "BlueOrchard Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "BlueOrchard (Climate Action Mobilisation Fund)",
+    "email": "dealflow@blueorchard.com",
+    "sector": "Blended Finance & Structural Carbon Mitigation Impact Fund",
+    "priority": "High"
+  },
+  {
+    "name": "MassMutual Ventures Team Desk",
+    "role": "General Team Desk",
+    "organization": "MassMutual Ventures (Climate Technology Fund)",
+    "email": "info@massmutualventures.com",
+    "sector": "Hardware-Intensive Energy & Clean Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "MassMutual Ventures Climate Desk",
+    "role": "Direct Investment Desk",
+    "organization": "MassMutual Ventures (Climate Technology Fund)",
+    "email": "pitches@massmutualventures.com",
+    "sector": "Hardware-Intensive Energy & Clean Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "Julian Wentzel",
+    "role": "Group Chief Sustainability Officer",
+    "organization": "HSBC Group",
+    "email": "julian.wentzel@hsbc.com",
+    "sector": "Global Financial Institutions & Transition Banking / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Renee Henze",
+    "role": "Chief Sustainability Officer",
+    "organization": "International Flavors & Fragrances (IFF)",
+    "email": "renee.henze@iff.com",
+    "sector": "Bio-based Ingredients & Chemistry / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Noel Kinder",
+    "role": "Senior VP of Sustainability",
+    "organization": "Lululemon Athletica",
+    "email": "nkinder@lululemon.com",
+    "sector": "Apparel & Sustainable Materials / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Lena Julle",
+    "role": "Chief Sustainability Officer",
+    "organization": "IKEA / Ingka Group",
+    "email": "lena.julle@ikea.com",
+    "sector": "Global Retail, Forestry & Packaging Circularity / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Cassandra Garber",
+    "role": "Chief Sustainability Officer",
+    "organization": "General Motors",
+    "email": "cassandra.garber@gm.com",
+    "sector": "Automotive & Clean Manufacturing / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "David Clark",
+    "role": "Vice President of Sustainability",
+    "organization": "Amcor",
+    "email": "david.clark@amcor.com",
+    "sector": "Global Consumer Product Packaging / Industrial CSO",
+    "priority": "High"
+  },
+  {
     "name": "Zero Carbon Capital Team Desk",
     "role": "General Team Desk",
     "organization": "Zero Carbon Capital",
