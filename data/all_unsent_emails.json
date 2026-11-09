@@ -1,4 +1,384 @@
 [
+  {
+    "name": "Zero Carbon Capital Team Desk",
+    "role": "General Team Desk",
+    "organization": "Zero Carbon Capital",
+    "email": "hello@zerocarbon.capital",
+    "sector": "Tough Physical Science & Clean Manufacturing VC",
+    "priority": "High"
+  },
+  {
+    "name": "Zero Carbon Capital Investment Desk",
+    "role": "Direct Investment Desk",
+    "organization": "Zero Carbon Capital",
+    "email": "pitches@zerocarbon.capital",
+    "sector": "Tough Physical Science & Clean Manufacturing VC",
+    "priority": "High"
+  },
+  {
+    "name": "Dr. Frank O'Keefe",
+    "role": "Chief Sustainability Officer",
+    "organization": "Accenture Global",
+    "email": "frank.o.keefe@accenture.com",
+    "sector": "Enterprise Procurement & Clean Operations / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Yoko Kijima",
+    "role": "General Manager of Corporate Sustainability & CSR",
+    "organization": "Mitsubishi Corporation",
+    "email": "yoko.kijima@mitsubishicorp.com",
+    "sector": "Heavy Industrial Supply Grids & Material Circularity / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Renata Dinkelmann",
+    "role": "Head of Corporate Sustainability",
+    "organization": "JBS Global",
+    "email": "renata.dinkelmann@jbs.com.br",
+    "sector": "Food Production, Agricultural Logistics & Biowaste / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Pinar Mavituna",
+    "role": "Global Chief Sustainability Officer",
+    "organization": "Shell Global",
+    "email": "pinar.mavituna@shell.com",
+    "sector": "Energy Transition & Industrial Chemistry / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Aman Gupta / Investment Team",
+    "role": "Founding Partner / Leadership",
+    "organization": "Gruhas Collective (Gruhas Proptech & Consumer)",
+    "email": "aman@gruhascollective.com",
+    "sector": "Proptech, Clean-Tech Hardware & Consumer Innovation VC",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Blue Bear Capital Proposals Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "Blue Bear Capital",
+    "email": "proposals@bluebearcap.com",
+    "sector": "Industrial Automation & Hardware Decarbonization VC",
+    "priority": "High"
+  },
+  {
+    "name": "Green Frontier Capital Deal Desk",
+    "role": "Direct Deal Sourcing Desk",
+    "organization": "Green Frontier Capital",
+    "email": "deals@greenfrontiercapital.com",
+    "sector": "Sustainable Manufacturing & South Asia Circular VC",
+    "priority": "High"
+  },
+  {
+    "name": "Amplify Capital Inquiries Desk",
+    "role": "General Inquiries Desk",
+    "organization": "Amplify Capital",
+    "email": "hello@amplifycapital.ca",
+    "sector": "Clean-Tech Hardware & Tough Engineering VC",
+    "priority": "High"
+  },
+  {
+    "name": "Amplify Capital Investment Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Amplify Capital",
+    "email": "investment@amplifycapital.ca",
+    "sector": "Clean-Tech Hardware & Tough Engineering VC",
+    "priority": "High"
+  },
+  {
+    "name": "Pulse Fund General Desk",
+    "role": "General Team Desk",
+    "organization": "Pulse Fund",
+    "email": "hello@pulsefund.vc",
+    "sector": "Hard Tech, Packaging & Food Systems VC",
+    "priority": "High"
+  },
+  {
+    "name": "Pulse Fund Pitch Desk",
+    "role": "Direct Investment Desk",
+    "organization": "Pulse Fund",
+    "email": "pitches@pulsefund.vc",
+    "sector": "Hard Tech, Packaging & Food Systems VC",
+    "priority": "High"
+  },
+  {
+    "name": "Musidora Jorgensen",
+    "role": "Chief Sustainability Officer",
+    "organization": "Microsoft UK",
+    "email": "musidora.jorgensen@microsoft.com",
+    "sector": "Enterprise Tech & Data Center Decarbonization / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Ibrahim Al Zu'bi",
+    "role": "Group Chief Sustainability Officer",
+    "organization": "ADNOC Group",
+    "email": "ialzubi@adnoc.ae",
+    "sector": "Energy, Industrial Infrastructure & Decarbonization / Middle East CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Ellen Jackowski",
+    "role": "Chief Sustainability Officer",
+    "organization": "Mastercard",
+    "email": "ellen.jackowski@mastercard.com",
+    "sector": "Global Payments & Commercial Supply Chain ESG / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Dr. Anthony M. Watanabe",
+    "role": "Chief Sustainability Officer",
+    "organization": "Indorama Ventures",
+    "email": "anthony.w@indorama.net",
+    "sector": "Chemicals & Packaging Raw Materials / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Kathryn Alsegaf",
+    "role": "Global Chief Sustainability Officer",
+    "organization": "Deloitte Global",
+    "email": "kalsegaf@deloitte.com",
+    "sector": "Professional Services & ESG / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Neville Tata",
+    "role": "Leadership Desk",
+    "organization": "Star Bazaar / Trent Hypermarket",
+    "email": "neville@starbazaarindia.com",
+    "sector": "Retail, FMCG & Conglomerate / Commercialisation",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Neville Tata",
+    "role": "Tata Sons / Group Leadership",
+    "organization": "Tata Sons / Tata Group",
+    "email": "neville.tata@tata.com",
+    "sector": "Retail, FMCG & Conglomerate / Commercialisation",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Neville Tata",
+    "role": "Head - Star Bazaar / Non-Executive Director & Leadership",
+    "organization": "Trent Hypermarket / Tata Group",
+    "email": "neville.tata@trent-tata.com",
+    "sector": "Retail, FMCG & Conglomerate / Commercialisation",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Tanay Dwivedi",
+    "role": "Reliance Industries Corporate Leadership",
+    "organization": "Reliance Industries Ltd (RIL)",
+    "email": "tanay.dwivedi@ril.com",
+    "sector": "Conglomerate Innovation & Strategy",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Piyush Chopra",
+    "role": "Direct Executive Desk",
+    "organization": "Reliance Industries Ltd (RIL)",
+    "email": "piyushchopra06@gmail.com",
+    "sector": "Conglomerate Innovation & Strategy",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Piyush Chopra",
+    "role": "Reliance Industries Corporate Leadership / Digital & Strategy",
+    "organization": "Reliance Industries Ltd (RIL)",
+    "email": "piyush.chopra@ril.com",
+    "sector": "Conglomerate Innovation & Strategy",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Anil Agarwal",
+    "role": "Chairman & Founder",
+    "organization": "Vedanta Resources / Vedanta Ltd",
+    "email": "anil.agarwal@vedanta.co.in",
+    "sector": "Natural Resources, Metals, Mining & Energy / Industrial Commercialisation",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Rajan Luthra",
+    "role": "Head - Special Projects & Corporate Initiatives",
+    "organization": "Reliance Industries Ltd (RIL)",
+    "email": "rajan.luthra@ril.com",
+    "sector": "Conglomerate Innovation & Energy / Industrial Commercialisation",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Office of the Managing Director",
+    "role": "MD Office / Executive Leadership",
+    "organization": "Force Motors Ltd",
+    "email": "mdoffice@forcemotors.com",
+    "sector": "Automotive & Speciality Vehicles / Industrial Licensing",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Sakshi Pagnis",
+    "role": "Talent Acquisition & Executive Hiring",
+    "organization": "L&T Technology Services (LTTS)",
+    "email": "Sakshi.Pagnis@ltts.com",
+    "sector": "Executive Career / Engineering Leadership",
+    "priority": "High"
+  },
+  {
+    "name": "A. Ayati Raj",
+    "role": "Corporate / Technology Strategy Leadership",
+    "organization": "Samsung Electronics",
+    "email": "a.ayatiraj@samsung.com",
+    "sector": "Hardware Ecosystem / Thermal Engineering",
+    "priority": "High"
+  },
+  {
+    "name": "Sharon Vosmek / Deal Team",
+    "role": "CEO / Investment Team",
+    "organization": "Astia Angels / Astia Fund",
+    "email": "sharon@astia.org",
+    "sector": "Global Impact & Deep-Tech Venture Fund",
+    "priority": "High"
+  },
+  {
+    "name": "Harsh Chaturvedi",
+    "role": "Investment Team",
+    "organization": "NK Squared (NKSQR)",
+    "email": "harsh@nksqr.com",
+    "sector": "Technology & Growth VC",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Naman Lahoti",
+    "role": "Partner / Investment Team",
+    "organization": "NK Squared (NKSQR)",
+    "email": "naman@nksqr.com",
+    "sector": "Technology & Growth VC",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Manasi Arora",
+    "role": "Partner / Investment Team",
+    "organization": "NK Squared (NKSQR)",
+    "email": "manasi@nksqr.com",
+    "cc": [
+      "naman@nksqr.com",
+      "harsh@nksqr.com"
+    ],
+    "sector": "Technology & Growth VC",
+    "priority": "Urgent"
+  },
+  {
+    "name": "Sofia",
+    "role": "Investments Team",
+    "organization": "AgFunder",
+    "email": "sofia@agfunder.com",
+    "sector": "AgriFood Tech & Circular Economy VC",
+    "priority": "High"
+  },
+  {
+    "name": "Jennifer",
+    "role": "Team Desk",
+    "organization": "AgFunder",
+    "email": "jennifer@agfunder.com",
+    "sector": "AgriFood Tech & Circular Economy VC",
+    "priority": "High"
+  },
+  {
+    "name": "Elaine Siu / Media Desk",
+    "role": "Editorial & Media Desk",
+    "organization": "AgFunder",
+    "email": "elaine@agfunder.com",
+    "sector": "AgriFood Tech & Circular Economy VC",
+    "priority": "High"
+  },
+  {
+    "name": "Saja Climate Partners Vetting Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "Saja Climate Partners",
+    "email": "submissions@sajaclimate.com",
+    "sector": "Transition Economics & Physical Manufacturing VC",
+    "priority": "High"
+  },
+  {
+    "name": "Hutchins Climate Capital Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Hutchins Climate Capital",
+    "email": "dealflow@hutchinsclimate.com",
+    "sector": "Growth Equity Clean-Tech Infrastructure",
+    "priority": "High"
+  },
+  {
+    "name": "Clean Energy Ventures Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Clean Energy Ventures",
+    "email": "proposals@cleanenergyventures.com",
+    "sector": "Hard-Tech & Carbon Mitigation VC",
+    "priority": "High"
+  },
+  {
+    "name": "Africa Climate Ventures General Team",
+    "role": "General Team Desk",
+    "organization": "Africa Climate Ventures",
+    "email": "hello@africaclimateventures.com",
+    "sector": "Climate Tech & Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Africa Climate Ventures Deal Desk",
+    "role": "Investment Desk",
+    "organization": "Africa Climate Ventures",
+    "email": "pitches@africaclimateventures.com",
+    "sector": "Climate Tech & Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Jenny Wassenaar",
+    "role": "Chief Sustainability Officer",
+    "organization": "Trivium Packaging",
+    "email": "jenny.wassenaar@triviumpackaging.com",
+    "sector": "Circular Metal Packaging / Industrial CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Jon Hixson",
+    "role": "Chief Sustainability Officer",
+    "organization": "Yum! Brands (KFC, Pizza Hut, Taco Bell)",
+    "email": "jon.hixson@yum.com",
+    "sector": "Global QSR & Convenience Packaging / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Eunice Heath",
+    "role": "Senior VP & Chief Sustainability Officer",
+    "organization": "CRH",
+    "email": "eunice.heath@crh.com",
+    "sector": "Industrial & Building Materials / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Sandeep Chandna",
+    "role": "Chief Sustainability Officer",
+    "organization": "Tech Mahindra",
+    "email": "sandeep.chandna@techmahindra.com",
+    "sector": "Technology & Enterprise Solutions / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Ewan Andrew",
+    "role": "Global Chief Sustainability Officer and President of Supply & Procurement",
+    "organization": "Diageo Global",
+    "email": "ewan.andrew@diageo.com",
+    "sector": "Global Beverage / Spirits & RTD / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Antonia Wanner",
+    "role": "Head of Environmental Sustainability",
+    "organization": "Nestlé Global",
+    "email": "antonia.wanner@nestle.com",
+    "sector": "Food & Beverage / Sustainable Packaging / CSO",
+    "priority": "High"
+  },
   "info@prabhas.com",
   "secretary@prabhas.com",
   "manager@prabhas.com",
