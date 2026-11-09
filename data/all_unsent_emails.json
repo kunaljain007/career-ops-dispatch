@@ -1,5 +1,213 @@
 [
   {
+    "name": "Chrysalix Venture Capital Dealflow Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "Chrysalix Venture Capital",
+    "email": "dealflow@chrysalix.com",
+    "sector": "Heavy Industry Automation & Clean Hardware VC",
+    "priority": "High"
+  },
+  {
+    "name": "Speciale Invest Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "Speciale Invest",
+    "email": "proposals@specialeinvest.com",
+    "sector": "Deep-Tech Hardware, Green Chemistry & Alternative Materials VC",
+    "priority": "High"
+  },
+  {
+    "name": "Kompas VC Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Kompas VC",
+    "email": "investment@kompas.vc",
+    "sector": "Industrial Tech & Circular Building Materials VC",
+    "priority": "High"
+  },
+  {
+    "name": "2150 Urban Tech General Desk",
+    "role": "General Team Desk",
+    "organization": "2150 Urban Tech Sustainability Fund",
+    "email": "hello@2150.vc",
+    "sector": "Urban Decarbonization, Smart Grid & Building Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "2150 Urban Tech Pitch Desk",
+    "role": "Direct Submission Desk",
+    "organization": "2150 Urban Tech Sustainability Fund",
+    "email": "pitches@2150.vc",
+    "sector": "Urban Decarbonization, Smart Grid & Building Tech VC",
+    "priority": "High"
+  },
+  {
+    "name": "Shannon Thomas Carroll",
+    "role": "AVP of Global Environmental Sustainability",
+    "organization": "AT&T",
+    "email": "shannon.carroll@att.com",
+    "sector": "Telecom Network Architecture Carbon Efficiency & Energy / AVP",
+    "priority": "High"
+  },
+  {
+    "name": "Brian Moran",
+    "role": "Chief Sustainability Officer",
+    "organization": "Boeing",
+    "email": "brian.moran@boeing.com",
+    "sector": "Aerospace Supply Chain & Sustainable Aviation / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Amanda Davies",
+    "role": "Chief R&D, Procurement & Sustainability Officer",
+    "organization": "Mars Procurement & R&D",
+    "email": "amanda.davies@effem.com",
+    "sector": "FMCG Procurement, Raw Packaging Materials / Chief Officer",
+    "priority": "High"
+  },
+  {
+    "name": "Letitia Webster",
+    "role": "Managing Director & CSO, Merchant Banking Division",
+    "organization": "Goldman Sachs",
+    "email": "letitia.webster@gs.com",
+    "sector": "Merchant Banking & Investment Carbon Auditing / MD & CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Korab Zuka",
+    "role": "Global Head of Social Impact & Chief Sustainability Officer",
+    "organization": "Mars Inc.",
+    "email": "korab.zuka@effem.com",
+    "sector": "Food & Confectionery, Packaging Longevity / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Pam Cheng",
+    "role": "EVP Global Operations & IT, Chief Sustainability Officer",
+    "organization": "AstraZeneca",
+    "email": "pam.cheng@astrazeneca.com",
+    "sector": "Pharma, Clinical Infrastructure & Eco-Packaging / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Maha AlQattan",
+    "role": "Group Chief Sustainability Officer",
+    "organization": "DP World",
+    "email": "maha.alqattan@dpworld.com",
+    "sector": "Global Logistics & Supply Chain Climate Resilience / Group CSO",
+    "priority": "High"
+  },
+  {
+    "name": "CSO Secretariat Desk",
+    "role": "Chief Sustainability Officer Desk",
+    "organization": "Mondelēz International",
+    "email": "sustainability@mdlz.com",
+    "sector": "Confectionery, Snack Packaging & Plastic Reduction / Global CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Pavel Belas",
+    "role": "Head of Corporate Sustainability",
+    "organization": "Škoda Auto",
+    "email": "pavel.belas@skoda-auto.cz",
+    "sector": "Automotive Decarbonization & Battery Recycling / Head Sustainability",
+    "priority": "High"
+  },
+  {
+    "name": "ENGIE New Ventures Deal Desk",
+    "role": "Vetting Desk Portal",
+    "organization": "ENGIE New Ventures",
+    "email": "dealflow@engie.com",
+    "sector": "Clean Tech, Green Hydrogen & Utility Infrastructure CVC",
+    "priority": "High"
+  },
+  {
+    "name": "WindSail Capital Group Proposals Desk",
+    "role": "Venture Evaluation Desk",
+    "organization": "WindSail Capital Group",
+    "email": "proposals@windsailcapital.com",
+    "sector": "Clean Energy & Circular Materials Growth Capital",
+    "priority": "High"
+  },
+  {
+    "name": "Extantia Capital Inquiries Desk",
+    "role": "General Inquiries Desk",
+    "organization": "Extantia Capital",
+    "email": "hello@extantia.com",
+    "sector": "Industrial Deep Decarbonization VC",
+    "priority": "High"
+  },
+  {
+    "name": "Extantia Capital Sourcing Desk",
+    "role": "Direct Sourcing Desk",
+    "organization": "Extantia Capital",
+    "email": "investment@extantia.com",
+    "sector": "Industrial Deep Decarbonization VC",
+    "priority": "High"
+  },
+  {
+    "name": "Earthshot Ventures General Desk",
+    "role": "General Team Desk",
+    "organization": "Earthshot Ventures",
+    "email": "info@earthshot.vc",
+    "sector": "Hardware Energy & Sustainable Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Earthshot Ventures Pitch Desk",
+    "role": "Direct Submission Desk",
+    "organization": "Earthshot Ventures",
+    "email": "pitches@earthshot.vc",
+    "sector": "Hardware Energy & Sustainable Packaging VC",
+    "priority": "High"
+  },
+  {
+    "name": "Hannah Harrison",
+    "role": "Chief Sustainability Officer",
+    "organization": "WPP",
+    "email": "hannah.harrison@wpp.com",
+    "sector": "Advertising Value Chain ESG & Low-Carbon Procurement / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Anjalli Ravi Kumar",
+    "role": "Chief Sustainability Officer",
+    "organization": "Eternal / Zomato",
+    "email": "anjalli@zomato.com",
+    "sector": "Food Delivery Eco-Packaging & Circular Logistics / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Ram Vaidyanathan",
+    "role": "Chief Sustainability Officer",
+    "organization": "Sobha Realty",
+    "email": "ram.vaidyanathan@sobharealty.com",
+    "sector": "Green Real Estate & Sustainable Engineering / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Katharina Nickel",
+    "role": "Chief Sustainability Officer",
+    "organization": "BNP Paribas Germany",
+    "email": "katharina.nickel@bnpparibas.com",
+    "sector": "Banking ESG & Corporate Transition / CSO",
+    "priority": "High"
+  },
+  {
+    "name": "Daniel Hanna",
+    "role": "Global Head of Sustainable Finance",
+    "organization": "Barclays",
+    "email": "daniel.hanna@barclays.com",
+    "sector": "Investment Banking & Sustainable Finance / Global Head",
+    "priority": "High"
+  },
+  {
+    "name": "Erika Intiso",
+    "role": "Chief Sustainability Officer",
+    "organization": "Ingka Group / IKEA",
+    "email": "erika.intiso@ikea.com",
+    "sector": "Retail, Sustainable Forestry & Packaging / CSO",
+    "priority": "High"
+  },
+  {
     "name": "Investature Climate Dealflow Desk",
     "role": "Vetting Desk Portal",
     "organization": "Investature (Climate Innovation Arm)",
