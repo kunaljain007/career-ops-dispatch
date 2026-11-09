@@ -48305,5 +48305,68 @@
   "saawan.u@ghodawat.com",
   "fmcg@ghodawat.com",
   "info@sginstitute.in",
-  "registrar@sguk.ac.in"
+  "registrar@sguk.ac.in",
+  {
+    "email": "rahul@klr1.in",
+    "name": "Rahul",
+    "organization": "KLR1",
+    "status": "sent",
+    "added_at": "2026-11-09T11:42:48.446419",
+    "sent_at": "2026-11-09T11:42:48.446419",
+    "tier": 1
+  },
+  {
+    "email": "pallavisalgaocar@lubindia.com",
+    "name": "Pallavi Salgaocar",
+    "organization": "Laghu Udyog Bharati (LUB India) / V.M. Salgaocar Group",
+    "designation": "Industry Leader / Entrepreneur",
+    "status": "unsent",
+    "added_at": "2026-11-09T11:52:20.388443",
+    "tier": 1
+  },
+  {
+    "email": "sriharsha.majety@swiggy.in",
+    "name": "Sriharsha Majety",
+    "organization": "Swiggy",
+    "designation": "Managing Director & Group CEO",
+    "status": "unsent",
+    "added_at": "2026-11-09T11:54:04.130046",
+    "tier": 1
+  },
+  {
+    "email": "sriharsha@swiggy.in",
+    "name": "Sriharsha Majety",
+    "organization": "Swiggy",
+    "designation": "Managing Director & Group CEO (Alt)",
+    "status": "unsent",
+    "added_at": "2026-11-09T11:54:04.130046",
+    "tier": 1
+  },
+  {
+    "email": "rahul.bothra@swiggy.in",
+    "name": "Rahul Bothra",
+    "organization": "Swiggy",
+    "designation": "Chief Financial Officer & Executive Director",
+    "status": "unsent",
+    "added_at": "2026-11-09T11:54:04.130046",
+    "tier": 1
+  },
+  {
+    "email": "phani.kishan@swiggy.in",
+    "name": "Phani Kishan Addepalli",
+    "organization": "Swiggy",
+    "designation": "Chief Growth Officer & Executive Director",
+    "status": "unsent",
+    "added_at": "2026-11-09T11:54:04.130046",
+    "tier": 1
+  },
+  {
+    "email": "rohit.kapoor@swiggy.in",
+    "name": "Rohit Kapoor",
+    "organization": "Swiggy",
+    "designation": "CEO – Food Marketplace",
+    "status": "unsent",
+    "added_at": "2026-11-09T11:54:04.130046",
+    "tier": 1
+  }
 ]
