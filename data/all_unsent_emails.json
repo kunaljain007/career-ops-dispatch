@@ -49368,5 +49368,735 @@
     "schedule_date": "2026-11-10",
     "added_at": "2026-11-09T12:54:29.981931",
     "tier": 1
+  },
+  {
+    "email": "piaco@pandora.net",
+    "name": "Pia Heidenmark Cook",
+    "organization": "Pandora",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.930819",
+    "tier": 1
+  },
+  {
+    "email": "beaperez@coca-cola.com",
+    "name": "Bea Perez",
+    "organization": "The Coca-Cola Company",
+    "designation": "EVP & Global Chief Communications, Sustainability & Strategic Partnerships Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.930819",
+    "tier": 1
+  },
+  {
+    "email": "gomoore@deloitte.com",
+    "name": "Goldie Moore",
+    "organization": "Deloitte Global",
+    "designation": "Global Sustainability Lead (WorldClimate)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.930819",
+    "tier": 1
+  },
+  {
+    "email": "janelle.meyers@kellanova.com",
+    "name": "Janelle Meyers",
+    "organization": "Kellanova (Kellogg's)",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.930819",
+    "tier": 1
+  },
+  {
+    "email": "ulrike.sapiro@henkel.com",
+    "name": "Ulrike Sapiro",
+    "organization": "Henkel",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.930819",
+    "tier": 1
+  },
+  {
+    "email": "pitches@systemiqcapital.earth",
+    "name": "Systemiq Capital Pitches",
+    "organization": "Systemiq Capital",
+    "designation": "Direct Investment Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "hello@systemiqcapital.earth",
+    "name": "Systemiq Capital Team",
+    "organization": "Systemiq Capital",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "proposals@evokinnovations.com",
+    "name": "Evok Innovations Proposals",
+    "organization": "Evok Innovations",
+    "designation": "Venture Evaluation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "info@evokinnovations.com",
+    "name": "Evok Innovations Operations",
+    "organization": "Evok Innovations",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "pitches@astanor.com",
+    "name": "Astanor Ventures Pitches",
+    "organization": "Astanor Ventures",
+    "designation": "Direct Sourcing Desk (Food & Bio-Materials)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "hello@astanor.com",
+    "name": "Astanor Ventures Team",
+    "organization": "Astanor Ventures",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "deals@plural.vc",
+    "name": "Plural VC Deals",
+    "organization": "Plural VC",
+    "designation": "Deep Tech & Tough Hardware Portal",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "contactus@peakxv.com",
+    "name": "Peak XV Partners",
+    "organization": "Peak XV Partners (Sequoia India)",
+    "designation": "Corporate Desk & General Inquiries",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "info@matrixpartners.in",
+    "name": "Matrix Partners India (Z47)",
+    "organization": "Matrix Partners India (Z47)",
+    "designation": "General Information & Pitches Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "info@blume.vc",
+    "name": "Blume Ventures",
+    "organization": "Blume Ventures",
+    "designation": "General Desk & Pitch Route (Deeptech/Clean Energy)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "info@elevationcapital.com",
+    "name": "Elevation Capital",
+    "organization": "Elevation Capital",
+    "designation": "Corporate Communications & Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:55:40.931824",
+    "tier": 1
+  },
+  {
+    "email": "media@temasek.com.sg",
+    "name": "Temasek Holdings",
+    "organization": "Temasek Holdings (Singapore / India)",
+    "designation": "Corporate & Media Enquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.664946",
+    "tier": 1
+  },
+  {
+    "email": "info@indianangelnetwork.com",
+    "name": "Indian Angel Network (IAN)",
+    "organization": "Indian Angel Network",
+    "designation": "General Network Inquiries & Dealflow",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.664946",
+    "tier": 1
+  },
+  {
+    "email": "info@premjiinvest.com",
+    "name": "Premji Invest",
+    "organization": "Premji Invest (Azim Premji Family Office)",
+    "designation": "Corporate Desk & Family Office Communications",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.664946",
+    "tier": 1
+  },
+  {
+    "email": "info@firesideventures.com",
+    "name": "Fireside Ventures",
+    "organization": "Fireside Ventures",
+    "designation": "General Information & Brand Collaborations",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.664946",
+    "tier": 1
+  },
+  {
+    "email": "plans@nexusvp.com",
+    "name": "Nexus VP Pitch Desk",
+    "organization": "Nexus Venture Partners",
+    "designation": "Pitch Submission Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "jobs@nexusvp.com",
+    "name": "Nexus VP Corporate Desk",
+    "organization": "Nexus Venture Partners",
+    "designation": "Corporate & Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "investments@kalaari.com",
+    "name": "Kalaari Capital Investments",
+    "organization": "Kalaari Capital",
+    "designation": "Designated Pitch Review Box",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "info@kalaari.com",
+    "name": "Kalaari Capital Team",
+    "organization": "Kalaari Capital",
+    "designation": "General Corporate Inquiries",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "aditya@kalaari.com",
+    "name": "Aditya Viswanatha",
+    "organization": "Kalaari Capital",
+    "designation": "Compliance & Investor Relations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "contact@stellarisvp.com",
+    "name": "Stellaris VP General",
+    "organization": "Stellaris Venture Partners",
+    "designation": "General Information Inquiries",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "chetan@stellarisvp.com",
+    "name": "Chetan G. Shivakumar",
+    "organization": "Stellaris Venture Partners",
+    "designation": "Compliance Officer Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "contact@waterbridge.vc",
+    "name": "WaterBridge Ventures Intake",
+    "organization": "WaterBridge Ventures",
+    "designation": "General Intake Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "abhishek@waterbridge.vc",
+    "name": "Abhishek Jha",
+    "organization": "WaterBridge Ventures",
+    "designation": "Grievance & Legal Officer Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "hello@waterbridge.vc",
+    "name": "WaterBridge Ventures General",
+    "organization": "WaterBridge Ventures",
+    "designation": "Alternative Corporate Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:56:50.815199",
+    "tier": 1
+  },
+  {
+    "email": "jlossan@gestamp.com",
+    "name": "Javier Lossan",
+    "organization": "Gestamp",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "carine.de-boissezon@edf.fr",
+    "name": "Carine de Boissezon",
+    "organization": "EDF (Électricité de France)",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "dirk.voeste@basf.com",
+    "name": "Dirk Voeste",
+    "organization": "BASF Global",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "jill_kolling@cargill.com",
+    "name": "Jill Kolling",
+    "organization": "Cargill",
+    "designation": "Global Sustainability Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "aparna.khandelwal@wipro.com",
+    "name": "Aparna Khandelwal",
+    "organization": "Wipro Consumer Care & Lighting",
+    "designation": "Sustainability & Packaging Lead",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "pitches@valoventures.org",
+    "name": "Valo Ventures Pitches",
+    "organization": "Valo Ventures",
+    "designation": "Direct Submission Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "info@valoventures.org",
+    "name": "Valo Ventures Team",
+    "organization": "Valo Ventures",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "investments@carbon-direct.com",
+    "name": "Carbon Direct Capital",
+    "organization": "Carbon Direct Capital",
+    "designation": "Direct Sourcing Desk (Carbon Removal & Hydrogen)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "info@carbon-direct.com",
+    "name": "Carbon Direct Team",
+    "organization": "Carbon Direct Capital",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "pitches@buoyant.vc",
+    "name": "Buoyant Ventures Pitches",
+    "organization": "Buoyant Ventures",
+    "designation": "Venture Evaluation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "hello@buoyant.vc",
+    "name": "Buoyant Ventures General",
+    "organization": "Buoyant Ventures",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "dealflow@s2gventures.com",
+    "name": "S2G Ventures Dealflow",
+    "organization": "S2G Ventures",
+    "designation": "Direct Investment Desk (Packaging Chemistry & Clean Tech)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "info@s2gventures.com",
+    "name": "S2G Ventures Team",
+    "organization": "S2G Ventures",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:58:05.819113",
+    "tier": 1
+  },
+  {
+    "email": "vijay.r@bajajfinserv.in",
+    "name": "R. Vijay",
+    "organization": "Bajaj Finance / Bajaj Finserv",
+    "designation": "Company Secretary & Nodal Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.749576",
+    "tier": 1
+  },
+  {
+    "email": "investor.service@bajajfinserv.in",
+    "name": "Uma Shende",
+    "organization": "Bajaj Finserv Limited",
+    "designation": "Company Secretary & Investor Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.749576",
+    "tier": 1
+  },
+  {
+    "email": "chairman@bajajfinserv.in",
+    "name": "Sanjiv Bajaj",
+    "organization": "Bajaj Finserv Limited",
+    "designation": "Chairman & Managing Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.749576",
+    "tier": 1
+  },
+  {
+    "email": "md@bajajfinserv.in",
+    "name": "Rajeev Jain",
+    "organization": "Bajaj Finance Limited",
+    "designation": "Managing Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.749576",
+    "tier": 1
+  },
+  {
+    "email": "investors@tatacapital.com",
+    "name": "Corporate Board / Investor Relations",
+    "organization": "Tata Capital Limited",
+    "designation": "Board Secretariat & Capital Allocation Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.749576",
+    "tier": 1
+  },
+  {
+    "email": "mdceo@infoedge.com",
+    "name": "Hitesh Oberoi",
+    "organization": "Info Edge Limited",
+    "designation": "Managing Director & CEO",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "cfo@infoedge.com",
+    "name": "Himanshu Agarwal",
+    "organization": "Info Edge Limited",
+    "designation": "CFO & Additional Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "co@infoedge.com",
+    "name": "Jaya Bhatia",
+    "organization": "Info Edge Limited",
+    "designation": "Company Secretary & Compliance Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "investors@naukri.com",
+    "name": "Info Edge / Naukri Investor Desk",
+    "organization": "Info Edge Limited",
+    "designation": "Investor Services Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "ed1@bajajfinserv.in",
+    "name": "Rakesh Bhatt",
+    "organization": "Bajaj Finserv Limited",
+    "designation": "Executive Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "ed2@bajajfinserv.in",
+    "name": "Anup Saha",
+    "organization": "Bajaj Finserv Limited",
+    "designation": "Executive Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "cfo@bajajfinserv.in",
+    "name": "Sandeep Jain",
+    "organization": "Bajaj Finserv Limited",
+    "designation": "CFO & COO",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "bfs.cfo@bajajfinserv.in",
+    "name": "Ramandeep Singh Sahni",
+    "organization": "Bajaj Finserv Limited",
+    "designation": "CFO (Parent Group)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "vivek.dsouza@tatacapital.com",
+    "name": "Vivek Dsouza",
+    "organization": "Tata Capital Limited",
+    "designation": "Key Management Personnel / Executive",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "saurav.basu@tatacapital.com",
+    "name": "Saurav Basu",
+    "organization": "Tata Capital Limited",
+    "designation": "Corporate Secretariat Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "mahesh.j@tatacapital.com",
+    "name": "Mahesh J",
+    "organization": "Tata Capital Limited",
+    "designation": "CFO - Private Equity & Innovation Fund Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:59:37.937249",
+    "tier": 1
+  },
+  {
+    "email": "marika.lindstrom@unilever.com",
+    "name": "Marika Lindstrom",
+    "organization": "Unilever",
+    "designation": "Procurement & Sustainability Lead (Ice Cream & Dairy)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "andreaalvares@natura.net",
+    "name": "Andrea Alvares",
+    "organization": "Natura &Co (Avon / Natura)",
+    "designation": "Chief Brand, Innovation, International and Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "torsten.lichtenau@bain.com",
+    "name": "Torsten Lichtenau",
+    "organization": "Bain & Company",
+    "designation": "Senior Partner & Global Head of Sustainability Practice",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "ssommer@moethennessy.com",
+    "name": "Sandrine Sommer",
+    "organization": "Moët Hennessy (LVMH)",
+    "designation": "Chief Sustainability Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "virginie.de-chassey@eramet.com",
+    "name": "Virginie de Chassey",
+    "organization": "Eramet",
+    "designation": "Chief Sustainability & External Affairs Officer",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "pitches@atoneventures.com",
+    "name": "At One Ventures Pitches",
+    "organization": "At One Ventures",
+    "designation": "Direct Submission Desk (Disruptive Science / Tough Tech)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "hello@atoneventures.com",
+    "name": "At One Ventures Team",
+    "organization": "At One Ventures",
+    "designation": "General Inquiries Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "pitches@satgana.com",
+    "name": "Satgana Pitches",
+    "organization": "Satgana",
+    "designation": "Direct Sourcing Desk (Circular Resources & Food)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "hello@satgana.com",
+    "name": "Satgana Team",
+    "organization": "Satgana",
+    "designation": "General Partner Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "investment@vntm.com",
+    "name": "VNT Management Investment",
+    "organization": "VNT Management",
+    "designation": "Venture Team Desk (Industrial Clean Tech)",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "info@vntm.com",
+    "name": "VNT Management General",
+    "organization": "VNT Management",
+    "designation": "Main Operations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.566399",
+    "tier": 1
+  },
+  {
+    "email": "rajiv.sabharwal@tatacapital.com",
+    "name": "Rajiv Sabharwal",
+    "organization": "Tata Capital Limited",
+    "designation": "Managing Director & CEO",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.749134",
+    "tier": 1
+  },
+  {
+    "email": "sarita.kamath@tatacapital.com",
+    "name": "Sarita Kamath",
+    "organization": "Tata Capital Limited",
+    "designation": "Chief Legal, Compliance Officer & Company Secretary",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.749134",
+    "tier": 1
+  },
+  {
+    "email": "ethicscounsellor@tatacapital.com",
+    "name": "Ethics & Governance Desk",
+    "organization": "Tata Capital Limited",
+    "designation": "Board Oversight Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T13:00:29.749134",
+    "tier": 1
   }
 ]
