@@ -49208,5 +49208,165 @@
     "schedule_date": "2026-11-10",
     "added_at": "2026-11-09T12:50:20.481444",
     "tier": 1
+  },
+  {
+    "email": "rarefamilyfoundation@gmail.com",
+    "name": "Rekha Rakesh Jhunjhunwala & Family",
+    "organization": "RARE Enterprises / RARE Family Foundation",
+    "designation": "Family Office / Corporate Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.418980",
+    "tier": 1
+  },
+  {
+    "email": "info@abakkusinvest.com",
+    "name": "Sunil Singhania / Abakkus Team",
+    "organization": "Abakkus Asset Manager",
+    "designation": "General Corporate Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "mf.investor.support@abakkusinvest.com",
+    "name": "Abakkus Investor Support",
+    "organization": "Abakkus Asset Manager",
+    "designation": "Investor Relations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "mf.ceo@abakkusinvest.com",
+    "name": "Vaibhav Chugh / CEO Desk",
+    "organization": "Abakkus Asset Manager",
+    "designation": "Office of the CEO",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "info@mkventurescapital.com",
+    "name": "Madhusudan Kela",
+    "organization": "MK Ventures Capital Limited",
+    "designation": "Corporate Desk & Board Communications",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "investor-relations@dmartindia.com",
+    "name": "Radhakishan Damani Family Office Desk",
+    "organization": "Avenue Supermarts (DMart) / Bright Star",
+    "designation": "Compliance & Investor Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "info@kediashares.com",
+    "name": "Vijay Kedia",
+    "organization": "Kedia Securities Private Limited",
+    "designation": "Chairman & Managing Director",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "pms@equityintel.com",
+    "name": "Porinju Veliyath",
+    "organization": "Equity Intelligence India (PMS)",
+    "designation": "Founder & Portfolio Manager",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "info@equityintel.com",
+    "name": "Equity Intelligence Desk",
+    "organization": "Equity Intelligence India",
+    "designation": "Corporate Secretariat",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "info@unilazer.com",
+    "name": "Ronnie Screwvala",
+    "organization": "Unilazer Ventures (Family Office)",
+    "designation": "Founder & Chairman",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "ashley@chryscapital.com",
+    "name": "Ashish Dhawan / Executive Desk",
+    "organization": "ChrysCapital / The Convergence Foundation",
+    "designation": "Senior Partner / Founder Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:51:48.419976",
+    "tier": 1
+  },
+  {
+    "email": "info@firstglobalsec.com",
+    "name": "Shankar Sharma",
+    "organization": "First Global",
+    "designation": "Founder & Chief Global Strategist",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:54:29.981931",
+    "tier": 1
+  },
+  {
+    "email": "support@firstglobalsec.com",
+    "name": "First Global Support Desk",
+    "organization": "First Global",
+    "designation": "Corporate Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:54:29.981931",
+    "tier": 1
+  },
+  {
+    "email": "boardrelations@motilaloswal.com",
+    "name": "MOFSL Board Relations",
+    "organization": "Motilal Oswal Financial Services",
+    "designation": "Board & Secretarial Communications",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:54:29.981931",
+    "tier": 1
+  },
+  {
+    "email": "mofsl.investorrelations@motilaloswal.com",
+    "name": "MOFSL Investor Relations",
+    "organization": "Motilal Oswal Financial Services",
+    "designation": "Investor Relations Desk",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:54:29.981931",
+    "tier": 1
+  },
+  {
+    "email": "info@pabraifunds.com",
+    "name": "Mohnish Pabrai",
+    "organization": "Pabrai Investment Funds / Dalal Street LLC",
+    "designation": "Managing Partner & Portfolio Manager",
+    "status": "unsent_scheduled_tomorrow",
+    "schedule_date": "2026-11-10",
+    "added_at": "2026-11-09T12:54:29.981931",
+    "tier": 1
   }
 ]
