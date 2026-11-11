@@ -17923,5 +17923,45 @@
     "recipientEmail": "careers@arbeitnow.co.uk",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-10T20:14:57.268Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/161192-software-engineering-manager-backend-saas",
+    "company": "Canonical",
+    "title": "Software Engineering Manager (Backend SaaS)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-11T01:00:35.356Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/161184-devops-remote-only-mexico",
+    "company": "Orion Innovation",
+    "title": "DevOps - Remote (Only Mexico)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-11T01:00:38.075Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-248564",
+    "company": "ProviPanda GmbH",
+    "title": "Customer Success Manager (m/w/d) - 100% Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-11T01:00:42.098Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/ukcsc-chartered-or-principal-enterprise-advisor-security-architecture-london-143699",
+    "company": "Intelance",
+    "title": "UKCSC Chartered or Principal Enterprise Advisor - Security Architecture",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-11T01:00:44.345Z"
   }
 ]
