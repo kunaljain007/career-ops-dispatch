@@ -18303,5 +18303,35 @@
     "recipientEmail": "careers@mento.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-12T05:51:14.596Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/161539-general-manager-communication-media-entertainment-and-technology-us-based",
+    "company": "Toptal",
+    "title": "General Manager, Communication, Media, Entertainment and Technology - US-Based",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-12T14:40:04.633Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/155140-engineering-manager-ai-cicd",
+    "company": "Chainguard",
+    "title": "Engineering Manager, AI CICD",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-12T14:40:13.323Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/ruby-gmbh/projektmanager-tga-mep-remote-de-dusseldorf-61827",
+    "company": "Ruby GmbH",
+    "title": "Projektmanager TGA / MEP (m/w/d) - Remote (DE)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-12T14:40:16.217Z"
   }
 ]
