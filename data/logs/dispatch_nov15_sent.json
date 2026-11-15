@@ -1,0 +1,1922 @@
+[
+  {
+    "to": "manager@wysa.io",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:02:03.531089",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@peepbeauty.com",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:03:38.110191",
+    "status": "SENT"
+  },
+  {
+    "to": "ir@blume.vc",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T02:05:07.254720",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@saaki.co",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:06:57.416796",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@newyou.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:08:12.753106",
+    "status": "SENT"
+  },
+  {
+    "to": "info@9skin.in",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:09:54.689396",
+    "status": "SENT"
+  },
+  {
+    "to": "ca@kraftheinz.com",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T02:11:08.051902",
+    "status": "SENT"
+  },
+  {
+    "to": "support@unhype.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:12:23.976807",
+    "status": "SENT"
+  },
+  {
+    "to": "hrithik@hrxbrand.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:13:52.350256",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@beinghuman.com",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:15:41.173044",
+    "status": "SENT"
+  },
+  {
+    "to": "info@superyou.in",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:17:02.899878",
+    "status": "SENT"
+  },
+  {
+    "to": "sunny@starstruck.co",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:18:21.038423",
+    "status": "SENT"
+  },
+  {
+    "to": "0061314@railway.gov.tw",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:19:39.556666",
+    "status": "SENT"
+  },
+  {
+    "to": "jon@pg.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T02:21:04.284587",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@redchillies.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:22:30.605387",
+    "status": "SENT"
+  },
+  {
+    "to": "nayanthara@9skin.in",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:24:10.532372",
+    "status": "SENT"
+  },
+  {
+    "to": "jschuncke@symrise.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T02:25:32.133737",
+    "status": "SENT"
+  },
+  {
+    "to": "sonam@rheson.in",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:26:42.348050",
+    "status": "SENT"
+  },
+  {
+    "to": "ashim.ranu@equirus.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T02:28:12.252546",
+    "status": "SENT"
+  },
+  {
+    "to": "info@youwecan.org",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:29:32.818497",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@arks.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:31:03.732703",
+    "status": "SENT"
+  },
+  {
+    "to": "info@smta.in",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:32:51.063916",
+    "status": "SENT"
+  },
+  {
+    "to": "0006info@bridgesisrael.comkibbutz",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:34:27.262139",
+    "status": "SENT"
+  },
+  {
+    "to": "0061365@railway.gov.tw",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:36:05.035308",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@rheson.in",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:37:33.531649",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@superyou.in",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:39:16.816259",
+    "status": "SENT"
+  },
+  {
+    "to": "info@newyou.in",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:40:40.578262",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@iosisspa.com",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:42:10.749660",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@starstruck.co",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:43:52.264086",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@redchillies.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:45:28.152860",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@seven.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:47:12.141825",
+    "status": "SENT"
+  },
+  {
+    "to": "virat@one8.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:48:37.755393",
+    "status": "SENT"
+  },
+  {
+    "to": "somesh.chaudhary@veeba.in",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T02:50:01.100460",
+    "status": "SENT"
+  },
+  {
+    "to": "priyanka@anomalyhaircare.com",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:51:38.256590",
+    "status": "SENT"
+  },
+  {
+    "to": "akshay@forceix.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:53:19.846527",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@mmamatrix.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:54:27.177437",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@saaki.co",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:55:38.728160",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@hrxbrand.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:56:48.752897",
+    "status": "SENT"
+  },
+  {
+    "to": "0070624@railway.gov.tw",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:58:00.037455",
+    "status": "SENT"
+  },
+  {
+    "to": "info@beinghuman.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T02:59:30.268833",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@one8.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:01:02.920163",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@seven.com",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:02:31.931276",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@beinghuman.com",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:04:11.908787",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@unhype.com",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:05:52.064133",
+    "status": "SENT"
+  },
+  {
+    "to": "03755tuck.social.venture.fund@tuck.dartmouth.edufind",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:07:40.886127",
+    "status": "SENT"
+  },
+  {
+    "to": "info@1derbrand.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:09:26.689165",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@youthiapa.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:10:48.948997",
+    "status": "SENT"
+  },
+  {
+    "to": "sonakshi@soezi.in",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:12:13.892175",
+    "status": "SENT"
+  },
+  {
+    "to": "samantha@saaki.co",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:13:39.896425",
+    "status": "SENT"
+  },
+  {
+    "to": "sania@smta.in",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:15:09.351374",
+    "status": "SENT"
+  },
+  {
+    "to": "hrithik.roshan@hrxbrand.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:16:34.683147",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@hrxbrand.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:18:17.648984",
+    "status": "SENT"
+  },
+  {
+    "to": "0061721@railway.gov.tw",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:19:35.282124",
+    "status": "SENT"
+  },
+  {
+    "to": "shilpa@iosisspa.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:21:21.397605",
+    "status": "SENT"
+  },
+  {
+    "to": "thiraphong_chansiri@thaiunion.com",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T03:22:31.494816",
+    "status": "SENT"
+  },
+  {
+    "to": "manager.virat@cornerstone.in",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:23:53.191677",
+    "status": "SENT"
+  },
+  {
+    "to": "g.tomazoni@jbs.com.br",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T03:25:00.433335",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@houseofpataudi.com",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:26:09.719382",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@9skin.in",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:27:50.394953",
+    "status": "SENT"
+  },
+  {
+    "to": "0624144@railway.gov.tw",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:29:39.097995",
+    "status": "SENT"
+  },
+  {
+    "to": "info@arks.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:30:57.685912",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@houseofpataudi.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:32:22.224513",
+    "status": "SENT"
+  },
+  {
+    "to": "info@charalambideschristis.com.cy",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T03:33:57.760115",
+    "status": "SENT"
+  },
+  {
+    "to": "ranbir.kapoor@arks.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:35:09.486077",
+    "status": "SENT"
+  },
+  {
+    "to": "0061855@railway.gov.tw",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:36:43.430287",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@cleanslatefilmz.com",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:38:24.937320",
+    "status": "SENT"
+  },
+  {
+    "to": "20office@anterracapital.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:39:32.872411",
+    "status": "SENT"
+  },
+  {
+    "to": "info@lovechild.in",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:41:13.732763",
+    "status": "SENT"
+  },
+  {
+    "to": "0702753@railway.gov.tw",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:42:47.352727",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@redchillies.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:44:37.136613",
+    "status": "SENT"
+  },
+  {
+    "to": "0001816@railway.gov.tw",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:46:14.262276",
+    "status": "SENT"
+  },
+  {
+    "to": "membership@landolakes.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T03:47:23.983982",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@1derbrand.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:48:56.392899",
+    "status": "SENT"
+  },
+  {
+    "to": "yuvraj@youwecan.org",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:50:15.965388",
+    "status": "SENT"
+  },
+  {
+    "to": "0272972@railway.gov.tw",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:52:04.791841",
+    "status": "SENT"
+  },
+  {
+    "to": "ranveer@superyou.in",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:53:34.223731",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@dyavol.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:54:41.078595",
+    "status": "SENT"
+  },
+  {
+    "to": "info@anomalyhaircare.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:55:50.231445",
+    "status": "SENT"
+  },
+  {
+    "to": "linda@clorox.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T03:57:35.649331",
+    "status": "SENT"
+  },
+  {
+    "to": "info@iosisspa.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T03:59:05.132829",
+    "status": "SENT"
+  },
+  {
+    "to": "kriti.sanon@letshyphen.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:00:24.431789",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@soezi.in",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:01:39.191810",
+    "status": "SENT"
+  },
+  {
+    "to": "padmasingh.isaac@aachifoods.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T04:03:04.248860",
+    "status": "SENT"
+  },
+  {
+    "to": "balaji.rao@venkys.org",
+    "from": "team.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T04:04:14.272480",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@wysa.io",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:05:26.491531",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@soezi.in",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:07:05.155752",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@skult.in",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:08:25.369582",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@youwecan.org",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:10:06.155277",
+    "status": "SENT"
+  },
+  {
+    "to": "info@forceix.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:11:20.668140",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@skult.in",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:12:28.210592",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@lovechild.in",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:14:00.861599",
+    "status": "SENT"
+  },
+  {
+    "to": "thiraphongchansiri@thaiunion.com",
+    "from": "superreachconsultant@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T04:15:40.043401",
+    "status": "SENT"
+  },
+  {
+    "to": "tiger@mmamatrix.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:17:08.691420",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@1derbrand.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:18:36.796410",
+    "status": "SENT"
+  },
+  {
+    "to": "ak@asahigroup-holdings.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T04:20:17.339917",
+    "status": "SENT"
+  },
+  {
+    "to": "suniel.shetty@aquatein.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:21:31.360274",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@dyavol.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:23:21.727413",
+    "status": "SENT"
+  },
+  {
+    "to": "shahid.kapoor@skult.in",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:24:38.318582",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@skult.in",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:26:06.835638",
+    "status": "SENT"
+  },
+  {
+    "to": "be@kaporcapital.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T04:27:17.112760",
+    "status": "SENT"
+  },
+  {
+    "to": "rahul.chadha@veeba.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T04:28:26.750713",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@youwecan.org",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:30:10.564676",
+    "status": "SENT"
+  },
+  {
+    "to": "info@saaki.co",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:31:45.742604",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@cleanslatefilmz.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:33:33.009950",
+    "status": "SENT"
+  },
+  {
+    "to": "carsten_knobel@henkel.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T04:35:14.934864",
+    "status": "SENT"
+  },
+  {
+    "to": "poul_weihrauch@mars.com",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T04:36:22.432539",
+    "status": "SENT"
+  },
+  {
+    "to": "0061734@railway.gov.tw",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:37:37.373459",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@starstruck.co",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:39:27.300335",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@iosisspa.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:41:02.568711",
+    "status": "SENT"
+  },
+  {
+    "to": "claue@straydogcapital.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T04:42:37.982235",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@mmamatrix.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:43:59.274676",
+    "status": "SENT"
+  },
+  {
+    "to": "info@dyavol.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:45:45.204253",
+    "status": "SENT"
+  },
+  {
+    "to": "info@unhype.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:47:02.773418",
+    "status": "SENT"
+  },
+  {
+    "to": "0011255@railway.gov.tw",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:48:31.871487",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@arks.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:50:10.099123",
+    "status": "SENT"
+  },
+  {
+    "to": "danella@beenext.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:51:19.985170",
+    "status": "SENT"
+  },
+  {
+    "to": "ramon_laguarta@pepsico.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T04:52:33.300746",
+    "status": "SENT"
+  },
+  {
+    "to": "abhay@licious.in",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T04:54:24.271837",
+    "status": "SENT"
+  },
+  {
+    "to": "kc.investorrelations@kcc.com",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T04:56:09.440870",
+    "status": "SENT"
+  },
+  {
+    "to": "0061861@railway.gov.tw",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:57:53.836811",
+    "status": "SENT"
+  },
+  {
+    "to": "info@letshyphen.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T04:59:17.258607",
+    "status": "SENT"
+  },
+  {
+    "to": "talent@cornerstone.in",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:00:38.467911",
+    "status": "SENT"
+  },
+  {
+    "to": "0305286@railway.gov.tw",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:02:28.587711",
+    "status": "SENT"
+  },
+  {
+    "to": "prasit@cpfworldwide.com",
+    "from": "superreachconsultant@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T05:03:48.224926",
+    "status": "SENT"
+  },
+  {
+    "to": "0264606@railway.gov.tw",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:04:55.130098",
+    "status": "SENT"
+  },
+  {
+    "to": "bhuvan@youthiapa.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:06:42.575381",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@rheson.in",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:08:19.492362",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@hrxbrand.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:10:10.319908",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@1derbrand.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:11:50.916621",
+    "status": "SENT"
+  },
+  {
+    "to": "0066624@railway.gov.tw",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:13:30.774212",
+    "status": "SENT"
+  },
+  {
+    "to": "aryan@dyavol.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:15:00.441207",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@one8.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:16:31.349745",
+    "status": "SENT"
+  },
+  {
+    "to": "disha@allincapital.vc",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T05:18:16.295488",
+    "status": "SENT"
+  },
+  {
+    "to": "fernando.fernandez@unilever.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T05:20:06.356567",
+    "status": "SENT"
+  },
+  {
+    "to": "info@aquatein.com",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:21:47.600155",
+    "status": "SENT"
+  },
+  {
+    "to": "halim@indogencapital.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T05:23:14.092087",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@anomalyhaircare.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:25:05.591578",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@mmamatrix.com",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:26:52.791410",
+    "status": "SENT"
+  },
+  {
+    "to": "michaelhsu@kcc.com",
+    "from": "teambrandvibes@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T05:28:15.837826",
+    "status": "SENT"
+  },
+  {
+    "to": "lara@ariasskincare.com",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:29:58.748934",
+    "status": "SENT"
+  },
+  {
+    "to": "vijay@unhype.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:31:09.879600",
+    "status": "SENT"
+  },
+  {
+    "to": "info@seven.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:32:24.369309",
+    "status": "SENT"
+  },
+  {
+    "to": "-sudeshna@indiatourism.com.sg",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:33:54.224499",
+    "status": "SENT"
+  },
+  {
+    "to": "0-impact@tealimpact.vc",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:35:38.360285",
+    "status": "SENT"
+  },
+  {
+    "to": "mark@jmsmucker.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T05:37:28.262267",
+    "status": "SENT"
+  },
+  {
+    "to": "0285363@railway.gov.tw",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:38:59.584049",
+    "status": "SENT"
+  },
+  {
+    "to": "wolfgangwienand@lonza.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T05:40:25.438333",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@unhype.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:41:40.627489",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@beinghuman.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:43:22.728297",
+    "status": "SENT"
+  },
+  {
+    "to": "0470120@railway.gov.tw",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:45:03.939765",
+    "status": "SENT"
+  },
+  {
+    "to": "info@houseofpataudi.com",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:46:44.840909",
+    "status": "SENT"
+  },
+  {
+    "to": "egidio@perfettivanmelle.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T05:47:58.967633",
+    "status": "SENT"
+  },
+  {
+    "to": "info@mmamatrix.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:49:47.605550",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@arks.com",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:51:03.967439",
+    "status": "SENT"
+  },
+  {
+    "to": "shig_nakamura@ajinomoto.com",
+    "from": "teambrandvibes@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T05:52:40.868780",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@smta.in",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:53:47.415767",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@ariasskincare.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:55:29.428971",
+    "status": "SENT"
+  },
+  {
+    "to": "info@peepbeauty.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:57:18.325330",
+    "status": "SENT"
+  },
+  {
+    "to": "support@wysa.io",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T05:58:43.509992",
+    "status": "SENT"
+  },
+  {
+    "to": "info@vlcspices.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T05:59:54.023151",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@anomalyhaircare.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:01:18.276563",
+    "status": "SENT"
+  },
+  {
+    "to": "vibhuti@pisharodyfoods.com",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T06:02:55.811970",
+    "status": "SENT"
+  },
+  {
+    "to": "masaba@lovechild.in",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:04:05.193379",
+    "status": "SENT"
+  },
+  {
+    "to": "nh@loreal.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T06:05:43.262293",
+    "status": "SENT"
+  },
+  {
+    "to": "service@oetker.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T06:07:00.412189",
+    "status": "SENT"
+  },
+  {
+    "to": "mg@brf-global.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T06:08:12.569535",
+    "status": "SENT"
+  },
+  {
+    "to": "0066853@railway.gov.tw",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:09:23.464120",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@letshyphen.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:11:08.098266",
+    "status": "SENT"
+  },
+  {
+    "to": "amahfood@wisynco.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T06:12:49.499848",
+    "status": "SENT"
+  },
+  {
+    "to": "0061772@railway.gov.tw",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:14:19.549177",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@9skin.in",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:16:00.734214",
+    "status": "SENT"
+  },
+  {
+    "to": "0070465@railway.gov.tw",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:17:18.082546",
+    "status": "SENT"
+  },
+  {
+    "to": "dhoni@seven.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:19:01.458479",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@lovechild.in",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:20:30.971409",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@aquatein.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:22:10.755412",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@superyou.in",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:23:51.839087",
+    "status": "SENT"
+  },
+  {
+    "to": "yoshihiro.hasebe@kao.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T06:25:03.666480",
+    "status": "SENT"
+  },
+  {
+    "to": "tripti@peepbeauty.com",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:26:25.021006",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@ariasskincare.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:27:32.361135",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@smta.in",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:29:14.330469",
+    "status": "SENT"
+  },
+  {
+    "to": "0297326@railway.gov.tw",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:30:47.918292",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@aquatein.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:32:38.269728",
+    "status": "SENT"
+  },
+  {
+    "to": "0453125@railway.gov.tw",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:33:47.296757",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@letshyphen.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:35:25.750428",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@9skin.in",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:36:38.683467",
+    "status": "SENT"
+  },
+  {
+    "to": "virat.kohli@one8.com",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:38:17.133476",
+    "status": "SENT"
+  },
+  {
+    "to": "ms.dhoni@seven.com",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:40:05.722170",
+    "status": "SENT"
+  },
+  {
+    "to": "0061645@railway.gov.tw",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:41:33.155629",
+    "status": "SENT"
+  },
+  {
+    "to": "0061912@railway.gov.tw",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:43:24.264870",
+    "status": "SENT"
+  },
+  {
+    "to": "rakul@newyou.in",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:44:55.206933",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@anomalyhaircare.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:46:42.160855",
+    "status": "SENT"
+  },
+  {
+    "to": "info@rheson.in",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:48:07.015882",
+    "status": "SENT"
+  },
+  {
+    "to": "support@lovechild.in",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:49:14.962907",
+    "status": "SENT"
+  },
+  {
+    "to": "saif@houseofpataudi.com",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:50:33.491673",
+    "status": "SENT"
+  },
+  {
+    "to": "shilpa.shetty@iosisspa.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:52:19.775137",
+    "status": "SENT"
+  },
+  {
+    "to": "info.bralima@heineken.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T06:53:33.619746",
+    "status": "SENT"
+  },
+  {
+    "to": "jlatif@socialcapital.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T06:55:05.180179",
+    "status": "SENT"
+  },
+  {
+    "to": "investorrelations@cbrands.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T06:56:39.451541",
+    "status": "SENT"
+  },
+  {
+    "to": "0066420@railway.gov.tw",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:58:27.211119",
+    "status": "SENT"
+  },
+  {
+    "to": "info@one8.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T06:59:57.165652",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@cleanslatefilmz.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:01:26.297464",
+    "status": "SENT"
+  },
+  {
+    "to": "info@wysa.io",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:02:49.570652",
+    "status": "SENT"
+  },
+  {
+    "to": "tamannaah@wysa.io",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:04:10.338943",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@seven.com",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:05:39.616330",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@peepbeauty.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:07:17.031867",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@letshyphen.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:08:48.499659",
+    "status": "SENT"
+  },
+  {
+    "to": "support@forceix.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:10:32.238212",
+    "status": "SENT"
+  },
+  {
+    "to": "tiger.shroff@mmamatrix.com",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:12:18.238197",
+    "status": "SENT"
+  },
+  {
+    "to": "support@youthiapa.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:14:09.384643",
+    "status": "SENT"
+  },
+  {
+    "to": "info@soezi.in",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:15:19.299545",
+    "status": "SENT"
+  },
+  {
+    "to": "info@ariasskincare.com",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:17:10.537630",
+    "status": "SENT"
+  },
+  {
+    "to": "rajashekar.seelam@srestaorganic.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T07:18:32.843885",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@soezi.in",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:19:39.896857",
+    "status": "SENT"
+  },
+  {
+    "to": "mark_clouse@campbells.com",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T07:21:03.736900",
+    "status": "SENT"
+  },
+  {
+    "to": "info@idfreshfood.com",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 2,
+    "timestamp": "2026-11-15T07:22:53.902317",
+    "status": "SENT"
+  },
+  {
+    "to": "brendan_foley@mccormick.com",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T07:24:30.759340",
+    "status": "SENT"
+  },
+  {
+    "to": "mark@campbells.com",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T07:26:06.510851",
+    "status": "SENT"
+  },
+  {
+    "to": "0543595@railway.gov.tw",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:27:19.297667",
+    "status": "SENT"
+  },
+  {
+    "to": "0061664@railway.gov.tw",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:28:59.749847",
+    "status": "SENT"
+  },
+  {
+    "to": "info@skult.in",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:30:21.515474",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@youthiapa.com",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:31:53.125136",
+    "status": "SENT"
+  },
+  {
+    "to": "0005482@railway.gov.tw",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:33:19.756069",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@one8.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:34:45.809741",
+    "status": "SENT"
+  },
+  {
+    "to": "support@saaki.co",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:36:07.678812",
+    "status": "SENT"
+  },
+  {
+    "to": "kl.rahul@1derbrand.com",
+    "from": "techxp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:37:16.019979",
+    "status": "SENT"
+  },
+  {
+    "to": "cm@pon.nic.in",
+    "from": "cofounder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:38:38.617213",
+    "status": "SENT"
+  },
+  {
+    "to": "info@starstruck.co",
+    "from": "git.kumarpalporwal98@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:39:54.052625",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@forceix.com",
+    "from": "team.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:41:32.356697",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@iosisspa.com",
+    "from": "marketing.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:43:19.254081",
+    "status": "SENT"
+  },
+  {
+    "to": "0061906@railway.gov.tw",
+    "from": "founder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:44:54.592754",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@smta.in",
+    "from": "cofounder.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:46:35.212284",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@newyou.in",
+    "from": "cofounder1.parshwapower@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:47:48.810119",
+    "status": "SENT"
+  },
+  {
+    "to": "manager@starstruck.co",
+    "from": "kumarpalporwal8@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:49:37.749352",
+    "status": "SENT"
+  },
+  {
+    "to": "contact@superyou.in",
+    "from": "techhp.kunaljain@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:51:10.934925",
+    "status": "SENT"
+  },
+  {
+    "to": "secretary@forceix.com",
+    "from": "teambrandvibes@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:52:34.242444",
+    "status": "SENT"
+  },
+  {
+    "to": "ranbir@arks.com",
+    "from": "superreachconsultant@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:53:58.646816",
+    "status": "SENT"
+  },
+  {
+    "to": "0650583@railway.gov.tw",
+    "from": "hydronext6@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:55:33.179384",
+    "status": "SENT"
+  },
+  {
+    "to": "anushka@cleanslatefilmz.com",
+    "from": "jainakshita876@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:57:05.373741",
+    "status": "SENT"
+  },
+  {
+    "to": "srk.office@redchillies.com",
+    "from": "founder.heatbolt@gmail.com",
+    "type": "fresh",
+    "seq": 1,
+    "timestamp": "2026-11-15T07:58:29.957172",
+    "status": "SENT"
+  },
+  {
+    "to": "customercare@capitalfoods.co.in",
+    "from": "trillionmemberclub@gmail.com",
+    "type": "followup",
+    "seq": 3,
+    "timestamp": "2026-11-15T08:00:17.001852",
+    "status": "SENT"
+  }
+]
