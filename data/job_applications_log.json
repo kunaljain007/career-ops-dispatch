@@ -19813,5 +19813,135 @@
     "recipientEmail": "careers@arbeitnow.fr",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-17T16:42:45.299Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163031-principal-engineer-cryptography",
+    "company": "GoDaddy",
+    "title": "Principal Engineer Cryptography",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:20.670Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163028-senior-director-of-product",
+    "company": "Tekmetric",
+    "title": "Senior Director of Product",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:24.613Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163012-director-corporate-development-2",
+    "company": "GoDaddy",
+    "title": "Director Corporate Development",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:26.864Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163006-support-operations-lead",
+    "company": "Zip",
+    "title": "Support Operations Lead",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:30.255Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/162996-engineering-manager-ii-cloud-security",
+    "company": "Qualia",
+    "title": "Engineering Manager II, Cloud Security",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:33.377Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/162995-principal-consultant-devops",
+    "company": "Xebia",
+    "title": "Principal Consultant (DevOps)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:36.374Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/162990-staff-machine-learning-engineer-ads-foundational-representations-2",
+    "company": "Reddit",
+    "title": "Staff Machine Learning Engineer, Ads Foundational Representations",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@reddit.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:39.890Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/162984-senior-ai-engineer-10",
+    "company": "Inato",
+    "title": "Senior AI Engineer",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:43.173Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-staff-forward-deployed-engineer-424891",
+    "company": "Swarmaero",
+    "title": "Staff Forward Deployed Engineer",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:46.325Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-head-of-engineering-services-schoppingen-372510",
+    "company": "shopware AG",
+    "title": "Head of Engineering Services (m/w/d)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:48.725Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/getbeautyai/social-media-content-intern-remote-global-berlin-57911",
+    "company": "Getbeauty.ai",
+    "title": "Social Media & Content Intern (Remote (Global)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:51.472Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-ai-catalog-120954",
+    "company": "gitlab",
+    "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:53.673Z"
+  },
+  {
+    "url": "https://www.arbeitnow.nl/jobs/companies/almaviva-de-belgique/senior-data-architect-remote-from-europe-amsterdam-328688",
+    "company": "AlmavivA de Belgique",
+    "title": "Senior Data Architect (remote from Europe)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.nl",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-17T23:44:56.097Z"
   }
 ]
