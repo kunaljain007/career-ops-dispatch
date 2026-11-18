@@ -19943,5 +19943,25 @@
     "recipientEmail": "careers@arbeitnow.nl",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-17T23:44:56.097Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-network-engineering-patientpoint-1137797",
+    "company": "PatientPoint",
+    "title": "Engineering Manager Network Engineering",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@patientpoint.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-18T05:59:13.264Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-devops-gcp-kubernetes-302151",
+    "company": "Miaplaza",
+    "title": "Hands-on Engineering Manager DevOps (GCP/Kubernetes)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-18T05:59:18.329Z"
   }
 ]
