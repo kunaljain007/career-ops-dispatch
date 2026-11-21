@@ -21163,5 +21163,75 @@
     "recipientEmail": "careers@jobicy.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-21T16:05:37.854Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163701-forward-deployed-engineer-i-remote-us",
+    "company": "Sayari",
+    "title": "Forward Deployed Engineer I (Remote, US)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-21T22:02:12.780Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163682-engineering-manager-grafana-infrastructure-remote-ireland",
+    "company": "Grafana Labs",
+    "title": "Engineering Manager - Grafana Infrastructure (Remote, Ireland)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-21T22:02:16.988Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163679-director-sales-talent-acquisition-united-kingdom-remote",
+    "company": "Grafana Labs",
+    "title": "Director, Sales Talent Acquisition | United Kingdom | Remote",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-21T22:02:19.294Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163669-staff-data-product-manager-machine-learning-canada",
+    "company": "NerdWallet",
+    "title": "Staff Data Product Manager (Machine Learning) - Canada",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-21T22:02:23.333Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163666-staff-data-product-manager-machine-learning",
+    "company": "NerdWallet",
+    "title": "Staff Data Product Manager (Machine Learning)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-21T22:02:27.085Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163665-campaign-strategy-operations-manager-2",
+    "company": "Stripe",
+    "title": "Campaign Strategy & Operations Manager",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@stripe.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-21T22:02:31.825Z"
+  },
+  {
+    "url": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065",
+    "company": "celonis",
+    "title": "Principal Enterprise Architect - AI & Cloud Integrations",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@celonis.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-21T22:02:35.902Z"
   }
 ]
