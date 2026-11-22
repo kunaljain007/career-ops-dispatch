@@ -21503,5 +21503,85 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-22T10:45:54.807Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163845-principal-security-operations-analyst",
+    "company": "Huntress",
+    "title": "Principal Security Operations Analyst",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:09.117Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163841-lead-instructor-emea",
+    "company": "TRM Labs",
+    "title": "Lead Instructor, EMEA",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:12.006Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163832-engineering-manager-product-discovery-my-account-experience",
+    "company": "VTEX",
+    "title": "Engineering Manager, Product Discovery & My Account Experience",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:13.660Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-440890",
+    "company": "ALPHA Software GmbH",
+    "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:15.778Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-491641",
+    "company": "Makersite GmbH",
+    "title": "Engineering Manager EU/UK (m/f/x)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:17.832Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/offgridtec-ag/technischer-mitarbeiter-after-sales-support-vollzeit-100-remote-moglich-berlin-29412",
+    "company": "Offgridtec AG",
+    "title": "Technischer Mitarbeiter After Sales Support (m/w/d) | Vollzeit | 100 % Remote möglich",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:20.261Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400",
+    "company": "Boardwise GmbH",
+    "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:22.547Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/senior-business-analyst-ma-100-remote-worldwide-london-127458",
+    "company": "Tether Operations Limited",
+    "title": "Senior Business Analyst - M&A (100% remote Worldwide)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-22T18:14:25.629Z"
   }
 ]
