@@ -21773,5 +21773,85 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-23T07:21:07.796Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163960-principal-software-engineer-3",
+    "company": "BJAK",
+    "title": "Principal Software Engineer",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:01.544Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163943-senior-platform-engineer-core-platform-team-100-remote-within-poland",
+    "company": "Docplanner",
+    "title": "Senior Platform Engineer, Core Platform Team (100% Remote within Poland)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:04.289Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163937-senior-platform-engineer-core-platform-team-100-remote-within-spain",
+    "company": "Docplanner",
+    "title": "Senior Platform Engineer, Core Platform Team (100% Remote within Spain)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:06.050Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/163921-ai-engineer-6",
+    "company": "Makai Labs",
+    "title": "AI Engineer",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:08.132Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/provipanda-gmbh/customer-success-manager-100-remote-berlin-442206",
+    "company": "ProviPanda GmbH",
+    "title": "Customer Success Manager (m/w/d) - 100% Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:10.256Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/innoventures-gmbh/brand-produktmanager-e-commerce-vollzeit-remote-first-berlin-248973",
+    "company": "InnoVentures GmbH",
+    "title": "Brand- & Produktmanager E-Commerce (m/w/d) – Vollzeit – Remote-first",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:12.175Z"
+  },
+  {
+    "url": "https://www.arbeitnow.co.uk/jobs/companies/planetlabs/remote-senior-solutions-architect-i-pre-sales-uk-defence-intelligence-15004",
+    "company": "planetlabs",
+    "title": "Senior Solutions Architect I, Pre-Sales - UK Defence & Intelligence",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.co.uk",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:14.506Z"
+  },
+  {
+    "url": "https://www.arbeitnow.nl/jobs/companies/anywherenow/remote-ai-engineer-rotterdam-22878",
+    "company": "AnywhereNow",
+    "title": "AI Engineer",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.nl",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-23T19:52:19.593Z"
   }
 ]
