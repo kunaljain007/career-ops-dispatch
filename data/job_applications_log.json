@@ -21973,5 +21973,105 @@
     "recipientEmail": "careers@arbeitnow.nl",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-24T04:38:00.022Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164093-talent-acquisition-partner-2",
+    "company": "BJAK",
+    "title": "Talent Acquisition Partner",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:32:48.224Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164075-lead-technical-instructor",
+    "company": "Fivetran",
+    "title": "Lead Technical Instructor",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:01.043Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164071-senior-technical-program-manager-data-center-infrastructure-delivery",
+    "company": "Lambda",
+    "title": "Senior Technical Program Manager - Data Center Infrastructure Delivery",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:03.854Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164067-freelance-product-tester-remote-test-att-u-verse-cox",
+    "company": "Testlio",
+    "title": "Freelance Product Tester (Remote) | Test AT&T U-verse & Cox",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:18.645Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164061-director-of-innovation-new-ventures",
+    "company": "Bobbie",
+    "title": "Director of Innovation, New Ventures",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:21.822Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164055-engineering-manager-experimentation-2",
+    "company": "LaunchDarkly",
+    "title": "Engineering Manager, Experimentation",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:24.943Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164050-product-readiness-manager-remote-eligible-in-bulgaria",
+    "company": "Smartsheet",
+    "title": "Product Readiness Manager (Remote eligible in Bulgaria)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:28.225Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/vovoi-gmbh/equity-partner-partner-unternehmensberatung-business-mentor-geschaftsfuhrer-berlin-123373",
+    "company": "VOVOI GmbH",
+    "title": "Equity Partner/ Partner Unternehmensberatung / Business Mentor / Geschäftsführer",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:31.580Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/vovoi-gmbh/geschaftsfuhrer-managing-director-partner-fur-eigene-kmu-unternehmensberatung-mentoring-berlin-340556",
+    "company": "VOVOI GmbH",
+    "title": "Geschäftsführer/Managing Director/Partner für eigene KMU-Unternehmensberatung / -Mentoring",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:34.996Z"
+  },
+  {
+    "url": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-cornavin-462282",
+    "company": "PureGym AG",
+    "title": "Freelancer - Group Fitness Instructor (m/w/d)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.ch",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-24T15:33:37.643Z"
   }
 ]
