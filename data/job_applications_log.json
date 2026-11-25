@@ -22143,5 +22143,35 @@
     "recipientEmail": "careers@arbeitnow.ch",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-25T00:22:26.553Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/156914-senior-product-designer-fully-remote",
+    "company": "PadSplit",
+    "title": "Senior Product Designer (Fully Remote)",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-25T09:33:54.578Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/156887-machine-learning-engineer-ranking-retrieval",
+    "company": "ClickUp",
+    "title": "Machine Learning Engineer, Ranking & Retrieval",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-25T09:33:58.367Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/volentum-deutschland-gmbh/sap-abap-entwickler-bis-zu-80-remote-berlin-184543",
+    "company": "VOLENTUM Deutschland GmbH",
+    "title": "SAP ABAP Entwickler (m/w/d) bis zu 80%-Remote",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-25T09:34:00.793Z"
   }
 ]
