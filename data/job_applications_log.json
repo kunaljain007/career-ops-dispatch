@@ -22873,5 +22873,65 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-27T13:30:56.742Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-emea-central-eastern-europe-snowflake-1138198",
+    "company": "Snowflake",
+    "title": "Partner Sales Manager - EMEA Central (Eastern Europe)",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@snowflake.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-27T22:29:44.169Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164595-lead-principal-product-manager-tax-agents-2",
+    "company": "Fieldguide",
+    "title": "Lead/Principal Product Manager, Tax Agents",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-27T22:29:46.655Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164583-country-manager-japan",
+    "company": "UpGuard",
+    "title": "Country Manager, Japan",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-27T22:29:48.549Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/yopeso-romania-srl/remote-senior-commercial-ai-solutions-partner-berlin-262836",
+    "company": "Yopeso Romania SRL",
+    "title": "Senior Commercial & AI Solutions Partner",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-27T22:29:50.505Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-eu-uk-berlin-132274",
+    "company": "Makersite GmbH",
+    "title": "Engineering Manager EU/UK (m/f/x)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-27T22:29:52.498Z"
+  },
+  {
+    "url": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-223420",
+    "company": "Pennylane SAS",
+    "title": "DevOps Engineer W/M (remote) 🇪🇺",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.fr",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-27T22:29:54.484Z"
   }
 ]
