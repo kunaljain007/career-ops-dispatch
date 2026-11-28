@@ -22963,5 +22963,75 @@
     "recipientEmail": "careers@arbeitnow.com",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-28T04:32:20.258Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164613-senior-director-of-growth-web-strategy-operations",
+    "company": "Wellhub",
+    "title": "Senior Director of Growth, Web Strategy & Operations",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T13:54:12.144Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/164611-head-of-growth-web-strategy-digital-experience",
+    "company": "Wellhub",
+    "title": "Head of Growth, Web Strategy & Digital Experience",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T13:54:14.375Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157620-international-remote-yupik-interpreter",
+    "company": "Language Services Associates",
+    "title": "International Remote Yupik Interpreter",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T13:54:15.798Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157611-international-remote-kizigua-interpreter",
+    "company": "Language Services Associates",
+    "title": "International Remote Kizigua Interpreter",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T13:54:17.798Z"
+  },
+  {
+    "url": "https://jobicy.com/jobs/157602-international-remote-bassa-interpreter",
+    "company": "Language Services Associates",
+    "title": "International Remote Bassa Interpreter",
+    "platform": "jobicy",
+    "source": "Jobicy Global Remote API",
+    "recipientEmail": "careers@jobicy.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T13:54:19.987Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/go-for-climate-ev/ehrenamtliche-r-mitarbeiterinnen-projektmanagement-stadtepartnerschaften-fur-live-peace-beckingen-318471",
+    "company": "Go For Climate e.V.",
+    "title": "Ehrenamtliche/r Mitarbeiter:innen Projektmanagement Städtepartnerschaften (m/w/d) für \"Live Peace\"",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T13:54:22.451Z"
+  },
+  {
+    "url": "https://www.arbeitnow.ch/jobs/companies/qubit-consulting-solutions-ag/remote-senior-ai-engineer-java-spring-boot-kafka-zug-zurich-luzern-bern-127031",
+    "company": "QuBit Consulting & Solutions AG",
+    "title": "Senior AI Engineer (Java / Spring Boot / Kafka)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.ch",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T13:54:24.667Z"
   }
 ]
