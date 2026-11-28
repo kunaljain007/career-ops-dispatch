@@ -22933,5 +22933,35 @@
     "recipientEmail": "careers@arbeitnow.fr",
     "status": "100% Submitted via Direct Executive Email",
     "appliedAt": "2026-11-27T22:29:54.484Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-founding-engineer-3y-health-1138213",
+    "company": "3Y Health",
+    "title": "Founding Engineer",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@3yhealth.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T04:32:15.158Z"
+  },
+  {
+    "url": "https://remoteOK.com/remote-jobs/remote-senior-forward-deployed-engineer-united-states-coder-technologies-inc-1138209",
+    "company": "Coder Technologies Inc.",
+    "title": "Senior Forward Deployed Engineer (United States)",
+    "platform": "remoteok",
+    "source": "RemoteOK API",
+    "recipientEmail": "careers@codertechnologiesinc.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T04:32:17.698Z"
+  },
+  {
+    "url": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-senior-business-consultant-it-business-analyst-banking-insurance-munster-355936",
+    "company": "BBHT Beratungsgesellschaft mbH & Co. KG",
+    "title": "Senior Business Consultant / IT Business Analyst - Banking & Insurance (w/m/d)",
+    "platform": "arbeitnow",
+    "source": "Arbeitnow API",
+    "recipientEmail": "careers@arbeitnow.com",
+    "status": "100% Submitted via Direct Executive Email",
+    "appliedAt": "2026-11-28T04:32:20.258Z"
   }
 ]
